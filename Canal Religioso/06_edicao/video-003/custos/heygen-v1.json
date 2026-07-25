@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v003-heygen-avatar-20260722",
+  "parent_quote_id": null,
+  "provider": "HeyGen",
+  "model": "Avatar IV Photo Avatar 1080p",
+  "operation": "two strategic spoken appearances using approved external audio",
+  "unit": "second",
+  "quantity": 32,
+  "currency": "USD",
+  "unit_price": 0.05,
+  "price_checked_at": "2026-07-22T18:30:00-03:00",
+  "price_source": "https://help.heygen.com/en/articles/10060327-heygen-api-pricing-explained",
+  "expected_cost": 1.4,
+  "maximum_cost": 1.6,
+  "observed_cost": null,
+  "status": "quoted",
+  "metadata": {
+    "expected_seconds": 28,
+    "maximum_seconds": 32,
+    "resolution": "1080p",
+    "retry_requires_new_quote": true
+  }
+}

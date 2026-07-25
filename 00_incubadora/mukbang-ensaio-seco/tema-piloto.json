@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "topic_id": "mk-pilot-rice-beans-egg",
+  "working_title": "Jantar brasileiro simples: arroz, feijao, ovo e farofa",
+  "demand": {"rating": 0.7, "rationale": "O formato tem demanda global observavel e concorrente brasileiro relevante; a demanda desta proposta especifica ainda precisa do piloto."},
+  "competition": {"rating": 0.65, "rationale": "Ha concorrencia brasileira estabelecida em ASMR de comida, mas o recorte de refeicao cotidiana e companhia sem excesso ainda precisa de amostra manual."},
+  "audience_fit": {"rating": 0.4, "rationale": "Publico brasileiro especifico ainda e hipotese, portanto a nota permanece baixa."},
+  "depth": {"rating": 0.6, "rationale": "A refeicao permite testar som, ritmo, companhia e identidade cultural em uma unica sessao."},
+  "visual_feasibility": {"rating": 0.9, "rationale": "Pode ser captada localmente com alimento real, telefone e iluminacao simples."},
+  "cost": {"rating": 0.9, "rationale": "Nao exige API paga; o custo incremental e alimento e tempo de captura."},
+  "risks": ["som de mastigacao desagradavel", "imagem pouco apetitosa", "performer sem naturalidade", "publico ainda nao definido"],
+  "derivatives": [
+    {"platform": "tiktok", "concept": "ovo com gema abrindo sobre arroz e feijao, com som limpo"},
+    {"platform": "youtube_shorts", "concept": "primeira garfada e identificacao com prato brasileiro"}
+  ],
+  "evidence_refs": ["mk-global-demand-youtube", "mk-br-competitor-observation", "mk-audience-hypothesis"],
+  "status": "selected"
+}
+

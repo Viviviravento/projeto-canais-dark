@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "requirement_id": "v003-visual-system",
+  "communicative_function": "Tornar compreensiveis a injustica sofrida por Jo, o erro dos amigos e a aplicacao ao cotidiano brasileiro sem espetacularizar a dor.",
+  "minimum_fidelity": "specific",
+  "authenticity": {
+    "constraints": [
+      "reconstrucoes de Jo devem parecer antigo Oriente Proximo, sem iconografia crista anacronica",
+      "cenas brasileiras devem mostrar ambientes e gestos plausiveis, sem pobreza performatica",
+      "dor humana deve ser contida e nao grafica",
+      "a acao humana relevante deve ser o centro de qualquer clip animado",
+      "texto biblico e referencias serao compostos na edicao, nunca confiados a texto gerado na imagem",
+      "rotulos, cartas, cadernos e telas so aparecem legiveis quando o texto pertencer fisicamente ao objeto",
+      "nenhum ativo visual pode ser usado apenas por ser barato se nao corresponder a fala"
+    ]
+  },
+  "rights": {
+    "allowed_licenses": [
+      "generated-for-project",
+      "Pexels-License",
+      "Pixabay-Content-License",
+      "CC0",
+      "public-domain",
+      "original-owned"
+    ],
+    "attribution_required": true
+  },
+  "target_formats": ["16:9", "9:16-safe-recomposition"],
+  "cost_options": [
+    {"method":"imagem gerada pelo Codex e movimento local","estimated_cost":0,"eligible":true},
+    {"method":"stock literal com licenca registrada","estimated_cost":0,"eligible":true},
+    {"method":"Kling O3 Standard sem audio para duas acoes centrais","estimated_cost":0.84,"eligible":true},
+    {"method":"stock generico ou imagem semanticamente vaga","estimated_cost":0,"eligible":false,"reason":"economia nao compensa perda de sentido"}
+  ],
+  "acceptance_criteria": [
+    "minimo de 34 ativos visuais distintos no master",
+    "nenhuma imagem estatica permanece sem mudanca visual por mais de 7 segundos",
+    "nenhum ativo-base retorna mais de duas vezes fora de citacoes ou continuidade intencional",
+    "cada citacao lida aparece integralmente com referencia completa",
+    "cada clip pago movimenta pessoa ou acao que carrega o argumento",
+    "avatar aparece somente enquanto fala",
+    "mesa do avatar atravessa o quadro ou e recortada sem retangulo residual",
+    "dois espacos de recomendacao permanecem livres na tela final"
+  ]
+}

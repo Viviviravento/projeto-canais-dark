@@ -1,0 +1,5530 @@
+{
+  "renderer_family": "explainer-data",
+  "render_runtime": "remotion",
+  "total_duration_seconds": 541.0,
+  "cuts": [
+    {
+      "id": "cut-01-card",
+      "type": "text_card",
+      "text": "Você não precisa\ncarregar tudo sozinha",
+      "fontSize": 64,
+      "color": "#FFFDF7",
+      "accentColor": "#D7B56D",
+      "backgroundVideo": "piloto-001/pexels-7260651.mp4",
+      "backgroundVideoStart": 0.0,
+      "backgroundOverlay": 0.64,
+      "in_seconds": 0.0,
+      "out_seconds": 4.52
+    },
+    {
+      "id": "cut-02-open02",
+      "source": "piloto-001/pexels-8086203.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 4.52,
+      "out_seconds": 19.92
+    },
+    {
+      "id": "cut-03-open03",
+      "source": "piloto-001/pexels-853794.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 19.92,
+      "out_seconds": 32.0
+    },
+    {
+      "id": "cut-04-open04",
+      "source": "piloto-001/pexels-8089929.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 32.0,
+      "out_seconds": 45.0
+    },
+    {
+      "id": "cut-05-open01",
+      "source": "piloto-001/pexels-7260651.mp4",
+      "source_in_seconds": 6.5,
+      "in_seconds": 45.0,
+      "out_seconds": 53.16
+    },
+    {
+      "id": "cut-06-bible01",
+      "source": "piloto-001/pexels-13011708.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 53.16,
+      "out_seconds": 68.58
+    },
+    {
+      "id": "cut-07-card",
+      "type": "text_card",
+      "text": "Vinde a mim, todos os que estais cansados e oprimidos,\ne eu vos aliviarei.\n\nMateus 11:28, ACF",
+      "fontSize": 44,
+      "color": "#FFFDF7",
+      "accentColor": "#D7B56D",
+      "backgroundVideo": "piloto-001/pexels-13011708.mp4",
+      "backgroundVideoStart": 0.0,
+      "backgroundOverlay": 0.64,
+      "in_seconds": 68.58,
+      "out_seconds": 75.07
+    },
+    {
+      "id": "cut-08-card",
+      "type": "text_card",
+      "text": "Tomai sobre vós o meu jugo, e aprendei de mim,\nque sou manso e humilde de coração;\ne encontrareis descanso para as vossas almas.\n\nMateus 11:29, ACF",
+      "fontSize": 43,
+      "color": "#FFFDF7",
+      "accentColor": "#D7B56D",
+      "backgroundVideo": "piloto-001/pexels-13011708.mp4",
+      "backgroundVideoStart": 8.0,
+      "backgroundOverlay": 0.64,
+      "in_seconds": 75.07,
+      "out_seconds": 84.927
+    },
+    {
+      "id": "cut-09-card",
+      "type": "text_card",
+      "text": "Porque o meu jugo é suave\ne o meu fardo é leve.\n\nMateus 11:30, ACF",
+      "fontSize": 54,
+      "color": "#FFFDF7",
+      "accentColor": "#D7B56D",
+      "backgroundVideo": "piloto-001/pexels-13011708.mp4",
+      "backgroundVideoStart": 20.0,
+      "backgroundOverlay": 0.64,
+      "in_seconds": 84.927,
+      "out_seconds": 93.17
+    },
+    {
+      "id": "cut-10-control01",
+      "source": "piloto-001/pexels-9034456.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 93.17,
+      "out_seconds": 100.17
+    },
+    {
+      "id": "cut-11-burden03",
+      "source": "piloto-001/pexels-6638391.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 100.17,
+      "out_seconds": 110.1
+    },
+    {
+      "id": "cut-12-bible01",
+      "source": "piloto-001/pexels-13011708.mp4",
+      "source_in_seconds": 18.0,
+      "in_seconds": 110.1,
+      "out_seconds": 122.81
+    },
+    {
+      "id": "cut-13-card",
+      "type": "text_card",
+      "text": "Viver com responsabilidade\nnão é viver como se tudo\ndependesse de você.",
+      "fontSize": 46,
+      "color": "#FFFDF7",
+      "accentColor": "#D7B56D",
+      "backgroundVideo": "piloto-001/pexels-8089929.mp4",
+      "backgroundVideoStart": 0.0,
+      "backgroundOverlay": 0.64,
+      "in_seconds": 122.81,
+      "out_seconds": 132.13
+    },
+    {
+      "id": "cut-14-steps01",
+      "source": "piloto-001/pexels-5717426.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 132.13,
+      "out_seconds": 152.17
+    },
+    {
+      "id": "cut-15-release01",
+      "source": "piloto-001/pexels-7816450.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 152.17,
+      "out_seconds": 165.98
+    },
+    {
+      "id": "cut-16-burden01",
+      "source": "piloto-001/pexels-6964247.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 165.98,
+      "out_seconds": 180.98
+    },
+    {
+      "id": "cut-17-burden02",
+      "source": "piloto-001/pexels-3192916.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 180.98,
+      "out_seconds": 183.15
+    },
+    {
+      "id": "cut-18-burden03",
+      "source": "piloto-001/pexels-6638391.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 183.15,
+      "out_seconds": 202.19
+    },
+    {
+      "id": "cut-19-card",
+      "type": "text_card",
+      "text": "Cuidado não pode\nvirar prisão.",
+      "fontSize": 62,
+      "color": "#FFFDF7",
+      "accentColor": "#D7B56D",
+      "backgroundVideo": "piloto-001/pexels-6638391.mp4",
+      "backgroundVideoStart": 10.0,
+      "backgroundOverlay": 0.64,
+      "in_seconds": 202.19,
+      "out_seconds": 211.22
+    },
+    {
+      "id": "cut-20-open01",
+      "source": "piloto-001/pexels-7260651.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 211.22,
+      "out_seconds": 226.22
+    },
+    {
+      "id": "cut-21-open02",
+      "source": "piloto-001/pexels-8086203.mp4",
+      "source_in_seconds": 10.0,
+      "in_seconds": 226.22,
+      "out_seconds": 230.31
+    },
+    {
+      "id": "cut-22-steps03",
+      "source": "piloto-001/pexels-4973665.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 230.31,
+      "out_seconds": 238.31
+    },
+    {
+      "id": "cut-23-release02",
+      "source": "piloto-001/pexels-37310319.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 238.31,
+      "out_seconds": 249.74
+    },
+    {
+      "id": "cut-24-bible01",
+      "source": "piloto-001/pexels-13011708.mp4",
+      "source_in_seconds": 24.0,
+      "in_seconds": 249.74,
+      "out_seconds": 260.74
+    },
+    {
+      "id": "cut-25-card",
+      "type": "text_card",
+      "text": "Levai as cargas uns dos outros,\ne assim cumprireis a lei de Cristo.\n\nGálatas 6:2, ACF",
+      "fontSize": 44,
+      "color": "#FFFDF7",
+      "accentColor": "#D7B56D",
+      "backgroundVideo": "piloto-001/pexels-13011708.mp4",
+      "backgroundVideoStart": 32.0,
+      "backgroundOverlay": 0.64,
+      "in_seconds": 260.74,
+      "out_seconds": 270.47
+    },
+    {
+      "id": "cut-26-support01",
+      "source": "piloto-001/pexels-8086622.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 270.47,
+      "out_seconds": 287.17
+    },
+    {
+      "id": "cut-27-support02",
+      "source": "piloto-001/pexels-4919457.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 287.17,
+      "out_seconds": 295.17
+    },
+    {
+      "id": "cut-28-support03",
+      "source": "piloto-001/pexels-7120149.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 295.17,
+      "out_seconds": 307.77
+    },
+    {
+      "id": "cut-29-support01",
+      "source": "piloto-001/pexels-8086622.mp4",
+      "source_in_seconds": 8.0,
+      "in_seconds": 307.77,
+      "out_seconds": 322.43
+    },
+    {
+      "id": "cut-30-support03",
+      "source": "piloto-001/pexels-7120149.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 322.43,
+      "out_seconds": 336.44
+    },
+    {
+      "id": "cut-31-bible01",
+      "source": "piloto-001/pexels-13011708.mp4",
+      "source_in_seconds": 43.0,
+      "in_seconds": 336.44,
+      "out_seconds": 337.91
+    },
+    {
+      "id": "cut-32-card",
+      "type": "text_card",
+      "text": "Lançando sobre ele toda a vossa ansiedade,\nporque ele tem cuidado de vós.\n\n1 Pedro 5:7, ACF",
+      "fontSize": 52,
+      "color": "#FFFDF7",
+      "accentColor": "#D7B56D",
+      "backgroundVideo": "piloto-001/pexels-13011708.mp4",
+      "backgroundVideoStart": 45.0,
+      "backgroundOverlay": 0.64,
+      "in_seconds": 337.91,
+      "out_seconds": 349.88
+    },
+    {
+      "id": "cut-33-release01",
+      "source": "piloto-001/pexels-7816450.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 349.88,
+      "out_seconds": 364.88
+    },
+    {
+      "id": "cut-34-release03",
+      "source": "piloto-001/pexels-5199723.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 364.88,
+      "out_seconds": 380.88
+    },
+    {
+      "id": "cut-35-open04",
+      "source": "piloto-001/pexels-8089929.mp4",
+      "source_in_seconds": 7.0,
+      "in_seconds": 380.88,
+      "out_seconds": 386.31
+    },
+    {
+      "id": "cut-36-release02",
+      "source": "piloto-001/pexels-37310319.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 386.31,
+      "out_seconds": 400.31
+    },
+    {
+      "id": "cut-37-steps03",
+      "source": "piloto-001/pexels-4973665.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 400.31,
+      "out_seconds": 405.04
+    },
+    {
+      "id": "cut-38-support01",
+      "source": "piloto-001/pexels-8086622.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 405.04,
+      "out_seconds": 420.04
+    },
+    {
+      "id": "cut-39-burden02",
+      "source": "piloto-001/pexels-3192916.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 420.04,
+      "out_seconds": 426.55
+    },
+    {
+      "id": "cut-40-steps01",
+      "source": "piloto-001/pexels-5717426.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 426.55,
+      "out_seconds": 438.54
+    },
+    {
+      "id": "cut-41-card",
+      "type": "text_card",
+      "text": "Três perguntas\npara hoje",
+      "fontSize": 66,
+      "color": "#FFFDF7",
+      "accentColor": "#D7B56D",
+      "backgroundVideo": "piloto-001/pexels-5717426.mp4",
+      "backgroundVideoStart": 0.0,
+      "backgroundOverlay": 0.64,
+      "in_seconds": 438.54,
+      "out_seconds": 442.33
+    },
+    {
+      "id": "cut-42-steps01",
+      "source": "piloto-001/pexels-5717426.mp4",
+      "source_in_seconds": 8.0,
+      "in_seconds": 442.33,
+      "out_seconds": 461.44
+    },
+    {
+      "id": "cut-43-release01",
+      "source": "piloto-001/pexels-7816450.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 461.44,
+      "out_seconds": 481.44
+    },
+    {
+      "id": "cut-44-release02",
+      "source": "piloto-001/pexels-37310319.mp4",
+      "source_in_seconds": 10.0,
+      "in_seconds": 481.44,
+      "out_seconds": 483.87
+    },
+    {
+      "id": "cut-45-support01",
+      "source": "piloto-001/pexels-8086622.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 483.87,
+      "out_seconds": 500.6
+    },
+    {
+      "id": "cut-46-open04",
+      "source": "piloto-001/pexels-8089929.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 500.6,
+      "out_seconds": 510.86
+    },
+    {
+      "id": "cut-47-card",
+      "type": "text_card",
+      "text": "Você não precisa\ncarregar tudo sozinha.",
+      "fontSize": 64,
+      "color": "#FFFDF7",
+      "accentColor": "#D7B56D",
+      "backgroundVideo": "piloto-001/pexels-4407802.mp4",
+      "backgroundVideoStart": 0.0,
+      "backgroundOverlay": 0.64,
+      "in_seconds": 510.86,
+      "out_seconds": 513.58
+    },
+    {
+      "id": "cut-48-bible01",
+      "source": "piloto-001/pexels-13011708.mp4",
+      "source_in_seconds": 40.0,
+      "in_seconds": 513.58,
+      "out_seconds": 527.5
+    },
+    {
+      "id": "cut-49-close01",
+      "source": "piloto-001/pexels-4407802.mp4",
+      "source_in_seconds": 0.0,
+      "in_seconds": 527.5,
+      "out_seconds": 533.5
+    },
+    {
+      "id": "cut-50-open04",
+      "source": "piloto-001/pexels-8089929.mp4",
+      "source_in_seconds": 4.0,
+      "in_seconds": 533.5,
+      "out_seconds": 537.63
+    },
+    {
+      "id": "cut-51-card",
+      "type": "text_card",
+      "text": "A Palavra que Cuida\n@apalavraquecuida",
+      "fontSize": 62,
+      "color": "#FFFDF7",
+      "accentColor": "#D7B56D",
+      "backgroundVideo": "piloto-001/pexels-13011708.mp4",
+      "backgroundVideoStart": 50.0,
+      "backgroundOverlay": 0.64,
+      "in_seconds": 537.63,
+      "out_seconds": 541.0
+    }
+  ],
+  "overlays": [
+    {
+      "type": "section_title",
+      "text": "O convite de Jesus",
+      "subtitle": "Mateus 11:28-30",
+      "position": "top-left",
+      "accentColor": "#D7B56D",
+      "in_seconds": 53.16,
+      "out_seconds": 67.44
+    },
+    {
+      "type": "section_title",
+      "text": "Cargas compartilhadas",
+      "subtitle": "Gálatas 6:2",
+      "position": "top-left",
+      "accentColor": "#D7B56D",
+      "in_seconds": 249.74,
+      "out_seconds": 260.74
+    },
+    {
+      "type": "section_title",
+      "text": "Entregar não é negar",
+      "subtitle": "1 Pedro 5:7",
+      "position": "top-left",
+      "accentColor": "#D7B56D",
+      "in_seconds": 349.88,
+      "out_seconds": 364.88
+    },
+    {
+      "type": "section_title",
+      "text": "Um passo de cada vez",
+      "position": "top-left",
+      "accentColor": "#D7B56D",
+      "in_seconds": 426.55,
+      "out_seconds": 438.54
+    }
+  ],
+  "captions": [
+    {
+      "word": "responde",
+      "startMs": 4841,
+      "endMs": 5422
+    },
+    {
+      "word": "o",
+      "startMs": 5468,
+      "endMs": 5492
+    },
+    {
+      "word": "que",
+      "startMs": 5550,
+      "endMs": 5654
+    },
+    {
+      "word": "precisa",
+      "startMs": 5700,
+      "endMs": 6420
+    },
+    {
+      "word": "responder.",
+      "startMs": 7082,
+      "endMs": 7860
+    },
+    {
+      "word": "Resolve",
+      "startMs": 8522,
+      "endMs": 9044
+    },
+    {
+      "word": "o",
+      "startMs": 9067,
+      "endMs": 9091
+    },
+    {
+      "word": "que",
+      "startMs": 9149,
+      "endMs": 9242
+    },
+    {
+      "word": "precisa",
+      "startMs": 9276,
+      "endMs": 9834
+    },
+    {
+      "word": "resolver.",
+      "startMs": 9880,
+      "endMs": 10530
+    },
+    {
+      "word": "Cuida",
+      "startMs": 11192,
+      "endMs": 11703
+    },
+    {
+      "word": "do",
+      "startMs": 12272,
+      "endMs": 12399
+    },
+    {
+      "word": "que",
+      "startMs": 12446,
+      "endMs": 12539
+    },
+    {
+      "word": "apareceu.",
+      "startMs": 12562,
+      "endMs": 13317
+    },
+    {
+      "word": "Tenta",
+      "startMs": 13514,
+      "endMs": 13851
+    },
+    {
+      "word": "não",
+      "startMs": 13897,
+      "endMs": 13978
+    },
+    {
+      "word": "deixar",
+      "startMs": 14025,
+      "endMs": 14431
+    },
+    {
+      "word": "nada",
+      "startMs": 14501,
+      "endMs": 14745
+    },
+    {
+      "word": "cair.",
+      "startMs": 14791,
+      "endMs": 15232
+    },
+    {
+      "word": "E,",
+      "startMs": 15720,
+      "endMs": 15859
+    },
+    {
+      "word": "por",
+      "startMs": 15894,
+      "endMs": 16045
+    },
+    {
+      "word": "fora,",
+      "startMs": 16115,
+      "endMs": 16591
+    },
+    {
+      "word": "talvez",
+      "startMs": 16893,
+      "endMs": 17183
+    },
+    {
+      "word": "até",
+      "startMs": 17241,
+      "endMs": 17380
+    },
+    {
+      "word": "pareça",
+      "startMs": 17438,
+      "endMs": 17810
+    },
+    {
+      "word": "que",
+      "startMs": 17868,
+      "endMs": 17972
+    },
+    {
+      "word": "está",
+      "startMs": 17984,
+      "endMs": 18158
+    },
+    {
+      "word": "tudo",
+      "startMs": 18239,
+      "endMs": 18541
+    },
+    {
+      "word": "sob",
+      "startMs": 18634,
+      "endMs": 18832
+    },
+    {
+      "word": "controle.",
+      "startMs": 18901,
+      "endMs": 19552
+    },
+    {
+      "word": "Mas",
+      "startMs": 19923,
+      "endMs": 20097
+    },
+    {
+      "word": "por",
+      "startMs": 20167,
+      "endMs": 20306
+    },
+    {
+      "word": "dentro",
+      "startMs": 20387,
+      "endMs": 20736
+    },
+    {
+      "word": "existe",
+      "startMs": 20805,
+      "endMs": 21154
+    },
+    {
+      "word": "uma",
+      "startMs": 21177,
+      "endMs": 21316
+    },
+    {
+      "word": "conta",
+      "startMs": 21397,
+      "endMs": 21723
+    },
+    {
+      "word": "que",
+      "startMs": 21769,
+      "endMs": 21850
+    },
+    {
+      "word": "ninguém",
+      "startMs": 21897,
+      "endMs": 22199
+    },
+    {
+      "word": "vê.",
+      "startMs": 22268,
+      "endMs": 22640
+    },
+    {
+      "word": "A",
+      "startMs": 23139,
+      "endMs": 23220
+    },
+    {
+      "word": "conta",
+      "startMs": 23336,
+      "endMs": 23673
+    },
+    {
+      "word": "de",
+      "startMs": 23731,
+      "endMs": 23801
+    },
+    {
+      "word": "ter",
+      "startMs": 23870,
+      "endMs": 24091
+    },
+    {
+      "word": "que",
+      "startMs": 24172,
+      "endMs": 24451
+    },
+    {
+      "word": "lembrar",
+      "startMs": 25055,
+      "endMs": 25531
+    },
+    {
+      "word": "de",
+      "startMs": 25577,
+      "endMs": 25647
+    },
+    {
+      "word": "tudo.",
+      "startMs": 25728,
+      "endMs": 26227
+    },
+    {
+      "word": "A",
+      "startMs": 26831,
+      "endMs": 26912
+    },
+    {
+      "word": "conta",
+      "startMs": 27028,
+      "endMs": 27319
+    },
+    {
+      "word": "de",
+      "startMs": 27353,
+      "endMs": 27423
+    },
+    {
+      "word": "ser",
+      "startMs": 27481,
+      "endMs": 27632
+    },
+    {
+      "word": "forte",
+      "startMs": 27748,
+      "endMs": 28155
+    },
+    {
+      "word": "para",
+      "startMs": 28201,
+      "endMs": 28375
+    },
+    {
+      "word": "todo",
+      "startMs": 28433,
+      "endMs": 28642
+    },
+    {
+      "word": "mundo.",
+      "startMs": 28689,
+      "endMs": 29188
+    },
+    {
+      "word": "A",
+      "startMs": 29629,
+      "endMs": 29710
+    },
+    {
+      "word": "conta",
+      "startMs": 29826,
+      "endMs": 30117
+    },
+    {
+      "word": "de",
+      "startMs": 30163,
+      "endMs": 30233
+    },
+    {
+      "word": "imaginar",
+      "startMs": 30256,
+      "endMs": 30755
+    },
+    {
+      "word": "os",
+      "startMs": 30802,
+      "endMs": 30871
+    },
+    {
+      "word": "problemas",
+      "startMs": 30941,
+      "endMs": 31556
+    },
+    {
+      "word": "antes",
+      "startMs": 32055,
+      "endMs": 32450
+    },
+    {
+      "word": "que",
+      "startMs": 32520,
+      "endMs": 32613
+    },
+    {
+      "word": "eles",
+      "startMs": 32636,
+      "endMs": 32787
+    },
+    {
+      "word": "aconteçam.",
+      "startMs": 32857,
+      "endMs": 33646
+    },
+    {
+      "word": "A",
+      "startMs": 34250,
+      "endMs": 34331
+    },
+    {
+      "word": "conta",
+      "startMs": 34447,
+      "endMs": 34737
+    },
+    {
+      "word": "de",
+      "startMs": 34784,
+      "endMs": 34853
+    },
+    {
+      "word": "carregar",
+      "startMs": 34900,
+      "endMs": 35318
+    },
+    {
+      "word": "culpa",
+      "startMs": 35399,
+      "endMs": 35852
+    },
+    {
+      "word": "por",
+      "startMs": 36363,
+      "endMs": 36560
+    },
+    {
+      "word": "coisas",
+      "startMs": 36629,
+      "endMs": 37140
+    },
+    {
+      "word": "que",
+      "startMs": 37523,
+      "endMs": 37640
+    },
+    {
+      "word": "talvez",
+      "startMs": 37698,
+      "endMs": 38069
+    },
+    {
+      "word": "nem",
+      "startMs": 38127,
+      "endMs": 38255
+    },
+    {
+      "word": "dependam",
+      "startMs": 38313,
+      "endMs": 38870
+    },
+    {
+      "word": "de",
+      "startMs": 38917,
+      "endMs": 38975
+    },
+    {
+      "word": "você.",
+      "startMs": 39021,
+      "endMs": 39544
+    },
+    {
+      "word": "O",
+      "startMs": 40112,
+      "endMs": 40194
+    },
+    {
+      "word": "cansaço",
+      "startMs": 40263,
+      "endMs": 40774
+    },
+    {
+      "word": "nem",
+      "startMs": 40809,
+      "endMs": 40925
+    },
+    {
+      "word": "sempre",
+      "startMs": 41006,
+      "endMs": 41320
+    },
+    {
+      "word": "chega",
+      "startMs": 41355,
+      "endMs": 41749
+    },
+    {
+      "word": "como",
+      "startMs": 42411,
+      "endMs": 42632
+    },
+    {
+      "word": "um",
+      "startMs": 42655,
+      "endMs": 42702
+    },
+    {
+      "word": "grande",
+      "startMs": 42794,
+      "endMs": 43166
+    },
+    {
+      "word": "colapso.",
+      "startMs": 43224,
+      "endMs": 43955
+    },
+    {
+      "word": "Às",
+      "startMs": 44315,
+      "endMs": 44489
+    },
+    {
+      "word": "vezes",
+      "startMs": 44536,
+      "endMs": 44838
+    },
+    {
+      "word": "ele",
+      "startMs": 44896,
+      "endMs": 45024
+    },
+    {
+      "word": "chega",
+      "startMs": 45070,
+      "endMs": 45337
+    },
+    {
+      "word": "assim:",
+      "startMs": 45360,
+      "endMs": 45859
+    },
+    {
+      "word": "você",
+      "startMs": 46521,
+      "endMs": 46707
+    },
+    {
+      "word": "continua",
+      "startMs": 46753,
+      "endMs": 47102
+    },
+    {
+      "word": "fazendo,",
+      "startMs": 47148,
+      "endMs": 47833
+    },
+    {
+      "word": "mas",
+      "startMs": 48321,
+      "endMs": 48448
+    },
+    {
+      "word": "já",
+      "startMs": 48472,
+      "endMs": 48518
+    },
+    {
+      "word": "não",
+      "startMs": 48565,
+      "endMs": 48692
+    },
+    {
+      "word": "sabe",
+      "startMs": 48750,
+      "endMs": 49006
+    },
+    {
+      "word": "por",
+      "startMs": 49052,
+      "endMs": 49203
+    },
+    {
+      "word": "que",
+      "startMs": 49273,
+      "endMs": 49366
+    },
+    {
+      "word": "sente",
+      "startMs": 49459,
+      "endMs": 49784
+    },
+    {
+      "word": "que",
+      "startMs": 49842,
+      "endMs": 49911
+    },
+    {
+      "word": "precisa",
+      "startMs": 49958,
+      "endMs": 50434
+    },
+    {
+      "word": "sustentar",
+      "startMs": 50480,
+      "endMs": 51026
+    },
+    {
+      "word": "o",
+      "startMs": 51072,
+      "endMs": 51084
+    },
+    {
+      "word": "mundo",
+      "startMs": 51142,
+      "endMs": 51397
+    },
+    {
+      "word": "inteiro",
+      "startMs": 51432,
+      "endMs": 51862
+    },
+    {
+      "word": "sozinha.",
+      "startMs": 51908,
+      "endMs": 52593
+    },
+    {
+      "word": "E",
+      "startMs": 53162,
+      "endMs": 53267
+    },
+    {
+      "word": "é",
+      "startMs": 53336,
+      "endMs": 53359
+    },
+    {
+      "word": "para",
+      "startMs": 53406,
+      "endMs": 53603
+    },
+    {
+      "word": "esse",
+      "startMs": 53707,
+      "endMs": 53893
+    },
+    {
+      "word": "lugar",
+      "startMs": 53928,
+      "endMs": 54346
+    },
+    {
+      "word": "que",
+      "startMs": 54706,
+      "endMs": 54822
+    },
+    {
+      "word": "as",
+      "startMs": 54833,
+      "endMs": 54892
+    },
+    {
+      "word": "palavras",
+      "startMs": 54973,
+      "endMs": 55542
+    },
+    {
+      "word": "de",
+      "startMs": 56111,
+      "endMs": 56192
+    },
+    {
+      "word": "Jesus",
+      "startMs": 56250,
+      "endMs": 56645
+    },
+    {
+      "word": "em",
+      "startMs": 56691,
+      "endMs": 56749
+    },
+    {
+      "word": "Mateus,",
+      "startMs": 56772,
+      "endMs": 57504
+    },
+    {
+      "word": "capítulo",
+      "startMs": 57655,
+      "endMs": 58108
+    },
+    {
+      "word": "onze",
+      "startMs": 58142,
+      "endMs": 58375
+    },
+    {
+      "word": "soam",
+      "startMs": 58444,
+      "endMs": 58711
+    },
+    {
+      "word": "tão",
+      "startMs": 58827,
+      "endMs": 59048
+    },
+    {
+      "word": "diferentes.",
+      "startMs": 59083,
+      "endMs": 59942
+    },
+    {
+      "word": "Elas",
+      "startMs": 60534,
+      "endMs": 60778
+    },
+    {
+      "word": "não",
+      "startMs": 60824,
+      "endMs": 60940
+    },
+    {
+      "word": "falam",
+      "startMs": 61010,
+      "endMs": 61312
+    },
+    {
+      "word": "com",
+      "startMs": 61382,
+      "endMs": 61521
+    },
+    {
+      "word": "quem",
+      "startMs": 61590,
+      "endMs": 61718
+    },
+    {
+      "word": "está",
+      "startMs": 61753,
+      "endMs": 61916
+    },
+    {
+      "word": "fingindo",
+      "startMs": 61985,
+      "endMs": 62543
+    },
+    {
+      "word": "que",
+      "startMs": 62589,
+      "endMs": 62659
+    },
+    {
+      "word": "a",
+      "startMs": 62693,
+      "endMs": 62717
+    },
+    {
+      "word": "vida",
+      "startMs": 62775,
+      "endMs": 62984
+    },
+    {
+      "word": "está",
+      "startMs": 63007,
+      "endMs": 63193
+    },
+    {
+      "word": "leve.",
+      "startMs": 63262,
+      "endMs": 63715
+    },
+    {
+      "word": "Elas",
+      "startMs": 64145,
+      "endMs": 64388
+    },
+    {
+      "word": "falam",
+      "startMs": 64458,
+      "endMs": 64702
+    },
+    {
+      "word": "com",
+      "startMs": 64760,
+      "endMs": 64899
+    },
+    {
+      "word": "quem",
+      "startMs": 64981,
+      "endMs": 65120
+    },
+    {
+      "word": "está",
+      "startMs": 65155,
+      "endMs": 65317
+    },
+    {
+      "word": "cansado",
+      "startMs": 65387,
+      "endMs": 66049
+    },
+    {
+      "word": "e",
+      "startMs": 66084,
+      "endMs": 66130
+    },
+    {
+      "word": "oprimido.",
+      "startMs": 66176,
+      "endMs": 66850
+    },
+    {
+      "word": "Jesus",
+      "startMs": 67442,
+      "endMs": 67779
+    },
+    {
+      "word": "diz:",
+      "startMs": 67802,
+      "endMs": 68313
+    },
+    {
+      "word": "Repare",
+      "startMs": 93170,
+      "endMs": 93553
+    },
+    {
+      "word": "em",
+      "startMs": 93577,
+      "endMs": 93623
+    },
+    {
+      "word": "uma",
+      "startMs": 93669,
+      "endMs": 93797
+    },
+    {
+      "word": "coisa",
+      "startMs": 93855,
+      "endMs": 94099
+    },
+    {
+      "word": "importante:",
+      "startMs": 94134,
+      "endMs": 94947
+    },
+    {
+      "word": "Jesus",
+      "startMs": 95608,
+      "endMs": 95922
+    },
+    {
+      "word": "não",
+      "startMs": 95980,
+      "endMs": 96119
+    },
+    {
+      "word": "diz",
+      "startMs": 96177,
+      "endMs": 96375
+    },
+    {
+      "word": "que",
+      "startMs": 96456,
+      "endMs": 96514
+    },
+    {
+      "word": "a",
+      "startMs": 96560,
+      "endMs": 96584
+    },
+    {
+      "word": "vida",
+      "startMs": 96653,
+      "endMs": 97025
+    },
+    {
+      "word": "deixará",
+      "startMs": 97454,
+      "endMs": 97977
+    },
+    {
+      "word": "de",
+      "startMs": 98046,
+      "endMs": 98104
+    },
+    {
+      "word": "ter",
+      "startMs": 98151,
+      "endMs": 98302
+    },
+    {
+      "word": "peso.",
+      "startMs": 98418,
+      "endMs": 98987
+    },
+    {
+      "word": "Ele",
+      "startMs": 99567,
+      "endMs": 99730
+    },
+    {
+      "word": "não",
+      "startMs": 99776,
+      "endMs": 99881
+    },
+    {
+      "word": "diz",
+      "startMs": 99927,
+      "endMs": 100090
+    },
+    {
+      "word": "que,",
+      "startMs": 100136,
+      "endMs": 100426
+    },
+    {
+      "word": "a",
+      "startMs": 100635,
+      "endMs": 100693
+    },
+    {
+      "word": "partir",
+      "startMs": 100740,
+      "endMs": 101077
+    },
+    {
+      "word": "daquele",
+      "startMs": 101111,
+      "endMs": 101355
+    },
+    {
+      "word": "momento,",
+      "startMs": 101390,
+      "endMs": 102005
+    },
+    {
+      "word": "nenhuma",
+      "startMs": 102319,
+      "endMs": 102597
+    },
+    {
+      "word": "responsabilidade",
+      "startMs": 102644,
+      "endMs": 103480
+    },
+    {
+      "word": "existirá,",
+      "startMs": 103503,
+      "endMs": 104200
+    },
+    {
+      "word": "nenhuma",
+      "startMs": 104687,
+      "endMs": 104989
+    },
+    {
+      "word": "dor",
+      "startMs": 105047,
+      "endMs": 105314
+    },
+    {
+      "word": "aparecerá",
+      "startMs": 105628,
+      "endMs": 106383
+    },
+    {
+      "word": "e",
+      "startMs": 106812,
+      "endMs": 106928
+    },
+    {
+      "word": "nenhuma",
+      "startMs": 106963,
+      "endMs": 107207
+    },
+    {
+      "word": "decisão",
+      "startMs": 107242,
+      "endMs": 107671
+    },
+    {
+      "word": "difícil",
+      "startMs": 107718,
+      "endMs": 108275
+    },
+    {
+      "word": "precisará",
+      "startMs": 108310,
+      "endMs": 108763
+    },
+    {
+      "word": "ser",
+      "startMs": 108832,
+      "endMs": 108937
+    },
+    {
+      "word": "tomada.",
+      "startMs": 108995,
+      "endMs": 109541
+    },
+    {
+      "word": "O",
+      "startMs": 110098,
+      "endMs": 110167
+    },
+    {
+      "word": "próprio",
+      "startMs": 110272,
+      "endMs": 110562
+    },
+    {
+      "word": "texto",
+      "startMs": 110609,
+      "endMs": 110922
+    },
+    {
+      "word": "fala",
+      "startMs": 111003,
+      "endMs": 111270
+    },
+    {
+      "word": "de",
+      "startMs": 111317,
+      "endMs": 111387
+    },
+    {
+      "word": "um",
+      "startMs": 111445,
+      "endMs": 111491
+    },
+    {
+      "word": "jugo",
+      "startMs": 111572,
+      "endMs": 112002
+    },
+    {
+      "word": "e",
+      "startMs": 112304,
+      "endMs": 112408
+    },
+    {
+      "word": "de",
+      "startMs": 112466,
+      "endMs": 112513
+    },
+    {
+      "word": "um",
+      "startMs": 112548,
+      "endMs": 112617
+    },
+    {
+      "word": "fardo.",
+      "startMs": 112722,
+      "endMs": 113291
+    },
+    {
+      "word": "Existe",
+      "startMs": 113767,
+      "endMs": 114138
+    },
+    {
+      "word": "um",
+      "startMs": 114173,
+      "endMs": 114208
+    },
+    {
+      "word": "caminho",
+      "startMs": 114277,
+      "endMs": 114695
+    },
+    {
+      "word": "a",
+      "startMs": 114742,
+      "endMs": 114765
+    },
+    {
+      "word": "aprender.",
+      "startMs": 114788,
+      "endMs": 115369
+    },
+    {
+      "word": "Existe",
+      "startMs": 115845,
+      "endMs": 116170
+    },
+    {
+      "word": "uma",
+      "startMs": 116193,
+      "endMs": 116309
+    },
+    {
+      "word": "vida",
+      "startMs": 116390,
+      "endMs": 116762
+    },
+    {
+      "word": "a",
+      "startMs": 117064,
+      "endMs": 117133
+    },
+    {
+      "word": "viver.",
+      "startMs": 117203,
+      "endMs": 117737
+    },
+    {
+      "word": "Existe",
+      "startMs": 118294,
+      "endMs": 118631
+    },
+    {
+      "word": "fidelidade,",
+      "startMs": 118701,
+      "endMs": 119490
+    },
+    {
+      "word": "obediência,",
+      "startMs": 119688,
+      "endMs": 120558
+    },
+    {
+      "word": "paciência",
+      "startMs": 120756,
+      "endMs": 121510
+    },
+    {
+      "word": "e",
+      "startMs": 121673,
+      "endMs": 121777
+    },
+    {
+      "word": "verdade.",
+      "startMs": 121835,
+      "endMs": 122451
+    },
+    {
+      "word": "Há",
+      "startMs": 132134,
+      "endMs": 132285
+    },
+    {
+      "word": "uma",
+      "startMs": 132308,
+      "endMs": 132424
+    },
+    {
+      "word": "diferença",
+      "startMs": 132447,
+      "endMs": 132946
+    },
+    {
+      "word": "entre",
+      "startMs": 132970,
+      "endMs": 133179
+    },
+    {
+      "word": "cuidar",
+      "startMs": 133213,
+      "endMs": 133713
+    },
+    {
+      "word": "daquilo",
+      "startMs": 134177,
+      "endMs": 134607
+    },
+    {
+      "word": "que",
+      "startMs": 134641,
+      "endMs": 134723
+    },
+    {
+      "word": "está",
+      "startMs": 134746,
+      "endMs": 134943
+    },
+    {
+      "word": "em",
+      "startMs": 135001,
+      "endMs": 135059
+    },
+    {
+      "word": "suas",
+      "startMs": 135106,
+      "endMs": 135338
+    },
+    {
+      "word": "mãos",
+      "startMs": 135408,
+      "endMs": 135768
+    },
+    {
+      "word": "e",
+      "startMs": 136232,
+      "endMs": 136336
+    },
+    {
+      "word": "tentar",
+      "startMs": 136383,
+      "endMs": 136708
+    },
+    {
+      "word": "controlar",
+      "startMs": 136743,
+      "endMs": 137219
+    },
+    {
+      "word": "aquilo",
+      "startMs": 137265,
+      "endMs": 137614
+    },
+    {
+      "word": "que",
+      "startMs": 137648,
+      "endMs": 137730
+    },
+    {
+      "word": "está",
+      "startMs": 137753,
+      "endMs": 137904
+    },
+    {
+      "word": "fora",
+      "startMs": 138020,
+      "endMs": 138415
+    },
+    {
+      "word": "do",
+      "startMs": 138809,
+      "endMs": 138925
+    },
+    {
+      "word": "seu",
+      "startMs": 138984,
+      "endMs": 139088
+    },
+    {
+      "word": "alcance.",
+      "startMs": 139134,
+      "endMs": 139738
+    },
+    {
+      "word": "Entre",
+      "startMs": 140609,
+      "endMs": 140876
+    },
+    {
+      "word": "amar",
+      "startMs": 140888,
+      "endMs": 141062
+    },
+    {
+      "word": "as",
+      "startMs": 141108,
+      "endMs": 141166
+    },
+    {
+      "word": "pessoas",
+      "startMs": 141224,
+      "endMs": 141805
+    },
+    {
+      "word": "e",
+      "startMs": 142153,
+      "endMs": 142316
+    },
+    {
+      "word": "assumir",
+      "startMs": 142362,
+      "endMs": 142757
+    },
+    {
+      "word": "que",
+      "startMs": 142803,
+      "endMs": 142861
+    },
+    {
+      "word": "você",
+      "startMs": 142919,
+      "endMs": 143117
+    },
+    {
+      "word": "pode",
+      "startMs": 143221,
+      "endMs": 143465
+    },
+    {
+      "word": "salvar",
+      "startMs": 143523,
+      "endMs": 143964
+    },
+    {
+      "word": "cada",
+      "startMs": 144022,
+      "endMs": 144278
+    },
+    {
+      "word": "uma",
+      "startMs": 144312,
+      "endMs": 144440
+    },
+    {
+      "word": "delas.",
+      "startMs": 144498,
+      "endMs": 145079
+    },
+    {
+      "word": "Entre",
+      "startMs": 145775,
+      "endMs": 146089
+    },
+    {
+      "word": "reconhecer",
+      "startMs": 146124,
+      "endMs": 146681
+    },
+    {
+      "word": "um",
+      "startMs": 146739,
+      "endMs": 146809
+    },
+    {
+      "word": "erro",
+      "startMs": 146960,
+      "endMs": 147192
+    },
+    {
+      "word": "e",
+      "startMs": 147633,
+      "endMs": 147749
+    },
+    {
+      "word": "transformar",
+      "startMs": 147807,
+      "endMs": 148608
+    },
+    {
+      "word": "cada",
+      "startMs": 148701,
+      "endMs": 149038
+    },
+    {
+      "word": "erro",
+      "startMs": 149154,
+      "endMs": 149432
+    },
+    {
+      "word": "numa",
+      "startMs": 149758,
+      "endMs": 150013
+    },
+    {
+      "word": "condenação",
+      "startMs": 150083,
+      "endMs": 150837
+    },
+    {
+      "word": "sem",
+      "startMs": 150884,
+      "endMs": 151058
+    },
+    {
+      "word": "fim.",
+      "startMs": 151139,
+      "endMs": 151569
+    },
+    {
+      "word": "O",
+      "startMs": 152172,
+      "endMs": 152254
+    },
+    {
+      "word": "convite",
+      "startMs": 152323,
+      "endMs": 152741
+    },
+    {
+      "word": "de",
+      "startMs": 152799,
+      "endMs": 152869
+    },
+    {
+      "word": "Jesus",
+      "startMs": 152927,
+      "endMs": 153461
+    },
+    {
+      "word": "não",
+      "startMs": 153844,
+      "endMs": 154030
+    },
+    {
+      "word": "é",
+      "startMs": 154065,
+      "endMs": 154111
+    },
+    {
+      "word": "um",
+      "startMs": 154146,
+      "endMs": 154193
+    },
+    {
+      "word": "convite",
+      "startMs": 154262,
+      "endMs": 154727
+    },
+    {
+      "word": "para",
+      "startMs": 154773,
+      "endMs": 154947
+    },
+    {
+      "word": "fugir",
+      "startMs": 155005,
+      "endMs": 155307
+    },
+    {
+      "word": "da",
+      "startMs": 155342,
+      "endMs": 155435
+    },
+    {
+      "word": "vida.",
+      "startMs": 155504,
+      "endMs": 155922
+    },
+    {
+      "word": "É",
+      "startMs": 156433,
+      "endMs": 156503
+    },
+    {
+      "word": "um",
+      "startMs": 156573,
+      "endMs": 156619
+    },
+    {
+      "word": "convite",
+      "startMs": 156677,
+      "endMs": 157130
+    },
+    {
+      "word": "para",
+      "startMs": 157176,
+      "endMs": 157350
+    },
+    {
+      "word": "parar",
+      "startMs": 157409,
+      "endMs": 157768
+    },
+    {
+      "word": "de",
+      "startMs": 157815,
+      "endMs": 157885
+    },
+    {
+      "word": "viver",
+      "startMs": 157943,
+      "endMs": 158291
+    },
+    {
+      "word": "sem",
+      "startMs": 158361,
+      "endMs": 158535
+    },
+    {
+      "word": "ele,",
+      "startMs": 158616,
+      "endMs": 158987
+    },
+    {
+      "word": "como",
+      "startMs": 159371,
+      "endMs": 159591
+    },
+    {
+      "word": "se",
+      "startMs": 159638,
+      "endMs": 159719
+    },
+    {
+      "word": "a",
+      "startMs": 159754,
+      "endMs": 159789
+    },
+    {
+      "word": "sua",
+      "startMs": 159858,
+      "endMs": 160102
+    },
+    {
+      "word": "alma",
+      "startMs": 160172,
+      "endMs": 160474
+    },
+    {
+      "word": "precisasse",
+      "startMs": 160799,
+      "endMs": 161472
+    },
+    {
+      "word": "provar",
+      "startMs": 161530,
+      "endMs": 162064
+    },
+    {
+      "word": "o",
+      "startMs": 162448,
+      "endMs": 162564
+    },
+    {
+      "word": "tempo",
+      "startMs": 162656,
+      "endMs": 162947
+    },
+    {
+      "word": "todo",
+      "startMs": 163005,
+      "endMs": 163249
+    },
+    {
+      "word": "que",
+      "startMs": 163283,
+      "endMs": 163353
+    },
+    {
+      "word": "consegue",
+      "startMs": 163400,
+      "endMs": 163852
+    },
+    {
+      "word": "aguentar",
+      "startMs": 163876,
+      "endMs": 164352
+    },
+    {
+      "word": "mais",
+      "startMs": 164421,
+      "endMs": 164607
+    },
+    {
+      "word": "um",
+      "startMs": 164677,
+      "endMs": 164723
+    },
+    {
+      "word": "pouco.",
+      "startMs": 164781,
+      "endMs": 165246
+    },
+    {
+      "word": "Alguns",
+      "startMs": 165977,
+      "endMs": 166314
+    },
+    {
+      "word": "pesos",
+      "startMs": 166395,
+      "endMs": 166824
+    },
+    {
+      "word": "são",
+      "startMs": 167173,
+      "endMs": 167393
+    },
+    {
+      "word": "visíveis.",
+      "startMs": 167417,
+      "endMs": 168194
+    },
+    {
+      "word": "Uma",
+      "startMs": 168485,
+      "endMs": 168682
+    },
+    {
+      "word": "dívida,",
+      "startMs": 168729,
+      "endMs": 169321
+    },
+    {
+      "word": "uma",
+      "startMs": 169866,
+      "endMs": 170017
+    },
+    {
+      "word": "doença",
+      "startMs": 170064,
+      "endMs": 170400
+    },
+    {
+      "word": "na",
+      "startMs": 170447,
+      "endMs": 170505
+    },
+    {
+      "word": "família,",
+      "startMs": 170574,
+      "endMs": 171190
+    },
+    {
+      "word": "uma",
+      "startMs": 171724,
+      "endMs": 171875
+    },
+    {
+      "word": "mudança",
+      "startMs": 171910,
+      "endMs": 172467
+    },
+    {
+      "word": "inesperada,",
+      "startMs": 172618,
+      "endMs": 173558
+    },
+    {
+      "word": "um",
+      "startMs": 173744,
+      "endMs": 173825
+    },
+    {
+      "word": "luto,",
+      "startMs": 173872,
+      "endMs": 174441
+    },
+    {
+      "word": "um",
+      "startMs": 174661,
+      "endMs": 174731
+    },
+    {
+      "word": "problema",
+      "startMs": 174766,
+      "endMs": 175137
+    },
+    {
+      "word": "no",
+      "startMs": 175160,
+      "endMs": 175230
+    },
+    {
+      "word": "trabalho.",
+      "startMs": 175265,
+      "endMs": 175857
+    },
+    {
+      "word": "Eles",
+      "startMs": 176403,
+      "endMs": 176600
+    },
+    {
+      "word": "têm",
+      "startMs": 176647,
+      "endMs": 176751
+    },
+    {
+      "word": "nome.",
+      "startMs": 176797,
+      "endMs": 177215
+    },
+    {
+      "word": "Eles",
+      "startMs": 177401,
+      "endMs": 177587
+    },
+    {
+      "word": "aparecem",
+      "startMs": 177633,
+      "endMs": 178191
+    },
+    {
+      "word": "nas",
+      "startMs": 178237,
+      "endMs": 178388
+    },
+    {
+      "word": "conversas,",
+      "startMs": 178446,
+      "endMs": 179282
+    },
+    {
+      "word": "nos",
+      "startMs": 179468,
+      "endMs": 179619
+    },
+    {
+      "word": "compromissos",
+      "startMs": 179677,
+      "endMs": 180420
+    },
+    {
+      "word": "e",
+      "startMs": 180815,
+      "endMs": 180931
+    },
+    {
+      "word": "nas",
+      "startMs": 180977,
+      "endMs": 181105
+    },
+    {
+      "word": "preocupações",
+      "startMs": 181175,
+      "endMs": 181848
+    },
+    {
+      "word": "do",
+      "startMs": 181883,
+      "endMs": 181941
+    },
+    {
+      "word": "dia.",
+      "startMs": 182011,
+      "endMs": 182475
+    },
+    {
+      "word": "Outros",
+      "startMs": 183148,
+      "endMs": 183532
+    },
+    {
+      "word": "pesos",
+      "startMs": 183636,
+      "endMs": 183996
+    },
+    {
+      "word": "quase",
+      "startMs": 184089,
+      "endMs": 184402
+    },
+    {
+      "word": "nunca",
+      "startMs": 184484,
+      "endMs": 185006
+    },
+    {
+      "word": "recebem",
+      "startMs": 185169,
+      "endMs": 185772
+    },
+    {
+      "word": "nome.",
+      "startMs": 185842,
+      "endMs": 186399
+    },
+    {
+      "word": "São",
+      "startMs": 186991,
+      "endMs": 187166
+    },
+    {
+      "word": "aqueles",
+      "startMs": 187200,
+      "endMs": 187514
+    },
+    {
+      "word": "pensamentos",
+      "startMs": 187572,
+      "endMs": 188257
+    },
+    {
+      "word": "que",
+      "startMs": 188315,
+      "endMs": 188408
+    },
+    {
+      "word": "dizem:",
+      "startMs": 188466,
+      "endMs": 189035
+    },
+    {
+      "word": "Se",
+      "startMs": 189708,
+      "endMs": 189859
+    },
+    {
+      "word": "eu",
+      "startMs": 189882,
+      "endMs": 189929
+    },
+    {
+      "word": "não",
+      "startMs": 189975,
+      "endMs": 190080
+    },
+    {
+      "word": "fizer,",
+      "startMs": 190138,
+      "endMs": 190788
+    },
+    {
+      "word": "ninguém",
+      "startMs": 191101,
+      "endMs": 191392
+    },
+    {
+      "word": "fará.",
+      "startMs": 191450,
+      "endMs": 191960
+    },
+    {
+      "word": "Se",
+      "startMs": 192332,
+      "endMs": 192460
+    },
+    {
+      "word": "eu",
+      "startMs": 192471,
+      "endMs": 192529
+    },
+    {
+      "word": "descansar,",
+      "startMs": 192576,
+      "endMs": 193400
+    },
+    {
+      "word": "vou",
+      "startMs": 193632,
+      "endMs": 193772
+    },
+    {
+      "word": "decepcionar",
+      "startMs": 193830,
+      "endMs": 194399
+    },
+    {
+      "word": "alguém.",
+      "startMs": 194445,
+      "endMs": 194909
+    },
+    {
+      "word": "Se",
+      "startMs": 195490,
+      "endMs": 195629
+    },
+    {
+      "word": "eu",
+      "startMs": 195652,
+      "endMs": 195699
+    },
+    {
+      "word": "pedir",
+      "startMs": 195745,
+      "endMs": 196012
+    },
+    {
+      "word": "ajuda,",
+      "startMs": 196059,
+      "endMs": 196662
+    },
+    {
+      "word": "vão",
+      "startMs": 196976,
+      "endMs": 197150
+    },
+    {
+      "word": "pensar",
+      "startMs": 197185,
+      "endMs": 197579
+    },
+    {
+      "word": "que",
+      "startMs": 197626,
+      "endMs": 197695
+    },
+    {
+      "word": "eu",
+      "startMs": 197719,
+      "endMs": 197765
+    },
+    {
+      "word": "falhei.",
+      "startMs": 197823,
+      "endMs": 198404
+    },
+    {
+      "word": "Se",
+      "startMs": 198984,
+      "endMs": 199124
+    },
+    {
+      "word": "eu",
+      "startMs": 199147,
+      "endMs": 199193
+    },
+    {
+      "word": "não",
+      "startMs": 199240,
+      "endMs": 199356
+    },
+    {
+      "word": "resolver",
+      "startMs": 199391,
+      "endMs": 199820
+    },
+    {
+      "word": "agora,",
+      "startMs": 199867,
+      "endMs": 200354
+    },
+    {
+      "word": "tudo",
+      "startMs": 200528,
+      "endMs": 200772
+    },
+    {
+      "word": "vai",
+      "startMs": 200807,
+      "endMs": 200911
+    },
+    {
+      "word": "dar",
+      "startMs": 200946,
+      "endMs": 201062
+    },
+    {
+      "word": "errado.",
+      "startMs": 201109,
+      "endMs": 201608
+    },
+    {
+      "word": "Essas",
+      "startMs": 202189,
+      "endMs": 202490
+    },
+    {
+      "word": "Talvez",
+      "startMs": 211221,
+      "endMs": 211593
+    },
+    {
+      "word": "você",
+      "startMs": 211627,
+      "endMs": 211813
+    },
+    {
+      "word": "tenha",
+      "startMs": 211883,
+      "endMs": 212080
+    },
+    {
+      "word": "sido",
+      "startMs": 212138,
+      "endMs": 212371
+    },
+    {
+      "word": "ensinada",
+      "startMs": 212405,
+      "endMs": 213079
+    },
+    {
+      "word": "a",
+      "startMs": 213450,
+      "endMs": 213555
+    },
+    {
+      "word": "ser",
+      "startMs": 213636,
+      "endMs": 213787
+    },
+    {
+      "word": "disponível,",
+      "startMs": 213833,
+      "endMs": 214716
+    },
+    {
+      "word": "forte",
+      "startMs": 214925,
+      "endMs": 215435
+    },
+    {
+      "word": "e",
+      "startMs": 215749,
+      "endMs": 215900
+    },
+    {
+      "word": "atenta.",
+      "startMs": 215935,
+      "endMs": 216562
+    },
+    {
+      "word": "E",
+      "startMs": 217131,
+      "endMs": 217247
+    },
+    {
+      "word": "há",
+      "startMs": 217305,
+      "endMs": 217351
+    },
+    {
+      "word": "beleza",
+      "startMs": 217409,
+      "endMs": 217827
+    },
+    {
+      "word": "nisso.",
+      "startMs": 217862,
+      "endMs": 218292
+    },
+    {
+      "word": "Cuidar",
+      "startMs": 218651,
+      "endMs": 219151
+    },
+    {
+      "word": "é",
+      "startMs": 219267,
+      "endMs": 219348
+    },
+    {
+      "word": "uma",
+      "startMs": 219383,
+      "endMs": 219511
+    },
+    {
+      "word": "forma",
+      "startMs": 219603,
+      "endMs": 219894
+    },
+    {
+      "word": "de",
+      "startMs": 219929,
+      "endMs": 219998
+    },
+    {
+      "word": "amor.",
+      "startMs": 220033,
+      "endMs": 220532
+    },
+    {
+      "word": "Ser",
+      "startMs": 221206,
+      "endMs": 221415
+    },
+    {
+      "word": "responsável",
+      "startMs": 221461,
+      "endMs": 222251
+    },
+    {
+      "word": "importa.",
+      "startMs": 222378,
+      "endMs": 223144
+    },
+    {
+      "word": "Mas",
+      "startMs": 223806,
+      "endMs": 223969
+    },
+    {
+      "word": "o",
+      "startMs": 224027,
+      "endMs": 224050
+    },
+    {
+      "word": "amor",
+      "startMs": 224085,
+      "endMs": 224340
+    },
+    {
+      "word": "não",
+      "startMs": 224410,
+      "endMs": 224526
+    },
+    {
+      "word": "deveria",
+      "startMs": 224572,
+      "endMs": 224932
+    },
+    {
+      "word": "exigir",
+      "startMs": 224967,
+      "endMs": 225501
+    },
+    {
+      "word": "que",
+      "startMs": 225919,
+      "endMs": 226047
+    },
+    {
+      "word": "você",
+      "startMs": 226093,
+      "endMs": 226360
+    },
+    {
+      "word": "desapareça",
+      "startMs": 226465,
+      "endMs": 227243
+    },
+    {
+      "word": "dentro",
+      "startMs": 227556,
+      "endMs": 227893
+    },
+    {
+      "word": "das",
+      "startMs": 227951,
+      "endMs": 228114
+    },
+    {
+      "word": "necessidades",
+      "startMs": 228230,
+      "endMs": 229008
+    },
+    {
+      "word": "de",
+      "startMs": 229019,
+      "endMs": 229077
+    },
+    {
+      "word": "todo",
+      "startMs": 229158,
+      "endMs": 229367
+    },
+    {
+      "word": "mundo.",
+      "startMs": 229414,
+      "endMs": 229809
+    },
+    {
+      "word": "Jesus",
+      "startMs": 230308,
+      "endMs": 230656
+    },
+    {
+      "word": "chama",
+      "startMs": 230679,
+      "endMs": 230946
+    },
+    {
+      "word": "os",
+      "startMs": 230970,
+      "endMs": 231039
+    },
+    {
+      "word": "cansados",
+      "startMs": 231097,
+      "endMs": 231666
+    },
+    {
+      "word": "para",
+      "startMs": 231724,
+      "endMs": 231887
+    },
+    {
+      "word": "perto.",
+      "startMs": 231956,
+      "endMs": 232444
+    },
+    {
+      "word": "Isso",
+      "startMs": 232932,
+      "endMs": 233187
+    },
+    {
+      "word": "significa",
+      "startMs": 233234,
+      "endMs": 233768
+    },
+    {
+      "word": "que",
+      "startMs": 233826,
+      "endMs": 233919
+    },
+    {
+      "word": "o",
+      "startMs": 233953,
+      "endMs": 233988
+    },
+    {
+      "word": "seu",
+      "startMs": 234046,
+      "endMs": 234174
+    },
+    {
+      "word": "cansaço",
+      "startMs": 234220,
+      "endMs": 234836
+    },
+    {
+      "word": "não",
+      "startMs": 234882,
+      "endMs": 234987
+    },
+    {
+      "word": "é",
+      "startMs": 235021,
+      "endMs": 235068
+    },
+    {
+      "word": "um",
+      "startMs": 235114,
+      "endMs": 235149
+    },
+    {
+      "word": "detalhe",
+      "startMs": 235207,
+      "endMs": 235706
+    },
+    {
+      "word": "que",
+      "startMs": 235765,
+      "endMs": 235857
+    },
+    {
+      "word": "precisa",
+      "startMs": 235904,
+      "endMs": 236426
+    },
+    {
+      "word": "ser",
+      "startMs": 236484,
+      "endMs": 236751
+    },
+    {
+      "word": "escondido",
+      "startMs": 237169,
+      "endMs": 238028
+    },
+    {
+      "word": "para",
+      "startMs": 238446,
+      "endMs": 238679
+    },
+    {
+      "word": "você",
+      "startMs": 238725,
+      "endMs": 238946
+    },
+    {
+      "word": "merecer",
+      "startMs": 239027,
+      "endMs": 239631
+    },
+    {
+      "word": "estar",
+      "startMs": 239805,
+      "endMs": 240211
+    },
+    {
+      "word": "diante",
+      "startMs": 240258,
+      "endMs": 240571
+    },
+    {
+      "word": "de",
+      "startMs": 240629,
+      "endMs": 240687
+    },
+    {
+      "word": "Deus.",
+      "startMs": 240734,
+      "endMs": 241244
+    },
+    {
+      "word": "Você",
+      "startMs": 241906,
+      "endMs": 242138
+    },
+    {
+      "word": "pode",
+      "startMs": 242185,
+      "endMs": 242382
+    },
+    {
+      "word": "chegar",
+      "startMs": 242394,
+      "endMs": 242789
+    },
+    {
+      "word": "cansada.",
+      "startMs": 243021,
+      "endMs": 243880
+    },
+    {
+      "word": "Pode",
+      "startMs": 244356,
+      "endMs": 244576
+    },
+    {
+      "word": "chegar",
+      "startMs": 244600,
+      "endMs": 244844
+    },
+    {
+      "word": "confusa.",
+      "startMs": 244867,
+      "endMs": 245621
+    },
+    {
+      "word": "Pode",
+      "startMs": 245819,
+      "endMs": 246051
+    },
+    {
+      "word": "chegar",
+      "startMs": 246074,
+      "endMs": 246353
+    },
+    {
+      "word": "sem",
+      "startMs": 246399,
+      "endMs": 246539
+    },
+    {
+      "word": "saber",
+      "startMs": 246597,
+      "endMs": 247003
+    },
+    {
+      "word": "como",
+      "startMs": 247363,
+      "endMs": 247630
+    },
+    {
+      "word": "vai",
+      "startMs": 247676,
+      "endMs": 247781
+    },
+    {
+      "word": "resolver",
+      "startMs": 247804,
+      "endMs": 248176
+    },
+    {
+      "word": "tudo.",
+      "startMs": 248257,
+      "endMs": 248686
+    },
+    {
+      "word": "Existe",
+      "startMs": 249743,
+      "endMs": 250091
+    },
+    {
+      "word": "ainda",
+      "startMs": 250126,
+      "endMs": 250347
+    },
+    {
+      "word": "outra",
+      "startMs": 250416,
+      "endMs": 250764
+    },
+    {
+      "word": "correção",
+      "startMs": 250997,
+      "endMs": 251670
+    },
+    {
+      "word": "que",
+      "startMs": 251717,
+      "endMs": 251798
+    },
+    {
+      "word": "a",
+      "startMs": 251833,
+      "endMs": 251856
+    },
+    {
+      "word": "Bíblia",
+      "startMs": 251914,
+      "endMs": 252158
+    },
+    {
+      "word": "faz",
+      "startMs": 252239,
+      "endMs": 252634
+    },
+    {
+      "word": "ao",
+      "startMs": 253295,
+      "endMs": 253446
+    },
+    {
+      "word": "nosso",
+      "startMs": 253493,
+      "endMs": 253795
+    },
+    {
+      "word": "impulso",
+      "startMs": 253841,
+      "endMs": 254317
+    },
+    {
+      "word": "de",
+      "startMs": 254375,
+      "endMs": 254445
+    },
+    {
+      "word": "carregar",
+      "startMs": 254480,
+      "endMs": 254886
+    },
+    {
+      "word": "tudo",
+      "startMs": 254956,
+      "endMs": 255211
+    },
+    {
+      "word": "sozinha.",
+      "startMs": 255269,
+      "endMs": 255896
+    },
+    {
+      "word": "Em",
+      "startMs": 256430,
+      "endMs": 256569
+    },
+    {
+      "word": "Gálatas,",
+      "startMs": 256628,
+      "endMs": 257115
+    },
+    {
+      "word": "capítulo",
+      "startMs": 257150,
+      "endMs": 257591
+    },
+    {
+      "word": "seis,",
+      "startMs": 257661,
+      "endMs": 258241
+    },
+    {
+      "word": "versículo",
+      "startMs": 258532,
+      "endMs": 259019
+    },
+    {
+      "word": "dois,",
+      "startMs": 259054,
+      "endMs": 259565
+    },
+    {
+      "word": "lemos:",
+      "startMs": 259820,
+      "endMs": 260447
+    },
+    {
+      "word": "Levai",
+      "startMs": 260737,
+      "endMs": 261074
+    },
+    {
+      "word": "frase",
+      "startMs": 270757,
+      "endMs": 271012
+    },
+    {
+      "word": "é",
+      "startMs": 271024,
+      "endMs": 271047
+    },
+    {
+      "word": "simples,",
+      "startMs": 271128,
+      "endMs": 271767
+    },
+    {
+      "word": "mas",
+      "startMs": 271987,
+      "endMs": 272161
+    },
+    {
+      "word": "ela",
+      "startMs": 272208,
+      "endMs": 272336
+    },
+    {
+      "word": "contraria",
+      "startMs": 272370,
+      "endMs": 272812
+    },
+    {
+      "word": "muita",
+      "startMs": 272858,
+      "endMs": 273113
+    },
+    {
+      "word": "coisa",
+      "startMs": 273183,
+      "endMs": 273555
+    },
+    {
+      "word": "que",
+      "startMs": 273949,
+      "endMs": 274042
+    },
+    {
+      "word": "a",
+      "startMs": 274066,
+      "endMs": 274089
+    },
+    {
+      "word": "gente",
+      "startMs": 274124,
+      "endMs": 274286
+    },
+    {
+      "word": "aprendeu",
+      "startMs": 274321,
+      "endMs": 274727
+    },
+    {
+      "word": "sobre",
+      "startMs": 274785,
+      "endMs": 275157
+    },
+    {
+      "word": "maturidade.",
+      "startMs": 275343,
+      "endMs": 276364
+    },
+    {
+      "word": "Maturidade",
+      "startMs": 276713,
+      "endMs": 277351
+    },
+    {
+      "word": "não",
+      "startMs": 277398,
+      "endMs": 277514
+    },
+    {
+      "word": "é",
+      "startMs": 277572,
+      "endMs": 277607
+    },
+    {
+      "word": "se",
+      "startMs": 277665,
+      "endMs": 277734
+    },
+    {
+      "word": "tornar",
+      "startMs": 277792,
+      "endMs": 278315
+    },
+    {
+      "word": "uma",
+      "startMs": 278768,
+      "endMs": 278930
+    },
+    {
+      "word": "pessoa",
+      "startMs": 278977,
+      "endMs": 279429
+    },
+    {
+      "word": "que",
+      "startMs": 279487,
+      "endMs": 279592
+    },
+    {
+      "word": "nunca",
+      "startMs": 279673,
+      "endMs": 279998
+    },
+    {
+      "word": "precisa",
+      "startMs": 280033,
+      "endMs": 280521
+    },
+    {
+      "word": "de",
+      "startMs": 280555,
+      "endMs": 280625
+    },
+    {
+      "word": "ninguém.",
+      "startMs": 280660,
+      "endMs": 281148
+    },
+    {
+      "word": "Fé",
+      "startMs": 281775,
+      "endMs": 282065
+    },
+    {
+      "word": "não",
+      "startMs": 282413,
+      "endMs": 282552
+    },
+    {
+      "word": "é",
+      "startMs": 282599,
+      "endMs": 282645
+    },
+    {
+      "word": "se",
+      "startMs": 282692,
+      "endMs": 282761
+    },
+    {
+      "word": "fechar",
+      "startMs": 282819,
+      "endMs": 283330
+    },
+    {
+      "word": "e",
+      "startMs": 283725,
+      "endMs": 283841
+    },
+    {
+      "word": "dizer",
+      "startMs": 283888,
+      "endMs": 284317
+    },
+    {
+      "word": "que",
+      "startMs": 284851,
+      "endMs": 284967
+    },
+    {
+      "word": "está",
+      "startMs": 284990,
+      "endMs": 285153
+    },
+    {
+      "word": "tudo",
+      "startMs": 285211,
+      "endMs": 285397
+    },
+    {
+      "word": "bem",
+      "startMs": 285455,
+      "endMs": 285641
+    },
+    {
+      "word": "quando",
+      "startMs": 285687,
+      "endMs": 285931
+    },
+    {
+      "word": "não",
+      "startMs": 285989,
+      "endMs": 286105
+    },
+    {
+      "word": "está.",
+      "startMs": 286151,
+      "endMs": 286639
+    },
+    {
+      "word": "Há",
+      "startMs": 287173,
+      "endMs": 287312
+    },
+    {
+      "word": "cargas",
+      "startMs": 287382,
+      "endMs": 287927
+    },
+    {
+      "word": "que",
+      "startMs": 288322,
+      "endMs": 288427
+    },
+    {
+      "word": "precisam",
+      "startMs": 288473,
+      "endMs": 288984
+    },
+    {
+      "word": "ser",
+      "startMs": 289088,
+      "endMs": 289344
+    },
+    {
+      "word": "divididas.",
+      "startMs": 289564,
+      "endMs": 290470
+    },
+    {
+      "word": "Uma",
+      "startMs": 290888,
+      "endMs": 291039
+    },
+    {
+      "word": "conversa",
+      "startMs": 291085,
+      "endMs": 291515
+    },
+    {
+      "word": "honesta",
+      "startMs": 291538,
+      "endMs": 292061
+    },
+    {
+      "word": "com",
+      "startMs": 292107,
+      "endMs": 292200
+    },
+    {
+      "word": "alguém",
+      "startMs": 292246,
+      "endMs": 292537
+    },
+    {
+      "word": "de",
+      "startMs": 292595,
+      "endMs": 292653
+    },
+    {
+      "word": "confiança.",
+      "startMs": 292699,
+      "endMs": 293500
+    },
+    {
+      "word": "Um",
+      "startMs": 294174,
+      "endMs": 294278
+    },
+    {
+      "word": "pedido",
+      "startMs": 294324,
+      "endMs": 294742
+    },
+    {
+      "word": "de",
+      "startMs": 294789,
+      "endMs": 294859
+    },
+    {
+      "word": "perdão.",
+      "startMs": 294893,
+      "endMs": 295578
+    },
+    {
+      "word": "Um",
+      "startMs": 296159,
+      "endMs": 296263
+    },
+    {
+      "word": "limite",
+      "startMs": 296310,
+      "endMs": 296705
+    },
+    {
+      "word": "colocado",
+      "startMs": 296751,
+      "endMs": 297285
+    },
+    {
+      "word": "com",
+      "startMs": 297320,
+      "endMs": 297413
+    },
+    {
+      "word": "respeito.",
+      "startMs": 297459,
+      "endMs": 298144
+    },
+    {
+      "word": "Uma",
+      "startMs": 298736,
+      "endMs": 298887
+    },
+    {
+      "word": "ajuda",
+      "startMs": 298910,
+      "endMs": 299224
+    },
+    {
+      "word": "aceita.",
+      "startMs": 299247,
+      "endMs": 299839
+    },
+    {
+      "word": "Uma",
+      "startMs": 300513,
+      "endMs": 300687
+    },
+    {
+      "word": "porta",
+      "startMs": 300756,
+      "endMs": 301058
+    },
+    {
+      "word": "batida",
+      "startMs": 301105,
+      "endMs": 301755
+    },
+    {
+      "word": "quando",
+      "startMs": 302068,
+      "endMs": 302289
+    },
+    {
+      "word": "você",
+      "startMs": 302335,
+      "endMs": 302521
+    },
+    {
+      "word": "já",
+      "startMs": 302579,
+      "endMs": 302672
+    },
+    {
+      "word": "percebeu",
+      "startMs": 302730,
+      "endMs": 303194
+    },
+    {
+      "word": "que",
+      "startMs": 303229,
+      "endMs": 303311
+    },
+    {
+      "word": "sozinha",
+      "startMs": 303357,
+      "endMs": 303938
+    },
+    {
+      "word": "não",
+      "startMs": 304437,
+      "endMs": 304611
+    },
+    {
+      "word": "está",
+      "startMs": 304646,
+      "endMs": 304820
+    },
+    {
+      "word": "conseguindo",
+      "startMs": 304878,
+      "endMs": 305435
+    },
+    {
+      "word": "atravessar",
+      "startMs": 305551,
+      "endMs": 306213
+    },
+    {
+      "word": "aquele",
+      "startMs": 306259,
+      "endMs": 306480
+    },
+    {
+      "word": "momento.",
+      "startMs": 306515,
+      "endMs": 307095
+    },
+    {
+      "word": "Nem",
+      "startMs": 307769,
+      "endMs": 307931
+    },
+    {
+      "word": "toda",
+      "startMs": 307989,
+      "endMs": 308175
+    },
+    {
+      "word": "pessoa",
+      "startMs": 308210,
+      "endMs": 308639
+    },
+    {
+      "word": "saberá",
+      "startMs": 308686,
+      "endMs": 309034
+    },
+    {
+      "word": "carregar",
+      "startMs": 309092,
+      "endMs": 309522
+    },
+    {
+      "word": "uma",
+      "startMs": 309568,
+      "endMs": 309707
+    },
+    {
+      "word": "parte",
+      "startMs": 309789,
+      "endMs": 310172
+    },
+    {
+      "word": "do",
+      "startMs": 310218,
+      "endMs": 310288
+    },
+    {
+      "word": "seu",
+      "startMs": 310346,
+      "endMs": 310485
+    },
+    {
+      "word": "peso.",
+      "startMs": 310555,
+      "endMs": 311089
+    },
+    {
+      "word": "Por",
+      "startMs": 311670,
+      "endMs": 311855
+    },
+    {
+      "word": "isso,",
+      "startMs": 311913,
+      "endMs": 312250
+    },
+    {
+      "word": "sabedoria",
+      "startMs": 312842,
+      "endMs": 313423
+    },
+    {
+      "word": "também",
+      "startMs": 313469,
+      "endMs": 313887
+    },
+    {
+      "word": "é",
+      "startMs": 314119,
+      "endMs": 314201
+    },
+    {
+      "word": "escolher",
+      "startMs": 314247,
+      "endMs": 314781
+    },
+    {
+      "word": "com",
+      "startMs": 314839,
+      "endMs": 314978
+    },
+    {
+      "word": "quem",
+      "startMs": 315083,
+      "endMs": 315280
+    },
+    {
+      "word": "dividir.",
+      "startMs": 315338,
+      "endMs": 316000
+    },
+    {
+      "word": "Mas",
+      "startMs": 316581,
+      "endMs": 316755
+    },
+    {
+      "word": "guardar",
+      "startMs": 316801,
+      "endMs": 317173
+    },
+    {
+      "word": "tudo",
+      "startMs": 317254,
+      "endMs": 317533
+    },
+    {
+      "word": "por",
+      "startMs": 317591,
+      "endMs": 317753
+    },
+    {
+      "word": "medo",
+      "startMs": 317846,
+      "endMs": 318125
+    },
+    {
+      "word": "de",
+      "startMs": 318183,
+      "endMs": 318241
+    },
+    {
+      "word": "incomodar",
+      "startMs": 318287,
+      "endMs": 318821
+    },
+    {
+      "word": "os",
+      "startMs": 318879,
+      "endMs": 318937
+    },
+    {
+      "word": "outros",
+      "startMs": 319053,
+      "endMs": 319437
+    },
+    {
+      "word": "não",
+      "startMs": 320017,
+      "endMs": 320180
+    },
+    {
+      "word": "é",
+      "startMs": 320226,
+      "endMs": 320273
+    },
+    {
+      "word": "o",
+      "startMs": 320319,
+      "endMs": 320342
+    },
+    {
+      "word": "único",
+      "startMs": 320389,
+      "endMs": 320702
+    },
+    {
+      "word": "caminho",
+      "startMs": 320749,
+      "endMs": 321120
+    },
+    {
+      "word": "possível.",
+      "startMs": 321178,
+      "endMs": 321852
+    },
+    {
+      "word": "Pedir",
+      "startMs": 322432,
+      "endMs": 322769
+    },
+    {
+      "word": "ajuda",
+      "startMs": 322815,
+      "endMs": 323338
+    },
+    {
+      "word": "não",
+      "startMs": 323825,
+      "endMs": 323999
+    },
+    {
+      "word": "diminui",
+      "startMs": 324034,
+      "endMs": 324429
+    },
+    {
+      "word": "a",
+      "startMs": 324475,
+      "endMs": 324499
+    },
+    {
+      "word": "sua",
+      "startMs": 324557,
+      "endMs": 324719
+    },
+    {
+      "word": "fé.",
+      "startMs": 324801,
+      "endMs": 325242
+    },
+    {
+      "word": "Em",
+      "startMs": 326020,
+      "endMs": 326171
+    },
+    {
+      "word": "muitos",
+      "startMs": 326194,
+      "endMs": 326380
+    },
+    {
+      "word": "momentos,",
+      "startMs": 326438,
+      "endMs": 326902
+    },
+    {
+      "word": "é",
+      "startMs": 326925,
+      "endMs": 326948
+    },
+    {
+      "word": "justamente",
+      "startMs": 327006,
+      "endMs": 327529
+    },
+    {
+      "word": "uma",
+      "startMs": 327552,
+      "endMs": 327680
+    },
+    {
+      "word": "forma",
+      "startMs": 327796,
+      "endMs": 328167
+    },
+    {
+      "word": "de",
+      "startMs": 328214,
+      "endMs": 328284
+    },
+    {
+      "word": "reconhecer",
+      "startMs": 328330,
+      "endMs": 328957
+    },
+    {
+      "word": "que",
+      "startMs": 329015,
+      "endMs": 329085
+    },
+    {
+      "word": "Deus",
+      "startMs": 329178,
+      "endMs": 329421
+    },
+    {
+      "word": "também",
+      "startMs": 329468,
+      "endMs": 329816
+    },
+    {
+      "word": "cuida",
+      "startMs": 329863,
+      "endMs": 330141
+    },
+    {
+      "word": "de",
+      "startMs": 330199,
+      "endMs": 330257
+    },
+    {
+      "word": "nós",
+      "startMs": 330304,
+      "endMs": 330617
+    },
+    {
+      "word": "por",
+      "startMs": 331000,
+      "endMs": 331198
+    },
+    {
+      "word": "meio",
+      "startMs": 331267,
+      "endMs": 331418
+    },
+    {
+      "word": "de",
+      "startMs": 331453,
+      "endMs": 331511
+    },
+    {
+      "word": "pessoas,",
+      "startMs": 331558,
+      "endMs": 332405
+    },
+    {
+      "word": "de",
+      "startMs": 332777,
+      "endMs": 332846
+    },
+    {
+      "word": "conversas",
+      "startMs": 332904,
+      "endMs": 333438
+    },
+    {
+      "word": "sinceras",
+      "startMs": 333462,
+      "endMs": 334170
+    },
+    {
+      "word": "e",
+      "startMs": 334599,
+      "endMs": 334750
+    },
+    {
+      "word": "de",
+      "startMs": 334808,
+      "endMs": 334878
+    },
+    {
+      "word": "apoio",
+      "startMs": 334913,
+      "endMs": 335250
+    },
+    {
+      "word": "concreto.",
+      "startMs": 335284,
+      "endMs": 335958
+    },
+    {
+      "word": "Pedro",
+      "startMs": 336445,
+      "endMs": 336770
+    },
+    {
+      "word": "escreve:",
+      "startMs": 336794,
+      "endMs": 337479
+    },
+    {
+      "word": "Lançando",
+      "startMs": 337908,
+      "endMs": 338500
+    },
+    {
+      "word": "a",
+      "startMs": 350412,
+      "endMs": 350435
+    },
+    {
+      "word": "ansiedade",
+      "startMs": 350458,
+      "endMs": 351167
+    },
+    {
+      "word": "a",
+      "startMs": 351201,
+      "endMs": 351213
+    },
+    {
+      "word": "Deus",
+      "startMs": 351306,
+      "endMs": 351643
+    },
+    {
+      "word": "não",
+      "startMs": 351828,
+      "endMs": 351991
+    },
+    {
+      "word": "é",
+      "startMs": 352037,
+      "endMs": 352072
+    },
+    {
+      "word": "fingir",
+      "startMs": 352130,
+      "endMs": 352606
+    },
+    {
+      "word": "que",
+      "startMs": 352664,
+      "endMs": 352757
+    },
+    {
+      "word": "ela",
+      "startMs": 352780,
+      "endMs": 352908
+    },
+    {
+      "word": "não",
+      "startMs": 352955,
+      "endMs": 353082
+    },
+    {
+      "word": "existe.",
+      "startMs": 353117,
+      "endMs": 353721
+    },
+    {
+      "word": "Não",
+      "startMs": 354266,
+      "endMs": 354406
+    },
+    {
+      "word": "é",
+      "startMs": 354452,
+      "endMs": 354487
+    },
+    {
+      "word": "repetir",
+      "startMs": 354510,
+      "endMs": 354905
+    },
+    {
+      "word": "palavras",
+      "startMs": 354928,
+      "endMs": 355335
+    },
+    {
+      "word": "bonitas",
+      "startMs": 355404,
+      "endMs": 355938
+    },
+    {
+      "word": "até",
+      "startMs": 356287,
+      "endMs": 356542
+    },
+    {
+      "word": "que",
+      "startMs": 356588,
+      "endMs": 356647
+    },
+    {
+      "word": "a",
+      "startMs": 356681,
+      "endMs": 356705
+    },
+    {
+      "word": "dor",
+      "startMs": 356751,
+      "endMs": 356890
+    },
+    {
+      "word": "se",
+      "startMs": 356937,
+      "endMs": 357030
+    },
+    {
+      "word": "cale.",
+      "startMs": 357076,
+      "endMs": 357506
+    },
+    {
+      "word": "Não",
+      "startMs": 358051,
+      "endMs": 358202
+    },
+    {
+      "word": "é",
+      "startMs": 358249,
+      "endMs": 358284
+    },
+    {
+      "word": "usar",
+      "startMs": 358330,
+      "endMs": 358574
+    },
+    {
+      "word": "a",
+      "startMs": 358609,
+      "endMs": 358632
+    },
+    {
+      "word": "fé",
+      "startMs": 358737,
+      "endMs": 359004
+    },
+    {
+      "word": "para",
+      "startMs": 359340,
+      "endMs": 359549
+    },
+    {
+      "word": "calar",
+      "startMs": 359607,
+      "endMs": 359933
+    },
+    {
+      "word": "uma",
+      "startMs": 359967,
+      "endMs": 360072
+    },
+    {
+      "word": "conversa",
+      "startMs": 360118,
+      "endMs": 360745
+    },
+    {
+      "word": "necessária",
+      "startMs": 361094,
+      "endMs": 361871
+    },
+    {
+      "word": "ou",
+      "startMs": 362464,
+      "endMs": 362603
+    },
+    {
+      "word": "adiar",
+      "startMs": 362661,
+      "endMs": 363044
+    },
+    {
+      "word": "uma",
+      "startMs": 363079,
+      "endMs": 363172
+    },
+    {
+      "word": "decisão",
+      "startMs": 363218,
+      "endMs": 363590
+    },
+    {
+      "word": "importante.",
+      "startMs": 363625,
+      "endMs": 364449
+    },
+    {
+      "word": "Entregar",
+      "startMs": 364878,
+      "endMs": 365552
+    },
+    {
+      "word": "é",
+      "startMs": 366132,
+      "endMs": 366248
+    },
+    {
+      "word": "parar",
+      "startMs": 366330,
+      "endMs": 366655
+    },
+    {
+      "word": "de",
+      "startMs": 366701,
+      "endMs": 366771
+    },
+    {
+      "word": "tratar",
+      "startMs": 366817,
+      "endMs": 367386
+    },
+    {
+      "word": "como",
+      "startMs": 367758,
+      "endMs": 368025
+    },
+    {
+      "word": "sua",
+      "startMs": 368094,
+      "endMs": 368454
+    },
+    {
+      "word": "aquilo",
+      "startMs": 369139,
+      "endMs": 369511
+    },
+    {
+      "word": "que",
+      "startMs": 369557,
+      "endMs": 369662
+    },
+    {
+      "word": "nunca",
+      "startMs": 369743,
+      "endMs": 370022
+    },
+    {
+      "word": "esteve",
+      "startMs": 370056,
+      "endMs": 370474
+    },
+    {
+      "word": "sob",
+      "startMs": 370544,
+      "endMs": 370753
+    },
+    {
+      "word": "o",
+      "startMs": 370811,
+      "endMs": 370834
+    },
+    {
+      "word": "seu",
+      "startMs": 370892,
+      "endMs": 371032
+    },
+    {
+      "word": "domínio.",
+      "startMs": 371078,
+      "endMs": 371647
+    },
+    {
+      "word": "É",
+      "startMs": 372239,
+      "endMs": 372297
+    },
+    {
+      "word": "dizer",
+      "startMs": 372367,
+      "endMs": 372645
+    },
+    {
+      "word": "com",
+      "startMs": 372704,
+      "endMs": 372831
+    },
+    {
+      "word": "sinceridade:",
+      "startMs": 372878,
+      "endMs": 373725
+    },
+    {
+      "word": "Deus,",
+      "startMs": 374224,
+      "endMs": 374782
+    },
+    {
+      "word": "eu",
+      "startMs": 375026,
+      "endMs": 375130
+    },
+    {
+      "word": "não",
+      "startMs": 375176,
+      "endMs": 375293
+    },
+    {
+      "word": "consigo",
+      "startMs": 375339,
+      "endMs": 375803
+    },
+    {
+      "word": "prever",
+      "startMs": 375827,
+      "endMs": 376117
+    },
+    {
+      "word": "tudo.",
+      "startMs": 376187,
+      "endMs": 376604
+    },
+    {
+      "word": "Eu",
+      "startMs": 377197,
+      "endMs": 377301
+    },
+    {
+      "word": "não",
+      "startMs": 377324,
+      "endMs": 377417
+    },
+    {
+      "word": "consigo",
+      "startMs": 377464,
+      "endMs": 377940
+    },
+    {
+      "word": "salvar",
+      "startMs": 377986,
+      "endMs": 378427
+    },
+    {
+      "word": "todo",
+      "startMs": 378509,
+      "endMs": 378718
+    },
+    {
+      "word": "mundo.",
+      "startMs": 378764,
+      "endMs": 379170
+    },
+    {
+      "word": "Eu",
+      "startMs": 379600,
+      "endMs": 379716
+    },
+    {
+      "word": "não",
+      "startMs": 379751,
+      "endMs": 379855
+    },
+    {
+      "word": "consigo",
+      "startMs": 379902,
+      "endMs": 380482
+    },
+    {
+      "word": "resolver",
+      "startMs": 380796,
+      "endMs": 381295
+    },
+    {
+      "word": "cada",
+      "startMs": 381365,
+      "endMs": 381620
+    },
+    {
+      "word": "parte",
+      "startMs": 381690,
+      "endMs": 382003
+    },
+    {
+      "word": "desta",
+      "startMs": 382050,
+      "endMs": 382305
+    },
+    {
+      "word": "história.",
+      "startMs": 382317,
+      "endMs": 382932
+    },
+    {
+      "word": "Mas",
+      "startMs": 383513,
+      "endMs": 383733
+    },
+    {
+      "word": "isto",
+      "startMs": 383838,
+      "endMs": 384140
+    },
+    {
+      "word": "está",
+      "startMs": 384383,
+      "endMs": 384708
+    },
+    {
+      "word": "diante",
+      "startMs": 384766,
+      "endMs": 385115
+    },
+    {
+      "word": "de",
+      "startMs": 385161,
+      "endMs": 385243
+    },
+    {
+      "word": "ti.",
+      "startMs": 385289,
+      "endMs": 385730
+    },
+    {
+      "word": "Talvez",
+      "startMs": 386311,
+      "endMs": 386659
+    },
+    {
+      "word": "essa",
+      "startMs": 386729,
+      "endMs": 386856
+    },
+    {
+      "word": "entrega",
+      "startMs": 386880,
+      "endMs": 387448
+    },
+    {
+      "word": "aconteça",
+      "startMs": 387948,
+      "endMs": 388679
+    },
+    {
+      "word": "em",
+      "startMs": 389051,
+      "endMs": 389190
+    },
+    {
+      "word": "uma",
+      "startMs": 389248,
+      "endMs": 389492
+    },
+    {
+      "word": "oração",
+      "startMs": 389608,
+      "endMs": 390119
+    },
+    {
+      "word": "curta,",
+      "startMs": 390177,
+      "endMs": 390711
+    },
+    {
+      "word": "no",
+      "startMs": 391140,
+      "endMs": 391245
+    },
+    {
+      "word": "meio",
+      "startMs": 391291,
+      "endMs": 391454
+    },
+    {
+      "word": "de",
+      "startMs": 391489,
+      "endMs": 391535
+    },
+    {
+      "word": "um",
+      "startMs": 391582,
+      "endMs": 391651
+    },
+    {
+      "word": "dia",
+      "startMs": 391709,
+      "endMs": 391860
+    },
+    {
+      "word": "comum.",
+      "startMs": 391895,
+      "endMs": 392406
+    },
+    {
+      "word": "Talvez",
+      "startMs": 392893,
+      "endMs": 393195
+    },
+    {
+      "word": "aconteça",
+      "startMs": 393253,
+      "endMs": 393776
+    },
+    {
+      "word": "quando",
+      "startMs": 393822,
+      "endMs": 393996
+    },
+    {
+      "word": "você",
+      "startMs": 394043,
+      "endMs": 394263
+    },
+    {
+      "word": "para",
+      "startMs": 394368,
+      "endMs": 394635
+    },
+    {
+      "word": "de",
+      "startMs": 394705,
+      "endMs": 394798
+    },
+    {
+      "word": "alimentar",
+      "startMs": 394832,
+      "endMs": 395390
+    },
+    {
+      "word": "uma",
+      "startMs": 395436,
+      "endMs": 395564
+    },
+    {
+      "word": "culpa",
+      "startMs": 395633,
+      "endMs": 396075
+    },
+    {
+      "word": "antiga.",
+      "startMs": 396493,
+      "endMs": 397248
+    },
+    {
+      "word": "Talvez",
+      "startMs": 397735,
+      "endMs": 398049
+    },
+    {
+      "word": "aconteça",
+      "startMs": 398107,
+      "endMs": 398618
+    },
+    {
+      "word": "quando",
+      "startMs": 398676,
+      "endMs": 398885
+    },
+    {
+      "word": "aceita",
+      "startMs": 398943,
+      "endMs": 399395
+    },
+    {
+      "word": "que",
+      "startMs": 399453,
+      "endMs": 399558
+    },
+    {
+      "word": "uma",
+      "startMs": 399581,
+      "endMs": 399697
+    },
+    {
+      "word": "pessoa",
+      "startMs": 399744,
+      "endMs": 400255
+    },
+    {
+      "word": "que",
+      "startMs": 400301,
+      "endMs": 400394
+    },
+    {
+      "word": "você",
+      "startMs": 400440,
+      "endMs": 400731
+    },
+    {
+      "word": "ama",
+      "startMs": 400835,
+      "endMs": 401125
+    },
+    {
+      "word": "também",
+      "startMs": 401497,
+      "endMs": 401915
+    },
+    {
+      "word": "precisa",
+      "startMs": 401961,
+      "endMs": 402460
+    },
+    {
+      "word": "fazer",
+      "startMs": 402518,
+      "endMs": 402855
+    },
+    {
+      "word": "as",
+      "startMs": 402913,
+      "endMs": 402994
+    },
+    {
+      "word": "próprias",
+      "startMs": 403111,
+      "endMs": 403563
+    },
+    {
+      "word": "escolhas.",
+      "startMs": 403645,
+      "endMs": 404446
+    },
+    {
+      "word": "E,",
+      "startMs": 405038,
+      "endMs": 405189
+    },
+    {
+      "word": "em",
+      "startMs": 405212,
+      "endMs": 405282
+    },
+    {
+      "word": "alguns",
+      "startMs": 405351,
+      "endMs": 405595
+    },
+    {
+      "word": "casos,",
+      "startMs": 405688,
+      "endMs": 406292
+    },
+    {
+      "word": "essa",
+      "startMs": 406617,
+      "endMs": 406849
+    },
+    {
+      "word": "entrega",
+      "startMs": 406872,
+      "endMs": 407302
+    },
+    {
+      "word": "também",
+      "startMs": 407360,
+      "endMs": 407662
+    },
+    {
+      "word": "inclui",
+      "startMs": 407708,
+      "endMs": 408033
+    },
+    {
+      "word": "procurar",
+      "startMs": 408091,
+      "endMs": 408556
+    },
+    {
+      "word": "ajuda",
+      "startMs": 408614,
+      "endMs": 409020
+    },
+    {
+      "word": "séria:",
+      "startMs": 409101,
+      "endMs": 409647
+    },
+    {
+      "word": "conversar",
+      "startMs": 410019,
+      "endMs": 410622
+    },
+    {
+      "word": "com",
+      "startMs": 410657,
+      "endMs": 410750
+    },
+    {
+      "word": "alguém",
+      "startMs": 410808,
+      "endMs": 411052
+    },
+    {
+      "word": "maduro,",
+      "startMs": 411075,
+      "endMs": 411795
+    },
+    {
+      "word": "buscar",
+      "startMs": 412306,
+      "endMs": 412689
+    },
+    {
+      "word": "acompanhamento",
+      "startMs": 412735,
+      "endMs": 413478
+    },
+    {
+      "word": "profissional",
+      "startMs": 413548,
+      "endMs": 414314
+    },
+    {
+      "word": "ou",
+      "startMs": 414814,
+      "endMs": 414953
+    },
+    {
+      "word": "acionar",
+      "startMs": 415023,
+      "endMs": 415568
+    },
+    {
+      "word": "uma",
+      "startMs": 415940,
+      "endMs": 416195
+    },
+    {
+      "word": "rede",
+      "startMs": 416265,
+      "endMs": 416578
+    },
+    {
+      "word": "de",
+      "startMs": 416636,
+      "endMs": 416706
+    },
+    {
+      "word": "proteção.",
+      "startMs": 416752,
+      "endMs": 417519
+    },
+    {
+      "word": "Isso",
+      "startMs": 418099,
+      "endMs": 418297
+    },
+    {
+      "word": "não",
+      "startMs": 418331,
+      "endMs": 418436
+    },
+    {
+      "word": "compete",
+      "startMs": 418482,
+      "endMs": 418935
+    },
+    {
+      "word": "com",
+      "startMs": 418982,
+      "endMs": 419063
+    },
+    {
+      "word": "a",
+      "startMs": 419109,
+      "endMs": 419132
+    },
+    {
+      "word": "fé.",
+      "startMs": 419214,
+      "endMs": 419585
+    },
+    {
+      "word": "Cuidar",
+      "startMs": 420166,
+      "endMs": 420595
+    },
+    {
+      "word": "da",
+      "startMs": 420665,
+      "endMs": 420770
+    },
+    {
+      "word": "vida",
+      "startMs": 420839,
+      "endMs": 421246
+    },
+    {
+      "word": "que",
+      "startMs": 421919,
+      "endMs": 422035
+    },
+    {
+      "word": "Deus",
+      "startMs": 422128,
+      "endMs": 422290
+    },
+    {
+      "word": "confiou",
+      "startMs": 422372,
+      "endMs": 422801
+    },
+    {
+      "word": "a",
+      "startMs": 422871,
+      "endMs": 422894
+    },
+    {
+      "word": "você",
+      "startMs": 422952,
+      "endMs": 423231
+    },
+    {
+      "word": "também",
+      "startMs": 423347,
+      "endMs": 423800
+    },
+    {
+      "word": "é",
+      "startMs": 424171,
+      "endMs": 424276
+    },
+    {
+      "word": "uma",
+      "startMs": 424311,
+      "endMs": 424461
+    },
+    {
+      "word": "forma",
+      "startMs": 424566,
+      "endMs": 424891
+    },
+    {
+      "word": "de",
+      "startMs": 424949,
+      "endMs": 425042
+    },
+    {
+      "word": "responsabilidade.",
+      "startMs": 425100,
+      "endMs": 426191
+    },
+    {
+      "word": "Hoje,",
+      "startMs": 426551,
+      "endMs": 426911
+    },
+    {
+      "word": "talvez",
+      "startMs": 426934,
+      "endMs": 427225
+    },
+    {
+      "word": "você",
+      "startMs": 427271,
+      "endMs": 427492
+    },
+    {
+      "word": "não",
+      "startMs": 427585,
+      "endMs": 427689
+    },
+    {
+      "word": "consiga",
+      "startMs": 427724,
+      "endMs": 428223
+    },
+    {
+      "word": "resolver",
+      "startMs": 428270,
+      "endMs": 428780
+    },
+    {
+      "word": "todos",
+      "startMs": 429094,
+      "endMs": 429477
+    },
+    {
+      "word": "os",
+      "startMs": 429547,
+      "endMs": 429616
+    },
+    {
+      "word": "pesos",
+      "startMs": 429744,
+      "endMs": 430092
+    },
+    {
+      "word": "que",
+      "startMs": 430162,
+      "endMs": 430243
+    },
+    {
+      "word": "carrega.",
+      "startMs": 430290,
+      "endMs": 430847
+    },
+    {
+      "word": "E",
+      "startMs": 431427,
+      "endMs": 431520
+    },
+    {
+      "word": "tudo",
+      "startMs": 431590,
+      "endMs": 431764
+    },
+    {
+      "word": "bem.",
+      "startMs": 431811,
+      "endMs": 432147
+    },
+    {
+      "word": "Este",
+      "startMs": 432925,
+      "endMs": 433181
+    },
+    {
+      "word": "vídeo",
+      "startMs": 433250,
+      "endMs": 433494
+    },
+    {
+      "word": "não",
+      "startMs": 433552,
+      "endMs": 433691
+    },
+    {
+      "word": "é",
+      "startMs": 433738,
+      "endMs": 433784
+    },
+    {
+      "word": "uma",
+      "startMs": 433808,
+      "endMs": 433947
+    },
+    {
+      "word": "fórmula",
+      "startMs": 434063,
+      "endMs": 434574
+    },
+    {
+      "word": "para",
+      "startMs": 435085,
+      "endMs": 435294
+    },
+    {
+      "word": "uma",
+      "startMs": 435317,
+      "endMs": 435433
+    },
+    {
+      "word": "vida",
+      "startMs": 435479,
+      "endMs": 435700
+    },
+    {
+      "word": "leve",
+      "startMs": 435770,
+      "endMs": 436188
+    },
+    {
+      "word": "de",
+      "startMs": 436513,
+      "endMs": 436582
+    },
+    {
+      "word": "um",
+      "startMs": 436640,
+      "endMs": 436710
+    },
+    {
+      "word": "dia",
+      "startMs": 436780,
+      "endMs": 436977
+    },
+    {
+      "word": "para",
+      "startMs": 437024,
+      "endMs": 437209
+    },
+    {
+      "word": "o",
+      "startMs": 437233,
+      "endMs": 437256
+    },
+    {
+      "word": "outro.",
+      "startMs": 437325,
+      "endMs": 437732
+    },
+    {
+      "word": "o",
+      "startMs": 443769,
+      "endMs": 443827
+    },
+    {
+      "word": "que",
+      "startMs": 443897,
+      "endMs": 443990
+    },
+    {
+      "word": "realmente",
+      "startMs": 444048,
+      "endMs": 444477
+    },
+    {
+      "word": "é",
+      "startMs": 444512,
+      "endMs": 444535
+    },
+    {
+      "word": "sua",
+      "startMs": 444593,
+      "endMs": 444791
+    },
+    {
+      "word": "responsabilidade",
+      "startMs": 444849,
+      "endMs": 445777
+    },
+    {
+      "word": "hoje?",
+      "startMs": 445801,
+      "endMs": 446253
+    },
+    {
+      "word": "Não",
+      "startMs": 446950,
+      "endMs": 447136
+    },
+    {
+      "word": "a",
+      "startMs": 447171,
+      "endMs": 447194
+    },
+    {
+      "word": "responsabilidade",
+      "startMs": 447240,
+      "endMs": 448099
+    },
+    {
+      "word": "de",
+      "startMs": 448157,
+      "endMs": 448216
+    },
+    {
+      "word": "amanhã.",
+      "startMs": 448239,
+      "endMs": 448761
+    },
+    {
+      "word": "Não",
+      "startMs": 449574,
+      "endMs": 449748
+    },
+    {
+      "word": "a",
+      "startMs": 449783,
+      "endMs": 449806
+    },
+    {
+      "word": "responsabilidade",
+      "startMs": 449852,
+      "endMs": 450758
+    },
+    {
+      "word": "imaginada.",
+      "startMs": 450781,
+      "endMs": 451582
+    },
+    {
+      "word": "Não",
+      "startMs": 452279,
+      "endMs": 452453
+    },
+    {
+      "word": "a",
+      "startMs": 452500,
+      "endMs": 452523
+    },
+    {
+      "word": "responsabilidade",
+      "startMs": 452581,
+      "endMs": 453452
+    },
+    {
+      "word": "que",
+      "startMs": 453521,
+      "endMs": 453626
+    },
+    {
+      "word": "outra",
+      "startMs": 453672,
+      "endMs": 453870
+    },
+    {
+      "word": "pessoa",
+      "startMs": 453904,
+      "endMs": 454346
+    },
+    {
+      "word": "colocou",
+      "startMs": 454392,
+      "endMs": 454868
+    },
+    {
+      "word": "sobre",
+      "startMs": 454938,
+      "endMs": 455170
+    },
+    {
+      "word": "você",
+      "startMs": 455216,
+      "endMs": 455588
+    },
+    {
+      "word": "sem",
+      "startMs": 456087,
+      "endMs": 456331
+    },
+    {
+      "word": "que",
+      "startMs": 456377,
+      "endMs": 456447
+    },
+    {
+      "word": "você",
+      "startMs": 456505,
+      "endMs": 456749
+    },
+    {
+      "word": "percebesse.",
+      "startMs": 456865,
+      "endMs": 457620
+    },
+    {
+      "word": "O",
+      "startMs": 458200,
+      "endMs": 458316
+    },
+    {
+      "word": "que,",
+      "startMs": 458409,
+      "endMs": 458525
+    },
+    {
+      "word": "de",
+      "startMs": 458548,
+      "endMs": 458618
+    },
+    {
+      "word": "fato,",
+      "startMs": 458699,
+      "endMs": 459199
+    },
+    {
+      "word": "está",
+      "startMs": 459512,
+      "endMs": 459791
+    },
+    {
+      "word": "nas",
+      "startMs": 459860,
+      "endMs": 459988
+    },
+    {
+      "word": "suas",
+      "startMs": 460023,
+      "endMs": 460232
+    },
+    {
+      "word": "mãos",
+      "startMs": 460313,
+      "endMs": 460487
+    },
+    {
+      "word": "agora?",
+      "startMs": 460545,
+      "endMs": 461068
+    },
+    {
+      "word": "Segundo:",
+      "startMs": 461439,
+      "endMs": 462101
+    },
+    {
+      "word": "o",
+      "startMs": 462345,
+      "endMs": 462391
+    },
+    {
+      "word": "que",
+      "startMs": 462449,
+      "endMs": 462531
+    },
+    {
+      "word": "precisa",
+      "startMs": 462577,
+      "endMs": 463007
+    },
+    {
+      "word": "ser",
+      "startMs": 463076,
+      "endMs": 463216
+    },
+    {
+      "word": "entregue",
+      "startMs": 463274,
+      "endMs": 463726
+    },
+    {
+      "word": "a",
+      "startMs": 463761,
+      "endMs": 463784
+    },
+    {
+      "word": "Deus",
+      "startMs": 463877,
+      "endMs": 464249
+    },
+    {
+      "word": "porque",
+      "startMs": 464609,
+      "endMs": 464899
+    },
+    {
+      "word": "foge",
+      "startMs": 465004,
+      "endMs": 465514
+    },
+    {
+      "word": "do",
+      "startMs": 465886,
+      "endMs": 465990
+    },
+    {
+      "word": "seu",
+      "startMs": 466048,
+      "endMs": 466176
+    },
+    {
+      "word": "controle?",
+      "startMs": 466211,
+      "endMs": 466873
+    },
+    {
+      "word": "Um",
+      "startMs": 467952,
+      "endMs": 468115
+    },
+    {
+      "word": "resultado.",
+      "startMs": 468150,
+      "endMs": 468846
+    },
+    {
+      "word": "Uma",
+      "startMs": 469520,
+      "endMs": 469682
+    },
+    {
+      "word": "resposta",
+      "startMs": 469740,
+      "endMs": 470274
+    },
+    {
+      "word": "que",
+      "startMs": 470333,
+      "endMs": 470402
+    },
+    {
+      "word": "ainda",
+      "startMs": 470425,
+      "endMs": 470692
+    },
+    {
+      "word": "não",
+      "startMs": 470774,
+      "endMs": 470925
+    },
+    {
+      "word": "chegou.",
+      "startMs": 470971,
+      "endMs": 471482
+    },
+    {
+      "word": "Uma",
+      "startMs": 472144,
+      "endMs": 472271
+    },
+    {
+      "word": "mudança",
+      "startMs": 472318,
+      "endMs": 472759
+    },
+    {
+      "word": "de",
+      "startMs": 472817,
+      "endMs": 472887
+    },
+    {
+      "word": "outra",
+      "startMs": 472945,
+      "endMs": 473154
+    },
+    {
+      "word": "pessoa.",
+      "startMs": 473189,
+      "endMs": 473874
+    },
+    {
+      "word": "Um",
+      "startMs": 474640,
+      "endMs": 474814
+    },
+    {
+      "word": "medo",
+      "startMs": 474860,
+      "endMs": 475302
+    },
+    {
+      "word": "que",
+      "startMs": 475870,
+      "endMs": 475975
+    },
+    {
+      "word": "volta",
+      "startMs": 476045,
+      "endMs": 476358
+    },
+    {
+      "word": "sempre.",
+      "startMs": 476451,
+      "endMs": 476985
+    },
+    {
+      "word": "Você",
+      "startMs": 477554,
+      "endMs": 477763
+    },
+    {
+      "word": "não",
+      "startMs": 477809,
+      "endMs": 477891
+    },
+    {
+      "word": "precisa",
+      "startMs": 477914,
+      "endMs": 478378
+    },
+    {
+      "word": "carregar",
+      "startMs": 478448,
+      "endMs": 478866
+    },
+    {
+      "word": "essas",
+      "startMs": 478912,
+      "endMs": 479133
+    },
+    {
+      "word": "coisas",
+      "startMs": 479226,
+      "endMs": 479667
+    },
+    {
+      "word": "como",
+      "startMs": 480073,
+      "endMs": 480305
+    },
+    {
+      "word": "se",
+      "startMs": 480352,
+      "endMs": 480433
+    },
+    {
+      "word": "elas",
+      "startMs": 480456,
+      "endMs": 480631
+    },
+    {
+      "word": "fossem",
+      "startMs": 480700,
+      "endMs": 481014
+    },
+    {
+      "word": "prova",
+      "startMs": 481095,
+      "endMs": 481408
+    },
+    {
+      "word": "de",
+      "startMs": 481455,
+      "endMs": 481525
+    },
+    {
+      "word": "amor",
+      "startMs": 481559,
+      "endMs": 481919
+    },
+    {
+      "word": "ou",
+      "startMs": 482233,
+      "endMs": 482372
+    },
+    {
+      "word": "de",
+      "startMs": 482430,
+      "endMs": 482488
+    },
+    {
+      "word": "competência.",
+      "startMs": 482535,
+      "endMs": 483301
+    },
+    {
+      "word": "Terceiro:",
+      "startMs": 483870,
+      "endMs": 484601
+    },
+    {
+      "word": "qual",
+      "startMs": 485263,
+      "endMs": 485437
+    },
+    {
+      "word": "carga",
+      "startMs": 485518,
+      "endMs": 485855
+    },
+    {
+      "word": "precisa",
+      "startMs": 485901,
+      "endMs": 486343
+    },
+    {
+      "word": "ser",
+      "startMs": 486389,
+      "endMs": 486540
+    },
+    {
+      "word": "compartilhada?",
+      "startMs": 486598,
+      "endMs": 487596
+    },
+    {
+      "word": "Talvez",
+      "startMs": 488165,
+      "endMs": 488502
+    },
+    {
+      "word": "você",
+      "startMs": 488537,
+      "endMs": 488711
+    },
+    {
+      "word": "precise",
+      "startMs": 488769,
+      "endMs": 489082
+    },
+    {
+      "word": "falar.",
+      "startMs": 489117,
+      "endMs": 489582
+    },
+    {
+      "word": "Talvez",
+      "startMs": 490000,
+      "endMs": 490290
+    },
+    {
+      "word": "precise",
+      "startMs": 490325,
+      "endMs": 490615
+    },
+    {
+      "word": "pedir.",
+      "startMs": 490650,
+      "endMs": 491149
+    },
+    {
+      "word": "Talvez",
+      "startMs": 491799,
+      "endMs": 492113
+    },
+    {
+      "word": "precise",
+      "startMs": 492147,
+      "endMs": 492565
+    },
+    {
+      "word": "reconhecer",
+      "startMs": 492612,
+      "endMs": 493343
+    },
+    {
+      "word": "que",
+      "startMs": 493901,
+      "endMs": 494017
+    },
+    {
+      "word": "está",
+      "startMs": 494040,
+      "endMs": 494214
+    },
+    {
+      "word": "cansada",
+      "startMs": 494272,
+      "endMs": 494911
+    },
+    {
+      "word": "antes",
+      "startMs": 495015,
+      "endMs": 495421
+    },
+    {
+      "word": "que",
+      "startMs": 495491,
+      "endMs": 495700
+    },
+    {
+      "word": "o",
+      "startMs": 496176,
+      "endMs": 496292
+    },
+    {
+      "word": "cansaço",
+      "startMs": 496339,
+      "endMs": 496954
+    },
+    {
+      "word": "vire",
+      "startMs": 497000,
+      "endMs": 497209
+    },
+    {
+      "word": "dureza,",
+      "startMs": 497267,
+      "endMs": 497918
+    },
+    {
+      "word": "isolamento",
+      "startMs": 498394,
+      "endMs": 499021
+    },
+    {
+      "word": "ou",
+      "startMs": 499125,
+      "endMs": 499230
+    },
+    {
+      "word": "desespero.",
+      "startMs": 499264,
+      "endMs": 500031
+    },
+    {
+      "word": "Não",
+      "startMs": 500600,
+      "endMs": 500750
+    },
+    {
+      "word": "é",
+      "startMs": 500785,
+      "endMs": 500808
+    },
+    {
+      "word": "fraqueza",
+      "startMs": 500855,
+      "endMs": 501354
+    },
+    {
+      "word": "perceber",
+      "startMs": 501401,
+      "endMs": 501842
+    },
+    {
+      "word": "os",
+      "startMs": 501900,
+      "endMs": 501958
+    },
+    {
+      "word": "seus",
+      "startMs": 501981,
+      "endMs": 502120
+    },
+    {
+      "word": "limites.",
+      "startMs": 502167,
+      "endMs": 502852
+    },
+    {
+      "word": "Fraqueza",
+      "startMs": 503339,
+      "endMs": 503792
+    },
+    {
+      "word": "seria",
+      "startMs": 503839,
+      "endMs": 504106
+    },
+    {
+      "word": "continuar",
+      "startMs": 504164,
+      "endMs": 504826
+    },
+    {
+      "word": "exigindo",
+      "startMs": 505302,
+      "endMs": 505906
+    },
+    {
+      "word": "de",
+      "startMs": 505964,
+      "endMs": 506033
+    },
+    {
+      "word": "si",
+      "startMs": 506103,
+      "endMs": 506370
+    },
+    {
+      "word": "uma",
+      "startMs": 506939,
+      "endMs": 507148
+    },
+    {
+      "word": "onipotência",
+      "startMs": 507183,
+      "endMs": 508019
+    },
+    {
+      "word": "que",
+      "startMs": 508309,
+      "endMs": 508413
+    },
+    {
+      "word": "Deus",
+      "startMs": 508495,
+      "endMs": 508657
+    },
+    {
+      "word": "nunca",
+      "startMs": 508715,
+      "endMs": 508936
+    },
+    {
+      "word": "pediu",
+      "startMs": 508982,
+      "endMs": 509400
+    },
+    {
+      "word": "de",
+      "startMs": 509737,
+      "endMs": 509818
+    },
+    {
+      "word": "você.",
+      "startMs": 509876,
+      "endMs": 510399
+    },
+    {
+      "word": "um",
+      "startMs": 513719,
+      "endMs": 513765
+    },
+    {
+      "word": "convite",
+      "startMs": 513835,
+      "endMs": 514242
+    },
+    {
+      "word": "de",
+      "startMs": 514300,
+      "endMs": 514346
+    },
+    {
+      "word": "Jesus",
+      "startMs": 514392,
+      "endMs": 514903
+    },
+    {
+      "word": "para",
+      "startMs": 515240,
+      "endMs": 515449
+    },
+    {
+      "word": "os",
+      "startMs": 515472,
+      "endMs": 515519
+    },
+    {
+      "word": "cansados.",
+      "startMs": 515577,
+      "endMs": 516413
+    },
+    {
+      "word": "Há",
+      "startMs": 516703,
+      "endMs": 516807
+    },
+    {
+      "word": "uma",
+      "startMs": 516842,
+      "endMs": 516958
+    },
+    {
+      "word": "comunidade",
+      "startMs": 516993,
+      "endMs": 517574
+    },
+    {
+      "word": "chamada",
+      "startMs": 517608,
+      "endMs": 518131
+    },
+    {
+      "word": "a",
+      "startMs": 518421,
+      "endMs": 518479
+    },
+    {
+      "word": "levar",
+      "startMs": 518537,
+      "endMs": 518793
+    },
+    {
+      "word": "cargas",
+      "startMs": 518862,
+      "endMs": 519338
+    },
+    {
+      "word": "uns",
+      "startMs": 519582,
+      "endMs": 519779
+    },
+    {
+      "word": "dos",
+      "startMs": 519826,
+      "endMs": 519954
+    },
+    {
+      "word": "outros.",
+      "startMs": 520035,
+      "endMs": 520511
+    },
+    {
+      "word": "E",
+      "startMs": 520964,
+      "endMs": 521068
+    },
+    {
+      "word": "há",
+      "startMs": 521115,
+      "endMs": 521149
+    },
+    {
+      "word": "um",
+      "startMs": 521219,
+      "endMs": 521266
+    },
+    {
+      "word": "Deus",
+      "startMs": 521335,
+      "endMs": 521660
+    },
+    {
+      "word": "a",
+      "startMs": 522009,
+      "endMs": 522113
+    },
+    {
+      "word": "quem",
+      "startMs": 522183,
+      "endMs": 522322
+    },
+    {
+      "word": "você",
+      "startMs": 522369,
+      "endMs": 522554
+    },
+    {
+      "word": "pode",
+      "startMs": 522659,
+      "endMs": 522879
+    },
+    {
+      "word": "entregar",
+      "startMs": 522903,
+      "endMs": 523402
+    },
+    {
+      "word": "a",
+      "startMs": 523704,
+      "endMs": 523797
+    },
+    {
+      "word": "ansiedade,",
+      "startMs": 523832,
+      "endMs": 524725
+    },
+    {
+      "word": "porque",
+      "startMs": 525178,
+      "endMs": 525445
+    },
+    {
+      "word": "ele",
+      "startMs": 525469,
+      "endMs": 525573
+    },
+    {
+      "word": "cuida",
+      "startMs": 525619,
+      "endMs": 525898
+    },
+    {
+      "word": "de",
+      "startMs": 525933,
+      "endMs": 525979
+    },
+    {
+      "word": "você.",
+      "startMs": 526014,
+      "endMs": 526548
+    },
+    {
+      "word": "Que",
+      "startMs": 527500,
+      "endMs": 527628
+    },
+    {
+      "word": "hoje",
+      "startMs": 527663,
+      "endMs": 528046
+    },
+    {
+      "word": "você",
+      "startMs": 528743,
+      "endMs": 528986
+    },
+    {
+      "word": "consiga",
+      "startMs": 529056,
+      "endMs": 529590
+    },
+    {
+      "word": "soltar,",
+      "startMs": 529671,
+      "endMs": 530484
+    },
+    {
+      "word": "ainda",
+      "startMs": 531436,
+      "endMs": 531784
+    },
+    {
+      "word": "que",
+      "startMs": 531831,
+      "endMs": 531935
+    },
+    {
+      "word": "por",
+      "startMs": 531993,
+      "endMs": 532144
+    },
+    {
+      "word": "alguns",
+      "startMs": 532191,
+      "endMs": 532481
+    },
+    {
+      "word": "instantes,",
+      "startMs": 532562,
+      "endMs": 533375
+    },
+    {
+      "word": "aquilo",
+      "startMs": 533700,
+      "endMs": 534037
+    },
+    {
+      "word": "que",
+      "startMs": 534083,
+      "endMs": 534164
+    },
+    {
+      "word": "está",
+      "startMs": 534188,
+      "endMs": 534362
+    },
+    {
+      "word": "tentando",
+      "startMs": 534420,
+      "endMs": 534884
+    },
+    {
+      "word": "sustentar",
+      "startMs": 534931,
+      "endMs": 535569
+    },
+    {
+      "word": "só",
+      "startMs": 535662,
+      "endMs": 535848
+    },
+    {
+      "word": "com",
+      "startMs": 535917,
+      "endMs": 536045
+    },
+    {
+      "word": "as",
+      "startMs": 536103,
+      "endMs": 536173
+    },
+    {
+      "word": "próprias",
+      "startMs": 536266,
+      "endMs": 536661
+    },
+    {
+      "word": "forças.",
+      "startMs": 536753,
+      "endMs": 537485
+    }
+  ],
+  "audio": {
+    "narration": {
+      "src": "piloto-001/narracao-final-master.wav",
+      "volume": 1.0
+    }
+  },
+  "themeConfig": {
+    "primaryColor": "#31483C",
+    "accentColor": "#D7B56D",
+    "backgroundColor": "#F4EFE5",
+    "surfaceColor": "#E9E1D3",
+    "textColor": "#233129",
+    "mutedTextColor": "#66736B",
+    "headingFont": "Space Grotesk",
+    "bodyFont": "Space Grotesk",
+    "monoFont": "Consolas",
+    "chartColors": [
+      "#31483C",
+      "#D7B56D",
+      "#7A9185",
+      "#B86B4B"
+    ],
+    "springConfig": {
+      "damping": 22,
+      "stiffness": 105,
+      "mass": 1
+    },
+    "transitionDuration": 0.55,
+    "captionHighlightColor": "#F2C96D",
+    "captionBackgroundColor": "rgba(28, 39, 33, 0.78)"
+  }
+}

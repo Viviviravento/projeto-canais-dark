@@ -1,0 +1,40 @@
+schema_version: 1.0.0
+mode: exploratory_three
+deepened_first: mk-domestic
+theses:
+  - thesis_id: mk-domestic
+    origin: user_input
+    depth: deep
+    statement: Refeicoes brasileiras cotidianas, captadas com som limpo e sensacao de companhia de mesa, sem depender de porcoes extremas.
+    demand_evidence_refs:
+      - mk-global-demand-youtube
+      - mk-br-competitor-observation
+      - mk-current-global-observation
+    differentiation: Cotidiano brasileiro reconhecivel, alimento acessivel e companhia calma no lugar de espetaculo por excesso.
+    unresolved:
+      - publico demografico brasileiro
+      - desempenho relativo de fala versus ASMR puro
+      - duracao e enquadramento vencedores
+  - thesis_id: mk-regional-asmr
+    origin: proactive_research
+    depth: scan
+    statement: ASMR de pratos regionais brasileiros com foco em textura, preparo final e sons da refeicao.
+    demand_evidence_refs:
+      - mk-viewer-needs-youtube
+      - mk-br-competitor-observation
+    differentiation: Catalogo regional e explicacao textual de ingredientes, sem narracao continua.
+  - thesis_id: mk-challenge
+    origin: proactive_research
+    depth: scan
+    statement: Desafios de quantidade ou intensidade com comida.
+    demand_evidence_refs:
+      - mk-current-global-observation
+    differentiation: Ainda nao demonstrada para o Brasil.
+    risks:
+      - saude e incentivo a excesso
+      - custo de alimento e desperdicio
+      - dependencia de personalidade e performance humana
+decision:
+  selected_for_pilot_design: mk-domestic
+  reason: Tem demanda geral observavel, exemplo brasileiro relevante e uma diferenciacao testavel com menor risco operacional que desafios de excesso.
+

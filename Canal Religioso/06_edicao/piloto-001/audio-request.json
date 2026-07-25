@@ -1,0 +1,15 @@
+{
+  "voice_id": "iF2QszmZhlyFLleUoFxy",
+  "voice_name": "Bruno Cardoso",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.65,
+    "similarity_boost": 0.75,
+    "style": 0.0,
+    "speed": 1.0,
+    "use_speaker_boost": true
+  },
+  "characters": 6764,
+  "words": 1162,
+  "source_script": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\Canal Religioso\\02_roteiros\\piloto-001-roteiro-v0.md"
+}

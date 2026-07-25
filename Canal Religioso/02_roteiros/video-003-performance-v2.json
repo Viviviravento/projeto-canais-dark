@@ -1,0 +1,100 @@
+{
+  "version": "video-003-performance-v2",
+  "based_on": "video-003-performance-v1",
+  "source_script": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\Canal Religioso\\02_roteiros\\video-003-roteiro-v1.md",
+  "revision_reason": "Aplicar ao roteiro integral o método de escrita oral contínua aprovado na calibração v3, removendo cascatas de microfrases sem alterar a tese, as referências ou o sentido das citações.",
+  "performance_contract": {
+    "relationship": "Falar com uma pessoa, com proximidade e respeito, sem locução publicitária.",
+    "authority": "Autoridade pelo entendimento da mensagem, sem tom professoral ou superior.",
+    "interpretation": "Distinguir acolhimento, narrativa, lamento, confronto, limite do conhecimento, aplicação e conclusão.",
+    "intensity": "Sereno e grave, sem monotonia, melodrama religioso ou voz de trailer.",
+    "scripture": "Anunciar livro, capítulo e versículo; concluir a referência; ler o texto completo com reverência; somente então explicar.",
+    "pause_policy": "Sem break tags e sem pontuação artificial. Usar ideias completas, conectores, parágrafos semânticos e contexto anterior e posterior entre blocos.",
+    "cta": "Concluir a mensagem antes do convite; manter calor humano e abrir espaço para dois vídeos recomendados."
+  },
+  "oral_writing_method": {
+    "version": "0.1",
+    "approved_sample": "video-003-calibracao-performance-v3",
+    "rules": [
+      "Usar pontuação gramatical, sem tentar desenhar pausas com sinais repetidos.",
+      "Conservar causa, contraste e conclusão dentro de unidades de pensamento completas.",
+      "Evitar sequências de microfrases e fragmentos retóricos.",
+      "Usar conectores quando a continuidade lógica precisar ficar audível.",
+      "Manter citações bíblicas literais, completas e precedidas pela referência completa."
+    ]
+  },
+  "api": {
+    "provider": "ElevenLabs",
+    "voice_name": "Bruno Cardoso",
+    "voice_id": "iF2QszmZhlyFLleUoFxy",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 271828,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    }
+  },
+  "blocks": [
+    {
+      "id": "01-quando-fazer-tudo-certo",
+      "source_section": "01",
+      "title": "Quando fazer tudo certo não impede a dor",
+      "function": "Acolher a sensação de injustiça e formular a pergunta sem prometer uma resposta fácil.",
+      "text": "Há momentos em que a vida parece quebrar uma regra que conhecíamos. A pessoa tentou fazer o bem e, ainda assim, recebeu uma notícia que não merecia: uma doença, uma perda, uma injustiça ou uma porta fechada depois de anos de esforço.\n\nNessas horas, a dor já é pesada, mas pode ficar ainda pior quando alguém tenta explicá-la depressa, dizendo que talvez você não tenha confiado o bastante, que tenha feito alguma coisa errada ou que Deus esteja cobrando algo.\n\nO livro de Jó entra justamente nesse lugar. Ele não oferece uma frase curta para tornar o sofrimento aceitável e também não ensina que toda tragédia seja uma prova igual à de Jó. Em vez disso, o livro desmonta uma ideia perigosa: a de que podemos olhar para a dor de alguém e concluir o que essa pessoa fez para merecê-la."
+    },
+    {
+      "id": "02-o-dado-que-nao-podemos-apagar",
+      "source_section": "02",
+      "title": "O dado que não podemos apagar",
+      "function": "Fixar a integridade narrativa de Jó antes da calamidade e impedir inferência retroativa de culpa.",
+      "text": "O livro começa com um fato, antes de apresentar qualquer calamidade. Jó, capítulo um, versículo um, diz:\n\n“Havia um homem na terra de Uz, cujo nome era Jó; e era este homem íntegro, reto e temente a Deus e desviava-se do mal.”\n\nEssa informação governa a leitura, porque o narrador não deixa espaço para os amigos inventarem uma culpa secreta a fim de proteger uma fórmula. Jó não sofre porque o primeiro versículo o apresentou como perverso; ao contrário, ele é apresentado como íntegro antes de perder bens, empregados, filhos e saúde.\n\nNós conhecemos o prólogo, mas Jó e seus amigos, dentro da história, não conhecem. Eles enxergam apenas os escombros e tentam compreender o que aconteceu.\n\nIsso já corrige um hábito comum, pois a dor não funciona como um exame que revela automaticamente o caráter de uma pessoa. Há escolhas que produzem consequências, é claro, mas nem toda doença é castigo, nem todo luto é cobrança e nem toda injustiça sofrida prova uma culpa escondida."
+    },
+    {
+      "id": "03-sete-dias-de-presenca",
+      "source_section": "03",
+      "title": "Antes das respostas, sete dias de presença",
+      "function": "Mostrar o valor da presença e legitimar o lamento sem romantizar a dor.",
+      "text": "Antes de oferecer qualquer conselho, os amigos de Jó se sentam no chão ao lado dele. Em Jó, capítulo dois, versículo treze, lemos:\n\n“E assentaram-se com ele na terra, sete dias e sete noites; e nenhum lhe dizia palavra alguma, porque viam que a dor era muito grande.”\n\nO próprio texto explica esse silêncio: a dor era tão grande que, naquele momento, qualquer explicação seria pequena demais. Talvez seja por isso que o primeiro gesto de amor nem sempre seja oferecer uma resposta. Muitas vezes, amar é ficar, escutar, preparar uma refeição, acompanhar uma consulta ou permitir o choro sem transformar cada lágrima num problema teológico.\n\nDepois do silêncio, Jó finalmente fala. Jó, capítulo três, versículo um, diz:\n\n“Depois disto abriu Jó a sua boca, e amaldiçoou o seu dia.”\n\nEle não oferece um testemunho arrumado, mas lamenta ter nascido e descreve sua perturbação. O livro preserva essas palavras em vez de escondê-las, mostrando que fé não significa fingir que a perda foi pequena. Jó continua falando diante de Deus, mesmo quando sua fala nasce da ferida e chega carregada de perguntas.\n\nO problema começa depois, quando os amigos trocam presença por certezas e tentam explicar uma vida que não conhecem."
+    },
+    {
+      "id": "04-quando-o-consolo-vira-acusacao",
+      "source_section": "04",
+      "title": "Quando o consolo vira acusação",
+      "function": "Expor como uma fórmula religiosa pode aumentar o peso de quem sofre.",
+      "text": "O problema cresce quando os amigos abandonam a presença e passam a defender uma explicação. Eles partem da justiça de Deus, associam todo sofrimento à maldade e concluem que, se Jó está sofrendo, então deve ter cometido algum pecado escondido.\n\nAlgumas frases deles se parecem com verdades bíblicas, mas o defeito está no uso que fazem delas. Eles pegam princípios gerais e os transformam num diagnóstico sobre uma vida que não conhecem. Em vez de permitir que a experiência de Jó questione a fórmula, usam a fórmula para questionar Jó.\n\nPor isso ele responde em Jó, capítulo dezesseis, versículo dois:\n\n“Tenho ouvido muitas coisas como estas; todos vós sois consoladores molestos.”\n\nUm consolador molesto aumenta o peso que pretendia aliviar. É o que acontece quando alguém diz à pessoa enlutada que tudo acontece por uma razão, como se conhecesse essa razão; quando diz a quem está doente que falta fé, como se tivesse acesso ao coração; ou quando afirma que toda injustiça deve ter dois lados, antes mesmo de escutar um deles.\n\nÀs vezes, essa pressa nasce do medo, porque, se toda dor for consequência de um erro, imaginamos que estaremos seguros enquanto fizermos tudo certo. Jó não nos entrega essa segurança. Uma resposta simples pode ser uma forma de não encarar a fragilidade da vida e, ao mesmo tempo, de abandonar quem mais precisa de companhia."
+    },
+    {
+      "id": "05-deus-responde",
+      "source_section": "05",
+      "title": "Deus responde, mas não entrega uma fórmula",
+      "function": "Apresentar a resposta divina como ampliação de perspectiva, não como causa simples da tragédia.",
+      "text": "Depois de muitos discursos, Deus responde a Jó de um redemoinho. Jó, capítulo trinta e oito, versículo dois, diz:\n\n“Quem é este que escurece o conselho com palavras sem conhecimento?”\n\nLogo depois, em Jó, capítulo trinta e oito, versículo quatro, Deus pergunta:\n\n“Onde estavas tu, quando eu fundava a terra? Faze-mo saber, se tens inteligência.”\n\nDeus conduz Jó por perguntas sobre a terra, o mar, a luz, os animais e forças que nenhum ser humano governa. A resposta mostra que a realidade é maior do que o campo de visão de Jó, dos amigos e também do nosso.\n\nMas existe um detalhe importante: Deus não conta a Jó a cena do prólogo, não atribui a perda dos filhos a este ou àquele pecado e não confirma a explicação dos amigos. O livro, portanto, não termina com uma fórmula que nos permita decifrar toda tragédia.\n\nIsso não torna a dor irrelevante; apenas torna a nossa certeza menor. Há uma diferença profunda entre confiar que Deus conhece o que nós não conhecemos e afirmar que nós conhecemos o motivo escolhido por Deus. A primeira postura pode produzir humildade, enquanto a segunda pode produzir crueldade vestida de convicção."
+    },
+    {
+      "id": "06-o-veredito-sobre-os-amigos",
+      "source_section": "06",
+      "title": "O veredito sobre os amigos",
+      "function": "Ler o veredito de Jó 42:7 e limitar a interpretação de restauração material.",
+      "text": "Jó também é confrontado e não atravessa o diálogo sem exagero, tensão ou correção. Mesmo assim, o final impede que os amigos sejam tratados como os vencedores da discussão.\n\nJó, capítulo quarenta e dois, versículo sete, diz:\n\n“Sucedeu que, acabando o Senhor de falar a Jó aquelas palavras, o Senhor disse a Elifaz, o temanita: A minha ira se acendeu contra ti, e contra os teus dois amigos, porque não falastes de mim o que era reto, como o meu servo Jó.”\n\nEsse versículo muda a leitura de tudo o que veio antes. Os amigos falaram muito sobre Deus, mas isso não garantiu que falassem corretamente. Jó protestou, perguntou e lamentou e, ainda assim, o próprio Deus o distingue dos acusadores.\n\nO final conta que sua vida foi restaurada, mas isso não transforma os novos bens numa tabela de recompensa e também não faz novas alegrias apagarem as pessoas perdidas. A dor não recebe a última palavra, porém o texto não promete que toda pessoa fiel recuperará em dobro, nesta vida, exatamente aquilo que perdeu."
+    },
+    {
+      "id": "07-tres-cuidados",
+      "source_section": "07",
+      "title": "Três cuidados para a vida real",
+      "function": "Entregar três critérios concretos para atravessar ou acompanhar o sofrimento.",
+      "text": "O que podemos fazer quando a vida parece injusta ou quando alguém próximo está atravessando esse lugar?\n\nO primeiro cuidado é não transformar a dor em prova de culpa. Antes de dizer que algo aconteceu por determinada razão, precisamos perguntar se realmente sabemos. Existe uma causa demonstrável ou estamos preenchendo o silêncio com uma explicação confortável? Precisamos tratar o fato como fato, a hipótese como hipótese e jamais vender o mistério como certeza.\n\nO segundo cuidado é não apressar a lição. Há tempo para refletir, mas nem toda verdade precisa ser pronunciada no primeiro minuto da perda. Os amigos de Jó foram mais cuidadosos quando dividiram o chão do que quando tentaram vencer o argumento. A pessoa talvez precise de escuta, comida, transporte, companhia, descanso ou ajuda profissional antes de precisar de uma conclusão.\n\nO terceiro cuidado é permitir que o lamento continue diante de Deus. Uma oração pode conter gratidão, mas também pode conter cansaço, confusão e pedido de justiça. A Bíblia não preservou apenas falas de pessoas serenas; ela preservou Jó, os salmos de lamento, Jeremias e tantas vozes que se recusaram a tratar a dor como se ela não existisse.\n\nBuscar apoio médico, psicológico, jurídico, pastoral ou comunitário não compete com a fé. Dependendo da situação, esse apoio pode ser a forma concreta de não abandonar quem está sofrendo. A presença espiritual sem cuidado prático corre o risco de virar apenas discurso, enquanto o cuidado oferecido com respeito pode ser uma maneira de a fé ganhar mãos."
+    },
+    {
+      "id": "08-fechamento-e-convite",
+      "source_section": "08",
+      "title": "Fechamento e convite",
+      "function": "Concluir a tese, identificar o canal, oferecer dois próximos vídeos e provocar comentário contextual.",
+      "text": "Jó não ensina que pessoas de fé nunca desmoronam. Ele ensina que a dor não nos dá o direito de acusar quem sofre, que perguntas honestas podem permanecer diante de Deus e que nem sempre recebemos a explicação que desejamos.\n\nTalvez a fé, em certos dias, não seja dizer que a vida foi justa, mas continuar falando com Deus sem mentir sobre a ferida. E, quando a dor for de outra pessoa, talvez a fidelidade comece não com uma resposta, mas com a decisão de não deixá-la sozinha no chão.\n\nEste é o canal A Palavra que Cuida. Para mais conteúdos como este, clique em um dos dois vídeos que estão aparecendo na tela. Não se esqueça de se inscrever, curtir e compartilhar para que esta mensagem alcance outras pessoas.\n\nComente aqui: em um momento difícil, o que mais cuidou de você, uma explicação ou a presença de alguém?"
+    }
+  ]
+}

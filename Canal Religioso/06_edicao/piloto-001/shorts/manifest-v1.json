@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "source_video": "piloto-001",
+  "new_derivatives": [
+    {
+      "derivative_id": "piloto-001-short-02",
+      "title": "Quando você continua funcionando, mas já está sobrecarregada",
+      "source_block": "01-abertura",
+      "source_window_seconds": {
+        "start": 0.0,
+        "end": 61.389
+      },
+      "spoken_duration_seconds": 61.389,
+      "total_duration_seconds": 65.389,
+      "audio": "tools/OpenMontage/projects/a-palavra-que-cuida-piloto-001/public/audio/piloto-001-short-02-narracao.wav",
+      "props": {
+        "tiktok": "Canal Religioso/06_edicao/piloto-001/shorts/props/piloto-001-short-02-tiktok.json",
+        "youtube_shorts": "Canal Religioso/06_edicao/piloto-001/shorts/props/piloto-001-short-02-youtube_shorts.json"
+      },
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "piloto-001-short-03",
+      "title": "Responsabilidade não é tentar controlar tudo",
+      "source_block": "02-o-convite-de-jesus",
+      "source_window_seconds": {
+        "start": 105.647,
+        "end": 165.612
+      },
+      "spoken_duration_seconds": 59.965,
+      "total_duration_seconds": 63.965,
+      "audio": "tools/OpenMontage/projects/a-palavra-que-cuida-piloto-001/public/audio/piloto-001-short-03-narracao.wav",
+      "props": {
+        "tiktok": "Canal Religioso/06_edicao/piloto-001/shorts/props/piloto-001-short-03-tiktok.json",
+        "youtube_shorts": "Canal Religioso/06_edicao/piloto-001/shorts/props/piloto-001-short-03-youtube_shorts.json"
+      },
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "piloto-001-short-04",
+      "title": "Quando o cuidado se transforma em prisão",
+      "source_block": "03-o-peso-que-nao-aparece",
+      "source_window_seconds": {
+        "start": 197.54,
+        "end": 262.079
+      },
+      "spoken_duration_seconds": 64.539,
+      "total_duration_seconds": 68.539,
+      "audio": "tools/OpenMontage/projects/a-palavra-que-cuida-piloto-001/public/audio/piloto-001-short-04-narracao.wav",
+      "props": {
+        "tiktok": "Canal Religioso/06_edicao/piloto-001/shorts/props/piloto-001-short-04-tiktok.json",
+        "youtube_shorts": "Canal Religioso/06_edicao/piloto-001/shorts/props/piloto-001-short-04-youtube_shorts.json"
+      },
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "piloto-001-short-05",
+      "title": "Pedir ajuda não diminui a sua fé",
+      "source_block": "04-cargas-compartilhadas",
+      "source_window_seconds": {
+        "start": 288.585,
+        "end": 349.794
+      },
+      "spoken_duration_seconds": 61.209,
+      "total_duration_seconds": 65.209,
+      "audio": "tools/OpenMontage/projects/a-palavra-que-cuida-piloto-001/public/audio/piloto-001-short-05-narracao.wav",
+      "props": {
+        "tiktok": "Canal Religioso/06_edicao/piloto-001/shorts/props/piloto-001-short-05-tiktok.json",
+        "youtube_shorts": "Canal Religioso/06_edicao/piloto-001/shorts/props/piloto-001-short-05-youtube_shorts.json"
+      },
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "piloto-001-short-06",
+      "title": "Entregar a ansiedade não é negar a realidade",
+      "source_block": "05-entregar-nao-e-negar",
+      "source_window_seconds": {
+        "start": 351.349,
+        "end": 416.644
+      },
+      "spoken_duration_seconds": 65.295,
+      "total_duration_seconds": 69.295,
+      "audio": "tools/OpenMontage/projects/a-palavra-que-cuida-piloto-001/public/audio/piloto-001-short-06-narracao.wav",
+      "props": {
+        "tiktok": "Canal Religioso/06_edicao/piloto-001/shorts/props/piloto-001-short-06-tiktok.json",
+        "youtube_shorts": "Canal Religioso/06_edicao/piloto-001/shorts/props/piloto-001-short-06-youtube_shorts.json"
+      },
+      "paid_api_cost_usd": 0
+    }
+  ],
+  "existing_approved_derivative": "piloto-001-vertical-01",
+  "total_content_derivatives_after_build": 6,
+  "paid_api_cost_usd": 0,
+  "method": "Dedicated WAV excerpts, canonical ElevenLabs alignments, local Remotion composition and local FFmpeg rendering."
+}

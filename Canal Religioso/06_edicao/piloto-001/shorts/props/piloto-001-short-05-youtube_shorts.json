@@ -1,0 +1,163 @@
+{
+  "derivativeId": "piloto-001-short-05",
+  "title": "Pedir ajuda não diminui a sua fé",
+  "audioFile": "audio/piloto-001-short-05-narracao.wav",
+  "spokenDurationSeconds": 61.209,
+  "endCardSeconds": 4.0,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 7.651,
+      "asset": "images/img-s19-carga-compartilhada-v1.png",
+      "focus": "50% 49%",
+      "scale": 1.14
+    },
+    {
+      "start": 7.651,
+      "end": 15.302,
+      "asset": "images/img-s21-pedir-ajuda-v1.png",
+      "focus": "52% 49%",
+      "scale": 1.13
+    },
+    {
+      "start": 15.302,
+      "end": 22.953,
+      "asset": "images/img-s22-conversa-confiavel-v1.png",
+      "focus": "50% 50%",
+      "scale": 1.14
+    },
+    {
+      "start": 22.953,
+      "end": 30.605,
+      "asset": "images/img-s23-apoio-concreto-v1.png",
+      "focus": "48% 49%",
+      "scale": 1.13
+    },
+    {
+      "start": 30.605,
+      "end": 38.256,
+      "asset": "images/img-s32-contato-seguro-v1.png",
+      "focus": "52% 50%",
+      "scale": 1.15
+    },
+    {
+      "start": 38.256,
+      "end": 45.907,
+      "asset": "images/img-s12-escuta-v1.png",
+      "focus": "50% 49%",
+      "scale": 1.14
+    },
+    {
+      "start": 45.907,
+      "end": 53.558,
+      "asset": "images/img-s19-carga-compartilhada-v1.png",
+      "focus": "50% 49%",
+      "scale": 1.16
+    },
+    {
+      "start": 53.558,
+      "end": 61.209,
+      "asset": "images/img-s23-apoio-concreto-v1.png",
+      "focus": "48% 49%",
+      "scale": 1.17
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.12,
+      "end": 3.672,
+      "text": "Maturidade não é se tornar uma pessoa que nunca"
+    },
+    {
+      "start": 3.696,
+      "end": 7.284,
+      "text": "precisa de ninguém. Fé não é se fechar e"
+    },
+    {
+      "start": 7.318,
+      "end": 9.826,
+      "text": "dizer que está tudo bem quando não está."
+    },
+    {
+      "start": 10.534,
+      "end": 13.681,
+      "text": "Há cargas que precisam ser divididas."
+    },
+    {
+      "start": 14.342,
+      "end": 16.885,
+      "text": "Uma conversa honesta com alguém de confiança."
+    },
+    {
+      "start": 17.373,
+      "end": 18.685,
+      "text": "Um pedido de perdão."
+    },
+    {
+      "start": 18.952,
+      "end": 20.948,
+      "text": "Um limite colocado com respeito."
+    },
+    {
+      "start": 21.517,
+      "end": 24.942,
+      "text": "Uma ajuda aceita. Uma porta aberta quando você já"
+    },
+    {
+      "start": 25.0,
+      "end": 29.389,
+      "text": "percebeu que, sozinha, não está conseguindo atravessar aquele momento."
+    },
+    {
+      "start": 30.329,
+      "end": 33.72,
+      "text": "Nem toda pessoa saberá carregar uma parte do seu peso."
+    },
+    {
+      "start": 34.486,
+      "end": 35.113,
+      "text": "Por isso,"
+    },
+    {
+      "start": 35.879,
+      "end": 38.166,
+      "text": "sabedoria também é escolher"
+    },
+    {
+      "start": 39.06,
+      "end": 40.593,
+      "text": "com quem dividir."
+    },
+    {
+      "start": 41.254,
+      "end": 43.995,
+      "text": "Mas guardar tudo por medo de incomodar os outros"
+    },
+    {
+      "start": 44.355,
+      "end": 46.061,
+      "text": "não é o único caminho possível."
+    },
+    {
+      "start": 46.363,
+      "end": 48.975,
+      "text": "Pedir ajuda não diminui a sua fé."
+    },
+    {
+      "start": 49.324,
+      "end": 53.167,
+      "text": "Em muitos momentos, é justamente uma forma de reconhecer"
+    },
+    {
+      "start": 53.213,
+      "end": 56.777,
+      "text": "que Deus também cuida de nós por meio de"
+    },
+    {
+      "start": 56.835,
+      "end": 60.969,
+      "text": "pessoas, de conversas sinceras e de apoio concreto."
+    }
+  ],
+  "platform": "youtube_shorts"
+}

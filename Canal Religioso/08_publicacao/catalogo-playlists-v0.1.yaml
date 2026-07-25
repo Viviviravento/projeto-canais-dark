@@ -1,0 +1,71 @@
+version: 0.1.0
+channel_id: palavra-que-cuida
+policy: ../01_briefs/politica-catalogo-playlists-v0.1.md
+activation:
+  seed_minimum_videos: 1
+  public_candidate_minimum_videos: 2
+  home_section_candidate_minimum_videos: 3
+  note: Limiares operacionais do canal, nao regras do algoritmo.
+playlists:
+  - id: reflexoes-dias-dificeis
+    title: Reflexoes biblicas para dias dificeis
+    status: active
+    kind: standard
+    layer: necessidade_vivida
+    platform_id: PLDTHCeY55OIM
+    planned_members:
+      - piloto-001
+      - video-002
+      - video-003
+  - id: cansaco-ansiedade-descanso
+    title: Cansaco, ansiedade e descanso em Deus
+    status: ready_when_members_are_public
+    kind: standard
+    layer: necessidade_vivida
+    platform_id: pending
+    planned_members:
+      - piloto-001
+      - video-002
+  - id: personagens-historias-contextos
+    title: Historias de personagens biblicos
+    status: seed
+    kind: standard
+    layer: mapa_biblico
+    platform_id: pending
+    planned_members:
+      - video-003
+  - id: licoes-personagens-biblicos
+    title: O que os personagens biblicos nos ensinam
+    status: seed
+    kind: standard
+    layer: abordagem_editorial
+    platform_id: pending
+    planned_members:
+      - video-003
+  - id: palavras-jesus-explicadas
+    title: O que Jesus realmente quis dizer
+    status: seed
+    kind: standard
+    layer: mapa_biblico
+    platform_id: pending
+    planned_members:
+      - video-002
+incubated_clusters:
+  - id: escolhas-que-marcaram-biblia
+    concept: Decisoes, erros, acertos e consequencias nas historias biblicas.
+  - id: vida-das-figuras-biblicas
+    concept: Trajetorias completas ou periodos bem delimitados da vida de figuras biblicas.
+  - id: versiculos-vida-real
+    concept: Versiculos explicados em contexto e aplicados ao cotidiano.
+  - id: familia-maternidade-relacionamentos
+    concept: Vida familiar, maternidade, casamento, cuidado e relacionamentos sob o prisma biblico.
+  - id: culpa-perdao-recomeco
+    concept: Culpa, arrependimento, perdao, restauracao e recomecos.
+rules:
+  primary_playlist_per_video: 1
+  maximum_secondary_playlists_per_video: 2
+  create_empty_public_playlist: false
+  series_playlist_requires_ordered_consumption: true
+  shorts_default_to_long_form_playlists: false
+  verify_platform_state_before_write: true
+

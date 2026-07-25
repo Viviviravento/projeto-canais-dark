@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.canais-dark/contracts/v1/ChannelManifest.schema.json",
+  "title": "ChannelManifest",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "channel_id", "display_name", "lifecycle", "audience", "promise", "positioning", "platforms", "formats", "economics", "parameters", "policies"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "channel_id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9_-]+$"},
+    "display_name": {"type": "string", "minLength": 1},
+    "lifecycle": {"enum": ["incubating", "pilot", "validated", "paused", "archived"]},
+    "audience": {
+      "type": "object",
+      "additionalProperties": true,
+      "required": ["definition", "evidence_refs"],
+      "properties": {
+        "definition": {"type": "string", "minLength": 1},
+        "evidence_refs": {"type": "array", "items": {"type": "string"}, "minItems": 1}
+      }
+    },
+    "promise": {"type": "string", "minLength": 1},
+    "positioning": {"type": "string", "minLength": 1},
+    "platforms": {"type": "array", "items": {"type": "string", "minLength": 1}, "minItems": 1, "uniqueItems": true},
+    "formats": {"type": "array", "items": {"type": "object", "additionalProperties": true, "required": ["id", "description"], "properties": {"id": {"type": "string"}, "description": {"type": "string"}}}, "minItems": 1},
+    "economics": {"type": "object", "additionalProperties": true, "required": ["objective", "currency"], "properties": {"objective": {"type": "string"}, "currency": {"type": "string", "pattern": "^[A-Z]{3}$"}}},
+    "parameters": {"type": "object"},
+    "policies": {"type": "object", "additionalProperties": {"type": "string"}}
+  }
+}

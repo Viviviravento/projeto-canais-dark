@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.canais-dark/contracts/v1/LearningDecision.schema.json",
+  "title": "LearningDecision",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "decision_id", "version", "created_at", "observation_refs", "diagnosis", "test", "affected_policy", "state"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "decision_id": {"type": "string", "minLength": 1},
+    "version": {"type": "integer", "minimum": 1},
+    "supersedes": {"type": ["string", "null"]},
+    "created_at": {"type": "string", "format": "date-time"},
+    "observation_refs": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "diagnosis": {"type": "string", "minLength": 1},
+    "test": {"type": "object", "required": ["hypothesis", "cohort_size", "success_signal"], "properties": {"hypothesis": {"type": "string"}, "cohort_size": {"type": "integer", "minimum": 1}, "success_signal": {"type": "string"}}, "additionalProperties": true},
+    "affected_policy": {"type": "string", "minLength": 1},
+    "state": {"enum": ["proposed", "running", "accepted", "rejected", "superseded"]}
+  }
+}

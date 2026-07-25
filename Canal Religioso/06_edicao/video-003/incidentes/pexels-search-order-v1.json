@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0.0",
+  "incident_id": "v003-pexels-search-order-001",
+  "integration": "Pexels API",
+  "operation": "download reviewed stock candidate",
+  "opened_at": "2026-07-22T21:20:00-03:00",
+  "closed_at": "2026-07-22T21:42:00-03:00",
+  "state": "resumed",
+  "symptoms": [
+    "A ordem dos resultados da busca mudou entre a geração da folha de contato e o download.",
+    "Dois candidatos aprovados deixaram de aparecer na mesma posição da consulta repetida."
+  ],
+  "hypotheses": [
+    {
+      "statement": "O downloader dependia da posição mutável do resultado de busca em vez do ID imutável do vídeo.",
+      "status": "confirmed",
+      "evidence_refs": [
+        "04_assets/video-003/stock/candidates/candidates.json",
+        "scripts/download-stock-selection.py"
+      ]
+    }
+  ],
+  "root_cause": "O downloader dependia da posição mutável do resultado de busca em vez do ID imutável do vídeo.",
+  "correction": "Resolver cada seleção aprovada pelo endpoint oficial de vídeo usando o ID Pexels persistido na revisão.",
+  "cycles_without_new_evidence": 0,
+  "resume_point": {
+    "checkpoint": "candidate IDs reviewed; files not yet downloaded",
+    "idempotency_key": "v003-pexels-reviewed-ids-v1"
+  },
+  "side_effect_guard": {
+    "paid_call": false,
+    "publication": false,
+    "deletion": false
+  },
+  "regression": {
+    "status": "passed",
+    "checks": [
+      "Todos os seis IDs aprovados foram resolvidos pelo endpoint individual.",
+      "Cada MP4 foi validado por assinatura, ffprobe, SHA-256 e três keyframes.",
+      "Nenhum arquivo existente foi sobrescrito silenciosamente."
+    ]
+  }
+}

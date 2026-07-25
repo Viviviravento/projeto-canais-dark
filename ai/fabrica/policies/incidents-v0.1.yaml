@@ -1,0 +1,20 @@
+version: 0.1.0
+status: active
+sequence:
+  - detect
+  - freeze_operation
+  - collect
+  - formulate_hypothesis
+  - test_in_isolation
+  - locate_cause
+  - correct
+  - register
+  - regression_test
+  - resume
+constraints:
+  confirmed_cause_required_before_fix: true
+  duplicate_paid_call_during_diagnosis: false
+  duplicate_publication_during_diagnosis: false
+  duplicate_deletion_during_diagnosis: false
+  cycles_without_new_evidence_before_escalation: 3
+

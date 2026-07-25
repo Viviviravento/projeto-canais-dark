@@ -1,0 +1,77 @@
+{
+  "experiment": "video-003-calibracao-performance-v3",
+  "status": "generated once; human-approved as the continuous oral-writing reference",
+  "review_title": "Vídeo 003 - Calibração de fala contínua",
+  "review_instruction": "Ouça o parágrafo inteiro e avalie se a voz conduz uma ideia contínua, sem reiniciar a entonação a cada pequena frase.",
+  "review_rule": "Resposta esperada: método aprovado ou método reprovado. Não é necessário marcar frases ou timestamps.",
+  "purpose": "Isolar a hipótese de supersegmentação antes de trocar voz, modelo, contexto, seed ou provedor.",
+  "change_isolated": "Somente a escrita da amostra muda. Voz, modelo, idioma, contexto, seed e voice settings permanecem iguais à calibração v2.",
+  "evidence_basis": [
+    "01_briefs/pesquisa-pratica-prosodia-tts-2026-v1.md#metodo-v01-para-evitar-fala-excessivamente-pausada",
+    "05_audio/video-002/v2/resultado-geracao.json",
+    "05_audio/video-003/calibracao-v2/avaliacao-semantica-v2.json"
+  ],
+  "performance_method": {
+    "sentence_unit": "Cada frase contém uma relação completa; nenhum item de lista vira frase apenas para forçar ênfase.",
+    "punctuation": "Pontuação gramatical e natural, sem reticências, travessões repetidos, caixa alta ou tags de pausa.",
+    "cohesion": "Conectivos preservam causa, contraste, consequência e continuidade.",
+    "paragraph": "A amostra inteira forma um movimento semântico: presença, citação, explicação, aplicação e contraste final.",
+    "scripture": "Referência completa e leitura integral permanecem intactas."
+  },
+  "api": {
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 271828,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    }
+  },
+  "voices": [
+    {
+      "blind_label": "Fala contínua v3",
+      "name": "Bruno Cardoso",
+      "voice_id": "iF2QszmZhlyFLleUoFxy",
+      "source": "saved",
+      "rate": 1.0,
+      "selection_reason": "Mesma voz aprovada no vídeo 002; o teste isola somente a escrita."
+    }
+  ],
+  "samples": [
+    {
+      "id": "02-citacao-e-explicacao",
+      "function": "Conduzir presença, citação, explicação e aplicação como um pensamento contínuo.",
+      "previous_text": "Quando os três amigos chegam, eles fazem algo profundamente humano.",
+      "text": "Antes de oferecer qualquer conselho, os amigos de Jó se sentam no chão ao lado dele. Em Jó, capítulo dois, versículo treze, lemos: “E assentaram-se com ele na terra, sete dias e sete noites; e nenhum lhe dizia palavra alguma, porque viam que a dor era muito grande.” O próprio texto explica esse silêncio: a dor era tão grande que, naquele momento, qualquer explicação seria pequena demais. Talvez seja por isso que o primeiro gesto de amor nem sempre seja oferecer uma resposta. Muitas vezes, amar é ficar, escutar, preparar uma refeição ou acompanhar uma consulta. O problema começa depois, quando os amigos trocam presença por certezas e tentam explicar uma vida que não conhecem.",
+      "next_text": "Quando a presença vira explicação, o consolo também pode virar acusação."
+    }
+  ],
+  "preflight": {
+    "reference": "video-002-performance-v2",
+    "max_share_sentences_four_words_or_less": 0.15,
+    "max_consecutive_sentences_seven_words_or_less": 2,
+    "observed": {
+      "characters": 683,
+      "sentences": 6,
+      "average_words_per_sentence": 19.33,
+      "sentences_four_words_or_less": 0,
+      "share_sentences_four_words_or_less": 0.0,
+      "max_consecutive_sentences_seven_words_or_less": 0
+    },
+    "forbidden_by_default": [
+      "ellipsis",
+      "repeated_dash",
+      "pause_tag",
+      "all_caps_emphasis"
+    ]
+  },
+  "gate": {
+    "required_result": "human_approved",
+    "full_generation_if_rejected": "forbidden",
+    "human_response": "aprovar ou reprovar o método; sem marcação frase a frase"
+  }
+}

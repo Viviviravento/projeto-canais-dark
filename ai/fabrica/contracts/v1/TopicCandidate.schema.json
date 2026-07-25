@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.canais-dark/contracts/v1/TopicCandidate.schema.json",
+  "title": "TopicCandidate",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "topic_id", "working_title", "demand", "competition", "audience_fit", "depth", "visual_feasibility", "cost", "risks", "derivatives", "evidence_refs", "status"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "topic_id": {"type": "string", "minLength": 1},
+    "working_title": {"type": "string", "minLength": 1},
+    "demand": {"$ref": "#/$defs/assessment"},
+    "competition": {"$ref": "#/$defs/assessment"},
+    "audience_fit": {"$ref": "#/$defs/assessment"},
+    "depth": {"$ref": "#/$defs/assessment"},
+    "visual_feasibility": {"$ref": "#/$defs/assessment"},
+    "cost": {"$ref": "#/$defs/assessment"},
+    "risks": {"type": "array", "items": {"type": "string"}},
+    "derivatives": {"type": "array", "items": {"type": "object", "required": ["platform", "concept"], "properties": {"platform": {"type": "string"}, "concept": {"type": "string"}}, "additionalProperties": true}},
+    "evidence_refs": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "status": {"enum": ["captured", "researched", "selected", "rejected", "deferred"]}
+  },
+  "$defs": {
+    "assessment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["rating", "rationale"],
+      "properties": {
+        "rating": {"type": "number", "minimum": 0, "maximum": 1},
+        "rationale": {"type": "string", "minLength": 1}
+      }
+    }
+  }
+}

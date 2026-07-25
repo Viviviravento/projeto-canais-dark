@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v003-heygen-avatar-v2-20260723",
+  "provider": "HeyGen",
+  "model": "Avatar IV Photo Avatar 1080p",
+  "operation": "one strategic closing appearance driven by the approved external audio",
+  "unit": "second",
+  "quantity": 17.72,
+  "currency": "USD",
+  "unit_price": 0.05,
+  "expected_cost": 0.886,
+  "maximum_cost": 0.9,
+  "observed_cost": 0.85,
+  "price_checked_at": "2026-07-23",
+  "price_source": "https://help.heygen.com/en/articles/10060327-heygen-api-pricing-explained",
+  "status": "executed_and_reconciled",
+  "approval": {
+    "approved_at": "2026-07-23",
+    "approved_maximum_usd": 0.9,
+    "user_statement": "Pode gerar tanto o vídeo quanto o áudio completo, seguindo os macetes para o avatar não falar errado."
+  },
+  "wallet_snapshot": {
+    "currency": "USD",
+    "remaining_balance": 0.9,
+    "auto_reload": false,
+    "sufficient": true
+  },
+  "controls": {
+    "existing_avatar_look_id": "346afe60f6974793be0246963bbce365",
+    "avatar_creation": false,
+    "external_audio_only": true,
+    "heygen_tts": false,
+    "automatic_retry": false,
+    "resolution": "1080p",
+    "engine": "avatar_iv",
+    "background": "#00FF00"
+  },
+  "reconciliation": {
+    "video_id": "c7fdf741d6da4126b1a0f119b3ac3f5b",
+    "audio_asset_id": "1ccc8f10be6d40b7bf77e8a6e5524f7f",
+    "generated_duration_seconds": 17.73,
+    "automatic_retries": 0,
+    "wallet_before": 0.9,
+    "wallet_after": 0.05,
+    "observed_wallet_debit": 0.85,
+    "output": "tools/OpenMontage/projects/a-palavra-que-cuida-video-003/assets/video/avatar-fechamento-raw-v1.mp4"
+  }
+}

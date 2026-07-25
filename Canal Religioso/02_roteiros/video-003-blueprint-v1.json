@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "blueprint_id": "v003-blueprint-v1",
+  "channel_id": "palavra-que-cuida",
+  "topic_id": "v003-job-injustice",
+  "artifact_kind": "script",
+  "promise": "Ler Jo sem transformar sofrimento em culpa e oferecer uma forma biblicamente responsavel de atravessar ou acompanhar a dor.",
+  "structure": [
+    {"id":"01-abertura","purpose":"Nomear a injustica sem explicar cedo demais.","content":"A pergunta do episodio nasce quando uma pessoa fez o que podia e ainda assim perdeu algo importante."},
+    {"id":"02-premissa","purpose":"Fixar o dado narrativo que governa a leitura.","content":"Jo 1:1 apresenta Jo como integro antes da calamidade; dor nao pode ser usada como prova retroativa de culpa."},
+    {"id":"03-silencio-e-lamento","purpose":"Distinguir presenca cuidadosa de silenciamento religioso.","content":"Os amigos acertam enquanto se sentam em silencio e falham quando transformam a dor em problema a ser explicado."},
+    {"id":"04-consoladores-molestos","purpose":"Expor a violencia de uma teologia correta no lugar errado.","content":"As formulas dos amigos protegem o sistema deles e colocam o peso da explicacao sobre quem ja sofre."},
+    {"id":"05-resposta-divina","purpose":"Explicar o alcance e o limite da fala de Deus.","content":"Deus nao entrega a Jo a causa narrada no prologo; amplia o horizonte e confronta palavras sem conhecimento."},
+    {"id":"06-veredito","purpose":"Mostrar por que o livro nao termina aprovando os amigos.","content":"Jo 42:7 repreende os amigos e impede que sua formula de culpa seja tratada como conclusao do livro."},
+    {"id":"07-aplicacao","purpose":"Transformar a leitura em cuidado pratico.","content":"Tres criterios: nao inferir culpa, nao apressar explicacao e oferecer presenca e ajuda concreta."},
+    {"id":"08-fechamento","purpose":"Concluir antes do CTA e abrir uma pergunta comentavel.","content":"Fe nao e fingir que a vida foi justa; e permanecer diante de Deus com verdade e sem abandonar quem sofre."}
+  ],
+  "performance_notes": [
+    "Falar com serenidade e gravidade contida, sem voz de trailer ou melodrama.",
+    "Distinguir narrador, Jo, amigos e Deus por contexto, nao por caricatura vocal.",
+    "Preparar cada citacao com a referencia completa e deixar a ideia concluir antes da explicacao.",
+    "A pergunta inicial deve soar humana, nao sensacionalista.",
+    "Concluir a mensagem antes do CTA recorrente do canal."
+  ],
+  "research_refs": [
+    "evidencias/video-003-claims.jsonl#v003-job-wisdom-structure",
+    "evidencias/video-003-claims.jsonl#v003-job-innocent-suffering",
+    "evidencias/video-003-claims.jsonl#v003-job-no-tidy-answer",
+    "evidencias/video-003-claims.jsonl#v003-acf-source"
+  ],
+  "derivative_candidates": [
+    {"source_section":"04-consoladores-molestos","hook":"Nem toda dor e castigo. O proprio final de Jo corrige quem tentou provar o contrario.","target_seconds":75},
+    {"source_section":"03-silencio-e-lamento","hook":"Os amigos de Jo foram melhores consoladores quando ainda estavam calados.","target_seconds":70}
+  ]
+}

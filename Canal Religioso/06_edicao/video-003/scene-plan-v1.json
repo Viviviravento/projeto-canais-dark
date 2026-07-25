@@ -1,0 +1,613 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-003",
+  "timing_state": "relative_cues_pending_approved_audio_alignment",
+  "visual_policy": {
+    "maximum_static_seconds": 7,
+    "maximum_base_asset_reuse": 2,
+    "reuse_requires_new_crop_or_context": true,
+    "paid_motion_must_center_human_action": true,
+    "avatar_only_while_speaking": true,
+    "scripture_display_must_match_spoken_quote": true,
+    "end_screen_seconds": 15,
+    "end_screen_recommendation_slots": 2
+  },
+  "asset_summary": {
+    "scene_slots": 49,
+    "generated_stills_available": 18,
+    "stock_clips_reviewed": 6,
+    "planned_paid_motion_clips": 2,
+    "planned_avatar_clips": 2,
+    "scripture_cards": 7
+  },
+  "scenes": [
+    {
+      "id": "01-b01-difficult-clinic-news-v1",
+      "block": "01",
+      "narration_cue": "Há momentos em que a vida parece quebrar",
+      "asset_id": "b01-difficult-clinic-news-v1",
+      "source": "04_assets/video-003/generated/brazil/b01-difficult-clinic-news-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Notícia difícil sem melodrama.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "01-b02-job-loss-bakery-v1",
+      "block": "01",
+      "narration_cue": "Uma perda. Uma injustiça.",
+      "asset_id": "b02-job-loss-bakery-v1",
+      "source": "04_assets/video-003/generated/brazil/b02-job-loss-bakery-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Perda de trabalho reconhecível no Brasil.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "01-b07-accompanied-bus-stop-v1",
+      "block": "01",
+      "narration_cue": "Uma porta fechada depois de anos",
+      "asset_id": "b07-accompanied-bus-stop-v1",
+      "source": "04_assets/video-003/generated/brazil/b07-accompanied-bus-stop-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Solidão urbana acompanhada.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "01-avatar-v003-open",
+      "block": "01",
+      "narration_cue": "Talvez você não tenha confiado o bastante",
+      "asset_id": "avatar-v003-open",
+      "source": "planned:HeyGen Avatar IV from approved green-screen avatar",
+      "mode": "avatar",
+      "semantic_role": "Apresentador confronta explicações precipitadas enquanto fala.",
+      "maximum_continuous_seconds": 16,
+      "vertical_recomposition": "planned",
+      "paid": true
+    },
+    {
+      "id": "01-j02-job-after-loss-v1",
+      "block": "01",
+      "narration_cue": "O livro de Jó entra nesse lugar",
+      "asset_id": "j02-job-after-loss-v1",
+      "source": "04_assets/video-003/generated/historical/j02-job-after-loss-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Apresentar Jó depois da perda.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "01-b08-honest-lament-v1",
+      "block": "01",
+      "narration_cue": "concluir o que essa pessoa fez",
+      "asset_id": "b08-honest-lament-v1",
+      "source": "04_assets/video-003/generated/brazil/b08-honest-lament-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Dor atual sem diagnóstico religioso.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "02-j01-job-before-loss-v1",
+      "block": "02",
+      "narration_cue": "O livro começa com um fato",
+      "asset_id": "j01-job-before-loss-v1",
+      "source": "04_assets/video-003/generated/historical/j01-job-before-loss-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Integridade antes da calamidade.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "02-scripture-jo-1-1",
+      "block": "02",
+      "narration_cue": "Jó, capítulo um, versículo um, diz:",
+      "asset_id": "scripture-jo-1-1",
+      "source": null,
+      "mode": "scripture_card",
+      "semantic_role": "Exibir integralmente a citação enquanto ela é lida.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned",
+      "scripture": {
+        "reference": "Jó 1:1",
+        "text": "Havia um homem na terra de Uz, cujo nome era Jó; e era este homem íntegro, reto e temente a Deus e desviava-se do mal.",
+        "must_match_spoken_audio": true,
+        "complete_reference_required": true
+      }
+    },
+    {
+      "id": "02-j03-messengers-v1",
+      "block": "02",
+      "narration_cue": "antes de perder bens",
+      "asset_id": "j03-messengers-v1",
+      "source": "04_assets/video-003/generated/historical/j03-messengers-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Notícias sucessivas sem espetáculo.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "02-s01-barren-rock",
+      "block": "02",
+      "narration_cue": "Eles enxergam apenas os escombros",
+      "asset_id": "s01-barren-rock",
+      "source": "04_assets/video-003/stock/selected/s01-barren-rock.mp4",
+      "mode": "stock_clip",
+      "semantic_role": "Paisagem concreta de perda e limite.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "02-b02-job-loss-bakery-v1-reframe",
+      "block": "02",
+      "narration_cue": "A dor não funciona como um exame",
+      "asset_id": "b02-job-loss-bakery-v1-reframe",
+      "source": "04_assets/video-003/generated/brazil/b02-job-loss-bakery-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Retorno intencional à perda de trabalho por outro enquadramento.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "02-j02-job-after-loss-v1-reframe",
+      "block": "02",
+      "narration_cue": "Nem todo luto é cobrança",
+      "asset_id": "j02-job-after-loss-v1-reframe",
+      "source": "04_assets/video-003/generated/historical/j02-job-after-loss-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Reforçar sem atribuir culpa.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "03-j04-friends-arrive-kling",
+      "block": "03",
+      "narration_cue": "Quando três amigos chegam",
+      "asset_id": "j04-friends-arrive-kling",
+      "source": "planned:Kling O3 from j04-friends-arrive-v1.png",
+      "mode": "generated_video",
+      "semantic_role": "Animar a chegada humana que carrega o argumento.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned",
+      "paid": true,
+      "generation_seconds": 5
+    },
+    {
+      "id": "03-scripture-jo-2-13",
+      "block": "03",
+      "narration_cue": "Jó, capítulo dois, versículo treze, diz:",
+      "asset_id": "scripture-jo-2-13",
+      "source": null,
+      "mode": "scripture_card",
+      "semantic_role": "Exibir integralmente a citação enquanto ela é lida.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned",
+      "scripture": {
+        "reference": "Jó 2:13",
+        "text": "E assentaram-se com ele na terra, sete dias e sete noites; e nenhum lhe dizia palavra alguma, porque viam que a dor era muito grande.",
+        "must_match_spoken_audio": true,
+        "complete_reference_required": true
+      }
+    },
+    {
+      "id": "03-j05-seven-days-silence-v1",
+      "block": "03",
+      "narration_cue": "Sentam-se no chão",
+      "asset_id": "j05-seven-days-silence-v1",
+      "source": "04_assets/video-003/generated/historical/j05-seven-days-silence-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Presença silenciosa dos amigos.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "03-b03-silent-presence-v1",
+      "block": "03",
+      "narration_cue": "É ficar, escutar",
+      "asset_id": "b03-silent-presence-v1",
+      "source": "04_assets/video-003/generated/brazil/b03-silent-presence-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Escuta atual e reconhecível.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "03-b04-practical-meal-help-kling",
+      "block": "03",
+      "narration_cue": "preparar uma refeição",
+      "asset_id": "b04-practical-meal-help-kling",
+      "source": "planned:Kling O3 from b04-practical-meal-help-v1.png",
+      "mode": "generated_video",
+      "semantic_role": "Animar a entrega de comida, ação concreta e central.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned",
+      "paid": true,
+      "generation_seconds": 5
+    },
+    {
+      "id": "03-j08-job-lament-night-v1",
+      "block": "03",
+      "narration_cue": "Depois do silêncio, Jó fala",
+      "asset_id": "j08-job-lament-night-v1",
+      "source": "04_assets/video-003/generated/historical/j08-job-lament-night-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Transição da presença ao lamento.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "03-scripture-jo-3-1",
+      "block": "03",
+      "narration_cue": "Jó, capítulo três, versículo um, diz:",
+      "asset_id": "scripture-jo-3-1",
+      "source": null,
+      "mode": "scripture_card",
+      "semantic_role": "Exibir integralmente a citação enquanto ela é lida.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned",
+      "scripture": {
+        "reference": "Jó 3:1",
+        "text": "Depois disto abriu Jó a sua boca, e amaldiçoou o seu dia.",
+        "must_match_spoken_audio": true,
+        "complete_reference_required": true
+      }
+    },
+    {
+      "id": "04-j06-friend-speaks-v1",
+      "block": "04",
+      "narration_cue": "abandonam a presença",
+      "asset_id": "j06-friend-speaks-v1",
+      "source": "04_assets/video-003/generated/historical/j06-friend-speaks-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Amigo passa a explicar e acusar.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "04-j07-job-responds-v1",
+      "block": "04",
+      "narration_cue": "usam a fórmula para questionar Jó",
+      "asset_id": "j07-job-responds-v1",
+      "source": "04_assets/video-003/generated/historical/j07-job-responds-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Jó responde à fórmula.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "04-scripture-jo-16-2",
+      "block": "04",
+      "narration_cue": "Jó, capítulo dezesseis, versículo dois:",
+      "asset_id": "scripture-jo-16-2",
+      "source": null,
+      "mode": "scripture_card",
+      "semantic_role": "Exibir integralmente a citação enquanto ela é lida.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned",
+      "scripture": {
+        "reference": "Jó 16:2",
+        "text": "Tenho ouvido muitas coisas como estas; todos vós sois consoladores molestos.",
+        "must_match_spoken_audio": true,
+        "complete_reference_required": true
+      }
+    },
+    {
+      "id": "04-j03-messengers-v1-reframe",
+      "block": "04",
+      "narration_cue": "tudo acontece por uma razão",
+      "asset_id": "j03-messengers-v1-reframe",
+      "source": "04_assets/video-003/generated/historical/j03-messengers-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Retomar as notícias recebidas sem inventar uma causa para elas.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "04-b05-legal-guidance-v1",
+      "block": "04",
+      "narration_cue": "quem sofreu uma injustiça",
+      "asset_id": "b05-legal-guidance-v1",
+      "source": "04_assets/video-003/generated/brazil/b05-legal-guidance-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Escuta e orientação jurídica concreta.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "04-s02-strata-rock",
+      "block": "04",
+      "narration_cue": "pressa nasce do medo",
+      "asset_id": "s02-strata-rock",
+      "source": "04_assets/video-003/stock/selected/s02-strata-rock.mp4",
+      "mode": "stock_clip",
+      "semantic_role": "Figura humana pequena diante de terreno instável.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "05-j09-whirlwind-v1",
+      "block": "05",
+      "narration_cue": "Deus responde a Jó de um redemoinho",
+      "asset_id": "j09-whirlwind-v1",
+      "source": "04_assets/video-003/generated/historical/j09-whirlwind-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Escala da resposta divina sem personificar Deus.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "05-s05-storm-sky",
+      "block": "05",
+      "narration_cue": "de um redemoinho",
+      "asset_id": "s05-storm-sky",
+      "source": "04_assets/video-003/stock/selected/s05-storm-sky.mp4",
+      "mode": "stock_clip",
+      "semantic_role": "Movimento real de nuvens para a transição.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "05-scripture-jo-38-2",
+      "block": "05",
+      "narration_cue": "Jó, capítulo trinta e oito, versículo dois, diz:",
+      "asset_id": "scripture-jo-38-2",
+      "source": null,
+      "mode": "scripture_card",
+      "semantic_role": "Exibir integralmente a citação enquanto ela é lida.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned",
+      "scripture": {
+        "reference": "Jó 38:2",
+        "text": "Quem é este que escurece o conselho com palavras sem conhecimento?",
+        "must_match_spoken_audio": true,
+        "complete_reference_required": true
+      }
+    },
+    {
+      "id": "05-scripture-jo-38-4",
+      "block": "05",
+      "narration_cue": "Jó, capítulo trinta e oito, versículo quatro:",
+      "asset_id": "scripture-jo-38-4",
+      "source": null,
+      "mode": "scripture_card",
+      "semantic_role": "Exibir integralmente a citação enquanto ela é lida.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned",
+      "scripture": {
+        "reference": "Jó 38:4",
+        "text": "Onde estavas tu, quando eu fundava a terra? Faze-mo saber, se tens inteligência.",
+        "must_match_spoken_audio": true,
+        "complete_reference_required": true
+      }
+    },
+    {
+      "id": "05-s03-sea-aerial",
+      "block": "05",
+      "narration_cue": "a terra, o mar, a luz",
+      "asset_id": "s03-sea-aerial",
+      "source": "04_assets/video-003/stock/selected/s03-sea-aerial.mp4",
+      "mode": "stock_clip",
+      "semantic_role": "Escala do mar e da criação.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "05-s04-waves-rock",
+      "block": "05",
+      "narration_cue": "forças que nenhum ser humano governa",
+      "asset_id": "s04-waves-rock",
+      "source": "04_assets/video-003/stock/selected/s04-waves-rock.mp4",
+      "mode": "stock_clip",
+      "semantic_role": "Força natural concreta.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "05-s06-wild-goats",
+      "block": "05",
+      "narration_cue": "os animais",
+      "asset_id": "s06-wild-goats",
+      "source": "04_assets/video-003/stock/selected/s06-wild-goats.mp4",
+      "mode": "stock_clip",
+      "semantic_role": "Animalidade não controlada pelo ser humano.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "06-j07-job-responds-v1-reframe",
+      "block": "06",
+      "narration_cue": "Jó também é confrontado",
+      "asset_id": "j07-job-responds-v1-reframe",
+      "source": "04_assets/video-003/generated/historical/j07-job-responds-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Jó não é retratado como intocável.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "06-scripture-jo-42-7",
+      "block": "06",
+      "narration_cue": "Jó, capítulo quarenta e dois, versículo sete, diz:",
+      "asset_id": "scripture-jo-42-7",
+      "source": null,
+      "mode": "scripture_card",
+      "semantic_role": "Exibir integralmente a citação enquanto ela é lida.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned",
+      "scripture": {
+        "reference": "Jó 42:7",
+        "text": "Sucedeu que, acabando o Senhor de falar a Jó aquelas palavras, o Senhor disse a Elifaz, o temanita: A minha ira se acendeu contra ti, e contra os teus dois amigos, porque não falastes de mim o que era reto, como o meu servo Jó.",
+        "must_match_spoken_audio": true,
+        "complete_reference_required": true
+      }
+    },
+    {
+      "id": "06-j06-friend-speaks-v1-reframe",
+      "block": "06",
+      "narration_cue": "Os amigos falaram muito sobre Deus",
+      "asset_id": "j06-friend-speaks-v1-reframe",
+      "source": "04_assets/video-003/generated/historical/j06-friend-speaks-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Fala religiosa não garante acerto.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "06-j10-reconciliation-v1",
+      "block": "06",
+      "narration_cue": "sua vida foi restaurada",
+      "asset_id": "j10-reconciliation-v1",
+      "source": "04_assets/video-003/generated/historical/j10-reconciliation-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Restauração relacional sem tabela de prosperidade.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "06-s03-sea-aerial-reframe",
+      "block": "06",
+      "narration_cue": "novas alegrias",
+      "asset_id": "s03-sea-aerial-reframe",
+      "source": "04_assets/video-003/stock/selected/s03-sea-aerial.mp4",
+      "mode": "stock_clip",
+      "semantic_role": "Respiro visual sem prometer compensação material.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "07-b01-difficult-clinic-news-v1-third",
+      "block": "07",
+      "narration_cue": "Primeiro: não transforme dor",
+      "asset_id": "b01-difficult-clinic-news-v1-third",
+      "source": "04_assets/video-003/generated/brazil/b01-difficult-clinic-news-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Retomar a situação clínica para o primeiro critério.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "07-b03-silent-presence-v1-third",
+      "block": "07",
+      "narration_cue": "Segundo: não apresse a lição",
+      "asset_id": "b03-silent-presence-v1-third",
+      "source": "04_assets/video-003/generated/brazil/b03-silent-presence-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Segundo critério em gesto de escuta.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "07-b04-practical-meal-help-v1",
+      "block": "07",
+      "narration_cue": "escuta, comida",
+      "asset_id": "b04-practical-meal-help-v1",
+      "source": "04_assets/video-003/generated/brazil/b04-practical-meal-help-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Ajuda material.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "07-b07-accompanied-bus-stop-v1-reframe",
+      "block": "07",
+      "narration_cue": "transporte, companhia",
+      "asset_id": "b07-accompanied-bus-stop-v1-reframe",
+      "source": "04_assets/video-003/generated/brazil/b07-accompanied-bus-stop-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Acompanhamento prático.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "07-b06-psychological-support-v1",
+      "block": "07",
+      "narration_cue": "ajuda profissional",
+      "asset_id": "b06-psychological-support-v1",
+      "source": "04_assets/video-003/generated/brazil/b06-psychological-support-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Apoio psicológico sem oposição à fé.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "07-b05-legal-guidance-v1-reframe",
+      "block": "07",
+      "narration_cue": "jurídico",
+      "asset_id": "b05-legal-guidance-v1-reframe",
+      "source": "04_assets/video-003/generated/brazil/b05-legal-guidance-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Apoio jurídico sem texto falso em primeiro plano.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "07-b08-honest-lament-v1-reframe",
+      "block": "07",
+      "narration_cue": "Terceiro: permita que o lamento",
+      "asset_id": "b08-honest-lament-v1-reframe",
+      "source": "04_assets/video-003/generated/brazil/b08-honest-lament-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Oração honesta no cotidiano.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "07-j10-reconciliation-v1-reframe",
+      "block": "07",
+      "narration_cue": "pode ser uma maneira de a fé ganhar mãos",
+      "asset_id": "j10-reconciliation-v1-reframe",
+      "source": "04_assets/video-003/generated/historical/j10-reconciliation-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Fechar a aplicação com cuidado e reconciliação, sem triunfalismo.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "08-j08-job-lament-night-v1-reframe",
+      "block": "08",
+      "narration_cue": "Jó não ensina que pessoas de fé",
+      "asset_id": "j08-job-lament-night-v1-reframe",
+      "source": "04_assets/video-003/generated/historical/j08-job-lament-night-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Lamento não equivale a abandono.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "08-j05-seven-days-silence-v1-reframe",
+      "block": "08",
+      "narration_cue": "não deixá-la sozinha no chão",
+      "asset_id": "j05-seven-days-silence-v1-reframe",
+      "source": "04_assets/video-003/generated/historical/j05-seven-days-silence-v1.png",
+      "mode": "local_motion",
+      "semantic_role": "Retorno ao motivo central da presença.",
+      "maximum_continuous_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "08-avatar-v003-close",
+      "block": "08",
+      "narration_cue": "Este é o canal A Palavra que Cuida",
+      "asset_id": "avatar-v003-close",
+      "source": "planned:HeyGen Avatar IV from approved green-screen avatar",
+      "mode": "avatar",
+      "semantic_role": "Apresentador fala o CTA e sustenta a identidade do canal.",
+      "maximum_continuous_seconds": 16,
+      "vertical_recomposition": "planned",
+      "paid": true
+    },
+    {
+      "id": "08-end-screen-v003",
+      "block": "08",
+      "narration_cue": "clique em um dos dois vídeos",
+      "asset_id": "end-screen-v003",
+      "source": null,
+      "mode": "end_screen",
+      "semantic_role": "Reservar dois destinos e inscrição sem elementos narrativos concorrentes.",
+      "maximum_continuous_seconds": 15,
+      "vertical_recomposition": "planned",
+      "recommendation_slots": 2
+    }
+  ]
+}

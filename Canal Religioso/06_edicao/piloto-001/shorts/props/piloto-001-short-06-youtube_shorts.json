@@ -1,0 +1,168 @@
+{
+  "derivativeId": "piloto-001-short-06",
+  "title": "Entregar a ansiedade não é negar a realidade",
+  "audioFile": "audio/piloto-001-short-06-narracao.wav",
+  "spokenDurationSeconds": 65.295,
+  "endCardSeconds": 4.0,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 8.162,
+      "asset": "images/img-s06-biblia-mesa-v1.png",
+      "focus": "52% 54%",
+      "scale": 1.14
+    },
+    {
+      "start": 8.162,
+      "end": 16.324,
+      "asset": "images/img-s24-entrega-v1.png",
+      "focus": "32% 48%",
+      "scale": 1.13
+    },
+    {
+      "start": 16.324,
+      "end": 24.486,
+      "asset": "images/img-s26-oracao-e-acao-v1.png",
+      "focus": "50% 50%",
+      "scale": 1.14
+    },
+    {
+      "start": 24.486,
+      "end": 32.648,
+      "asset": "images/img-s17-pausa-v1.png",
+      "focus": "50% 48%",
+      "scale": 1.13
+    },
+    {
+      "start": 32.648,
+      "end": 40.809,
+      "asset": "images/img-s28-escolhas-do-outro-v1.png",
+      "focus": "47% 50%",
+      "scale": 1.14
+    },
+    {
+      "start": 40.809,
+      "end": 48.971,
+      "asset": "images/img-s04-reflexo-v1.png",
+      "focus": "48% 49%",
+      "scale": 1.15
+    },
+    {
+      "start": 48.971,
+      "end": 57.133,
+      "asset": "images/img-s05-maos-em-pausa-v1.png",
+      "focus": "50% 52%",
+      "scale": 1.14
+    },
+    {
+      "start": 57.133,
+      "end": 65.295,
+      "asset": "images/img-s24-entrega-v1.png",
+      "focus": "32% 48%",
+      "scale": 1.17
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.12,
+      "end": 3.022,
+      "text": "Lançando sobre ele toda a vossa ansiedade,"
+    },
+    {
+      "start": 3.278,
+      "end": 5.124,
+      "text": "porque ele tem cuidado de vós."
+    },
+    {
+      "start": 5.983,
+      "end": 9.988,
+      "text": "Primeira Carta de Pedro, capítulo cinco, versículo sete."
+    },
+    {
+      "start": 11.01,
+      "end": 13.494,
+      "text": "Entregar a ansiedade a Deus não é fingir que"
+    },
+    {
+      "start": 13.529,
+      "end": 17.256,
+      "text": "ela não existe. Não é repetir palavras bonitas até"
+    },
+    {
+      "start": 17.302,
+      "end": 18.312,
+      "text": "que a dor se cale."
+    },
+    {
+      "start": 18.963,
+      "end": 21.319,
+      "text": "Não é usar a fé para calar uma conversa"
+    },
+    {
+      "start": 21.366,
+      "end": 24.582,
+      "text": "necessária ou adiar uma decisão importante."
+    },
+    {
+      "start": 25.302,
+      "end": 29.295,
+      "text": "Entregar é parar de tratar como sua aquilo que"
+    },
+    {
+      "start": 29.377,
+      "end": 31.316,
+      "text": "nunca esteve sob o seu domínio."
+    },
+    {
+      "start": 31.885,
+      "end": 33.487,
+      "text": "É dizer com sinceridade:"
+    },
+    {
+      "start": 34.044,
+      "end": 36.517,
+      "text": "Deus, eu não consigo prever tudo."
+    },
+    {
+      "start": 37.26,
+      "end": 39.164,
+      "text": "Eu não consigo salvar todo mundo."
+    },
+    {
+      "start": 39.721,
+      "end": 42.438,
+      "text": "Eu não consigo resolver cada parte desta história."
+    },
+    {
+      "start": 43.181,
+      "end": 44.818,
+      "text": "Mas isto está diante de ti."
+    },
+    {
+      "start": 45.643,
+      "end": 49.695,
+      "text": "Talvez essa entrega aconteça em uma oração curta,"
+    },
+    {
+      "start": 50.043,
+      "end": 51.425,
+      "text": "no meio de um dia comum."
+    },
+    {
+      "start": 51.75,
+      "end": 56.591,
+      "text": "Talvez aconteça quando você para de alimentar uma culpa antiga."
+    },
+    {
+      "start": 57.543,
+      "end": 61.026,
+      "text": "Talvez aconteça quando aceita que uma pessoa que você"
+    },
+    {
+      "start": 61.154,
+      "end": 65.055,
+      "text": "ama também precisa fazer as próprias escolhas."
+    }
+  ],
+  "platform": "youtube_shorts"
+}

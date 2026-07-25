@@ -1,0 +1,4 @@
+interface:
+  display_name: "TikTok Studio Maintainer"
+  short_description: "Mantem automacoes do TikTok Studio auditaveis"
+  default_prompt: "Inspecione a integracao com o TikTok Studio, recupere seletores semanticos e retome sem duplicar publicacoes."

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-003",
+  "recorded_at": "2026-07-23",
+  "classification": "user_input_and_pending_review",
+  "approved_calibration": {
+    "sample": "05_audio/video-003/calibracao-tempo-v1/C-mais-rapido-1.05x.mp3",
+    "tempo": 1.05,
+    "pitch": "preserved",
+    "decision": "approved_as_channel_default"
+  },
+  "candidate_master": "07_exports/video-003/o-que-jo-ensina-quando-a-vida-parece-injusta-v2.mp4",
+  "candidate_state": "superseded_after_human_rejection",
+  "superseded_by": "human-review-v2.json",
+  "gate": {
+    "gate_id": "palavra-que-cuida-editorial-visual",
+    "state": "full",
+    "promotion_allowed": false
+  }
+}

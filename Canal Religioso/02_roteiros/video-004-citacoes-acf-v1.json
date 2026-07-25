@@ -1,0 +1,58 @@
+{
+  "video_id": "video-004",
+  "title_working": "O que a Bíblia revela sobre a infância de Jesus — e o que ela não conta",
+  "state": "script-v1-preflight",
+  "source": {
+    "edition": "Almeida Corrigida Fiel",
+    "official_locator": "https://www.biblias.com.br/acfonline",
+    "retrieved_at": "2026-07-24T00:00:00-03:00",
+    "retrieval_method": "GetVerses service exposed by the official ACF Online page"
+  },
+  "direct_acf_citations": [
+    {
+      "reference": "Lucas 2:40",
+      "role": "childhood-summary",
+      "spoken_lead_in": "Lucas, capítulo dois, versículo quarenta, diz:",
+      "text": "E o menino crescia, e era fortalecido em espírito, e cheio de sabedoria; e a graça de Deus estava sobre ele."
+    },
+    {
+      "reference": "Lucas 2:41",
+      "role": "family-practice",
+      "spoken_lead_in": "Lucas, capítulo dois, versículo quarenta e um, diz:",
+      "text": "Ora, todos os anos iam seus pais a Jerusalém à festa da páscoa;"
+    },
+    {
+      "reference": "Lucas 2:46",
+      "role": "temple-scene",
+      "spoken_lead_in": "Lucas, capítulo dois, versículo quarenta e seis, diz:",
+      "text": "E aconteceu que, passados três dias, o acharam no templo, assentado no meio dos doutores, ouvindo-os, e interrogando-os."
+    },
+    {
+      "reference": "Lucas 2:49",
+      "role": "identity-and-mission",
+      "spoken_lead_in": "Lucas, capítulo dois, versículo quarenta e nove, diz:",
+      "text": "E ele lhes disse: Por que é que me procuráveis? Não sabeis que me convém tratar dos negócios de meu Pai?"
+    },
+    {
+      "reference": "Lucas 2:51",
+      "role": "return-to-nazareth",
+      "spoken_lead_in": "Lucas, capítulo dois, versículo cinquenta e um, diz:",
+      "text": "E desceu com eles, e foi para Nazaré, e era-lhes sujeito. E sua mãe guardava no seu coração todas estas coisas."
+    },
+    {
+      "reference": "Lucas 2:52",
+      "role": "growth-summary",
+      "spoken_lead_in": "Lucas, capítulo dois, versículo cinquenta e dois, diz:",
+      "text": "E crescia Jesus em sabedoria, e em estatura, e em graça para com Deus e os homens."
+    }
+  ],
+  "references_without_direct_quote": [
+    "Mateus 2:1-23",
+    "Lucas 2:1-39",
+    "Lucas 2:42-45",
+    "Lucas 2:47-48",
+    "Lucas 2:50"
+  ],
+  "display_policy": "Toda citação lida será exibida integralmente, com livro, capítulo e versículo completos, e comparada palavra por palavra com a narração.",
+  "notes": "Seis unidades de versículo ACF no master horizontal. Cada derivado que reproduzir texto será contado como nova saída pública."
+}

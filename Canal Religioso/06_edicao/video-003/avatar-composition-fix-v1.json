@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-003",
+  "status": "integrated_in_master_v3",
+  "source_avatar": "../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-003/assets/video/avatar-fechamento-raw-v1.mp4",
+  "rejected_background": "../../04_assets/biblioteca_imagens/curadas/objetos_cenarios/p001-sala-final-v1.png",
+  "corrected_background": "../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-003/assets/images/avatar-background-room-empty-v1.png",
+  "candidate_composite": "../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-003/assets/video/avatar-fechamento-composite-v3-physics-fix.mp4",
+  "qa_evidence": [
+    "qa-v2/avatar-physics-fix-v3-sheet.png",
+    "qa-v2/avatar-physics-fix-v3-16s.png"
+  ],
+  "physical_coherence_review": "passed_in_final_master_v3",
+  "final_master": "../../07_exports/video-003/o-que-jo-ensina-quando-a-vida-parece-injusta-v3.mp4",
+  "final_qa": "qa-final-v3.json",
+  "paid_api_cost_usd": 0.0
+}

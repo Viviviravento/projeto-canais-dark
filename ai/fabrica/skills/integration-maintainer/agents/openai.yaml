@@ -1,0 +1,4 @@
+interface:
+  display_name: "Integration Maintainer"
+  short_description: "Diagnostica e retoma integracoes sem duplicar efeitos"
+  default_prompt: "Diagnostique esta falha de integracao, preserve o ponto de retomada e aplique a menor correcao comprovada."

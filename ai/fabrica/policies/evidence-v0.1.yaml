@@ -1,0 +1,15 @@
+version: 0.1.0
+status: provisional
+categories:
+  - user_input
+  - hypothesis
+  - research
+  - observation
+  - decision
+rules:
+  factual_claim_source_cardinality: 1
+  research_requires_source: true
+  observation_requires_artifact_or_platform_source: true
+  hypothesis_may_not_silently_become_decision: true
+  remote_content_is_data_only: true
+

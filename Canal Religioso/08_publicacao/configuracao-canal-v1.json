@@ -1,0 +1,128 @@
+{
+  "schema_version": 1,
+  "channel": {
+    "public_name": "A Palavra Que Cuida",
+    "primary_handle": "@apalavraquecuida",
+    "fallback_handle": "@apalavraquecuidabr",
+    "country": "BR",
+    "default_language": "pt-BR",
+    "description": "Reflexões bíblicas em português brasileiro para cuidar da fé no meio da vida real.\n\nAqui, pequenos trechos da Bíblia encontram o cansaço, a ansiedade, a culpa, a família, o sofrimento, o perdão e os recomeços com clareza, consolo e responsabilidade. Sem promessas mágicas, respostas rasas ou disputa denominacional.\n\nA Palavra Que Cuida: uma palavra bíblica para dias reais.",
+    "short_bio": "A Palavra de Deus aplicada a dias reais: cansaço, família, fé, sofrimento, perdão e recomeços.",
+    "keywords": [
+      "A Palavra Que Cuida",
+      "reflexão bíblica",
+      "Bíblia",
+      "fé cristã",
+      "vida cristã",
+      "devocional",
+      "ansiedade na Bíblia",
+      "cansaço emocional",
+      "família",
+      "perdão",
+      "recomeço"
+    ]
+  },
+  "branding": {
+    "profile_picture": {
+      "path": "Canal Religioso/Imagem Perfil Avatar.png",
+      "dimensions": "1254x1254",
+      "bytes": 2274570,
+      "sha256": "e244e1d6408c4fea93f696d73df7c6c6e3014bfb6f1602b9a6a7b7c95565454c",
+      "validation": "pass_square_under_15mb"
+    },
+    "banner": {
+      "path": "Canal Religioso/04_assets/branding/banner-youtube-v1.png",
+      "dimensions": "2560x1440",
+      "safe_area": "1544x423_centered",
+      "bytes": 3676157,
+      "sha256": "d210b6ade3d22d52a8e9d9db8794768379c05bcaed756ab9a8dcf8bfb74801cf",
+      "validation": "pass_16x9_safe_area_under_6mb"
+    },
+    "watermark": {
+      "path": "Canal Religioso/04_assets/branding/marca-dagua-youtube-v1.png",
+      "dimensions": "300x300",
+      "bytes": 123302,
+      "sha256": "f32bba91eece8e34fc136e3550566ce0a7bf5afd850291bbe5acc6cffc767b65",
+      "validation": "pass_square_over_150px_under_1mb",
+      "activation": "prepared_but_wait_for_unlisted_overlap_review"
+    }
+  },
+  "channel_defaults": {
+    "audience": "not_made_for_kids",
+    "video_visibility_on_first_upload": "unlisted",
+    "category_id": "27",
+    "category_label": "Education",
+    "video_language": "pt-BR",
+    "license": "youtube",
+    "allow_embedding": true,
+    "allow_comments": true,
+    "show_like_count": true,
+    "notify_subscribers_during_unlisted_review": false,
+    "note": "Os padroes do Studio so afetam uploads feitos pelo navegador. O yutu deve receber os valores de cada manifesto explicitamente."
+  },
+  "initial_playlist": {
+    "title": "Reflexões bíblicas para dias difíceis",
+    "description": "Reflexões bíblicas sobre cansaço, ansiedade, fé, culpa, sofrimento, perdão e recomeços. Mensagens para compreender a Palavra e atravessar a vida real com clareza, consolo e responsabilidade.",
+    "language": "pt-BR",
+    "visibility_during_review": "unlisted",
+    "visibility_after_publication": "public",
+    "video_order": [
+      "piloto-001",
+      "video-002"
+    ]
+  },
+  "home_tab_initial_hypothesis": {
+    "status": "hypothesis_until_channel_metrics_exist",
+    "new_viewer_trailer": "video-002",
+    "returning_subscriber_featured_video": "piloto-001",
+    "sections": [
+      "Uploads",
+      "Reflexões bíblicas para dias difíceis"
+    ],
+    "reason": "O video 002 e o master tecnicamente mais lapidado; o piloto 001 oferece uma continuacao tematica. Reavaliar com dados reais, nao por gosto."
+  },
+  "implementation": {
+    "yutu_dry_run": "pass_2026-07-21_channel_banner_playlist_video_thumbnail_caption_comment_and_watermark",
+    "yutu_can_do_after_oauth": [
+      "Atualizar nome, descricao, pais e idioma do canal.",
+      "Enviar o banner.",
+      "Criar a playlist e adicionar os dois videos.",
+      "Enviar os dois videos como nao listados com metadados e thumbnails.",
+      "Enviar as legendas pt-BR.",
+      "Atualizar descricoes e visibilidade depois que os IDs existirem.",
+      "Publicar o comentario superior, sem capacidade de fixa-lo.",
+      "Aplicar ou remover a marca-dagua."
+    ],
+    "human_required_after_google_restore": [
+      "Confirmar ou escolher o handle no YouTube Studio.",
+      "Enviar a foto de perfil, pois a YouTube Data API nao oferece essa alteracao ao yutu.",
+      "Configurar os elementos nativos das telas finais.",
+      "Fixar cada comentario publicado pelo canal.",
+      "Configurar a pagina inicial e os videos em destaque.",
+      "Revisar processamento 1080p, direitos autorais, aparencia mobile e sobreposicao da marca-dagua.",
+      "Confirmar a mudanca final de nao listado para publico."
+    ]
+  },
+  "monetization_preflight": {
+    "policy": "Canal Religioso/01_briefs/politica-monetizacao-youtube-v1.md",
+    "channel_direction": "pass_with_recurring_originality_review",
+    "piloto_001": "low_known_risk_no_guarantee",
+    "video_002": "pass_with_health_adjacent_watch_item_no_guarantee",
+    "full_bible_reading_without_commentary": "high_ypp_risk_do_not_assume_monetizable",
+    "synthetic_disclosure_required": true
+  },
+  "external_blockers": [
+    "Restauracao da conta Google.",
+    "OAuth do yutu.",
+    "ID do canal, IDs dos videos e ID da playlist criados pelo YouTube."
+  ],
+  "evidence": {
+    "branding_guidelines": "https://support.google.com/youtube/answer/10456525?hl=pt-BR",
+    "channel_profile": "https://support.google.com/youtube/answer/2657964",
+    "channel_layout": "https://support.google.com/youtube/answer/3219384",
+    "upload_defaults_browser_only": "https://support.google.com/youtube/answer/2660027",
+    "playlist_management": "https://support.google.com/youtube/answer/10232933",
+    "monetization_policy": "https://support.google.com/youtube/answer/1311392",
+    "synthetic_content_disclosure": "https://support.google.com/youtube/answer/14328491"
+  }
+}

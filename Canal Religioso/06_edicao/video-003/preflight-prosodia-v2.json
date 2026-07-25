@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "preflight_id": "video-003-prosodia-performance-v2",
+  "created_at": "2026-07-23",
+  "input": "02_roteiros/video-003-performance-v2.json",
+  "reference_calibration": {
+    "manifest": "02_roteiros/video-003-calibracao-performance-v3.json",
+    "evaluation": "05_audio/video-003/calibracao-v3/avaliacao-semantica-v3.json",
+    "human_result": "method_approved",
+    "words": 116,
+    "duration_seconds": 54.752,
+    "observed_words_per_second": 2.119
+  },
+  "thresholds": {
+    "maximum_share_sentences_with_four_words_or_fewer_pct": 15,
+    "maximum_consecutive_sentences_with_seven_words_or_fewer": 2,
+    "ellipsis_allowed": false,
+    "repeated_dashes_allowed": false,
+    "break_tags_allowed": false
+  },
+  "observed": {
+    "blocks": 8,
+    "characters": 8834,
+    "words": 1511,
+    "sentences": 85,
+    "average_words_per_sentence": 17.78,
+    "sentences_with_four_words_or_fewer": 0,
+    "share_sentences_with_four_words_or_fewer_pct": 0,
+    "maximum_consecutive_sentences_with_seven_words_or_fewer": 2,
+    "ellipses": 0,
+    "repeated_dashes": 0,
+    "break_tags": 0,
+    "estimated_duration_seconds": 713.2,
+    "estimated_duration_minutes": 11.89
+  },
+  "scripture_integrity": {
+    "quoted_bible_passages_in_v1": 7,
+    "quoted_bible_passages_in_v2": 7,
+    "literal_comparison": "identical",
+    "note": "A oitava expressão entre aspas na v1 era uma formulação editorial, não uma citação bíblica."
+  },
+  "result": "passed_for_first_block_validation",
+  "limits": [
+    "A duração é uma estimativa baseada na amostra aprovada e pode variar na geração integral.",
+    "O preflight textual reduz risco de supersegmentação, mas não substitui o crivo semântico humano do áudio.",
+    "O request_id do primeiro bloco não pode alimentar os demais até o primeiro bloco ser aprovado."
+  ],
+  "next_action": "Obter preço e saldo vigentes, cotar somente o primeiro bloco e pedir aprovação explícita antes da chamada paga."
+}

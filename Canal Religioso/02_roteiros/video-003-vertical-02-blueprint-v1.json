@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "blueprint_id": "v003-vertical-02-v1",
+  "channel_id": "palavra-que-cuida",
+  "topic_id": "v003-job-injustice-not-punishment",
+  "artifact_kind": "script",
+  "promise": "Desarmar a associação automática entre sofrimento e castigo usando a premissa e o veredito do livro de Jó.",
+  "structure": [
+    {
+      "id": "hook",
+      "purpose": "Abrir com a tese mais compartilhável do episódio.",
+      "content": "Nem toda dor é castigo. O livro de Jó impede essa conclusão antes de a tragédia começar."
+    },
+    {
+      "id": "proof",
+      "purpose": "Ancorar a tese na apresentação do personagem.",
+      "content": "Ler integralmente Jó 1:1 na ACF."
+    },
+    {
+      "id": "verdict",
+      "purpose": "Mostrar que o final não confirma os acusadores.",
+      "content": "Parafrasear o veredito de Jó 42:7 com a referência completa."
+    },
+    {
+      "id": "bridge",
+      "purpose": "Conduzir ao episódio completo no YouTube.",
+      "content": "Convidar para a reflexão completa no canal A Palavra que Cuida."
+    }
+  ],
+  "performance_notes": [
+    "Duração-alvo entre 65 e 85 segundos.",
+    "Evitar promessa de solução rápida ou recuperação material.",
+    "Legenda queimada em 9:16, com enquadramento seguro para TikTok e Shorts.",
+    "Exibir Jó 1:1 por inteiro enquanto a citação for lida."
+  ],
+  "research_refs": [
+    "evidencias/video-003-claims.jsonl#v003-job-innocent-suffering",
+    "evidencias/video-003-claims.jsonl#v003-acf-source",
+    "02_roteiros/video-003-citacoes-acf-v1.json#Jó 1:1"
+  ],
+  "derivative_candidates": []
+}

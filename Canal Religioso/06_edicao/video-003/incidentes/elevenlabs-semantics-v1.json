@@ -1,0 +1,119 @@
+{
+  "schema_version": "1.0.0",
+  "incident_id": "v003-elevenlabs-semantics-001",
+  "integration": "ElevenLabs Text to Speech",
+  "operation": "full long-form narration generation",
+  "opened_at": "2026-07-22T18:45:00-03:00",
+  "closed_at": null,
+  "state": "deferred_to_next_video_with_current_debt_accepted",
+  "latest_evidence": {
+    "recorded_at": "2026-07-23",
+    "human_verdict": "failed",
+    "finding": "A prosodia perde estabilidade do meio para o final do master v2.",
+    "constant_generation_parameters": true,
+    "cost_quality_throttle": "refuted",
+    "request_stitching_progressive_drift": "plausible_but_unconfirmed",
+    "isolated_tail_test": {
+      "status": "completed",
+      "request_chain": false,
+      "credits_consumed": 1180,
+      "automatic_retries": 0,
+      "block_07_duration_before_seconds": 125.852,
+      "block_07_duration_after_seconds": 123.159,
+      "block_08_duration_before_seconds": 64.551,
+      "block_08_duration_after_seconds": 65.341,
+      "interpretation": "Timing changed, but automatic pause metrics do not prove a complete correction. Human A/B review is required."
+    },
+    "human_ab_verdict": {
+      "status": "completed",
+      "result": "B_without_request_chain_was_worse_than_A",
+      "operational_conclusion": "Long previous_text fallback is rejected as a remedy. This does not prove Request Stitching harmless; it proves this replacement method did not work."
+    },
+    "timing_observations": {
+      "slowest_block": "07-tres-cuidados",
+      "slowest_block_wpm": 119.2,
+      "later_period_pause_max_seconds": 1.115
+    }
+  },
+  "symptoms": [
+    "A voz pronunciou todo o texto, mas não conduziu a hierarquia das ideias.",
+    "Pausas e continuidades não acompanharam vírgulas, concordâncias e conclusões narrativas.",
+    "O resultado foi percebido como leitura escolar sem compreensão do texto."
+  ],
+  "hypotheses": [
+    {
+      "statement": "As instruções naturais do performance_contract não foram enviadas ao provedor; somente texto, modelo, idioma, configurações de voz, seed e contexto textual entraram no payload.",
+      "status": "confirmed",
+      "evidence_refs": [
+        "06_edicao/piloto-001/build_audio_v1.py#generate_block",
+        "02_roteiros/video-003-performance-v1.json#performance_contract"
+      ]
+    },
+    {
+      "statement": "A prosa editorial do vídeo 003 original é, sozinha, a causa da reprovação.",
+      "status": "not_supported_as_sole_cause",
+      "evidence_refs": [
+        "02_roteiros/video-003-performance-v1.json",
+        "02_roteiros/video-002-performance-v2.json"
+      ]
+    },
+    {
+      "statement": "A calibração v2 corrigiu o input e isolou uma incapacidade de Bruno Cardoso + Multilingual v2.",
+      "status": "refuted",
+      "evidence_refs": [
+        "02_roteiros/video-003-calibracao-performance-v2.json",
+        "05_audio/video-003/calibracao-v2/resultado-geracao.json",
+        "05_audio/video-002/v2/resultado-geracao.json"
+      ]
+    },
+    {
+      "statement": "Overprompting ou sujeira Unicode contaminaram a calibração v2.",
+      "status": "refuted",
+      "evidence_refs": [
+        "06_edicao/piloto-001/calibrate_audio.py#generate_sample",
+        "02_roteiros/video-003-calibracao-performance-v2.json"
+      ]
+    },
+    {
+      "statement": "A partitura oral v2 supersegmentou o texto e induziu reinícios prosódicos sucessivos.",
+      "status": "confirmed_as_primary_cause_for_calibration_v2",
+      "evidence_refs": [
+        "02_roteiros/video-003-calibracao-performance-v2.json",
+        "02_roteiros/video-002-performance-v2.json",
+        "01_briefs/pesquisa-pratica-prosodia-tts-2026-v1.md#auditoria-local-do-input-e-do-payload",
+        "02_roteiros/video-003-calibracao-performance-v3.json",
+        "05_audio/video-003/calibracao-v3/avaliacao-semantica-v3.json"
+      ]
+    },
+    {
+      "statement": "Request Stitching pode ter preservado uma cadência ruim iniciada no primeiro bloco da narração integral v1.",
+      "status": "plausible_but_unconfirmed_for_full_v1",
+      "evidence_refs": [
+        "06_edicao/piloto-001/build_audio_v1.py#generate_block",
+        "05_audio/video-003/v1/resultado-geracao.json",
+        "https://elevenlabs.io/docs/eleven-api/guides/how-to/text-to-speech/request-stitching"
+      ]
+    }
+  ],
+  "root_cause": "A supersegmentacao explica a falha da calibracao v2, mas nao explica sozinha a regressao percebida no master integral v2. Nao houve reducao de modelo, configuracao ou qualidade por custo. O encadeamento progressivo de request_ids e uma hipotese operacional ainda nao comprovada.",
+  "correction": "Reabrir o incidente. Calibrar abertura, miolo denso e fechamento de forma independente. Nao encadear o episodio inteiro a partir de uma unica ancora ate que um teste isolado demonstre estabilidade. QA tecnico nao substitui aprovacao semantica humana.",
+  "cycles_without_new_evidence": 0,
+  "resume_point": {
+    "checkpoint": "A/B completed; finalize video 003 with A as accepted debt and resume prosody research on the next video",
+    "idempotency_key": "v003-audio-semantic-recovery-v4"
+  },
+  "side_effect_guard": {
+    "paid_call": true,
+    "publication": false,
+    "deletion": false
+  },
+  "regression": {
+    "status": "technical_full_regression_passed_human_semantic_review_failed",
+    "checks": [
+      "Abertura conduzida como pensamento compreendido.",
+      "Citação anunciada, lida e concluída antes da explicação.",
+      "Fechamento conclui a mensagem antes do CTA.",
+      "Humano aprova o método sem marcação frase a frase."
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-003",
+  "artifact_version": "v3",
+  "recorded_at": "2026-07-23",
+  "classification": "user_input",
+  "authorization": "finalize_with_best_existing_audio",
+  "user_statement": "Finaliza como der, podemos melhorar o audio nos proximos videos, ate voce pegar o jeito.",
+  "accepted_debt": {
+    "area": "voice_semantics",
+    "description": "A prosodia do meio para o final ainda possui pausas e interpretacao abaixo do padrao desejado.",
+    "does_not_become_channel_standard": true,
+    "resume_improvement_on_next_video": true
+  },
+  "rejected_experiment": {
+    "file": "05_audio/video-003/calibracao-cauda-v1/B-sem-cadeia-1.05x.mp3",
+    "verdict": "worse_than_current_audio",
+    "reuse": false
+  },
+  "selected_audio": {
+    "source": "audio stream from master v2",
+    "tempo": 1.05,
+    "reason": "Less defective than the no-chain alternative."
+  }
+}

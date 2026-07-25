@@ -1,0 +1,32 @@
+schema_version: 1.0.0
+pilot_id: mk-pilot-001
+thesis_id: mk-domestic
+status: planned_not_executed
+learning_goal: Descobrir se refeicao brasileira cotidiana com companhia calma produz uma promessa distinta e visualmente executavel.
+hypotheses:
+  - O reconhecimento imediato do prato brasileiro aumenta identificacao.
+  - Som limpo e ritmo de refeicao sustentam interesse sem porcoes extremas.
+  - Um enquadramento original pode gerar horizontal e dois derivados verticais sem nova captura.
+capture_plan:
+  meal: arroz, feijao, ovo frito e farofa
+  equipment: telefone disponivel, apoio fixo, luz domestica controlada e microfone disponivel
+  coverage:
+    - plano principal continuo da refeicao
+    - detalhe da montagem do prato
+    - detalhe da gema abrindo
+    - primeira garfada
+    - encerramento da refeicao
+  performance: A definir com o humano antes da captura; nao herdar narrador, apresentador ou roteiro de outro canal.
+  duration: Hipotese a decidir apos amostra de concorrentes; nenhuma minutagem foi herdada.
+production:
+  paid_api_calls: 0
+  generated_media: not_applicable
+  stock_media: not_applicable
+  composition: montagem local somente depois de captura aprovada
+success_evidence_needed:
+  - amostra comparativa de pelo menos dez videos brasileiros recentes
+  - teste humano de apetite, naturalidade e tolerancia ao som
+  - custo real do alimento e do tempo de captura
+  - definicao explicita de performer e limites de saude
+promotion_rule: Instanciar um canal somente depois que a pesquisa brasileira e um microteste de captura sustentarem a tese.
+

@@ -1,0 +1,65 @@
+{
+  "video_id": "video-003",
+  "title_working": "O que Jó ensina quando a vida parece injusta",
+  "state": "script-v1-preflight",
+  "source": {
+    "edition": "Almeida Corrigida Fiel",
+    "official_locator": "https://www.biblias.com.br/acfonline",
+    "retrieved_at": "2026-07-22T18:00:00-03:00",
+    "retrieval_method": "GetVerses service exposed by the official ACF Online page"
+  },
+  "direct_acf_citations": [
+    {
+      "reference": "Jó 1:1",
+      "role": "narrative-premise",
+      "spoken_lead_in": "Jó, capítulo um, versículo um, diz:",
+      "text": "Havia um homem na terra de Uz, cujo nome era Jó; e era este homem íntegro, reto e temente a Deus e desviava-se do mal."
+    },
+    {
+      "reference": "Jó 2:13",
+      "role": "presence-before-explanation",
+      "spoken_lead_in": "Jó, capítulo dois, versículo treze, diz:",
+      "text": "E assentaram-se com ele na terra, sete dias e sete noites; e nenhum lhe dizia palavra alguma, porque viam que a dor era muito grande."
+    },
+    {
+      "reference": "Jó 3:1",
+      "role": "permission-to-lament",
+      "spoken_lead_in": "Jó, capítulo três, versículo um, diz:",
+      "text": "Depois disto abriu Jó a sua boca, e amaldiçoou o seu dia."
+    },
+    {
+      "reference": "Jó 16:2",
+      "role": "failed-consolation",
+      "spoken_lead_in": "Jó, capítulo dezesseis, versículo dois:",
+      "text": "Tenho ouvido muitas coisas como estas; todos vós sois consoladores molestos."
+    },
+    {
+      "reference": "Jó 38:2",
+      "role": "divine-response-boundary",
+      "spoken_lead_in": "Jó, capítulo trinta e oito, versículo dois, diz:",
+      "text": "Quem é este que escurece o conselho com palavras sem conhecimento?"
+    },
+    {
+      "reference": "Jó 38:4",
+      "role": "divine-response-perspective",
+      "spoken_lead_in": "Jó, capítulo trinta e oito, versículo quatro:",
+      "text": "Onde estavas tu, quando eu fundava a terra? Faze-mo saber, se tens inteligência."
+    },
+    {
+      "reference": "Jó 42:7",
+      "role": "verdict-on-friends",
+      "spoken_lead_in": "Jó, capítulo quarenta e dois, versículo sete, diz:",
+      "text": "Sucedeu que, acabando o Senhor de falar a Jó aquelas palavras, o Senhor disse a Elifaz, o temanita: A minha ira se acendeu contra ti, e contra os teus dois amigos, porque não falastes de mim o que era reto, como o meu servo Jó."
+    }
+  ],
+  "references_without_direct_quote": [
+    "Jó 1:6-22",
+    "Jó 2:1-12",
+    "Jó 3:2-26",
+    "Jó 4-31",
+    "Jó 38-41",
+    "Jó 42:8-17"
+  ],
+  "display_policy": "Toda citacao lida sera exibida integralmente, com livro, capitulo e versiculo completos, e comparada palavra por palavra com a narracao.",
+  "notes": "Sete unidades de versiculo ACF no master horizontal. Cada derivado que reproduzir texto sera contado como nova saida publica."
+}

@@ -1,0 +1,106 @@
+{
+  "schema_version": 2,
+  "video_id": "video-002",
+  "channel": "A Palavra Que Cuida",
+  "status": "ready_for_unlisted_upload_pending_google_account",
+  "title": "Não andeis ansiosos: o que Jesus realmente quis dizer",
+  "thumbnail_phrase": "ANSIEDADE NÃO É FALTA DE FÉ",
+  "description": "O que Jesus realmente quis dizer ao ensinar \"não andeis ansiosos\" em Mateus 6:25-34? Nesta reflexão sobre ansiedade na Bíblia, entenda por que ansiedade não é simplesmente falta de fé e como viver o dia de hoje sem transformar o amanhã em senhor.\n\nJesus não ignora trabalho, contas, saúde ou necessidades reais. O texto distingue cuidado responsável da preocupação que tenta controlar o futuro e mostra como buscar primeiro o Reino de Deus pode reorganizar o presente.\n\nEste conteúdo é uma reflexão bíblica e não substitui avaliação, diagnóstico ou tratamento médico ou psicológico. Fé, psicoterapia e cuidado médico não precisam ser tratados como rivais.\n\nCAPÍTULOS\n00:00 Quando um versículo vira peso\n01:23 O \"por isso\" muda a leitura\n02:40 Necessidades reais e preocupação\n04:09 Aves, flores e o limite do controle\n05:33 Ansiedade não é falta de fé\n07:13 Buscar primeiro o Reino de Deus\n08:28 O tamanho de um dia\n10:02 Conclusão e próximo passo\n\nTEXTOS BÍBLICOS COMENTADOS\nCitações diretas:\n- Mateus 6:25\n- Mateus 6:33\n- Mateus 6:34\n\nContexto comentado:\n- Mateus 6:19-24\n- Mateus 6:26-32\n\nEste é o canal A Palavra Que Cuida. Inscreva-se para acompanhar novas reflexões bíblicas aplicadas à vida cotidiana. Curta e compartilhe esta mensagem com alguém que também precise ouvi-la.\n\nComente: qual preocupação com o amanhã você pode transformar em um passo possível hoje?\n\nCitações bíblicas extraídas de A Bíblia Sagrada - Almeida Corrigida Fiel (ACF), © 1994, 1995, 2007, 2011 Sociedade Bíblica Trinitariana do Brasil, Trinitarian Bible Society.\n\nMúsica: Classical 6, de Jonny S. - Mixkit Free License.\nVídeos de apoio: Tony Flanagan e Zuzanna Musial, via Pexels (Pexels License).\nhttps://www.pexels.com/video/asian-nature-7-9-18275864/\nhttps://www.pexels.com/video/wild-flowers-3869168/\n\n#Ansiedade #Mateus6 #Fé",
+  "hashtags": [
+    "#Ansiedade",
+    "#Mateus6",
+    "#Fé"
+  ],
+  "tags": [
+    "não andeis ansiosos",
+    "ansiedade não é falta de fé",
+    "ansiedade na Bíblia",
+    "o que a Bíblia diz sobre ansiedade",
+    "Mateus 6 25 34",
+    "como confiar em Deus",
+    "Sermão do Monte",
+    "preocupação com o amanhã",
+    "A Palavra Que Cuida"
+  ],
+  "chapters": [
+    {"start_seconds": 0, "timestamp": "00:00", "label": "Quando um versículo vira peso"},
+    {"start_seconds": 83, "timestamp": "01:23", "label": "O \"por isso\" muda a leitura"},
+    {"start_seconds": 160, "timestamp": "02:40", "label": "Necessidades reais e preocupação"},
+    {"start_seconds": 249, "timestamp": "04:09", "label": "Aves, flores e o limite do controle"},
+    {"start_seconds": 333, "timestamp": "05:33", "label": "Ansiedade não é falta de fé"},
+    {"start_seconds": 433, "timestamp": "07:13", "label": "Buscar primeiro o Reino de Deus"},
+    {"start_seconds": 508, "timestamp": "08:28", "label": "O tamanho de um dia"},
+    {"start_seconds": 602, "timestamp": "10:02", "label": "Conclusão e próximo passo"}
+  ],
+  "pinned_comment": "Qual preocupação com o amanhã você pode transformar em um passo possível hoje? Não precisa contar tudo: às vezes, nomear apenas o próximo passo já ajuda a devolver o futuro ao lugar dele.",
+  "youtube_settings": {
+    "visibility_for_first_upload": "unlisted",
+    "made_for_kids": false,
+    "age_restricted": false,
+    "video_language": "pt-BR",
+    "title_and_description_language": "pt-BR",
+    "caption_language": "pt-BR",
+    "altered_or_synthetic_content": true,
+    "allow_comments": true,
+    "show_like_count": true,
+    "license": "youtube",
+    "category_id": "27",
+    "category_label": "Education",
+    "notify_subscribers_during_unlisted_review": false,
+    "youtube_auto_levels": false,
+    "youtube_stabilization": false
+  },
+  "files": {
+    "publication_master": "Canal Religioso/07_exports/video-002/nao-andeis-ansiosos-v2.mp4",
+    "captions": "Canal Religioso/06_edicao/video-002/subtitles-master-v1.srt",
+    "thumbnail": "Canal Religioso/08_publicacao/video-002-thumbnail-v1.png"
+  },
+  "technical_identity": {
+    "duration_seconds": 661.248,
+    "resolution": "1920x1080",
+    "frame_rate": 30,
+    "master_sha256": "f0a74cf98076c19101ef3b1b9d5fa6315aded65519c8e7adf279cc2ca9f9c3fb",
+    "thumbnail_dimensions": "1280x720",
+    "thumbnail_sha256": "47e0565b0ac90c219825587c26d62b94b82edbbc6327727bbf767a7df15ac31e"
+  },
+  "end_screen": {
+    "reserved_start_seconds": 641.248,
+    "reserved_end_seconds": 661.248,
+    "visual_layout": "single_recommendation_episode_specific_exception",
+    "youtube_elements": [
+      {"type": "video", "target_video": "piloto-001", "youtube_video_id": null},
+      {"type": "subscribe"}
+    ],
+    "note": "Este master foi explicitamente dispensado da remontagem para duas recomendações. Configurar o piloto 001 como destino depois que o YouTube gerar o ID."
+  },
+  "cross_link": {
+    "target_video": "piloto-001",
+    "youtube_url": null,
+    "description_line_template": "Assista também: Você não precisa carregar tudo sozinha - {YOUTUBE_URL}"
+  },
+  "acf": {
+    "manifest": "Canal Religioso/02_roteiros/video-002-citacoes-acf-v0.json",
+    "direct_verse_units": 3,
+    "validation_result": "pass_3_of_1000_before_publication",
+    "record_as_published_only_after_public_visibility": true
+  },
+  "pre_publication_checks": {
+    "master_1080p": "pass",
+    "minimum_duration_10_minutes": "pass_11m01s",
+    "thumbnail_dimensions_and_size": "pass_1280x720_under_2mb",
+    "captions_master": "pass_168_cues_through_657_984_seconds",
+    "chapters_from_approved_audio_blocks": "pass",
+    "acf_validation": "pass",
+    "monetization_policy_preflight": "pass_with_health_adjacent_watch_item_no_guarantee",
+    "youtube_processing_hd_and_copyright_checks": "pending_external",
+    "youtube_video_id": "pending_external",
+    "end_screen_destination": "pending_external",
+    "final_visibility_confirmation": "pending_human"
+  },
+  "accepted_episode_specific_debt": [
+    "Alguns textos diegéticos ainda parecem camadas externas; a correção começa nos próximos episódios.",
+    "A exibição visual de Mateus 6:25 não contém todo o trecho lido; a regra completa começa nos próximos episódios.",
+    "Há repetição visual tolerada por limitação do acervo atual.",
+    "O CTA e o layout final oferecem uma recomendação, não o padrão futuro de duas recomendações."
+  ]
+}

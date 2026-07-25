@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "requirement_id": "mk-pilot-main-capture",
+  "communicative_function": "Fazer a refeicao parecer real, apetitosa e compartilhada com o espectador.",
+  "minimum_fidelity": "documentary",
+  "authenticity": {"constraints": ["alimento real", "som captado na sessao", "cozinha ou mesa brasileira plausivel", "sem comida sintetica"]},
+  "rights": {"allowed_licenses": ["original-owned-capture"], "attribution_required": false},
+  "target_formats": ["16:9", "9:16"],
+  "cost_options": [
+    {"method": "captura local com equipamento ja disponivel", "estimated_cost": 0, "eligible": true},
+    {"method": "stock de refeicao generica", "estimated_cost": 0, "eligible": false, "reason": "nao sustenta continuidade nem autenticidade da refeicao"},
+    {"method": "geracao de video", "estimated_cost": 1, "eligible": false, "reason": "custo e fidelidade inferiores para comida real neste piloto"}
+  ],
+  "acceptance_criteria": ["comida legivel e apetitosa", "audio sem clipping", "continuidade da refeicao", "enquadramento reutilizavel em vertical", "nenhum incentivo a excesso"]
+}
+

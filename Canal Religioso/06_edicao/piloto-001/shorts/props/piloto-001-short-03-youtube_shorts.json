@@ -1,0 +1,163 @@
+{
+  "derivativeId": "piloto-001-short-03",
+  "title": "Responsabilidade não é tentar controlar tudo",
+  "audioFile": "audio/piloto-001-short-03-narracao.wav",
+  "spokenDurationSeconds": 59.965,
+  "endCardSeconds": 4.0,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 7.496,
+      "asset": "images/img-s06-biblia-mesa-v1.png",
+      "focus": "52% 54%",
+      "scale": 1.14
+    },
+    {
+      "start": 7.496,
+      "end": 14.991,
+      "asset": "images/img-s10-responsabilidades-v1.png",
+      "focus": "50% 48%",
+      "scale": 1.13
+    },
+    {
+      "start": 14.991,
+      "end": 22.487,
+      "asset": "images/img-s11-controle-v1.png",
+      "focus": "48% 50%",
+      "scale": 1.15
+    },
+    {
+      "start": 22.487,
+      "end": 29.983,
+      "asset": "images/img-s13-caminhada-v1.png",
+      "focus": "54% 51%",
+      "scale": 1.14
+    },
+    {
+      "start": 29.983,
+      "end": 37.478,
+      "asset": "images/img-s28-escolhas-do-outro-v1.png",
+      "focus": "47% 50%",
+      "scale": 1.13
+    },
+    {
+      "start": 37.478,
+      "end": 44.974,
+      "asset": "images/img-s24-entrega-v1.png",
+      "focus": "32% 48%",
+      "scale": 1.13
+    },
+    {
+      "start": 44.974,
+      "end": 52.469,
+      "asset": "images/img-s17-pausa-v1.png",
+      "focus": "50% 48%",
+      "scale": 1.15
+    },
+    {
+      "start": 52.469,
+      "end": 59.965,
+      "asset": "images/img-s06-biblia-mesa-v1.png",
+      "focus": "52% 54%",
+      "scale": 1.18
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.12,
+      "end": 1.989,
+      "text": "Repare em uma coisa importante:"
+    },
+    {
+      "start": 2.651,
+      "end": 5.216,
+      "text": "Jesus não diz que a vida deixará de ter"
+    },
+    {
+      "start": 5.297,
+      "end": 8.421,
+      "text": "peso. Ele não diz que, a partir daquele momento,"
+    },
+    {
+      "start": 8.583,
+      "end": 10.65,
+      "text": "nenhuma responsabilidade existirá,"
+    },
+    {
+      "start": 11.311,
+      "end": 12.914,
+      "text": "nenhuma dor aparecerá"
+    },
+    {
+      "start": 13.692,
+      "end": 17.116,
+      "text": "e nenhuma decisão difícil precisará ser tomada."
+    },
+    {
+      "start": 17.383,
+      "end": 20.332,
+      "text": "O próprio texto fala de um jugo e de"
+    },
+    {
+      "start": 20.379,
+      "end": 21.11,
+      "text": "um fardo."
+    },
+    {
+      "start": 21.772,
+      "end": 23.56,
+      "text": "Existe um caminho a aprender."
+    },
+    {
+      "start": 23.873,
+      "end": 25.429,
+      "text": "Existe uma vida a viver."
+    },
+    {
+      "start": 25.742,
+      "end": 29.585,
+      "text": "Existe fidelidade, obediência, paciência e verdade."
+    },
+    {
+      "start": 30.352,
+      "end": 34.81,
+      "text": "Mas há uma diferença enorme entre viver com responsabilidade"
+    },
+    {
+      "start": 35.239,
+      "end": 37.84,
+      "text": "e viver como se tudo dependesse de você."
+    },
+    {
+      "start": 38.339,
+      "end": 40.824,
+      "text": "Uma coisa é cuidar daquilo que está em suas"
+    },
+    {
+      "start": 40.94,
+      "end": 45.073,
+      "text": "mãos. Outra é tentar controlar aquilo que está fora"
+    },
+    {
+      "start": 45.108,
+      "end": 48.603,
+      "text": "do seu alcance. Uma coisa é amar as pessoas."
+    },
+    {
+      "start": 48.974,
+      "end": 52.086,
+      "text": "Outra é assumir que você pode salvar cada uma"
+    },
+    {
+      "start": 52.121,
+      "end": 55.232,
+      "text": "delas. Uma coisa é reconhecer um erro."
+    },
+    {
+      "start": 55.813,
+      "end": 59.725,
+      "text": "Outra é transformar cada erro numa condenação sem fim."
+    }
+  ],
+  "platform": "youtube_shorts"
+}

@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0.0",
+  "checked_at": "2026-07-23T21:56:21.222573+00:00",
+  "read_only": true,
+  "paid_generation_started": false,
+  "checks": [
+    {
+      "provider": "ElevenLabs",
+      "endpoint": "https://api.elevenlabs.io/v1/user/subscription",
+      "http_status": 200,
+      "ok": true,
+      "data": {
+        "tier": "starter",
+        "character_count": 29767,
+        "character_limit": 40000,
+        "max_character_limit_extension": 0,
+        "max_credit_limit_extension": 0,
+        "can_extend_character_limit": false,
+        "allowed_to_extend_character_limit": false,
+        "next_character_count_reset_unix": 1786396301,
+        "voice_limit": 10,
+        "professional_voice_limit": 0,
+        "can_extend_voice_limit": false,
+        "currency": "usd",
+        "current_overage": {
+          "amount": "0",
+          "currency": "usd"
+        },
+        "status": "active",
+        "billing_period": "monthly_period",
+        "character_refresh_period": "monthly_period",
+        "next_invoice": {
+          "amount_due_cents": 600,
+          "subtotal_cents": 600,
+          "tax_cents": null,
+          "discount_percent_off": null,
+          "discount_amount_off": null,
+          "discounts": [],
+          "next_payment_attempt_unix": 1786399901,
+          "payment_intent_status": null,
+          "payment_intent_statusses": []
+        },
+        "open_invoices": [],
+        "has_open_invoices": false
+      }
+    },
+    {
+      "provider": "HeyGen",
+      "endpoint": "https://api.heygen.com/v2/user/remaining_quota",
+      "http_status": 200,
+      "ok": true,
+      "data": {
+        "data": {
+          "remaining_quota": 3,
+          "details": {
+            "avatar_iv_free_credit": 3,
+            "generative_element_free_concept_engine_credit": 3,
+            "generative_element_free_design_element_credit": 3,
+            "b_roll_free_credit": 1,
+            "image_free_credit": 3,
+            "video_upscale_free_credit": 3,
+            "speech_cleanup_free_credit": 3,
+            "podcast_free_credit": 1,
+            "hyperframes_render_free_credit": 3,
+            "hyperframes_api_render_free_credit": 5,
+            "tts_free_credit": 600,
+            "hyperion_render_free_credit": 1
+          }
+        }
+      }
+    },
+    {
+      "provider": "HeyGen",
+      "endpoint": "https://api.heygen.com/v3/users/me",
+      "http_status": 200,
+      "ok": true,
+      "data": {
+        "data": {
+          "billing_type": "wallet",
+          "wallet": {
+            "currency": "usd",
+            "remaining_balance": 0.05
+          }
+        }
+      }
+    },
+    {
+      "provider": "HeyGen",
+      "endpoint": "https://api.heygen.com/v3/videos",
+      "http_status": 200,
+      "ok": true,
+      "data": {
+        "data": [
+          {
+            "duration": 17.72,
+            "status": "completed",
+            "title": "Video 003 - Encerramento e CTA"
+          },
+          {
+            "duration": 21.304,
+            "status": "completed",
+            "title": "Video 002 - Encerramento e CTA"
+          },
+          {
+            "duration": 16.916,
+            "status": "completed",
+            "title": "Video 002 - Distincao entre cuidado e ansiedade"
+          },
+          {
+            "duration": 13.75,
+            "status": "completed",
+            "title": "A Palavra que Cuida - piloto 001 - encerramento"
+          },
+          {
+            "duration": 6.0,
+            "status": "completed",
+            "title": "A Palavra que Cuida - piloto 001 - interpretacao"
+          },
+          {
+            "duration": 8.7,
+            "status": "completed",
+            "title": "A Palavra que Cuida - piloto 001 - abertura"
+          },
+          {
+            "duration": 9.30937,
+            "status": "completed",
+            "title": "A Palavra que Cuida - microteste de gestos 002"
+          },
+          {
+            "duration": 9.30937,
+            "status": "completed",
+            "title": "A Palavra que Cuida - microteste avatar 001"
+          }
+        ]
+      }
+    },
+    {
+      "provider": "fal.ai",
+      "endpoint": "https://api.fal.ai/v1/account/billing",
+      "http_status": 403,
+      "ok": false,
+      "error": {
+        "error": {
+          "type": "authorization_error"
+        }
+      }
+    }
+  ]
+}

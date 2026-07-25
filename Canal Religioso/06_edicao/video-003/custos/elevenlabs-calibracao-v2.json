@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v003-elevenlabs-calibration-v2-20260722",
+  "parent_quote_id": "v003-elevenlabs-20260722",
+  "provider": "ElevenLabs",
+  "model": "eleven_multilingual_v2",
+  "operation": "three representative oral-performance calibration samples",
+  "unit": "character",
+  "quantity": 1677,
+  "currency": "USD",
+  "unit_price": 0.0001,
+  "price_checked_at": "2026-07-22T18:55:00-03:00",
+  "price_source": "https://elevenlabs.io/pricing/api",
+  "expected_cost": 0.1677,
+  "maximum_cost": 0.17,
+  "observed_cost": 0.0542,
+  "status": "reconciled",
+  "metadata": {
+    "samples": [
+      "opening",
+      "scripture_and_explanation",
+      "closing_and_cta"
+    ],
+    "full_generation_forbidden_until_human_approval": true,
+    "observed_starter_discount_may_reduce_credits": true,
+    "automatic_retry": false,
+    "observed_subscription_credits": 542
+  }
+}

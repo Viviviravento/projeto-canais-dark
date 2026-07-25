@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-003",
+  "artifact_version": "v3",
+  "checked_at": "2026-07-23T18:21:45-03:00",
+  "automated_state": "passed",
+  "human_authorization": "approved_with_known_audio_debt",
+  "master": {
+    "file": "../../07_exports/video-003/o-que-jo-ensina-quando-a-vida-parece-injusta-v3.mp4",
+    "sha256": "075823bd6e4a663ec7dc9f73259224befe61d4e1d2ae8bb04126d92be85cadb2",
+    "size_bytes": 1126766180,
+    "duration_seconds": 679.844,
+    "width": 1920,
+    "height": 1080,
+    "video_codec": "h264",
+    "video_encoder": "h264_amf",
+    "frame_rate": 32,
+    "video_frame_count": 21755,
+    "audio_codec": "aac",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 2
+  },
+  "audio": {
+    "stream_copy_from_v2": true,
+    "packet_sha256_v2": "3bfdd87e961d7387f86ed38eda6f90e83a21772a28e52d6bf7bd4650c4539798",
+    "packet_sha256_v3": "3bfdd87e961d7387f86ed38eda6f90e83a21772a28e52d6bf7bd4650c4539798",
+    "bit_exact_match": true,
+    "tempo": 1.05,
+    "known_debt": "Prosody degrades from the middle to the end; accepted only for video 003."
+  },
+  "visual_correction": {
+    "replacement_start_seconds": 645.0,
+    "corrected_avatar_start_seconds": 650.849,
+    "corrected_avatar_end_seconds": 667.734,
+    "background": "../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-003/assets/images/avatar-background-room-empty-v1.png",
+    "composite": "../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-003/assets/video/avatar-fechamento-composite-v3-physics-fix.mp4",
+    "physical_coherence_review": "passed",
+    "chair_conflict_removed": true,
+    "body_support_plausible": true,
+    "table_contact_plausible": true,
+    "perspective_and_scale_plausible": true
+  },
+  "captions": {
+    "burned_in": true,
+    "sidecar_file": "../../07_exports/video-003/o-que-jo-ensina-legendas-v2.srt",
+    "sidecar_sha256": "7507db0b6342a093a76f2aea93431b57a580c46ad75cc262ce2c1d1b59a32161",
+    "cue_count": 200
+  },
+  "end_screen": {
+    "start_seconds": 660.727,
+    "duration_seconds": 19.117,
+    "recommendation_slots": 2,
+    "visible_in_keyframe_audit": true
+  },
+  "checks": {
+    "duration_between_10_and_12_minutes": true,
+    "audio_unchanged_from_selected_v2": true,
+    "corrected_avatar_scene_integrated": true,
+    "no_black_frame_at_segment_boundary": true,
+    "captions_present_in_corrected_segment": true,
+    "two_end_screen_slots_present": true,
+    "final_fade_present": true,
+    "no_paid_api_call_for_v3_finalization": true
+  },
+  "visual_evidence": [
+    "qa-v3-end-segment-sheet.png",
+    "qa-v3-final-sheet.png"
+  ],
+  "accepted_debts": [
+    "Voice prosody is below the desired standard in later sections.",
+    "The debt is confined to this episode and must not promote the voice gate."
+  ]
+}

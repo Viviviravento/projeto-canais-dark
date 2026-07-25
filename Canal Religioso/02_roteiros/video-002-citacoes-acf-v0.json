@@ -1,0 +1,24 @@
+{
+  "video_id": "video-002",
+  "title_working": "Nao andeis ansiosos: o que Jesus realmente quis dizer",
+  "state": "script-v0-human-approved-for-performance",
+  "direct_acf_citations": [
+    {
+      "reference": "Mateus 6:25",
+      "role": "main-text-short-excerpt"
+    },
+    {
+      "reference": "Mateus 6:33",
+      "role": "interpretive-center-short-excerpt"
+    },
+    {
+      "reference": "Mateus 6:34",
+      "role": "closing-text-short-excerpt"
+    }
+  ],
+  "references_without_direct_quote": [
+    "Mateus 6:19-24",
+    "Mateus 6:26-32"
+  ],
+  "notes": "The public script uses only short ACF excerpts from three verses. Run the validator after every script revision, before audio generation, and before publication."
+}

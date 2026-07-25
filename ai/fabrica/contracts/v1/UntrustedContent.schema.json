@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.canais-dark/contracts/v1/UntrustedContent.schema.json",
+  "title": "UntrustedContent",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "content_id", "source_kind", "locator", "captured_at", "media_type", "sha256", "trust", "handling", "payload_ref"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "content_id": {"type": "string", "minLength": 1},
+    "source_kind": {"enum": ["web_page", "comment", "caption", "csv", "xlsx", "archive", "external_file", "api_response"]},
+    "locator": {"type": "string", "minLength": 1},
+    "captured_at": {"type": "string", "format": "date-time"},
+    "media_type": {"type": "string", "minLength": 1},
+    "sha256": {"type": "string", "pattern": "^[a-fA-F0-9]{64}$"},
+    "trust": {"const": "untrusted_data_only"},
+    "handling": {"type": "object", "required": ["active_content", "formula_policy", "instruction_policy"], "properties": {"active_content": {"enum": ["rejected", "stripped", "not_present"]}, "formula_policy": {"enum": ["rejected", "escaped", "not_applicable"]}, "instruction_policy": {"const": "never_execute"}}, "additionalProperties": true},
+    "payload_ref": {"type": "string", "minLength": 1}
+  }
+}

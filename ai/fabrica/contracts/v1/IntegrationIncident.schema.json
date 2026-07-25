@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.canais-dark/contracts/v1/IntegrationIncident.schema.json",
+  "title": "IntegrationIncident",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "incident_id", "integration", "operation", "opened_at", "state", "symptoms", "hypotheses", "cycles_without_new_evidence", "resume_point", "side_effect_guard", "regression"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "incident_id": {"type": "string", "minLength": 1},
+    "integration": {"type": "string", "minLength": 1},
+    "operation": {"type": "string", "minLength": 1},
+    "opened_at": {"type": "string", "format": "date-time"},
+    "closed_at": {"type": ["string", "null"], "format": "date-time"},
+    "state": {"enum": ["detected", "frozen", "investigating", "fixed", "verified", "blocked", "resumed"]},
+    "symptoms": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "hypotheses": {"type": "array", "items": {"type": "object", "required": ["statement", "status"], "properties": {"statement": {"type": "string"}, "status": {"enum": ["untested", "testing", "rejected", "confirmed"]}, "evidence_refs": {"type": "array", "items": {"type": "string"}}}, "additionalProperties": false}},
+    "root_cause": {"type": ["string", "null"]},
+    "correction": {"type": ["string", "null"]},
+    "cycles_without_new_evidence": {"type": "integer", "minimum": 0},
+    "resume_point": {"type": "object", "required": ["checkpoint", "idempotency_key"], "properties": {"checkpoint": {"type": "string"}, "idempotency_key": {"type": "string"}}, "additionalProperties": true},
+    "side_effect_guard": {"type": "object", "required": ["paid_call", "publication", "deletion"], "properties": {"paid_call": {"type": "boolean"}, "publication": {"type": "boolean"}, "deletion": {"type": "boolean"}}, "additionalProperties": false},
+    "regression": {"type": "object", "required": ["status", "checks"], "properties": {"status": {"enum": ["pending", "passed", "failed"]}, "checks": {"type": "array", "items": {"type": "string"}}}, "additionalProperties": false}
+  }
+}

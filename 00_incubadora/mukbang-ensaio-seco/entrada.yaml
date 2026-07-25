@@ -1,0 +1,10 @@
+schema_version: 1.0.0
+run_id: genesis-mukbang-dry-001
+mode: dry_run
+paid_apis_allowed: false
+input:
+  classification: user_input
+  statement: Testar a fabrica de canais com uma tese de mukbang que contraste com o canal religioso.
+  source: plano aprovado da Metamorfose v1
+objective: Chegar a um plano de piloto sem produzir, publicar ou criar uma estrutura definitiva de canal.
+

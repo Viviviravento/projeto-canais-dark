@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v003-elevenlabs-tail-isolation-v1-20260723",
+  "parent_quote_id": null,
+  "provider": "ElevenLabs",
+  "model": "eleven_multilingual_v2",
+  "operation": "independent full-block regeneration of blocks 07 and 08 without previous_request_ids",
+  "unit": "character",
+  "quantity": 2360,
+  "currency": "USD",
+  "unit_price": 0.0001,
+  "price_checked_at": "2026-07-23T17:44:12-03:00",
+  "price_source": "https://elevenlabs.io/pricing/api",
+  "expected_cost": 0.236,
+  "maximum_cost": 0.236,
+  "observed_cost": 0.118,
+  "status": "reconciled",
+  "metadata": {
+    "expected_incremental_cash_charge_usd": 0.0,
+    "expected_quota_debit_credits": 1180,
+    "estimated_remaining_credits_before": 11413,
+    "estimated_remaining_credits_after": 10233,
+    "observed_quota_debit_credits": 1180,
+    "observed_remaining_credits_after": 10233,
+    "observed_incremental_cash_charge_usd": 0.0,
+    "automatic_retries": 0,
+    "purpose": "Isolate progressive Request Stitching drift in the exact region rejected by human review."
+  }
+}

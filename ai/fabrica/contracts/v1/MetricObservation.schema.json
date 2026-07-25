@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.canais-dark/contracts/v1/MetricObservation.schema.json",
+  "title": "MetricObservation",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "observation_id", "channel_id", "content_id", "platform", "window", "observed_at", "source", "values", "raw_hash"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "observation_id": {"type": "string", "minLength": 1},
+    "channel_id": {"type": "string", "minLength": 1},
+    "content_id": {"type": "string", "minLength": 1},
+    "platform": {"type": "string", "minLength": 1},
+    "window": {"enum": ["24h", "72h", "7d", "28d", "custom"]},
+    "observed_at": {"type": "string", "format": "date-time"},
+    "source": {"type": "string", "minLength": 1},
+    "values": {"type": "object", "additionalProperties": {"type": ["number", "integer", "string", "null"]}},
+    "raw_hash": {"type": "string", "pattern": "^[a-fA-F0-9]{64}$"},
+    "raw_artifact": {"type": ["string", "null"]}
+  }
+}

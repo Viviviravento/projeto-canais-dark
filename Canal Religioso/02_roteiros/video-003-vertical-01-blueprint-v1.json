@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0.0",
+  "blueprint_id": "v003-vertical-01-v1",
+  "channel_id": "palavra-que-cuida",
+  "topic_id": "v003-job-injustice-silence",
+  "artifact_kind": "script",
+  "promise": "Mostrar que presença silenciosa pode cuidar melhor do que explicações precipitadas.",
+  "structure": [
+    {
+      "id": "hook",
+      "purpose": "Interromper a rolagem com uma inversão memorável.",
+      "content": "Os amigos de Jó foram melhores consoladores quando ainda estavam calados."
+    },
+    {
+      "id": "proof",
+      "purpose": "Ancorar a afirmação no texto bíblico com referência completa.",
+      "content": "Ler integralmente Jó 2:13 na ACF."
+    },
+    {
+      "id": "application",
+      "purpose": "Traduzir presença em gestos reconhecíveis do cotidiano.",
+      "content": "Escutar, preparar uma refeição, acompanhar uma consulta e permanecer perto."
+    },
+    {
+      "id": "bridge",
+      "purpose": "Conduzir ao episódio horizontal sem deixar o recorte incompleto.",
+      "content": "Convidar para o vídeo completo sobre Jó no YouTube A Palavra que Cuida."
+    }
+  ],
+  "performance_notes": [
+    "Duração-alvo entre 65 e 85 segundos.",
+    "Tom próximo e reflexivo; a primeira frase deve concluir antes da referência.",
+    "Legenda queimada em 9:16, com no máximo duas linhas por vez.",
+    "Exibir Jó 2:13 por inteiro enquanto a citação for lida."
+  ],
+  "research_refs": [
+    "evidencias/video-003-claims.jsonl#v003-acf-source",
+    "02_roteiros/video-003-citacoes-acf-v1.json#Jó 2:13"
+  ],
+  "derivative_candidates": []
+}

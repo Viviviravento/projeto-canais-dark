@@ -1,0 +1,163 @@
+{
+  "derivativeId": "piloto-001-short-02",
+  "title": "Quando você continua funcionando, mas já está sobrecarregada",
+  "audioFile": "audio/piloto-001-short-02-narracao.wav",
+  "spokenDurationSeconds": 61.389,
+  "endCardSeconds": 4.0,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 7.674,
+      "asset": "images/img-s02-dia-em-andamento-v1.png",
+      "focus": "56% 50%",
+      "scale": 1.14
+    },
+    {
+      "start": 7.674,
+      "end": 15.347,
+      "asset": "images/img-s03-tarefas-v1.png",
+      "focus": "50% 48%",
+      "scale": 1.15
+    },
+    {
+      "start": 15.347,
+      "end": 23.021,
+      "asset": "images/img-s04-reflexo-v1.png",
+      "focus": "48% 49%",
+      "scale": 1.13
+    },
+    {
+      "start": 23.021,
+      "end": 30.695,
+      "asset": "images/img-s16-peso-mental-v1.png",
+      "focus": "52% 49%",
+      "scale": 1.14
+    },
+    {
+      "start": 30.695,
+      "end": 38.368,
+      "asset": "images/img-s05-maos-em-pausa-v1.png",
+      "focus": "50% 52%",
+      "scale": 1.13
+    },
+    {
+      "start": 38.368,
+      "end": 46.042,
+      "asset": "images/img-s18-chegar-cansada-v1.png",
+      "focus": "52% 48%",
+      "scale": 1.14
+    },
+    {
+      "start": 46.042,
+      "end": 53.715,
+      "asset": "images/img-s17-pausa-v1.png",
+      "focus": "50% 48%",
+      "scale": 1.13
+    },
+    {
+      "start": 53.715,
+      "end": 61.389,
+      "asset": "images/img-s04-reflexo-v1.png",
+      "focus": "48% 49%",
+      "scale": 1.17
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.058,
+      "end": 3.286,
+      "text": "Talvez o seu dia ainda nem tenha terminado,"
+    },
+    {
+      "start": 3.831,
+      "end": 8.51,
+      "text": "mas você já sente como se estivesse sustentando coisas demais."
+    },
+    {
+      "start": 9.334,
+      "end": 11.784,
+      "text": "Há dias em que você não está parada."
+    },
+    {
+      "start": 11.947,
+      "end": 15.43,
+      "text": "Você está funcionando. Responde o que precisa responder."
+    },
+    {
+      "start": 15.975,
+      "end": 18.053,
+      "text": "Resolve o que precisa resolver."
+    },
+    {
+      "start": 18.692,
+      "end": 19.922,
+      "text": "Cuida do que apareceu."
+    },
+    {
+      "start": 20.48,
+      "end": 22.024,
+      "text": "Tenta não deixar nada cair."
+    },
+    {
+      "start": 22.465,
+      "end": 25.437,
+      "text": "E, por fora, talvez até pareça que está tudo"
+    },
+    {
+      "start": 25.518,
+      "end": 26.494,
+      "text": "sob controle."
+    },
+    {
+      "start": 27.237,
+      "end": 29.942,
+      "text": "Mas por dentro existe uma conta que ninguém vê."
+    },
+    {
+      "start": 30.267,
+      "end": 32.949,
+      "text": "A conta de ter que lembrar de tudo."
+    },
+    {
+      "start": 33.645,
+      "end": 35.781,
+      "text": "A conta de ser forte para todo mundo."
+    },
+    {
+      "start": 36.164,
+      "end": 39.113,
+      "text": "A conta de imaginar os problemas antes que eles"
+    },
+    {
+      "start": 39.183,
+      "end": 42.84,
+      "text": "aconteçam. A conta de carregar culpa por coisas que"
+    },
+    {
+      "start": 42.91,
+      "end": 44.941,
+      "text": "talvez nem dependam de você."
+    },
+    {
+      "start": 45.777,
+      "end": 50.479,
+      "text": "O cansaço nem sempre chega como um grande colapso."
+    },
+    {
+      "start": 50.921,
+      "end": 54.81,
+      "text": "Às vezes, ele chega enquanto você continua fazendo tudo,"
+    },
+    {
+      "start": 55.252,
+      "end": 57.841,
+      "text": "mas já não sabe por que sente que precisa"
+    },
+    {
+      "start": 58.212,
+      "end": 61.149,
+      "text": "sustentar o mundo inteiro sozinha."
+    }
+  ],
+  "platform": "youtube_shorts"
+}

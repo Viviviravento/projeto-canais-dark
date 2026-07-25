@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "topic_id": "v003-job-injustice",
+  "working_title": "O que Jo ensina quando a vida parece injusta",
+  "demand": {
+    "rating": 0.82,
+    "rationale": "O tema foi reservado pelo usuario e a pergunta sobre sofrimento inocente permanece ativa em discussoes brasileiras recentes."
+  },
+  "competition": {
+    "rating": 0.72,
+    "rationale": "Ha oferta religiosa estabelecida sobre Jo e sofrimento; a oportunidade esta em uma leitura cuidadosa, aplicada e sem formula de prosperidade."
+  },
+  "audience_fit": {
+    "rating": 0.9,
+    "rationale": "Perda, culpa, cuidado familiar, doenca e injustica atravessam o cotidiano do publico fixo sem exigir um laudo demografico dentro do roteiro."
+  },
+  "depth": {
+    "rating": 0.95,
+    "rationale": "A estrutura do livro, o contraste com os amigos, o lamento e a fala divina sustentam 10 a 12 minutos sem inflacao."
+  },
+  "visual_feasibility": {
+    "rating": 0.86,
+    "rationale": "O episodio admite reconstrucoes biblicas, situacoes brasileiras e composicoes tipograficas sem depender de movimento pago continuo."
+  },
+  "cost": {
+    "rating": 0.78,
+    "rationale": "A maior parte pode usar imagens geradas, stock preciso e movimento local; voz e aparicoes estrategicas do avatar permanecem os custos principais."
+  },
+  "risks": [
+    "transformar sofrimento em prova automatica de fe",
+    "tratar falas dos amigos como doutrina aprovada pelo narrador",
+    "prometer restauracao material em dobro",
+    "usar tragedia visual como espetaculo",
+    "alongar o tema com repeticoes de consolo generico"
+  ],
+  "derivatives": [
+    {
+      "platform": "tiktok",
+      "concept": "Nem toda dor e castigo: o erro dos amigos de Jo e a repreensao de Jo 42:7."
+    },
+    {
+      "platform": "tiktok",
+      "concept": "Antes de explicar a dor de alguem, aprenda com os sete dias de silencio de Jo 2:13."
+    }
+  ],
+  "evidence_refs": [
+    "v003-topic-user-reserved",
+    "v003-demand-current-discussion",
+    "v003-job-innocent-suffering",
+    "v003-job-no-tidy-answer"
+  ],
+  "status": "selected"
+}

@@ -1,0 +1,84 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-003",
+  "artifact_version": "v2",
+  "checked_at": "2026-07-23T17:00:00-03:00",
+  "automated_state": "passed",
+  "human_semantic_review": "failed",
+  "master": {
+    "file": "../../07_exports/video-003/o-que-jo-ensina-quando-a-vida-parece-injusta-v2.mp4",
+    "sha256": "ab3ea812d56884651c8100ff8860db83bd5eadd07acf35e446409f65a6f2ed05",
+    "duration_seconds": 679.822,
+    "width": 1920,
+    "height": 1080,
+    "source_frame_count": 21413,
+    "output_frame_count": 21413,
+    "effective_average_fps": 31.5,
+    "video_codec": "h264",
+    "video_reencoded": false,
+    "audio_codec": "aac",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 2
+  },
+  "audio": {
+    "tempo": 1.05,
+    "pitch": "preserved",
+    "integrated_lufs": -13.1,
+    "true_peak_dbfs": -1.2,
+    "loudness_range_lu": 3.0,
+    "speech_end_seconds": 676.917,
+    "post_speech_seconds": 2.905,
+    "music_tempo": 1.0,
+    "speech_source": "approved ElevenLabs master; local atempo post-process; HeyGen TTS disabled"
+  },
+  "captions": {
+    "burned_in": true,
+    "sidecar_file": "../../07_exports/video-003/o-que-jo-ensina-legendas-v2.srt",
+    "sidecar_sha256": "7507db0b6342a093a76f2aea93431b57a580c46ad75cc262ce2c1d1b59a32161",
+    "cue_count": 200,
+    "overlap_count": 0,
+    "invalid_interval_count": 0,
+    "cues_after_speech_end": 0,
+    "timing_source": "ElevenLabs character alignment divided by the approved 1.05 tempo factor"
+  },
+  "end_screen": {
+    "start_seconds": 660.727,
+    "duration_seconds": 19.095,
+    "within_channel_policy_5_to_20_seconds": true,
+    "recommendation_slots": 2
+  },
+  "checks": {
+    "duration_between_10_and_12_minutes": true,
+    "all_source_visual_frames_preserved": true,
+    "visual_stream_copied_without_generation_loss": true,
+    "burned_captions_retimed_with_visual_stream": true,
+    "sidecar_captions_retimed": true,
+    "avatar_visual_and_external_voice_share_same_tempo_factor": true,
+    "music_preserved_at_original_tempo": true,
+    "two_end_screen_slots_visible_in_keyframe_audit": true,
+    "no_paid_api_call": true
+  },
+  "visual_evidence": [
+    "qa-v2/qa-contact-sheet-v2.png"
+  ],
+  "human_review_questions": [
+    "A velocidade 1.05x funciona no master integral, e nao apenas no trecho de calibracao?",
+    "As pausas artificiais restantes ainda prejudicam a compreensao?",
+    "O movimento labial do avatar continua natural no fechamento?",
+    "A musica permanece discreta e o respiro final parece suficiente?"
+  ],
+  "human_review": {
+    "record": "human-review-v2.json",
+    "verdict": "rejected",
+    "critical_findings": [
+      "A prosodia perde qualidade do meio para o final; pausas e pontuacao voltam a prejudicar a interpretacao.",
+      "A cena final mostra uma cadeira deslocada ao lado do avatar, contradizendo fisicamente a posicao em que ele parece estar sentado."
+    ],
+    "disposition": "Master v2 nao esta aprovado para publicacao."
+  },
+  "correction_assets": [
+    "../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-003/assets/images/avatar-background-room-empty-v1.png",
+    "../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-003/assets/video/avatar-fechamento-composite-v3-physics-fix.mp4",
+    "qa-v2/avatar-physics-fix-v3-sheet.png"
+  ]
+}

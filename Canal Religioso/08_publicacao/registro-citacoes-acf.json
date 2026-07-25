@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "translation": {
+    "name": "Almeida Corrigida Fiel",
+    "abbreviation": "ACF",
+    "rights_holder": "Sociedade Biblica Trinitariana do Brasil",
+    "official_terms_url": "https://www.biblias.com.br/direitos-autorais"
+  },
+  "legal_terms": {
+    "published_limit_without_written_permission": 1100,
+    "scope_note": "The public SBTB terms do not state whether this threshold is per work, channel, or another grouping."
+  },
+  "project_policy": {
+    "published_channel_cap": 1000,
+    "safety_margin": 100,
+    "counting_rule": "Each directly quoted verse, full or partial, counts once per public output. Repeated use within the same output counts once; a separate short, repost, or video counts again.",
+    "required_attribution": "Citacoes biblicas extraidas de A Biblia Sagrada - Almeida Corrigida Fiel (ACF), © 1994, 1995, 2007, 2011 Sociedade Biblica Trinitariana do Brasil, Trinitarian Bible Society."
+  },
+  "published_outputs": [
+    {
+      "output_id": "youtube-piloto-001",
+      "video_id": "piloto-001",
+      "platform": "youtube",
+      "youtube_video_id": "ZkmCkF6XR_g",
+      "url": "https://youtu.be/ZkmCkF6XR_g",
+      "published_at": "2026-07-23T23:02:35Z",
+      "direct_acf_references": [
+        "Mateus 11:28",
+        "Mateus 11:29",
+        "Mateus 11:30",
+        "Galatas 6:2",
+        "1 Pedro 5:7"
+      ],
+      "quoted_verse_count": 5
+    }
+  ]
+}

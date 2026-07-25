@@ -1,0 +1,25 @@
+version: 0.1.0
+status: provisional
+states:
+  - full
+  - sampled
+  - automatic
+  - restored
+promotion:
+  full_to_sampled_clean_comparable_runs: 3
+  sampled_to_automatic_approvals: 6
+restoration:
+  critical_defect: immediate
+  triggers:
+    - model_change
+    - price_change
+    - confidence_loss
+permanent_human:
+  - credentials
+  - captcha_2fa
+  - account_ownership
+  - destructive_action
+  - deletion
+governance: codex
+notification: one_brief_message_per_transition
+

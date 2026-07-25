@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "derivative_id": "piloto-001-vertical-01",
+  "source_video_id": "piloto-001",
+  "source_youtube_video_id": "ZkmCkF6XR_g",
+  "source_youtube_url": "https://youtu.be/ZkmCkF6XR_g",
+  "channel": "A Palavra Que Cuida",
+  "status": "approved_with_minor_visual_dynamism_debt",
+  "platform_outputs": {
+    "tiktok": {
+      "file": "Canal Religioso/07_exports/shorts-aprovados/piloto-001/piloto-001-short-01-tiktok-v5-autocontido.mp4",
+      "sha256": "b628c93108ef81c7ce1b55e883d65ba634eeb58b2dc8e05700d02eef5f3b7dea",
+      "file_size_bytes": 28563573,
+      "end_card": "Vídeo completo no YouTube: A Palavra Que Cuida",
+      "approval_status": "approved_with_minor_visual_dynamism_debt",
+      "do_not_publish": false
+    },
+    "youtube_shorts": {
+      "file": "Canal Religioso/07_exports/shorts-aprovados/piloto-001/piloto-001-short-01-youtube-short-v3-autocontido.mp4",
+      "sha256": "c484b979ef2c2644d6e8591afc98595f4df4fba38d695c7bec82788f60fff71b",
+      "file_size_bytes": 28577248,
+      "end_card": "Toque no vídeo relacionado",
+      "approval_status": "approved_with_minor_visual_dynamism_debt",
+      "do_not_publish": false
+    }
+  },
+  "technical_identity": {
+    "duration_seconds": 62.2,
+    "resolution": "1080x1920",
+    "frame_rate": 30,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000
+  },
+  "youtube_shorts": {
+    "title": "3 perguntas para quem está carregando peso demais",
+    "description": "O que realmente está nas suas mãos hoje? O que precisa ser entregue a Deus? E qual peso precisa ser compartilhado?\n\nAssista à reflexão completa: https://youtu.be/ZkmCkF6XR_g\n\nA Palavra Que Cuida\n\n#CansaçoEmocional #DeusCuidaDeVocê #ReflexãoBíblica #Fé #Shorts",
+    "related_video_id": "ZkmCkF6XR_g",
+    "related_video_requires_advanced_features": true,
+    "description_url_is_not_clickable": true,
+    "music_policy": "Não usar música de terceiro sincronizada fora do YouTube: Shorts acima de um minuto com reivindicação ativa do Content ID são bloqueados globalmente.",
+    "altered_or_synthetic_content": true
+  },
+  "tiktok": {
+    "caption": "O que realmente está nas suas mãos hoje? Três perguntas para soltar um peso que talvez nem fosse seu. Vídeo completo no YouTube: A Palavra Que Cuida. #CansaçoEmocional #Fé #DeusCuidaDeVocê #ReflexãoBíblica #ParaVocê",
+    "music": "Selecionar manualmente no TikTok, com verificação de direitos autorais e volume que não dispute com a narração.",
+    "youtube_profile_link": "pending_tiktok_account_configuration",
+    "ai_generated_content_label": true
+  },
+  "instagram_reels": {
+    "caption": "Três perguntas para quem está carregando peso demais. A reflexão completa está no YouTube: A Palavra Que Cuida. #CansaçoEmocional #Fé #ReflexãoBíblica"
+  },
+  "publication": {
+    "youtube_shorts": {
+      "status": "published",
+      "published_at": "2026-07-24",
+      "video_id": "Mvzr1XwDK44",
+      "url": "https://youtube.com/shorts/Mvzr1XwDK44",
+      "copyright_check": "pass",
+      "related_video": "pending_channel_advanced_features_verification"
+    },
+    "tiktok": {
+      "status": "pending_authentication",
+      "reason": "TikTok Studio session is not signed in"
+    }
+  },
+  "cost": {
+    "new_paid_api_cost_usd": 0,
+    "reason": "Narração e imagens reutilizadas; recomposição e renderização locais."
+  },
+  "qa": {
+    "technical": "pass",
+    "visual_keyframes": "pass",
+    "captions_safe_area": "pass",
+    "blank_notebook_opening": "removed_in_v2",
+    "captions_literal_to_spoken_audio": "pass_v3",
+    "mid_sentence_audio_cut": "removed_v3",
+    "platform_specific_end_cards": "pass",
+    "rendered_audio_matches_literal_captions": "pass_on_15_second_corrective_preview",
+    "corrective_preview": "Canal Religioso/09_qa/piloto-001-vertical-01/preview-corrigido-15s.mp4",
+    "corrected_full_tiktok": "Canal Religioso/07_exports/shorts-aprovados/piloto-001/piloto-001-short-01-tiktok-v5-autocontido.mp4",
+    "corrected_full_youtube_shorts": "Canal Religioso/07_exports/shorts-aprovados/piloto-001/piloto-001-short-01-youtube-short-v3-autocontido.mp4",
+    "standalone_opening": "pass",
+    "full_audio_transcription": "pass",
+    "human_content_review": "approved_2026-07-24",
+    "human_feedback": "O vídeo está aceitável e pode ser publicado; derivados futuros devem ganhar um pouco mais de dinamismo visual.",
+    "accepted_debt": "Aprimorar ritmo e variedade visual nos próximos derivados sem comprometer clareza, legenda ou custo."
+  },
+  "publication_gate": "human_review_required_before_first_upload"
+}

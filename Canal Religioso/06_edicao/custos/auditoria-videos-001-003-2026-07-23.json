@@ -1,0 +1,175 @@
+{
+  "schema_version": "1.0.0",
+  "audit_date": "2026-07-23",
+  "scope": [
+    "piloto-001",
+    "video-002",
+    "video-003"
+  ],
+  "method": {
+    "cash_outlay_is_not_usage": true,
+    "subscription_credits_are_allocated_at_usd_per_credit": 0.00015,
+    "elevenlabs_allocation_basis": "USD 6.00 monthly invoice / 40000 credits",
+    "heygen_price_usd_per_second": 0.05,
+    "fal_kling_price_usd_per_five_second_clip": 0.42,
+    "unpriced_items": [
+      "Codex image generation",
+      "human labor",
+      "local electricity and compute"
+    ]
+  },
+  "per_video": [
+    {
+      "video_id": "piloto-001",
+      "elevenlabs": {
+        "credits_consumed": 10280,
+        "allocated_value_usd": 1.542,
+        "includes": "voice selection, calibration, discarded generations and final narration"
+      },
+      "heygen": {
+        "completed_seconds": 47.06874,
+        "economic_value_usd": 2.353437,
+        "includes": "two early microtests and three final avatar clips"
+      },
+      "fal_ai": {
+        "successful_five_second_clips": 4,
+        "consumed_usd": 1.68
+      },
+      "economic_value_consumed_usd": 5.575437
+    },
+    {
+      "video_id": "video-002",
+      "elevenlabs": {
+        "credits_consumed": 8178,
+        "allocated_value_usd": 1.2267,
+        "includes": "discarded v1 and approved v2 narration"
+      },
+      "heygen": {
+        "completed_seconds": 38.22,
+        "economic_value_usd": 1.911,
+        "includes": "two final avatar clips"
+      },
+      "fal_ai": {
+        "successful_five_second_clips": 3,
+        "consumed_usd": 1.26
+      },
+      "economic_value_consumed_usd": 4.3977
+    },
+    {
+      "video_id": "video-003",
+      "elevenlabs": {
+        "credits_consumed": 10129,
+        "allocated_value_usd": 1.51935,
+        "includes": "discarded v1, calibrations, unitemized test debits and approved v2 narration"
+      },
+      "heygen": {
+        "completed_seconds": 17.72,
+        "economic_value_usd": 0.886,
+        "observed_wallet_debit_usd": 0.85,
+        "includes": "one final avatar clip"
+      },
+      "fal_ai": {
+        "successful_five_second_clips": 2,
+        "consumed_usd": 0.84
+      },
+      "economic_value_consumed_usd": 3.24535
+    }
+  ],
+  "totals": {
+    "elevenlabs": {
+      "credits_consumed": 28587,
+      "allocated_value_usd": 4.28805,
+      "final_narrations_only_credits": 11347,
+      "tests_and_discarded_versions_credits": 17240
+    },
+    "heygen": {
+      "completed_outputs": 8,
+      "completed_seconds": 103.00874,
+      "economic_value_usd": 5.150437
+    },
+    "fal_ai": {
+      "successful_five_second_clips": 9,
+      "consumed_usd": 3.78
+    },
+    "economic_value_consumed_usd": 13.218487,
+    "historical_average_per_finished_video_usd": 4.406162
+  },
+  "cash_outlay": {
+    "documented_minimum_usd": 16.0,
+    "components": [
+      {
+        "provider": "ElevenLabs",
+        "amount_usd": 6.0,
+        "kind": "active Starter monthly period"
+      },
+      {
+        "provider": "fal.ai",
+        "amount_usd": 10.0,
+        "kind": "prepaid top-up"
+      }
+    ],
+    "heygen_funding_amount": "not available through the current account endpoint or local records",
+    "warning": "cash loaded is not the same as value consumed"
+  },
+  "current_balances": {
+    "elevenlabs": {
+      "observed": true,
+      "tier": "starter",
+      "credits_used": 28587,
+      "credits_limit": 40000,
+      "credits_remaining": 11413,
+      "next_reset_local": "2026-08-10 18:11:41 -03:00",
+      "next_invoice_usd": 6.0
+    },
+    "heygen": {
+      "observed": true,
+      "wallet_balance_usd": 0.05,
+      "separate_free_feature_quotas_excluded": true,
+      "exclusion_reason": "the latest v3 Avatar IV generation debited the wallet while those quotas remained unchanged"
+    },
+    "fal_ai": {
+      "observed": false,
+      "expected_balance_usd": 6.22,
+      "basis": "USD 10.00 top-up minus nine recorded successful clips at USD 0.42",
+      "blocking_condition": "the configured production key received HTTP 403 from the admin-only account billing endpoint",
+      "confidence_condition": "valid if no successful paid calls exist outside the repository and no duplicate provider debit occurred"
+    }
+  },
+  "stabilized_template": {
+    "basis": "approved final production of video-003, without retries",
+    "elevenlabs_credits_per_video": 4414,
+    "elevenlabs_allocated_value_usd": 0.6621,
+    "heygen_seconds_per_video": 17.72,
+    "heygen_usd_per_video": 0.886,
+    "fal_clips_per_video": 2,
+    "fal_usd_per_video": 0.84,
+    "expected_economic_value_per_video_usd": 2.3881
+  },
+  "capacity_without_top_up": {
+    "elevenlabs_videos": 2,
+    "heygen_videos": 0,
+    "fal_ai_videos_expected": 7,
+    "complete_videos_with_current_template": 0,
+    "videos_without_new_avatar_generation": 2,
+    "bottleneck": "HeyGen wallet"
+  },
+  "sources": [
+    "provider-balances-2026-07-23.json",
+    "../../05_audio/piloto-001/calibracao-v1/resultado-geracao.json",
+    "../../05_audio/piloto-001/v1/resultado-geracao.json",
+    "../../05_audio/video-002/v1/resultado-geracao.json",
+    "../../05_audio/video-002/v2/resultado-geracao.json",
+    "../../05_audio/video-003/calibracao-v2/resultado-geracao.json",
+    "../../05_audio/video-003/calibracao-v3/resultado-geracao.json",
+    "../../05_audio/video-003/v1/resultado-geracao.json",
+    "../../05_audio/video-003/v2/resultado-geracao.json",
+    "../../../tools/OpenMontage/projects/a-palavra-que-cuida-piloto-001/heygen-batch-results-part1-v1.json",
+    "../../../tools/OpenMontage/projects/a-palavra-que-cuida-piloto-001/heygen-batch-results-part2-v1.json",
+    "../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-002/heygen-results-v1.json",
+    "../video-003/custos/heygen-v2.json",
+    "../../../tools/OpenMontage/projects/a-palavra-que-cuida-piloto-001/kling-batch-results-part1-v1.json",
+    "../../../tools/OpenMontage/projects/a-palavra-que-cuida-piloto-001/kling-retry-s19-v4-results.json",
+    "../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-002/kling-results-v1.json",
+    "../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-003/kling-results-v1.json"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "experiment": "video-003-primeiro-bloco-performance-v2",
+  "status": "ready_for_generation_after_explicit_cost_approval",
+  "review_title": "Vídeo 003 - Validação do primeiro bloco v2",
+  "review_instruction": "Ouça o bloco inteiro e avalie se a voz conduz acolhimento, exemplos e tese como um pensamento compreendido, sem reiniciar a entonação a cada frase.",
+  "review_rule": "Aprovar ou reprovar a direção geral. Este request_id só poderá alimentar os blocos seguintes depois da aprovação humana.",
+  "purpose": "Validar a regressão da escrita oral contínua na abertura real do vídeo antes de iniciar Request Stitching.",
+  "source_manifest": "02_roteiros/video-003-performance-v2.json",
+  "evidence_basis": [
+    "05_audio/video-003/calibracao-v3/avaliacao-semantica-v3.json",
+    "06_edicao/video-003/preflight-prosodia-v2.json",
+    "01_briefs/pesquisa-pratica-prosodia-tts-2026-v1.md"
+  ],
+  "api": {
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 271828,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    }
+  },
+  "voices": [
+    {
+      "blind_label": "Primeiro bloco v2",
+      "name": "Bruno Cardoso",
+      "voice_id": "iF2QszmZhlyFLleUoFxy",
+      "source": "saved",
+      "rate": 1.0,
+      "selection_reason": "Mesma voz e mesmas configurações da calibração v3 aprovada."
+    }
+  ],
+  "samples": [
+    {
+      "id": "01-quando-fazer-tudo-certo",
+      "function": "Acolher a sensação de injustiça e formular a tese sem prometer uma resposta fácil.",
+      "previous_text": "",
+      "text": "Há momentos em que a vida parece quebrar uma regra que conhecíamos. A pessoa tentou fazer o bem e, ainda assim, recebeu uma notícia que não merecia: uma doença, uma perda, uma injustiça ou uma porta fechada depois de anos de esforço.\n\nNessas horas, a dor já é pesada, mas pode ficar ainda pior quando alguém tenta explicá-la depressa, dizendo que talvez você não tenha confiado o bastante, que tenha feito alguma coisa errada ou que Deus esteja cobrando algo.\n\nO livro de Jó entra justamente nesse lugar. Ele não oferece uma frase curta para tornar o sofrimento aceitável e também não ensina que toda tragédia seja uma prova igual à de Jó. Em vez disso, o livro desmonta uma ideia perigosa: a de que podemos olhar para a dor de alguém e concluir o que essa pessoa fez para merecê-la.",
+      "next_text": "O livro começa com um fato, antes de apresentar qualquer calamidade. Jó, capítulo um, versículo um, diz:"
+    }
+  ],
+  "gate": {
+    "required_result": "human_approved",
+    "request_stitching_if_rejected": "forbidden",
+    "automatic_retry": false,
+    "human_response": "aprovar ou reprovar o bloco; sem marcação frase a frase"
+  }
+}

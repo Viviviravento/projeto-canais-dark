@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v003-kling-v2-20260723",
+  "provider": "fal.ai",
+  "model": "fal-ai/kling-video/o3/standard/image-to-video",
+  "operation": "two five-second human-action clips without generated audio",
+  "unit": "second",
+  "quantity": 10,
+  "currency": "USD",
+  "unit_price": 0.084,
+  "expected_cost": 0.84,
+  "maximum_cost": 0.84,
+  "observed_cost": 0.84,
+  "price_checked_at": "2026-07-23",
+  "price_source": "https://fal.ai/models/fal-ai/kling-video/o3/standard/image-to-video",
+  "status": "reconciled",
+  "approval": {
+    "approved_at": "2026-07-23",
+    "approved_maximum_usd": 0.84,
+    "user_statement": "Pode gerar tanto o vídeo quanto o áudio completo."
+  },
+  "controls": {
+    "clips": 2,
+    "seconds_per_clip": 5,
+    "generate_audio": false,
+    "automatic_retry": false,
+    "stop_on_failure": true,
+    "human_action_must_carry_argument": true
+  },
+  "result": {
+    "successful_clips": 2,
+    "paid_retries": 0,
+    "results_record": "../../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-003/kling-results-v1.json",
+    "completed_at": "2026-07-23"
+  }
+}

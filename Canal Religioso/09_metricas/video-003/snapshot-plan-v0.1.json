@@ -1,0 +1,39 @@
+{
+  "schema_version": "0.1.0",
+  "channel_id": "palavra-que-cuida",
+  "content_id": "video-003",
+  "state": "prepared_waiting_publication_ids",
+  "windows": ["24h", "72h", "7d", "28d"],
+  "youtube": {
+    "collector": "tools/yutu analytics snapshot",
+    "dimensions": ["video"],
+    "metrics": [
+      "views",
+      "estimatedMinutesWatched",
+      "averageViewDuration",
+      "averageViewPercentage",
+      "subscribersGained",
+      "subscribersLost",
+      "likes",
+      "comments",
+      "shares"
+    ],
+    "studio_fields_when_available": [
+      "impressions",
+      "impressionsClickThroughRate",
+      "audienceRetentionGraph"
+    ]
+  },
+  "tiktok": {
+    "official_api_fields": ["view_count", "like_count", "comment_count", "share_count"],
+    "studio_fields_when_available": ["average_watch_time", "watched_full_video_rate", "new_followers"],
+    "collector": "official API plus structured TikTok Studio reading"
+  },
+  "decision_policy": {
+    "normal_editorial_change": "wait for a comparable cohort of 3 to 5 videos",
+    "technical_defect": "may act immediately with incident evidence",
+    "no_universal_gold_standard": true,
+    "raw_observations_immutable": true,
+    "diagnoses_versioned": true
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "video_id": "piloto-001",
+  "channel": "A Palavra Que Cuida",
+  "status": "pre_upload_unlisted",
+  "title": "Você não precisa carregar tudo sozinha | Deus cuida de você",
+  "description": "Talvez você esteja sustentando responsabilidades, culpas e preocupações como se tudo dependesse de você. Neste vídeo, refletimos sobre o convite de Jesus aos cansados, o valor de compartilhar cargas e a entrega da ansiedade a Deus.\n\n00:00 O peso que ninguém vê\n01:16 O convite de Jesus\n03:00 Pesos visíveis e invisíveis\n04:22 Cargas foram feitas para ser compartilhadas\n05:44 Entregar não é negar\n07:18 Três perguntas para hoje\n08:43 Você não precisa carregar tudo sozinha\n\nTextos bíblicos comentados:\n- Mateus 11:28-30\n- Gálatas 6:2\n- 1 Pedro 5:7\n\nInscreva-se em A Palavra Que Cuida para acompanhar novas reflexões bíblicas aplicadas à vida cotidiana. Compartilhe esta mensagem com alguém que também precise ouvi-la.\n\nComente: qual peso você percebeu que não precisa continuar carregando sozinha?\n\nCitações bíblicas extraídas de A Bíblia Sagrada - Almeida Corrigida Fiel (ACF), © 1994, 1995, 2007, 2011 Sociedade Bíblica Trinitariana do Brasil, Trinitarian Bible Society.\n\nMúsica: Classical 6, de Jonny S. - Mixkit Free License.\n\n#Fé #Bíblia #A Palavra Que Cuida",
+  "thumbnail_phrase": "SOLTE ESSE PESO",
+  "tags": [
+    "fé cristã",
+    "mensagem bíblica",
+    "cansaço emocional",
+    "ansiedade",
+    "Mateus 11",
+    "Gálatas 6",
+    "1 Pedro 5",
+    "A Palavra Que Cuida"
+  ],
+  "youtube_settings": {
+    "visibility_for_first_upload": "unlisted",
+    "made_for_kids": false,
+    "age_restricted": false,
+    "video_language": "pt-BR",
+    "title_and_description_language": "pt-BR",
+    "altered_or_synthetic_content": true,
+    "allow_comments": true,
+    "show_like_count": true,
+    "license": "youtube",
+    "category_id": "27",
+    "category_label": "Education",
+    "notify_subscribers_during_unlisted_review": false,
+    "youtube_auto_levels": false,
+    "youtube_stabilization": false
+  },
+  "files": {
+    "publication_master": "Canal Religioso/07_exports/piloto-001/piloto-001-master-1080p-v1.mp4",
+    "captions": "Canal Religioso/06_edicao/piloto-001/subtitles-master-v1.srt",
+    "thumbnail": null
+  },
+  "end_screen": {
+    "reserved_start_seconds": 558,
+    "reserved_end_seconds": 578,
+    "planned_elements": [
+      "specific_video",
+      "subscribe"
+    ],
+    "destination_video_id": null,
+    "publication_blocker": "O CTA narrado promete outro vídeo. Definir um vídeo público ou não listado como destino antes de publicar este piloto."
+  },
+  "acf": {
+    "manifest": "Canal Religioso/02_roteiros/piloto-001-citacoes-acf-v0.json",
+    "direct_verse_units": 5,
+    "validation_result": "pass_5_of_1000",
+    "record_as_published_only_after_public_visibility": true
+  },
+  "pre_publication_checks": {
+    "editorial_review_v2": "pass",
+    "acf_validation": "pass",
+    "master_1080p": "pass",
+    "technical_master_review": "pass",
+    "captions_master": "pass_218_cues_through_571_36_seconds",
+    "youtube_processing_checks": "pending",
+    "thumbnail_human_approval": "pending",
+    "end_screen_destination": "pending",
+    "final_visibility_confirmation": "pending"
+  }
+}

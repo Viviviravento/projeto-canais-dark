@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "mk-local-capture-001",
+  "parent_quote_id": null,
+  "provider": "local-production",
+  "model": "owned-equipment",
+  "operation": "pilot-capture-dry-plan",
+  "unit": "session",
+  "quantity": 1,
+  "currency": "BRL",
+  "unit_price": 0,
+  "price_checked_at": "2026-07-22T16:15:00-03:00",
+  "price_source": "dry-run assumption: no incremental equipment or API purchase",
+  "expected_cost": 0,
+  "maximum_cost": 0,
+  "observed_cost": null,
+  "status": "quoted",
+  "metadata": {"food_cost_excluded_until_recipe_and_household_availability_are_known": true}
+}
+

@@ -1,0 +1,71 @@
+{
+  "version": "piloto-001-performance-v1",
+  "source_script": "piloto-001-roteiro-v0.md",
+  "change_summary": [
+    "Abertura redesenhada para situar o ouvinte antes do desenvolvimento.",
+    "Texto dividido em grandes movimentos semanticos.",
+    "Pausas de performance inseridas somente entre ideias completas.",
+    "Fechamento emocional concluido antes do CTA.",
+    "CTA menciona A Palavra que Cuida, aponta para outro video na tela, pede inscricao, curtida e compartilhamento e termina com uma pergunta contextual."
+  ],
+  "performance_contract": {
+    "relationship": "Falar com uma pessoa, com proximidade e respeito, sem locucao publicitaria.",
+    "authority": "Autoridade pelo entendimento da mensagem, sem tom professoral ou superior.",
+    "interpretation": "Distinguir preparacao, ideia central, contraste, aprofundamento e conclusao.",
+    "intensity": "Sereno e acolhedor, sem monotonia, dramatizacao religiosa ou entusiasmo artificial.",
+    "scripture": "Ler a citacao biblica com clareza e reverencia, sem mudar para uma voz teatral.",
+    "cta": "Concluir a mensagem antes do convite ao canal; o CTA deve continuar o cuidado."
+  },
+  "api": {
+    "voice_name": "Bruno Cardoso",
+    "voice_id": "iF2QszmZhlyFLleUoFxy",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 271828,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    }
+  },
+  "blocks": [
+    {
+      "id": "01-abertura",
+      "function": "Situar o ouvinte, nomear o peso invisivel e conduzir ao convite de Jesus.",
+      "text": "Talvez o seu dia ainda nem tenha terminado, mas você já sente como se estivesse sustentando coisas demais. <break time=\"0.8s\" /> Há dias em que você não está parada. Você está funcionando. Responde o que precisa responder. Resolve o que precisa resolver. Cuida do que apareceu. Tenta não deixar nada cair. E, por fora, talvez até pareça que está tudo sob controle. <break time=\"0.7s\" /> Mas por dentro existe uma conta que ninguém vê. A conta de ter que lembrar de tudo. A conta de ser forte para todo mundo. A conta de imaginar os problemas antes que eles aconteçam. A conta de carregar culpa por coisas que talvez nem dependam de você. <break time=\"0.8s\" /> O cansaço nem sempre chega como um grande colapso. Às vezes, ele chega enquanto você continua fazendo tudo, mas já não sabe por que sente que precisa sustentar o mundo inteiro sozinha. E é para esse lugar que as palavras de Jesus, em Mateus, capítulo onze, soam tão diferentes. Elas não falam com quem está fingindo que a vida está leve. Elas falam com quem está cansado e oprimido."
+    },
+    {
+      "id": "02-o-convite-de-jesus",
+      "function": "Ler o texto central e explicar a diferenca entre responsabilidade e controle.",
+      "text": "Jesus diz: <break time=\"0.6s\" /> Vinde a mim, todos os que estais cansados e oprimidos, e eu vos aliviarei. Tomai sobre vós o meu jugo, e aprendei de mim, que sou manso e humilde de coração; e encontrareis descanso para as vossas almas. Porque o meu jugo é suave e o meu fardo é leve. <break time=\"0.8s\" /> Mateus, capítulo onze, versículos vinte e oito a trinta. <break time=\"1.0s\" /> Repare em uma coisa importante: Jesus não diz que a vida deixará de ter peso. Ele não diz que, a partir daquele momento, nenhuma responsabilidade existirá, nenhuma dor aparecerá e nenhuma decisão difícil precisará ser tomada. O próprio texto fala de um jugo e de um fardo. Existe um caminho a aprender. Existe uma vida a viver. Existe fidelidade, obediência, paciência e verdade. <break time=\"0.7s\" /> Mas há uma diferença enorme entre viver com responsabilidade e viver como se tudo dependesse de você. Uma coisa é cuidar daquilo que está em suas mãos. Outra é tentar controlar aquilo que está fora do seu alcance. Uma coisa é amar as pessoas. Outra é assumir que você pode salvar cada uma delas. Uma coisa é reconhecer um erro. Outra é transformar cada erro numa condenação sem fim. <break time=\"0.8s\" /> O convite de Jesus não é para fugir da vida. É para deixar de atravessá-la sem ele, como se a sua alma precisasse provar, o tempo inteiro, que consegue aguentar mais um pouco."
+    },
+    {
+      "id": "03-o-peso-que-nao-aparece",
+      "function": "Dar nome aos pesos invisiveis e acolher o cansaco sem apagar a responsabilidade.",
+      "text": "Alguns pesos são visíveis. Uma dívida. Uma doença na família. Uma mudança inesperada. Um luto. Um problema no trabalho. Eles têm nome. Aparecem nas conversas, nos compromissos e nas preocupações do dia. <break time=\"0.7s\" /> Outros pesos quase nunca recebem nome. São aqueles pensamentos que dizem: se eu não fizer, ninguém fará. Se eu descansar, vou decepcionar alguém. Se eu pedir ajuda, vão pensar que eu falhei. Se eu não resolver agora, tudo vai dar errado. <break time=\"0.8s\" /> Essas frases parecem responsabilidade. Mas, quando tomam conta de tudo, podem transformar cuidado em prisão. Talvez você tenha sido ensinada a ser disponível, forte e atenta. E há beleza nisso. Cuidar é uma forma de amor. Ser responsável importa. Mas o amor não deveria exigir que você desapareça dentro das necessidades de todo mundo. <break time=\"0.8s\" /> Jesus chama os cansados para perto. Isso significa que o seu cansaço não é um detalhe que precisa ser escondido para você merecer estar diante de Deus. Você pode chegar cansada. Pode chegar confusa. Pode chegar sem saber como vai resolver tudo."
+    },
+    {
+      "id": "04-cargas-compartilhadas",
+      "function": "Mostrar biblicamente que maturidade e fe nao significam isolamento.",
+      "text": "Existe ainda outra correção que a Bíblia faz ao nosso impulso de carregar tudo sozinha. Em Gálatas, capítulo seis, versículo dois, lemos: <break time=\"0.6s\" /> Levai as cargas uns dos outros, e assim cumprireis a lei de Cristo. <break time=\"0.8s\" /> Gálatas, capítulo seis, versículo dois. <break time=\"1.0s\" /> Essa frase é simples, mas contraria muita coisa que a gente aprendeu sobre maturidade. Maturidade não é se tornar uma pessoa que nunca precisa de ninguém. Fé não é se fechar e dizer que está tudo bem quando não está. <break time=\"0.7s\" /> Há cargas que precisam ser divididas. Uma conversa honesta com alguém de confiança. Um pedido de perdão. Um limite colocado com respeito. Uma ajuda aceita. Uma porta aberta quando você já percebeu que, sozinha, não está conseguindo atravessar aquele momento. <break time=\"0.8s\" /> Nem toda pessoa saberá carregar uma parte do seu peso. Por isso, sabedoria também é escolher com quem dividir. Mas guardar tudo por medo de incomodar os outros não é o único caminho possível. Pedir ajuda não diminui a sua fé. Em muitos momentos, é justamente uma forma de reconhecer que Deus também cuida de nós por meio de pessoas, de conversas sinceras e de apoio concreto."
+    },
+    {
+      "id": "05-entregar-nao-e-negar",
+      "function": "Diferenciar entrega espiritual de negacao da realidade ou abandono do cuidado concreto.",
+      "text": "Pedro escreve: <break time=\"0.6s\" /> Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós. <break time=\"0.8s\" /> Primeira Carta de Pedro, capítulo cinco, versículo sete. <break time=\"1.0s\" /> Entregar a ansiedade a Deus não é fingir que ela não existe. Não é repetir palavras bonitas até que a dor se cale. Não é usar a fé para calar uma conversa necessária ou adiar uma decisão importante. <break time=\"0.7s\" /> Entregar é parar de tratar como sua aquilo que nunca esteve sob o seu domínio. É dizer com sinceridade: Deus, eu não consigo prever tudo. Eu não consigo salvar todo mundo. Eu não consigo resolver cada parte desta história. Mas isto está diante de ti. <break time=\"0.8s\" /> Talvez essa entrega aconteça em uma oração curta, no meio de um dia comum. Talvez aconteça quando você para de alimentar uma culpa antiga. Talvez aconteça quando aceita que uma pessoa que você ama também precisa fazer as próprias escolhas. Em alguns casos, essa entrega também inclui procurar ajuda séria: conversar com alguém maduro, buscar acompanhamento profissional ou acionar uma rede de proteção. Isso não compete com a fé. Cuidar da vida que Deus confiou a você também é uma forma de responsabilidade."
+    },
+    {
+      "id": "06-um-passo-de-cada-vez",
+      "function": "Transformar a reflexao em tres perguntas praticas, preservando progressao e clareza.",
+      "text": "Hoje, talvez você não consiga resolver todos os pesos que carrega. E tudo bem. Este vídeo não é uma fórmula para uma vida leve de um dia para o outro. Mas você pode começar distinguindo três coisas. <break time=\"0.9s\" /> Primeiro: o que realmente é sua responsabilidade hoje? Não a responsabilidade de amanhã. Não a responsabilidade imaginada. Não a responsabilidade que outra pessoa colocou sobre você sem que você percebesse. O que, de fato, está nas suas mãos agora? <break time=\"1.0s\" /> Segundo: o que precisa ser entregue a Deus porque foge do seu controle? Um resultado. Uma resposta que ainda não chegou. Uma mudança de outra pessoa. Um medo que volta sempre. Você não precisa carregar essas coisas como se fossem prova de amor ou de competência. <break time=\"1.0s\" /> Terceiro: qual carga precisa ser compartilhada? Talvez você precise falar. Talvez precise pedir. Talvez precise reconhecer que está cansada antes que o cansaço vire dureza, isolamento ou desespero. <break time=\"0.8s\" /> Não é fraqueza perceber os seus limites. Fraqueza seria continuar exigindo de si uma onipotência que Deus nunca pediu de você."
+    },
+    {
+      "id": "07-fechamento-e-cta",
+      "function": "Concluir a mensagem; depois apresentar o canal e convidar a audiencia a agir.",
+      "text": "Você não precisa carregar tudo sozinha. Há um convite de Jesus para os cansados. Há pessoas chamadas a compartilhar cargas. E há um Deus a quem você pode entregar a ansiedade, porque ele cuida de você. <break time=\"0.9s\" /> Que hoje você consiga soltar, ainda que por alguns instantes, aquilo que vem tentando sustentar apenas com as próprias forças. <break time=\"1.2s\" /> Este é o canal A Palavra que Cuida. <break time=\"0.7s\" /> Para mais conteúdo como este, clique nesse outro vídeo que está aparecendo na tela. Não se esqueça de se inscrever, curtir e compartilhar. <break time=\"0.7s\" /> Comente aqui: qual peso você percebeu que não precisa continuar carregando sozinha?"
+    }
+  ]
+}

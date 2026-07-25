@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-003",
+  "recorded_at": "2026-07-23",
+  "classification": "user_input",
+  "review_scope": "final audiovisual master",
+  "human_verdict": {
+    "autonomous_end_to_end_production_ready": false,
+    "trajectory_is_improving": true,
+    "publication_decision": "not_provided",
+    "specific_defects": [
+      "A narração ainda está lenta demais.",
+      "Persistem pausas artificiais e desagradáveis.",
+      "A cadência está melhor que nas versões anteriores, mas ainda não está aprovada como referência autônoma.",
+      "A próxima versão deve falar um pouco mais rápido, sem transformar a direção humana em um valor numérico arbitrário."
+    ]
+  },
+  "gate_decision": {
+    "gate_id": "palavra-que-cuida-editorial-visual",
+    "state": "full",
+    "promotion_allowed": false,
+    "reason": "O crivo humano concluiu que o método ainda não sustenta produção audiovisual integral sem supervisão. Aprovação técnica não substitui julgamento do master completo."
+  },
+  "operational_effect": [
+    "Manter aprovação humana do master integral antes de publicação.",
+    "Não promover autonomia com base apenas em QA técnico, keyframes ou conclusão do render.",
+    "Antes de nova chamada paga, comparar localmente pequenos ajustes de tempo sobre um trecho representativo do áudio atual.",
+    "Usar o teste local apenas para escolher a magnitude do aumento de velocidade; se o defeito estiver na prosódia interna, corrigir texto e geração em vez de mascará-lo por aceleração.",
+    "Reavaliar o gate somente após novas execuções comparáveis e aprovação humana consistente."
+  ]
+}

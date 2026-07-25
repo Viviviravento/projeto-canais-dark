@@ -1,0 +1,67 @@
+{
+  "experiment": "video-003-calibracao-performance-v2",
+  "status": "prepared; no paid call started",
+  "review_title": "Vídeo 003 - Calibração da partitura oral",
+  "review_instruction": "Ouça os três movimentos. A pergunta é única: agora ele parece compreender e conduzir o que está dizendo?",
+  "review_rule": "Resposta esperada: método aprovado ou método reprovado. Não é necessário marcar frases ou timestamps.",
+  "purpose": "Validar se a partitura oral devolve compreensão, entonação e hierarquia à voz antes de qualquer nova narração integral.",
+  "change_isolated": "Somente o texto de performance muda. Voz, modelo, idioma, seed e voice settings permanecem iguais ao vídeo 002 aprovado.",
+  "performance_method": {
+    "sentences": "Uma ideia principal por frase; subordinadas longas são reescritas como progressão oral.",
+    "punctuation": "Pontos concluem ideias; dois-pontos anunciam citação ou contraste; ponto e vírgula só permanece dentro de citação ACF imutável.",
+    "emphasis": "Palavras de condução como 'repare', 'primeiro' e 'o problema começa' tornam a hierarquia audível sem instruções invisíveis.",
+    "scripture": "Referência completa, leitura integral e explicação em frases separadas.",
+    "prohibition": "O contrato de atuação não é tratado como parâmetro da API; a direção precisa estar incorporada no texto enviado."
+  },
+  "api": {
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 271828,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    }
+  },
+  "voices": [
+    {
+      "blind_label": "Partitura oral v2",
+      "name": "Bruno Cardoso",
+      "voice_id": "iF2QszmZhlyFLleUoFxy",
+      "source": "saved",
+      "rate": 1.0,
+      "selection_reason": "Mesma voz aprovada no vídeo 002; o teste isola a escrita para fala."
+    }
+  ],
+  "samples": [
+    {
+      "id": "01-abertura",
+      "function": "Conduzir experiência, peso e tese como pensamento compreendido.",
+      "previous_text": "",
+      "text": "Tem horas em que a vida parece quebrar uma regra que a gente conhecia. Você tenta fazer o bem. Cumpre o que pode. E, ainda assim, chega uma notícia que não deveria ter chegado. Uma doença. Uma perda. Uma injustiça. A dor já seria pesada sozinha. Mas alguém se aproxima e tenta explicá-la depressa: talvez você não tenha confiado o bastante. É nesse lugar que o livro de Jó começa a nos confrontar. Ele não explica a dor com uma culpa inventada. Primeiro, ele nos obriga a olhar para quem sofre sem transformá-lo em réu.",
+      "next_text": "O livro começa apresentando quem Jó era antes de qualquer calamidade."
+    },
+    {
+      "id": "02-citacao-e-explicacao",
+      "function": "Anunciar, ler e interpretar uma citação sem emendar três movimentos como uma frase só.",
+      "previous_text": "Quando os três amigos chegam, eles fazem algo profundamente humano.",
+      "text": "Antes de qualquer conselho, os amigos de Jó se sentam no chão. Jó, capítulo dois, versículo treze, diz: “E assentaram-se com ele na terra, sete dias e sete noites; e nenhum lhe dizia palavra alguma, porque viam que a dor era muito grande.” Repare no motivo do silêncio. A dor era muito grande. Naquele momento, uma explicação seria pequena demais. Às vezes, o primeiro gesto de amor é esse. Ficar. Escutar. Preparar uma refeição. Acompanhar uma consulta. O problema começa quando os amigos trocam presença por certezas e passam a explicar uma vida que não conhecem.",
+      "next_text": "Quando a presença vira explicação, o consolo também pode virar acusação."
+    },
+    {
+      "id": "03-fechamento-e-cta",
+      "function": "Concluir a mensagem, mudar de função e somente então convidar ao canal.",
+      "previous_text": "Cuidado prático, quando oferecido com respeito, pode ser uma maneira de a fé ganhar mãos.",
+      "text": "Jó não ensina que pessoas de fé nunca desmoronam. Ele ensina outra coisa: a dor não nos dá o direito de acusar quem sofre. Talvez a fé, em certos dias, não seja dizer que a vida foi justa. Talvez seja continuar falando com Deus sem mentir sobre a ferida. E, quando a dor for de outra pessoa, talvez a fidelidade comece assim: não deixá-la sozinha no chão. Este é o canal A Palavra que Cuida. Para mais conteúdos como este, clique em um dos dois vídeos que estão aparecendo na tela. Inscreva-se, curta e compartilhe. E me conte nos comentários: em um momento difícil, o que mais cuidou de você?",
+      "next_text": ""
+    }
+  ],
+  "gate": {
+    "required_result": "human_approved",
+    "full_generation_if_rejected": "forbidden",
+    "human_response": "aprovar ou reprovar o método; sem marcação frase a frase"
+  }
+}

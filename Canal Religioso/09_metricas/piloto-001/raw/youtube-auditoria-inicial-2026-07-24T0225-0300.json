@@ -1,0 +1,133 @@
+{
+  "schema_version": "1.0.0",
+  "snapshot_kind": "initial_audit_pre_24h",
+  "observed_at_local": "2026-07-24T02:25:49.1736444-03:00",
+  "timezone": "America/Sao_Paulo",
+  "collection_sources": [
+    "YouTube Data API v3 via yutu 0.10.9 with authenticated read-only list commands",
+    "YouTube Studio authenticated UI"
+  ],
+  "channel": {
+    "id": "UCi67S5xQtjRjjWUJgZU_KAQ",
+    "title": "A Palavra Que Cuida",
+    "handle": "@apalavraquecuidabr",
+    "privacy_status": "public",
+    "video_count": 1,
+    "current_subscribers": 0,
+    "uploads_playlist_id": "UUi67S5xQtjRjjWUJgZU_KAQ"
+  },
+  "publication_inventory": {
+    "public_long_form": [
+      {
+        "content_id": "piloto-001",
+        "youtube_video_id": "ZkmCkF6XR_g",
+        "title": "Você não precisa carregar tudo sozinha | Deus cuida de você",
+        "privacy_status": "public",
+        "upload_status": "processed",
+        "definition": "hd",
+        "duration_seconds": 578,
+        "captions_present": true,
+        "custom_thumbnail_present": true,
+        "youtube_publication_timestamp_utc": "2026-07-23T23:02:35Z"
+      }
+    ],
+    "public_shorts": [],
+    "unlisted_or_private_owned_videos": [],
+    "repository_only_not_uploaded": [
+      {
+        "content_id": "video-002",
+        "repository_status": "ready_for_unlisted_upload_pending_google_account"
+      },
+      {
+        "content_id": "video-003",
+        "repository_status": "ready_with_accepted_audio_debt_pending_google_access"
+      },
+      {
+        "content_id": "piloto-001-vertical-01-youtube-shorts",
+        "repository_status": "approved_with_minor_visual_dynamism_debt_pending_first_upload"
+      }
+    ]
+  },
+  "playlists": [
+    {
+      "id": "PLDTHCeY55OIM",
+      "title": "Reflexões bíblicas para dias difíceis",
+      "privacy_status": "public",
+      "item_count": 1,
+      "video_ids": ["ZkmCkF6XR_g"]
+    }
+  ],
+  "video_metrics": {
+    "content_id": "piloto-001",
+    "youtube_video_id": "ZkmCkF6XR_g",
+    "window": "since_publication_pre_24h",
+    "dashboard_elapsed_display": "6 horas 22 minutos",
+    "views": 3,
+    "watch_time_hours": 0.2,
+    "average_view_duration_seconds": 261,
+    "average_view_duration_display": "4:21",
+    "average_view_percentage_derived": 45.16,
+    "average_view_percentage_derivation": "261 seconds / 578 seconds * 100; derived locally, not displayed by Studio",
+    "likes": 1,
+    "dislikes": 0,
+    "likes_vs_dislikes_percentage": 100.0,
+    "shares": 1,
+    "comment_count_api": 1,
+    "top_level_comments_by_channel_owner": 1,
+    "top_level_comments_by_other_viewers": 0,
+    "comment_provenance_note": "The only public top-level comment was authored by the channel itself; it is not organic audience response.",
+    "impressions": 1,
+    "impressions_ctr_dashboard_display": 0.0,
+    "impressions_ctr_primary_reach_display": null,
+    "impressions_ctr_primary_reach_availability": "suppressed_or_unavailable_with_current_sample",
+    "impressions_funnel_ctr_display": 0.0,
+    "views_from_impressions": 0,
+    "watch_time_from_impressions_hours": 0,
+    "unique_viewers": null,
+    "unique_viewers_availability": "one_day_of_data_still_processing",
+    "unique_viewers_advanced_table_preliminary_display": 0,
+    "subscribers_net_change": null,
+    "subscribers_net_change_availability": "not_available",
+    "audience_retention": null,
+    "audience_retention_availability": "not_available_processing_may_take_up_to_two_days",
+    "realtime_views_last_60_minutes": 0,
+    "end_screen_element_click_rate": 0.0,
+    "hype_points": 0,
+    "hypes": 0,
+    "remix_data": "none_for_period"
+  },
+  "traffic_sources_share_of_views_percent": {
+    "suggested_videos": 33.3,
+    "other_youtube_features": 33.3,
+    "external": 33.3
+  },
+  "external_traffic_detail": {
+    "share_of_total_views_percent": 33.3,
+    "sources": {
+      "WhatsApp": 100.0
+    }
+  },
+  "device_share_of_watch_time_percent": {
+    "computer": 97.2,
+    "mobile": 2.8
+  },
+  "unavailable_reports": [
+    "audience_retention_graph",
+    "qualified_unique_viewers",
+    "viewer_behavior_segments",
+    "age_and_gender",
+    "geography",
+    "subscriber_watch_time",
+    "caption_language",
+    "youtube_search_terms",
+    "suggesting_content_detail",
+    "playlist_traffic_detail"
+  ],
+  "data_quality": {
+    "sample_size_warning": "Only 3 views and 1 impression. No editorial or packaging conclusion is supported by this snapshot.",
+    "processing_warning": "Several YouTube Studio reports are still processing or suppressed because data is insufficient.",
+    "display_rounding_warning": "YouTube Studio displays watch time as 0.2 hours and traffic shares rounded to one decimal place.",
+    "like_provenance": "Not determined; do not classify the single video like as organic audience response without evidence.",
+    "share_provenance": "Not determined; one external view is attributed to WhatsApp, but the sharer identity is not available."
+  }
+}

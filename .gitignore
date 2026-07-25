@@ -1,0 +1,56 @@
+# Local workspace and editor state
+.obsidian/
+.vscode/
+.idea/
+*.code-workspace
+
+# Secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+*.kdbx
+*credential*
+*secret*
+*token*
+*password*
+/api Keys - canais dark.txt
+
+# Local toolchains, dependencies, and nested third-party checkout
+/tools/
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated or source-media artifacts
+/Biblia Livre PDF.pdf
+/Canal Religioso/04_assets/
+/Canal Religioso/05_audio/
+/Canal Religioso/07_exports/
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.wav
+*.mp3
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+
+# Logs, temporary files, and operating-system metadata
+*.log
+*.tmp
+*.bak
+*.swp
+Thumbs.db
+Desktop.ini

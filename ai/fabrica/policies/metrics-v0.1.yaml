@@ -1,0 +1,17 @@
+version: 0.1.0
+status: provisional_until_published_data
+snapshots:
+  - 24h
+  - 72h
+  - 7d
+  - 28d
+editorial_change:
+  comparable_cohort_min: 3
+  comparable_cohort_max: 5
+technical_defect:
+  immediate_action_allowed: true
+storage:
+  raw_observation: immutable
+  diagnosis: versioned
+  learning_decision: versioned
+

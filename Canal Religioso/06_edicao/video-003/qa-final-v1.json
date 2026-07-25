@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-003",
+  "artifact_version": "v1",
+  "checked_at": "2026-07-23T15:30:12-03:00",
+  "automated_state": "passed",
+  "human_semantic_review": "pending",
+  "master": {
+    "file": "../../07_exports/video-003/o-que-jo-ensina-quando-a-vida-parece-injusta-v1.mp4",
+    "sha256": "5121ac4f3b93f125daf9b3ce68d9e469e4a61e41250b04d908547b50f091b9bc",
+    "duration_seconds": 713.813333,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "audio_sample_rate_hz": 48000,
+    "audio_channels": 2
+  },
+  "audio": {
+    "integrated_lufs": -13.24,
+    "true_peak_dbfs": -1.37,
+    "loudness_range_lu": 3.2,
+    "tail_seconds": 3.0,
+    "speech_source": "approved ElevenLabs master; HeyGen TTS disabled"
+  },
+  "captions": {
+    "burned_in": true,
+    "sidecar_file": "../../07_exports/video-003/o-que-jo-ensina-legendas-v1.srt",
+    "sidecar_sha256": "bcdb128fed3762f45c99a91b58346ee8dc9905b2bdc3680a44d43be65516ed15",
+    "cue_count": 200,
+    "timing_source": "ElevenLabs character alignment merged across eight blocks",
+    "overlap_normalization": true
+  },
+  "checks": {
+    "duration_between_10_and_12_minutes": true,
+    "no_black_segment_at_least_0_5_seconds": true,
+    "all_seven_scriptures_complete_on_screen": true,
+    "all_scripture_references_complete": true,
+    "generated_motion_semantically_matches_narration": true,
+    "avatar_chroma_spill_removed": true,
+    "avatar_table_is_full_width": true,
+    "avatar_uses_approved_external_audio": true,
+    "two_end_screen_slots_start_in_final_20_seconds": true,
+    "three_second_post_speech_fade": true,
+    "no_paid_retry": true
+  },
+  "visual_evidence": [
+    "qa-scriptures-v1.png",
+    "qa-production-v1.png"
+  ],
+  "human_review_questions": [
+    "A narracao integral preserva a prosodia aprovada na calibracao?",
+    "O volume da musica permanece discreto durante todo o video?",
+    "O ritmo de troca das imagens sustenta a atencao sem parecer apressado?",
+    "O movimento labial do avatar parece natural no fechamento?"
+  ]
+}

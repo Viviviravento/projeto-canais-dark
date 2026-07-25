@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": "palavra-que-cuida-video-003",
+  "kind": "video",
+  "created_at": "2026-07-22T18:00:00-03:00",
+  "updated_at": "2026-07-23T18:21:45-03:00",
+  "metadata": {
+    "channel_id": "palavra-que-cuida",
+    "topic_id": "v003-job-injustice",
+    "paid_calls_started": true,
+    "quoted_maximum_usd": 2.64,
+    "observed_api_cost_usd": 2.1314,
+    "observed_api_cost_scope": "final_package_under_original_run_convention",
+    "observed_economic_value_including_retries_usd": 3.24535,
+    "cost_audit": "../custos/auditoria-videos-001-003-2026-07-23.json"
+  },
+  "stages": [
+    {"id":"tema","status":"completed","reason":null,"artifacts":["../../02_roteiros/video-003-topic-v1.json"],"updated_at":"2026-07-22T18:05:00-03:00"},
+    {"id":"pesquisa","status":"completed","reason":null,"artifacts":["../../evidencias/video-003-claims.jsonl","../../02_roteiros/video-003-citacoes-acf-v1.json"],"updated_at":"2026-07-22T18:10:00-03:00"},
+    {"id":"blueprint","status":"completed","reason":null,"artifacts":["../../02_roteiros/video-003-blueprint-v1.json"],"updated_at":"2026-07-22T18:15:00-03:00"},
+    {"id":"artefato_performatico","status":"completed","reason":null,"artifacts":["../../02_roteiros/video-003-roteiro-v1.md","../../02_roteiros/video-003-performance-v1.json"],"updated_at":"2026-07-22T18:25:00-03:00"},
+    {"id":"plano_producao_custo","status":"completed","reason":null,"artifacts":["plano-visual-v1.md","media-requirement-v1.json","custos/resumo-v1.md"],"updated_at":"2026-07-22T18:40:00-03:00"},
+    {"id":"aquisicao","status":"completed","reason":"Narração v2, avatar externo, imagens geradas, stock revisado e duas cenas Kling foram adquiridos sem repetição paga.","artifacts":["../../04_assets/video-003/generated/lineage-v1.json","../../04_assets/video-003/generated/brazil/lineage-v2.json","../../04_assets/video-003/stock/selected/provenance.jsonl","../../05_audio/video-003/v2/audio-qa-v2.json","custos/elevenlabs-v2.json","custos/heygen-v2.json","custos/kling-v2.json","../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-003/heygen-results-v1.json","../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-003/kling-results-v1.json"],"updated_at":"2026-07-23T15:30:12-03:00"},
+    {"id":"composicao","status":"completed","reason":"Master v3 finalizado com o audio v2 menos defeituoso, preservado bit a bit, e encerramento recomposto com fundo fisicamente coerente. A divida de prosodia foi aceita apenas para este episodio.","artifacts":["../../../tools/OpenMontage/projects/a-palavra-que-cuida-video-003/timeline-v2.json","avatar-composition-fix-v1.json","../../07_exports/video-003/o-que-jo-ensina-quando-a-vida-parece-injusta-v3.mp4","human-review-v3-authorization.json"],"updated_at":"2026-07-23T18:21:45-03:00"},
+    {"id":"qa_pacote","status":"completed","reason":"QA tecnico do v3 passou: audio identico ao v2 selecionado, cena final fisicamente corrigida, legendas presentes, dois slots de recomendacao e nenhuma quebra na emenda. Usuario autorizou finalizar com a divida de audio conhecida.","artifacts":["qa-final-v3.json","qa-v3-end-segment-sheet.png","qa-v3-final-sheet.png","human-review-v3-authorization.json"],"updated_at":"2026-07-23T18:21:45-03:00"},
+    {"id":"publicacao_distribuicao","status":"pending","reason":"Pacote v3 pronto com divida de audio aceita; publicacao aguarda apenas a restauracao do acesso Google e OAuth do yutu.","artifacts":["../../08_publicacao/video-003-publicacao-v0.1.json","../../08_publicacao/video-003-descricao-v1.txt","../../08_publicacao/video-003-thumbnail-v1.png","../../07_exports/video-003/o-que-jo-ensina-quando-a-vida-parece-injusta-v3.mp4","../../07_exports/tiktok/video-003/README.md"],"updated_at":"2026-07-23T18:21:45-03:00"},
+    {"id":"aprendizado","status":"pending","reason":null,"artifacts":["../../09_metricas/video-003/snapshot-plan-v0.1.json"],"updated_at":"2026-07-22T18:50:00-03:00"}
+  ]
+}

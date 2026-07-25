@@ -1,0 +1,39 @@
+{
+  "version": "video-003-performance-v1",
+  "source_script": "video-003-roteiro-v1.md",
+  "performance_contract": {
+    "relationship": "Falar com uma pessoa, com proximidade e respeito, sem locucao publicitaria.",
+    "authority": "Autoridade pelo entendimento da mensagem, sem tom professoral ou superior.",
+    "interpretation": "Distinguir acolhimento, narrativa, lamento, confronto, limite do conhecimento, aplicacao e conclusao.",
+    "intensity": "Sereno e grave, sem monotonia, melodrama religioso ou voz de trailer.",
+    "scripture": "Anunciar livro, capitulo e versiculo; concluir a referencia; ler o texto completo com reverencia; so entao explicar.",
+    "pause_policy": "Sem break tags. Usar pontuacao natural, blocos semanticos e Request Stitching com contexto anterior e posterior.",
+    "cta": "Concluir a mensagem antes do convite; manter calor humano e abrir espaco para dois videos recomendados."
+  },
+  "api": {
+    "provider": "ElevenLabs",
+    "voice_name": "Bruno Cardoso",
+    "voice_id": "iF2QszmZhlyFLleUoFxy",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 271828,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    }
+  },
+  "blocks": [
+    {"id":"01-quando-fazer-tudo-certo","source_section":"01","function":"Acolher a sensacao de injustica e formular a pergunta sem prometer uma resposta facil."},
+    {"id":"02-o-dado-que-nao-podemos-apagar","source_section":"02","function":"Fixar a integridade narrativa de Jo antes da calamidade e impedir inferencia retroativa de culpa."},
+    {"id":"03-sete-dias-de-presenca","source_section":"03","function":"Mostrar o valor da presenca e legitimar o lamento sem romantizar a dor."},
+    {"id":"04-quando-o-consolo-vira-acusacao","source_section":"04","function":"Expor como uma formula religiosa pode aumentar o peso de quem sofre."},
+    {"id":"05-deus-responde","source_section":"05","function":"Apresentar a resposta divina como ampliacao de perspectiva, nao como causa simples da tragedia."},
+    {"id":"06-o-veredito-sobre-os-amigos","source_section":"06","function":"Ler o veredito de Jo 42:7 e limitar a interpretacao de restauracao material."},
+    {"id":"07-tres-cuidados","source_section":"07","function":"Entregar tres criterios concretos para atravessar ou acompanhar o sofrimento."},
+    {"id":"08-fechamento-e-convite","source_section":"08","function":"Concluir a tese, identificar o canal, oferecer dois proximos videos e provocar comentario contextual."}
+  ]
+}

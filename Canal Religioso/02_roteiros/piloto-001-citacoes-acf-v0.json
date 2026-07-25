@@ -1,0 +1,29 @@
+{
+  "video_id": "piloto-001",
+  "title_working": "Voce nao precisa carregar tudo sozinha",
+  "state": "script-v0-written-awaiting-human-approval",
+  "direct_acf_citations": [
+    {
+      "reference": "Mateus 11:28",
+      "role": "main-text"
+    },
+    {
+      "reference": "Mateus 11:29",
+      "role": "main-text"
+    },
+    {
+      "reference": "Mateus 11:30",
+      "role": "main-text"
+    },
+    {
+      "reference": "Galatas 6:2",
+      "role": "supporting-text"
+    },
+    {
+      "reference": "1 Pedro 5:7",
+      "role": "closing-text"
+    }
+  ],
+  "references_without_direct_quote": [],
+  "notes": "The v0 script uses these five direct ACF citations. Run the validator again after any script revision, before audio generation, and before publication."
+}

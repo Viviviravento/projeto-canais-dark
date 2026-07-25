@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v003-fal-minimax-calibration-v1-20260722",
+  "parent_quote_id": null,
+  "provider": "fal.ai",
+  "model": "fal-ai/minimax/speech-2.8-turbo",
+  "operation": "single dense semantic-performance calibration sample",
+  "unit": "character",
+  "quantity": 565,
+  "currency": "USD",
+  "unit_price": 0.00006,
+  "price_checked_at": "2026-07-22T19:46:29-03:00",
+  "price_source": "https://fal.ai/models/fal-ai/minimax/speech-2.8-turbo",
+  "expected_cost": 0.0339,
+  "maximum_cost": 0.04,
+  "observed_cost": null,
+  "status": "deferred",
+  "metadata": {
+    "sample": "02-citacao-e-explicacao",
+    "language_boost": "Portuguese",
+    "candidate_voice": "Portuguese_CaptivatingStoryteller",
+    "comparison_control": "existing rejected ElevenLabs calibration sample",
+    "automatic_retry": false,
+    "requires_explicit_human_approval": true,
+    "deferred_reason": "A auditoria local mostrou que a calibração ElevenLabs v2 supersegmentou o texto; trocar de motor antes de isolar essa variável confundiria o diagnóstico."
+  }
+}

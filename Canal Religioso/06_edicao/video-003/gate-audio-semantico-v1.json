@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "gate_id": "palavra-que-cuida-audio-semantico",
+  "scope": "semantic_voice_performance",
+  "state": "restored",
+  "permanent_human": false,
+  "evidence": [
+    "05_audio/video-002/v2/README.md#resultado-do-crivo",
+    "05_audio/video-003/v1/audio-qa-v1.json#human_verdict",
+    "05_audio/video-003/calibracao-v2/resultado-geracao.json",
+    "05_audio/video-003/calibracao-v2/avaliacao-semantica-v2.json",
+    "02_roteiros/video-003-calibracao-performance-v3.json",
+    "05_audio/video-003/calibracao-v3/avaliacao-semantica-v3.json",
+    "02_roteiros/video-003-performance-v2.json",
+    "01_briefs/pesquisa-pratica-prosodia-tts-2026-v1.md",
+    "05_audio/video-003/v2/audio-qa-v2.json",
+    "06_edicao/video-003/qa-final-v1.json"
+  ],
+  "reason": "O crivo humano do master v2 reprovou a estabilidade prosodica do meio para o final. A abertura aprovada nao demonstrou estabilidade do episodio completo. O gate permanece restaurado e agora exige amostras independentes de abertura, miolo denso e fechamento antes de nova narracao integral.",
+  "promotion": {
+    "clean_runs_to_sampled": 3,
+    "sampled_approvals_to_automatic": 6
+  },
+  "restoration": {
+    "critical_defect_immediate": true,
+    "triggers": ["critical_defect", "model_change", "price_change", "confidence_loss"]
+  },
+  "counters": {
+    "clean_runs": 0,
+    "sampled_approvals": 0
+  },
+  "updated_at": "2026-07-23",
+  "latest_failure": {
+    "artifact": "07_exports/video-003/o-que-jo-ensina-quando-a-vida-parece-injusta-v2.mp4",
+    "review": "06_edicao/video-003/human-review-v2.json",
+    "severity": "critical",
+    "restoration_trigger": "confidence_loss"
+  }
+}

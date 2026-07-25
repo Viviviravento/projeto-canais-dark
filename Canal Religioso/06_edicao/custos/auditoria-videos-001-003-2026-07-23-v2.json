@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.1.0",
+  "audit_date": "2026-07-23",
+  "supersedes": "auditoria-videos-001-003-2026-07-23.json",
+  "scope": [
+    "piloto-001",
+    "video-002",
+    "video-003"
+  ],
+  "exchange_rate": {
+    "source": "Banco Central do Brasil - PTAX",
+    "date": "2026-07-23",
+    "usd_brl_sale": 5.0807,
+    "reference_url": "https://olinda.bcb.gov.br/olinda/servico/PTAX/versao/v1/odata/CotacaoDolarDia(dataCotacao=@dataCotacao)?@dataCotacao='07-23-2026'&$top=100&$format=json",
+    "note": "Conversao de referencia. O valor efetivo do cartao pode incluir spread e IOF."
+  },
+  "method": {
+    "cash_outlay_is_not_usage": true,
+    "subscription_credits_are_allocated_at_usd_per_credit": 0.00015,
+    "elevenlabs_allocation_basis": "USD 6.00 monthly invoice / 40000 credits",
+    "heygen_price_usd_per_second": 0.05,
+    "fal_kling_price_usd_per_five_second_clip": 0.42,
+    "unpriced_items": [
+      "Codex image generation",
+      "human labor",
+      "local electricity and compute"
+    ]
+  },
+  "per_video": [
+    {
+      "video_id": "piloto-001",
+      "elevenlabs_credits": 10280,
+      "elevenlabs_allocated_usd": 1.542,
+      "heygen_seconds": 47.06874,
+      "heygen_usd": 2.353437,
+      "fal_successful_clips": 4,
+      "fal_usd": 1.68,
+      "economic_value_usd": 5.575437,
+      "economic_value_brl": 28.33
+    },
+    {
+      "video_id": "video-002",
+      "elevenlabs_credits": 8178,
+      "elevenlabs_allocated_usd": 1.2267,
+      "heygen_seconds": 38.22,
+      "heygen_usd": 1.911,
+      "fal_successful_clips": 3,
+      "fal_usd": 1.26,
+      "economic_value_usd": 4.3977,
+      "economic_value_brl": 22.34
+    },
+    {
+      "video_id": "video-003",
+      "elevenlabs_credits": 11309,
+      "elevenlabs_allocated_usd": 1.69635,
+      "heygen_seconds": 17.72,
+      "heygen_usd": 0.886,
+      "fal_successful_clips": 2,
+      "fal_usd": 0.84,
+      "economic_value_usd": 3.42235,
+      "economic_value_brl": 17.39,
+      "additional_cost_since_v1": {
+        "elevenlabs_tail_comparison_credits": 1180,
+        "allocated_usd": 0.177,
+        "allocated_brl": 0.9
+      }
+    }
+  ],
+  "totals": {
+    "elevenlabs": {
+      "credits_consumed": 29767,
+      "allocated_value_usd": 4.46505,
+      "allocated_value_brl": 22.69,
+      "final_narrations_only_credits": 11347,
+      "tests_and_discarded_versions_credits": 18420
+    },
+    "heygen": {
+      "completed_outputs": 8,
+      "completed_seconds": 103.00874,
+      "economic_value_usd": 5.150437,
+      "economic_value_brl": 26.17
+    },
+    "fal_ai": {
+      "successful_five_second_clips": 9,
+      "consumed_usd": 3.78,
+      "consumed_brl": 19.21
+    },
+    "economic_value_consumed_usd": 13.395487,
+    "economic_value_consumed_brl": 68.06,
+    "historical_average_per_finished_video_usd": 4.465162,
+    "historical_average_per_finished_video_brl": 22.69
+  },
+  "cash_outlay": {
+    "documented_minimum_usd": 16.0,
+    "documented_minimum_brl": 81.29,
+    "components": [
+      {
+        "provider": "ElevenLabs",
+        "amount_usd": 6.0,
+        "kind": "active Starter monthly period"
+      },
+      {
+        "provider": "fal.ai",
+        "amount_usd": 10.0,
+        "kind": "prepaid top-up"
+      }
+    ],
+    "heygen_funding_amount": "not available through the current account endpoint or local records",
+    "warning": "O desembolso conhecido e um piso. Ele nao inclui o valor originalmente colocado no HeyGen."
+  },
+  "current_balances": {
+    "elevenlabs": {
+      "observed": true,
+      "credits_used": 29767,
+      "credits_limit": 40000,
+      "credits_remaining": 10233,
+      "remaining_allocated_usd": 1.53495,
+      "remaining_allocated_brl": 7.8,
+      "next_reset_local": "2026-08-10 18:11:41 -03:00"
+    },
+    "heygen": {
+      "observed": true,
+      "wallet_balance_usd": 0.05,
+      "wallet_balance_brl": 0.25,
+      "separate_free_feature_quotas_excluded": true
+    },
+    "fal_ai": {
+      "observed": false,
+      "expected_balance_usd": 6.22,
+      "expected_balance_brl": 31.6,
+      "basis": "USD 10.00 top-up minus nine recorded successful clips at USD 0.42",
+      "blocking_condition": "the configured production key received HTTP 403 from the admin-only account billing endpoint"
+    }
+  },
+  "capacity_without_top_up": {
+    "elevenlabs_narrations_at_stabilized_4414_credits": 2,
+    "heygen_avatar_videos_at_stabilized_17_72_seconds": 0,
+    "fal_ai_videos_at_two_clips_expected": 7,
+    "complete_videos_with_current_template": 0,
+    "videos_without_new_avatar_generation": 2,
+    "bottleneck": "HeyGen wallet"
+  },
+  "sources": [
+    "provider-balances-2026-07-23.json",
+    "auditoria-videos-001-003-2026-07-23.json",
+    "../../05_audio/video-003/comparacao-cauda-v1/resultado-geracao.json"
+  ]
+}

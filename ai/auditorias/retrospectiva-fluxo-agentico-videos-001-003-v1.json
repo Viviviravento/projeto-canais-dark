@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0.0",
+  "decision_id": "factory-retrospective-videos-001-003",
+  "version": 1,
+  "supersedes": null,
+  "created_at": "2026-07-24T02:23:06-03:00",
+  "observation_refs": [
+    "ai/auditorias/retrospectiva-fluxo-agentico-videos-001-003-v1.md",
+    "Canal Religioso/06_edicao/custos/auditoria-videos-001-003-2026-07-23-v2.json",
+    "Canal Religioso/06_edicao/custos/capacidade-baseada-video-003-2026-07-24.md",
+    "Canal Religioso/06_edicao/limpeza-midias-2026-07-24.json",
+    "Canal Religioso/06_edicao/video-003/human-review-v2.json",
+    "Canal Religioso/06_edicao/video-003/human-review-v3-authorization.json",
+    "Canal Religioso/06_edicao/video-003/gate-audio-semantico-v1.json",
+    "Canal Religioso/06_edicao/video-003/run-v1.json",
+    "Canal Religioso/08_publicacao/piloto-001-publicacao-v1.json"
+  ],
+  "diagnosis": "A fabrica candidata produz artefatos reais, mas regras, gates, custos e estado ainda nao governam de forma obrigatoria os scripts de execucao. QA tecnico aprovou masters posteriormente reprovados pelo humano, a limpeza quebrou referencias de evidencia e o video 003 terminou com divida critica de prosodia aceita. A v1 nao pode ser promovida.",
+  "test": {
+    "hypothesis": "Se o video 004 for comandado por um runner canonico, com ledger unico, ciclo de vida de artefatos, calibracao representativa, storyboard revisado e proxy antes do master, o fluxo detectara defeitos antes das etapas caras e completara uma execucao limpa com menos intervencao humana.",
+    "cohort_size": 1,
+    "success_signal": "O video 004 cumpre a definicao de execucao limpa da auditoria, fecha publicacao e estado sem referencias quebradas e sem repetir chamada paga por erro evitavel. Uma execucao valida a correcao imediata, mas nao promove gates; as contagens de 3 e 6 continuam obrigatorias."
+  },
+  "affected_policy": "ai/fabrica/README.md#estado-v1-candidate",
+  "state": "accepted"
+}

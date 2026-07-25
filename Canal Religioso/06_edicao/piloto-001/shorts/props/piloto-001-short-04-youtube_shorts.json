@@ -1,0 +1,168 @@
+{
+  "derivativeId": "piloto-001-short-04",
+  "title": "Quando o cuidado se transforma em prisão",
+  "audioFile": "audio/piloto-001-short-04-narracao.wav",
+  "spokenDurationSeconds": 64.539,
+  "endCardSeconds": 4.0,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 8.067,
+      "asset": "images/img-s16-peso-mental-v1.png",
+      "focus": "52% 49%",
+      "scale": 1.14
+    },
+    {
+      "start": 8.067,
+      "end": 16.135,
+      "asset": "images/img-s14-pesos-visiveis-v1.png",
+      "focus": "50% 50%",
+      "scale": 1.13
+    },
+    {
+      "start": 16.135,
+      "end": 24.202,
+      "asset": "images/img-s03-tarefas-v1.png",
+      "focus": "50% 48%",
+      "scale": 1.14
+    },
+    {
+      "start": 24.202,
+      "end": 32.27,
+      "asset": "images/img-s17-pausa-v1.png",
+      "focus": "50% 48%",
+      "scale": 1.13
+    },
+    {
+      "start": 32.27,
+      "end": 40.337,
+      "asset": "images/img-s18-chegar-cansada-v1.png",
+      "focus": "52% 48%",
+      "scale": 1.15
+    },
+    {
+      "start": 40.337,
+      "end": 48.404,
+      "asset": "images/img-s04-reflexo-v1.png",
+      "focus": "48% 49%",
+      "scale": 1.14
+    },
+    {
+      "start": 48.404,
+      "end": 56.472,
+      "asset": "images/img-s05-maos-em-pausa-v1.png",
+      "focus": "50% 52%",
+      "scale": 1.13
+    },
+    {
+      "start": 56.472,
+      "end": 64.539,
+      "asset": "images/img-s18-chegar-cansada-v1.png",
+      "focus": "52% 48%",
+      "scale": 1.17
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.12,
+      "end": 2.604,
+      "text": "Outros pesos quase nunca recebem nome."
+    },
+    {
+      "start": 2.848,
+      "end": 4.706,
+      "text": "São aqueles pensamentos que dizem:"
+    },
+    {
+      "start": 4.95,
+      "end": 7.306,
+      "text": "se eu não fizer, ninguém fará."
+    },
+    {
+      "start": 7.48,
+      "end": 9.977,
+      "text": "Se eu descansar, vou decepcionar alguém."
+    },
+    {
+      "start": 10.302,
+      "end": 13.088,
+      "text": "Se eu pedir ajuda, vão pensar que eu falhei."
+    },
+    {
+      "start": 13.471,
+      "end": 16.13,
+      "text": "Se eu não resolver agora, tudo vai dar errado."
+    },
+    {
+      "start": 16.942,
+      "end": 19.206,
+      "text": "Essas frases parecem responsabilidade."
+    },
+    {
+      "start": 19.961,
+      "end": 23.815,
+      "text": "Mas, quando tomam conta de tudo, podem transformar cuidado"
+    },
+    {
+      "start": 24.071,
+      "end": 27.089,
+      "text": "em prisão. Talvez você tenha sido ensinada a ser"
+    },
+    {
+      "start": 27.136,
+      "end": 29.794,
+      "text": "disponível, forte e atenta."
+    },
+    {
+      "start": 30.259,
+      "end": 31.35,
+      "text": "E há beleza nisso."
+    },
+    {
+      "start": 31.908,
+      "end": 33.452,
+      "text": "Cuidar é uma forma de amor."
+    },
+    {
+      "start": 33.812,
+      "end": 38.398,
+      "text": "Ser responsável importa. Mas o amor não deveria exigir"
+    },
+    {
+      "start": 38.7,
+      "end": 42.217,
+      "text": "que você desapareça dentro das necessidades de todo mundo."
+    },
+    {
+      "start": 43.018,
+      "end": 46.292,
+      "text": "Jesus chama os cansados para perto."
+    },
+    {
+      "start": 46.943,
+      "end": 49.392,
+      "text": "Isso significa que o seu cansaço não é um"
+    },
+    {
+      "start": 49.439,
+      "end": 54.048,
+      "text": "detalhe que precisa ser escondido para você merecer estar"
+    },
+    {
+      "start": 54.117,
+      "end": 58.007,
+      "text": "diante de Deus. Você pode chegar cansada."
+    },
+    {
+      "start": 58.703,
+      "end": 62.024,
+      "text": "Pode chegar confusa. Pode chegar sem saber"
+    },
+    {
+      "start": 62.837,
+      "end": 64.299,
+      "text": "como vai resolver tudo."
+    }
+  ],
+  "platform": "youtube_shorts"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-003",
+  "artifact_version": "v2",
+  "recorded_at": "2026-07-23",
+  "classification": "user_input",
+  "verdict": "rejected",
+  "findings": [
+    {
+      "area": "voice_semantics",
+      "severity": "critical",
+      "observation": "A narracao comeca melhor, mas volta a desrespeitar pontuacao e continuidade do meio para o final.",
+      "scope": "integral_master"
+    },
+    {
+      "area": "visual_physics",
+      "severity": "critical",
+      "observation": "Na cena final, o avatar parece sentado enquanto uma cadeira aparece deslocada ao lado dele, criando a leitura de que esta sentado no ar.",
+      "scope": "closing_avatar_scene"
+    }
+  ],
+  "evidence_classification": {
+    "no_cost_quality_throttle": {
+      "status": "confirmed",
+      "statement": "Os oito blocos usaram a mesma voz, modelo, idioma, seed, formato e configuracoes; nao houve troca para opcao mais barata nem reducao de qualidade ao longo da geracao.",
+      "refs": [
+        "../../05_audio/video-003/v2/resultado-geracao.json",
+        "../../06_edicao/piloto-001/build_audio_v1.py"
+      ]
+    },
+    "progressive_request_stitching_drift": {
+      "status": "plausible_but_unconfirmed",
+      "statement": "O encadeamento de request_ids pode ter preservado ou acumulado uma cadencia inadequada nos blocos posteriores. Isso ainda exige teste isolado."
+    },
+    "chair_origin": {
+      "status": "confirmed",
+      "statement": "A cadeira pertence ao fundo de sala escolhido na composicao e nao ao video bruto do HeyGen."
+    }
+  },
+  "gate_actions": [
+    "Manter audio semantico em restored e zerar execucoes limpas.",
+    "Manter editorial-visual em full.",
+    "Exigir calibracoes separadas de abertura, miolo denso e fechamento.",
+    "Exigir revisao de coerencia fisica em toda composicao de avatar."
+  ],
+  "publication_allowed": false
+}
