@@ -31,6 +31,6 @@ Se a evidência ainda não existir, a resposta correta é pesquisar. Teste prát
 ## Separação
 
 - `ai/`: memória e decisões da metamorfose.
-- `Canal Religioso/`: estrutura prática de produção do canal.
+- `operations/`: estruturas práticas de operações concretas de conteúdo.
 
 O público-alvo é uma decisão fixa do canal, não uma variável por vídeo. Enquanto não for definido, não deve ser inferido.

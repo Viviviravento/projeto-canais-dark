@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.canais-dark/contracts/v1/Baseline.schema.json",
+  "title": "Baseline",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "baseline_id", "capability", "version", "scope", "state", "conditions", "parameters", "evidence_refs", "tests", "human_gate", "clean_runs", "invalidation"],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "baseline_id": {"type": "string", "minLength": 1},
+    "capability": {"type": "string", "minLength": 1},
+    "version": {"type": "string", "minLength": 1},
+    "scope": {"type": "string", "minLength": 1},
+    "state": {"enum": ["active", "superseded", "invalidated"]},
+    "conditions": {"type": "object"},
+    "parameters": {"type": "object"},
+    "evidence_refs": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "tests": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "human_gate": {"type": "object", "additionalProperties": true, "required": ["required", "result"], "properties": {"required": {"type": "boolean"}, "result": {"enum": ["approved", "rejected", "not_required"]}}},
+    "clean_runs": {"type": "array", "items": {"type": "object", "additionalProperties": true, "required": ["run_id", "verified_at", "evidence_refs"], "properties": {"run_id": {"type": "string", "minLength": 1}, "verified_at": {"type": "string", "format": "date-time"}, "evidence_refs": {"type": "array", "items": {"type": "string"}, "minItems": 1}}}, "minItems": 1},
+    "invalidation": {"type": "object", "additionalProperties": true, "required": ["tracked_parameter_paths", "policy"], "properties": {"tracked_parameter_paths": {"type": "array", "items": {"type": "string", "minLength": 1}, "minItems": 1, "uniqueItems": true}, "policy": {"type": "string", "minLength": 1}}}
+  }
+}

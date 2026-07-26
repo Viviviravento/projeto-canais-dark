@@ -32,9 +32,9 @@ __pycache__/
 
 # Generated or source-media artifacts
 /Biblia Livre PDF.pdf
-/Canal Religioso/04_assets/
-/Canal Religioso/05_audio/
-/Canal Religioso/07_exports/
+/operations/a-palavra-que-cuida/04_assets/
+/operations/a-palavra-que-cuida/05_audio/
+/operations/a-palavra-que-cuida/07_exports/
 *.mp4
 *.mov
 *.mkv
