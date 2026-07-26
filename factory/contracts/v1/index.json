@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "contracts": [
+    "Baseline",
+    "ChannelManifest",
+    "ClaimRecord",
+    "TopicCandidate",
+    "ContentBlueprint",
+    "MediaRequirement",
+    "CostQuote",
+    "GatePolicy",
+    "MetricObservation",
+    "OperationManifest",
+    "LearningDecision",
+    "IntegrationIncident",
+    "UntrustedContent"
+  ]
+}

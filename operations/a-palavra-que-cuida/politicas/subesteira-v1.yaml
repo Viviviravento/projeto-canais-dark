@@ -1,0 +1,90 @@
+version: 1.0.6
+extends: ../../../factory
+operation_manifest: ../operation.yaml
+stage_injections:
+  tema:
+    requirements:
+      - aderencia ao publico fixo do canal
+      - demanda observavel ou teste editorial explicitamente justificado
+      - profundidade suficiente para 10 a 12 minutos sem redundancia
+      - papel no catalogo registrado como abertura, continuacao, preenchimento de lacuna ou experimento
+      - pauta selecionada propoe de duas a quatro continuacoes nao redundantes e playlists candidatas
+  pesquisa:
+    requirements:
+      - contexto biblico e historico proporcional ao argumento
+      - divergencias interpretativas relevantes identificadas
+      - uma fonte por afirmacao factual
+  blueprint:
+    requirements:
+      - referencias biblicas completas em toda citacao
+      - citacoes diretas registradas no controle ACF
+      - candidatos verticais marcados durante o roteiro
+      - conclusao editorial antes do CTA recorrente
+      - abertura horizontal de 30 segundos entrega tensao, assunto e inicio real do conteudo sem lista de promessas
+      - cada candidato vertical registra primeira frase autocontida, primeiro frame e recompensa entregue ate seis segundos
+      - video registra uma playlist primaria, no maximo duas secundarias e sua ponte para episodios relacionados
+  artefato_performatico:
+    requirements:
+      - portugues brasileiro natural
+      - roteiro editorial convertido em partitura oral; prosa escrita nao pode ser copiada mecanicamente para TTS
+      - instrucoes registradas fora do texto so contam como controle se o provedor realmente as receber
+      - abertura, miolo denso representativo e fechamento com CTA passam por calibracoes humanas independentes antes da narracao integral enquanto o gate de voz estiver full ou restored
+      - narracao integral proibida se a calibracao representativa nao estiver aprovada
+      - blocos semanticos aprovados para voz
+      - pausas orientadas por sentido e nao apenas por pontuacao
+      - Request Stitching nao pode encadear o episodio inteiro por padrao enquanto nao houver evidencia de que a interpretacao se sustenta do inicio ao fim; cada ancora aprovada deve limitar seu proprio trecho
+      - aprovacao da abertura nao prova estabilidade prosodica no miolo nem no fechamento
+      - a narracao canonica recebe pos-processamento local em tempo 1.05x, preservando pitch, antes de alinhamentos, legendas, avatar e composicao
+      - o aumento de tempo corrige a lentidao global; pausas artificiais internas continuam sendo defeito de escrita ou geracao e nao podem ser mascaradas por aceleracao adicional
+  plano_producao_custo:
+    requirements:
+      - uso do apresentador restrito a momentos de ganho comunicativo
+      - cotacao em moeda real antes de chamada paga
+      - stock permitido somente quando preciso para o contexto
+      - custo total otimizado substitui minimizacao de gasto; incluir refacao provavel, operacao humana, processamento posterior, confiabilidade e reutilizacao
+      - opcao mais cara exige ganho material ou reducao de risco; opcao mais barata nunca pode reduzir o resultado exigido
+  aquisicao:
+    requirements:
+      - direitos e atribuicao registrados por ativo
+      - texto em objetos validado como parte fisica da cena
+      - papel, folha, pagina, carta ou caderno em branco proibidos como cena de apoio; substituir o objeto ou produzir escrita fisicamente integrada
+      - variedade visual planejada antes da composicao
+  composicao:
+    requirements:
+      - legenda pt-BR derivada da fonte canonica de sincronizacao
+      - versao vertical recomposta, nunca crop cego
+      - vertical comeca no primeiro frame sem silencio morto, fade de entrada ou cartao de marca
+      - voz e legenda literal comecam juntas e o assunto fica compreensivel ate tres segundos
+      - dois espacos para recomendacoes na tela final
+      - toda composicao de avatar valida apoio corporal, contato, oclusao, perspectiva, escala e iluminacao; nenhum movel pode contradizer onde o corpo esta sentado ou apoiado
+  qa_pacote:
+    requirements:
+      - QA tecnico de audio e revisao semantica humana permanecem resultados separados
+      - fala e texto exibido de citacoes comparados palavra por palavra
+      - sincronizacao, repeticao, recortes e texto diegetico auditados por cena e keyframe
+      - QA visual rejeita qualquer papel, folha, pagina, carta ou caderno em branco antes do render final
+      - keyframe existente nao significa cena aprovada; cada keyframe de avatar composto exige veredito semantico explicito de coerencia fisica
+      - respiro final e tela final entre 5 e 20 segundos
+      - gate editorial-visual permanece full depois do video 003; QA tecnico ou keyframes aprovados nao promovem esse gate
+      - master integral precisa de crivo humano de contexto, pertinencia visual, ritmo, montagem, avatar e qualidade geral antes da publicacao
+  publicacao_distribuicao:
+    requirements:
+      - titulo, thumbnail e abertura sustentam a mesma promessa
+      - descricao inclui atribuicao ACF quando houver citacao direta
+      - conteudo sintetico declarado conforme a plataforma
+      - dois elementos nativos de recomendacao no YouTube
+      - a partir do video 004, recomendacao superior aponta para o video mais recente elegivel e a inferior para o antecessor direto do episodio assistido
+      - recomendacoes da tela final nunca podem duplicar destino nem apontar para o proprio video; verificar o comportamento atual do elemento dinamico antes da configuracao
+      - ao promover a cadencia para tres videos semanais, relembrar e aplicar alternancia de motores narrativos mantendo voz, avatar e identidade visual
+      - associacoes de playlist conferidas no catalogo e verificadas na plataforma antes de escrever
+      - playlist publica nasce normalmente com dois videos compativeis e disputa secao da pagina inicial a partir de tres
+      - serie oficial reservada a sequencia ordenada; classificacao cruzada usa playlists comuns
+  aprendizado:
+    requirements:
+      - snapshots em 24h, 72h, 7d e 28d quando os dados existirem
+      - mudanca editorial normal baseada em coorte de 3 a 5 videos comparaveis
+      - defeito tecnico pode restaurar gate imediatamente
+      - aberturas horizontais avaliadas pela curva e retencao dos primeiros 30 segundos
+      - derivados avaliados separadamente por Stayed to watch e Engaged views no Shorts e por retencao, tempo medio, conclusao e visitas ao perfil no TikTok
+      - nenhum limiar universal de retencao vira gate antes de dados comparaveis do proprio canal
+      - trafego, tempo de exibicao e proxima visualizacao por playlist observados quando os dados existirem

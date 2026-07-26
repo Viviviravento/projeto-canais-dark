@@ -7,8 +7,7 @@ Ele não é uma estrutura final de agente, nem uma coleção de workflows pronto
 ## Arquivo principal
 
 - `memoria.md`: ideias, decisões, limites e perguntas que precisam sobreviver entre contextos.
-- `preparacao-metamorfose.md`: estado do casulo, lacunas reais e critérios para saber quando a metamorfose pode ser materializada sem falsa certeza.
-- `auditorias/retrospectiva-fluxo-agentico-videos-001-003-v1.md`: auditoria do trabalho real, custos, retrabalho, falhas de enforcement e condições para promover a fábrica candidata.
+- `memoria.md` preserva os caminhos e decisões conhecidos no momento em que foram registrados; eles são evidência histórica, não um mapa de diretórios ativo.
 
 ## Regra
 
@@ -16,4 +15,7 @@ Adicionar arquivo novo em `ai/` só quando houver necessidade real e recorrente.
 
 ## O que fica fora
 
-Materiais de produção ficam em `Canal Religioso/`: roteiros, prompts por episódio, imagens, vídeos, áudios, exports, publicação e métricas.
+Implementação reutilizável fica em `../factory/`; maturidade e experimentos ficam
+em `../research/`; auditorias ficam em `../audits/`; decisões versionáveis ficam
+em `../decisions/`; materiais de produção vivem em uma operação concreta sob
+`../operations/`.
