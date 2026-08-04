@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-008",
+  "timing_state": "derived_from_master_alignment_1.07x",
+  "master_duration_seconds": 616.513313,
+  "visual_policy": {
+    "maximum_static_seconds": 7,
+    "maximum_base_asset_reuse": 2,
+    "avatar_only_while_speaking": true,
+    "scripture_display_must_match_spoken_quote": true,
+    "scripture_cards_only_during_direct_verse_reading": true,
+    "editorial_text_cards": false,
+    "end_screen_seconds": 15,
+    "end_screen_fixed_boxes": false,
+    "end_screen_native_youtube_recommendations": 2,
+    "end_screen_handle": "@apalavraquecuidabr"
+  },
+  "publication_cta_requirements": {
+    "audio_contains_comment_question": true,
+    "audio_contains_next_video_direction": true,
+    "must_add_two_native_youtube_video_elements": true,
+    "must_add_pinned_comment_question": true
+  },
+  "scenes": [
+    {
+      "id": "block-01-quando-a-vergonha-chama-seu-nome",
+      "block_id": "01-quando-a-vergonha-chama-seu-nome",
+      "start_seconds": 0.0,
+      "end_seconds": 61.500328,
+      "assets": [
+        "video-008/images/v01-lembranca-na-cozinha-com-croche-v1.png",
+        "video-008/images/v05-choro-sem-espetaculo-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-02-jesus-viu-pedro-antes-da-queda",
+      "block_id": "02-jesus-viu-pedro-antes-da-queda",
+      "start_seconds": 61.500328,
+      "end_seconds": 167.921504,
+      "assets": [
+        "video-008/images/v02-pedro-antes-do-patio-v1.png",
+        "video-008/images/v03-verdade-no-corredor-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-03-o-medo-no-patio",
+      "block_id": "03-o-medo-no-patio",
+      "start_seconds": 167.921504,
+      "end_seconds": 223.171976,
+      "assets": [
+        "video-008/images/v04-pedro-perto-do-fogo-v1.png",
+        "video-008/images/v03-verdade-no-corredor-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-04-o-olhar-o-choro-e-a-verdade",
+      "block_id": "04-o-olhar-o-choro-e-a-verdade",
+      "start_seconds": 223.171976,
+      "end_seconds": 319.263526,
+      "assets": [
+        "video-008/images/v05-choro-sem-espetaculo-v1.png",
+        "video-008/images/v04-pedro-perto-do-fogo-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-05-jesus-encontra-pedro-junto-ao-mar",
+      "block_id": "05-jesus-encontra-pedro-junto-ao-mar",
+      "start_seconds": 319.263526,
+      "end_seconds": 391.136881,
+      "assets": [
+        "video-008/images/v06-encontro-a-beira-do-mar-v1.png",
+        "video-008/images/v05-choro-sem-espetaculo-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-06-a-pergunta-que-aponta-para-frente",
+      "block_id": "06-a-pergunta-que-aponta-para-frente",
+      "start_seconds": 391.136881,
+      "end_seconds": 447.125183,
+      "assets": [
+        "video-008/images/v06-encontro-a-beira-do-mar-v1.png",
+        "video-008/images/v07-passo-novo-pela-manha-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-07-como-comecar-a-recomecar",
+      "block_id": "07-como-comecar-a-recomecar",
+      "start_seconds": 447.125183,
+      "end_seconds": 563.268358,
+      "assets": [
+        "video-008/images/v03-verdade-no-corredor-v1.png",
+        "video-008/images/v07-passo-novo-pela-manha-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-08-fechamento-e-convite",
+      "block_id": "08-fechamento-e-convite",
+      "start_seconds": 563.268358,
+      "end_seconds": 616.522348,
+      "assets": [
+        "video-008/images/v07-passo-novo-pela-manha-v1.png",
+        "video-008/images/v01-lembranca-na-cozinha-com-croche-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    }
+  ],
+  "scripture_cards": [
+    {
+      "id": "scripture-acf-lucas-22-32",
+      "reference": "Lucas 22:32",
+      "text": "Mas eu roguei por ti, para que a tua fé não desfaleça; e tu, quando te converteres, confirma teus irmãos.",
+      "source": "04_assets/video-008/scripture_cards/acf-lucas-22-32.png",
+      "block_id": "02-jesus-viu-pedro-antes-da-queda",
+      "start_seconds": 107.907805,
+      "end_seconds": 115.112478,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-lucas-22-61-62",
+      "reference": "Lucas 22:61-62",
+      "text": "E, virando-se o Senhor, olhou para Pedro, e Pedro lembrou-se da palavra do Senhor, como lhe havia dito: Antes que o galo cante hoje, me negarás três vezes. E, saindo Pedro para fora, chorou amargamente.",
+      "source": "04_assets/video-008/scripture_cards/acf-lucas-22-61-62.png",
+      "block_id": "04-o-olhar-o-choro-e-a-verdade",
+      "start_seconds": 240.261695,
+      "end_seconds": 254.800948,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-jo-o-21-15",
+      "reference": "João 21:15",
+      "text": "E, depois de terem jantado, disse Jesus a Simão Pedro: Simão, filho de Jonas, amas-me mais do que estes? E ele respondeu: Sim, Senhor, tu sabes que te amo. Disse-lhe: Apascenta os meus cordeiros.",
+      "source": "04_assets/video-008/scripture_cards/acf-jo-o-21-15.png",
+      "block_id": "05-jesus-encontra-pedro-junto-ao-mar",
+      "start_seconds": 348.190629,
+      "end_seconds": 362.459788,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-jo-o-21-17",
+      "reference": "João 21:17",
+      "text": "Disse-lhe terceira vez: Simão, filho de Jonas, amas-me? Simão entristeceu-se por lhe ter dito terceira vez: Amas-me? E disse-lhe: Senhor, tu sabes tudo; tu sabes que eu te amo. Jesus disse-lhe: Apascenta as minhas ovelhas.",
+      "source": "04_assets/video-008/scripture_cards/acf-jo-o-21-17.png",
+      "block_id": "06-a-pergunta-que-aponta-para-frente",
+      "start_seconds": 412.978003,
+      "end_seconds": 428.049965,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    }
+  ],
+  "asset_strategy": "Use only approved video-008 stills. Scripture cards are reserved exclusively for direct verse readings."
+}

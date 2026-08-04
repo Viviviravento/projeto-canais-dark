@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-010",
+  "timing_state": "derived_from_master_alignment_1.07x",
+  "master_duration_seconds": 668.952438,
+  "visual_policy": {
+    "maximum_static_seconds": 7,
+    "maximum_base_asset_reuse": 2,
+    "avatar_only_while_speaking": true,
+    "scripture_display_must_match_spoken_quote": true,
+    "scripture_cards_only_during_direct_verse_reading": true,
+    "editorial_text_cards": false,
+    "end_screen_seconds": 15,
+    "end_screen_fixed_boxes": false,
+    "end_screen_native_youtube_recommendations": 2,
+    "end_screen_handle": "@apalavraquecuidabr"
+  },
+  "publication_cta_requirements": {
+    "audio_contains_comment_question": true,
+    "audio_contains_next_video_direction": true,
+    "must_add_two_native_youtube_video_elements": true,
+    "must_add_pinned_comment_question": true
+  },
+  "scenes": [
+    {
+      "id": "block-01-quando-o-barco-comeca-a-encher",
+      "block_id": "01-quando-o-barco-comeca-a-encher",
+      "start_seconds": 0.0,
+      "end_seconds": 67.923364,
+      "assets": [
+        "video-010/images/v01-ansiedade-na-cozinha.png",
+        "video-010/images/v02-barco-na-tempestade.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-02-a-travessia-nao-foi-um-erro",
+      "block_id": "02-a-travessia-nao-foi-um-erro",
+      "start_seconds": 67.923364,
+      "end_seconds": 154.336449,
+      "assets": [
+        "video-010/images/v02-barco-na-tempestade.png",
+        "video-010/images/v01-ansiedade-na-cozinha.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-03-jesus-dormia",
+      "block_id": "03-jesus-dormia",
+      "start_seconds": 154.336449,
+      "end_seconds": 240.966355,
+      "assets": [
+        "video-010/images/v03-jesus-dorme-no-barco.png",
+        "video-010/images/v02-barco-na-tempestade.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-04-o-silencio-do-mar-nao-e-a-unica-resposta",
+      "block_id": "04-o-silencio-do-mar-nao-e-a-unica-resposta",
+      "start_seconds": 240.966355,
+      "end_seconds": 329.679439,
+      "assets": [
+        "video-010/images/v04-tempestade-se-acalma.png",
+        "video-010/images/v03-jesus-dorme-no-barco.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-05-por-que-o-medo-aparece",
+      "block_id": "05-por-que-o-medo-aparece",
+      "start_seconds": 329.679439,
+      "end_seconds": 409.104673,
+      "assets": [
+        "video-010/images/v05-medo-na-vida-real.png",
+        "video-010/images/v01-ansiedade-na-cozinha.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-06-entre-confianca-e-controle",
+      "block_id": "06-entre-confianca-e-controle",
+      "start_seconds": 409.104673,
+      "end_seconds": 508.147664,
+      "assets": [
+        "video-010/images/v06-apoio-que-escuta.png",
+        "video-010/images/v05-medo-na-vida-real.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-07-o-que-fica-depois-da-bonanca",
+      "block_id": "07-o-que-fica-depois-da-bonanca",
+      "start_seconds": 508.147664,
+      "end_seconds": 600.76729,
+      "assets": [
+        "video-010/images/v07-depois-da-chuva.png",
+        "video-010/images/v06-apoio-que-escuta.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-08-fechamento-e-convite",
+      "block_id": "08-fechamento-e-convite",
+      "start_seconds": 600.76729,
+      "end_seconds": 668.951402,
+      "assets": [
+        "video-010/images/v07-depois-da-chuva.png",
+        "video-010/images/v01-ansiedade-na-cozinha.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    }
+  ],
+  "scripture_cards": [
+    {
+      "id": "scripture-acf-marcos-4-38",
+      "reference": "Marcos 4:38",
+      "text": "E ele estava na popa, dormindo sobre uma almofada, e despertaram-no, dizendo-lhe: Mestre, não se te dá que pereçamos?",
+      "source": "04_assets/video-010/scripture_cards/acf-marcos-4-38.png",
+      "block_id": "03-jesus-dormia",
+      "start_seconds": 175.906542,
+      "end_seconds": 184.576636,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-marcos-4-39",
+      "reference": "Marcos 4:39",
+      "text": "E ele, despertando, repreendeu o vento, e disse ao mar: Cala-te, aquieta-te. E o vento se aquietou, e houve grande bonança.",
+      "source": "04_assets/video-010/scripture_cards/acf-marcos-4-39.png",
+      "block_id": "04-o-silencio-do-mar-nao-e-a-unica-resposta",
+      "start_seconds": 252.630841,
+      "end_seconds": 261.951402,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-marcos-4-40",
+      "reference": "Marcos 4:40",
+      "text": "E disse-lhes: Por que estais tão temerosos? Como não tendes fé?",
+      "source": "04_assets/video-010/scripture_cards/acf-marcos-4-40.png",
+      "block_id": "05-por-que-o-medo-aparece",
+      "start_seconds": 344.674766,
+      "end_seconds": 349.416822,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-marcos-4-41",
+      "reference": "Marcos 4:41",
+      "text": "E sentiram um grande temor, e diziam uns aos outros: Mas quem é este, que até o vento e o mar lhe obedecem?",
+      "source": "04_assets/video-010/scripture_cards/acf-marcos-4-41.png",
+      "block_id": "07-o-que-fica-depois-da-bonanca",
+      "start_seconds": 524.727103,
+      "end_seconds": 532.680374,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    }
+  ],
+  "asset_strategy": "Use only approved video-010 stills. Scripture cards are reserved exclusively for direct verse readings."
+}

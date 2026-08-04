@@ -1,0 +1,33 @@
+{
+  "version": "video-011-performance-v1",
+  "source_script": "operations/a-palavra-que-cuida/02_roteiros/video-011-roteiro-v1.md",
+  "performance_contract": {
+    "relationship": "Falar com quem partiu e com quem ficou, sem transformar nenhum dos dois em caricatura.",
+    "intensity": "Serena e acolhedora; elevar a emoção nas leituras, na vergonha, na dor de quem ficou e na pergunta final.",
+    "scripture": "Anunciar a referência e mostrar o cartão ACF somente durante a leitura direta.",
+    "pause_policy": "Sem tags, pausas artificiais ou pontuação para forçar interpretação.",
+    "cta": "Pedir inscrição, curtida e compartilhamento; orientar genericamente para um dos vídeos exibidos na tela; concluir com pergunta específica sobre retorno seguro. Não citar títulos, personagens ou temas dos cards.",
+    "speed": "Gerar a 1.0 e aplicar 1.07x localmente preservando o tom."
+  },
+  "api": {
+    "provider": "ElevenLabs",
+    "voice_name": "Bruno Cardoso",
+    "voice_id": "iF2QszmZhlyFLleUoFxy",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 271828,
+    "voice_settings": {"stability": 0.5, "similarity_boost": 0.75, "style": 0.0, "speed": 1.0, "use_speaker_boost": true},
+    "postprocess": {"speed_factor": 1.07, "preserve_pitch": true}
+  },
+  "blocks": [
+    {"source_section": "01", "id": "01-quando-voltar-parece-impossivel", "title": "Quando voltar parece impossível", "function": "Abrir pela identificação dupla de quem partiu e de quem ficou."},
+    {"source_section": "02", "id": "02-a-partida-comeca-antes-do-caminho", "title": "A partida começa antes do caminho", "function": "Mostrar a decisão do filho sem romantizar independência ou condenar todo afastamento."},
+    {"source_section": "03", "id": "03-o-momento-em-que-a-pessoa-volta-a-si", "title": "O momento em que a pessoa volta a si", "function": "Ler Lucas 15:17-20 e diferenciar responsabilidade de vergonha destrutiva."},
+    {"source_section": "04", "id": "04-o-abraco-nao-apaga-o-caminho-percorrido", "title": "O abraço não apaga o caminho percorrido", "function": "Ler Lucas 15:22-24 e estabelecer limites contra reconciliação apressada ou insegura."},
+    {"source_section": "05", "id": "05-e-quem-ficou-do-lado-de-fora", "title": "E quem ficou do lado de fora?", "function": "Dar voz à dor do irmão mais velho sem chamá-lo de vilão."},
+    {"source_section": "06", "id": "06-o-pai-tambem-sai-para-conversar", "title": "O pai também sai para conversar", "function": "Ler Lucas 15:31-32 e mostrar que a compaixão alcança os dois filhos."},
+    {"source_section": "07", "id": "07-voltar-pode-ser-um-passo-nao-uma-fantasia", "title": "Voltar pode ser um passo, não uma fantasia", "function": "Aplicar retorno, perdão, ajuda e limites à vida real."},
+    {"source_section": "08", "id": "08-fechamento-e-convite", "title": "Fechamento e convite", "function": "Concluir com acolhimento, CTA genérica de tela final e pergunta concreta."}
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "derivative_id": "piloto-001-short-06",
+  "source_video_id": "piloto-001",
+  "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001-short-06-tiktok-v2.mp4",
+  "sha256": "936445af490f59ceff95d185272dda1cd91b617888303def72b67fadf32fdf35",
+  "title": "Entregar a ansiedade não é negar a realidade",
+  "correction": {
+    "reason": "A versão v1 abria escura, contrariando a regra de capa do canal.",
+    "change": "Os primeiros 0,5 segundo foram substituídos por um frame não escuro do próprio vídeo; áudio, duração e edição foram preservados.",
+    "qa": {
+      "dimensions": "1080x1920",
+      "duration_seconds": 69.333333,
+      "first_frame": "pass_bible_and_hand_non_black",
+      "blank_notebook_image": "not_present"
+    }
+  },
+  "youtube_shorts": {
+    "slot": "2026-08-04T17:00:00-03:00",
+    "status": "published",
+    "visibility": "public",
+    "published_at": "2026-08-04T17:14:45-03:00",
+    "video_id": "gY-f5eGpx5A",
+    "url": "https://youtube.com/shorts/gY-f5eGpx5A",
+    "made_for_kids": false,
+    "altered_or_synthetic_content": true,
+    "video_language": "pt-BR",
+    "category": "Educação",
+    "copyright_check": "pass",
+    "related_long_video_url_in_description": "https://youtu.be/ZkmCkF6XR_g",
+    "native_related_video": "blocked_pending_one_time_advanced_features_verification"
+  },
+  "tiktok": {
+    "slot": "2026-08-04T11:00:00-03:00",
+    "status": "published",
+    "submitted_at": "2026-08-04T13:32:06-03:00",
+    "released_at": "2026-08-04T17:07:54-03:00",
+    "visibility": "public",
+    "video_id": "7670214724327361810",
+    "url": "https://www.tiktok.com/@a.palavra.que.cuida/video/7670214724327361810",
+    "copyright_check": "pass",
+    "content_eligibility_check": "pass"
+  }
+}

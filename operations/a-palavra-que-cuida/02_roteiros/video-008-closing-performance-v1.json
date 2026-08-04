@@ -1,0 +1,30 @@
+{
+  "version": "video-008-closing-performance-v1",
+  "source_script": "operations/a-palavra-que-cuida/02_roteiros/video-008-roteiro-v1.md",
+  "recovery_scope": "Generate only the missing closing block after provider-history verification confirmed blocks 01-07 are unique and reusable.",
+  "api": {
+    "provider": "ElevenLabs",
+    "voice_name": "Bruno Cardoso",
+    "voice_id": "iF2QszmZhlyFLleUoFxy",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 314159,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    }
+  },
+  "blocks": [
+    {
+      "id": "08-fechamento-e-convite",
+      "source_section": "08",
+      "title": "Fechamento e convite",
+      "function": "Concluir com esperança responsável, continuidade e pergunta de comentário.",
+      "text": "Pedro negou Jesus. Chorou. Foi encontrado. E foi chamado a cuidar de outras pessoas. O recomeço não é esquecer o que houve. É deixar que a verdade, a graça e a responsabilidade produzam um caminho novo.\n\nEste é o canal A Palavra Que Cuida. Se esta mensagem falou com você, inscreva-se, curta e compartilhe com alguém que precisa respirar depois de um erro. Quando o vídeo terminar, escolha um dos vídeos sugeridos na tela. Se a ansiedade tem roubado sua paz, continue no vídeo sobre \"Não andeis ansiosos\". Se você está cansada de carregar tudo sozinha, assista ao vídeo sobre Marta e Maria. E me conta nos comentários: qual é a diferença entre culpa que paralisa e verdade que ajuda você a recomeçar?"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "derivativeId": "video-003-curto-01",
+  "title": "Presença antes da explicação",
+  "platform": "universal",
+  "audioFile": "video-003-curtos/audio/video-003-curto-01-narracao.wav",
+  "spokenDurationSeconds": 72.204,
+  "endCardSeconds": 4.0,
+  "hook": "Presença antes da explicação",
+  "hookEndSeconds": 4.2,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "asset": "video-003-curtos/images/brazil/b03-silent-presence-v1.png",
+      "focus": "32% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 7.0,
+      "end": 14.0,
+      "asset": "video-003-curtos/images/historical/j04-friends-arrive-v1.png",
+      "focus": "0% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 14.0,
+      "end": 21.0,
+      "asset": "video-003-curtos/images/brazil/b08-honest-lament-v1.png",
+      "focus": "16% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 21.0,
+      "end": 27.4,
+      "asset": "video-003-curtos/images/historical/j05-seven-days-silence-v1.png",
+      "focus": "98% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 27.4,
+      "end": 40.0,
+      "asset": "video-003-curtos/images/historical/j05-seven-days-silence-v1.png",
+      "focus": "98% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 40.0,
+      "end": 48.0,
+      "asset": "video-003-curtos/images/brazil/b03-silent-presence-v1.png",
+      "focus": "32% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 48.0,
+      "end": 56.0,
+      "asset": "video-003-curtos/images/brazil/b10-family-meal-help-v1.png",
+      "focus": "44% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 56.0,
+      "end": 64.0,
+      "asset": "video-003-curtos/images/brazil/b11-clinic-companion-v1.png",
+      "focus": "65% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 64.0,
+      "end": 72.204,
+      "asset": "video-003-curtos/images/historical/j06-friend-speaks-v1.png",
+      "focus": "41% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.08,
+      "end": 3.209,
+      "text": "Os amigos de Jó foram mais cuidadosos quando dividiram"
+    },
+    {
+      "start": 3.276,
+      "end": 6.083,
+      "text": "o chão do que quando tentaram vencer o argumento."
+    },
+    {
+      "start": 7.079,
+      "end": 10.297,
+      "text": "A pessoa talvez precise de escuta, comida,"
+    },
+    {
+      "start": 10.584,
+      "end": 14.72,
+      "text": "transporte, companhia, descanso ou ajuda profissional"
+    },
+    {
+      "start": 15.261,
+      "end": 17.418,
+      "text": "antes de precisar de uma conclusão."
+    },
+    {
+      "start": 17.828,
+      "end": 20.449,
+      "text": "Antes de oferecer qualquer conselho, os amigos de Jó"
+    },
+    {
+      "start": 20.504,
+      "end": 22.373,
+      "text": "se sentam no chão ao lado dele."
+    },
+    {
+      "start": 22.87,
+      "end": 26.12,
+      "text": "Em Jó, capítulo dois, versículo treze, lemos:"
+    },
+    {
+      "start": 26.486,
+      "end": 29.216,
+      "text": "\"E assentaram-se com ele na terra, sete dias e"
+    },
+    {
+      "start": 29.272,
+      "end": 32.279,
+      "text": "sete noites; e nenhum lhe dizia palavra alguma,"
+    },
+    {
+      "start": 32.766,
+      "end": 35.111,
+      "text": "porque viam que a dor era muito grande.\""
+    },
+    {
+      "start": 36.349,
+      "end": 38.881,
+      "text": "O próprio texto explica esse silêncio:"
+    },
+    {
+      "start": 39.301,
+      "end": 41.49,
+      "text": "a dor era tão grande que, naquele momento,"
+    },
+    {
+      "start": 41.523,
+      "end": 44.674,
+      "text": "qualquer explicação seria pequena demais."
+    },
+    {
+      "start": 45.039,
+      "end": 47.438,
+      "text": "Talvez seja por isso que o primeiro gesto de"
+    },
+    {
+      "start": 47.472,
+      "end": 51.088,
+      "text": "amor nem sempre seja oferecer uma resposta."
+    },
+    {
+      "start": 51.784,
+      "end": 56.196,
+      "text": "Muitas vezes, amar é ficar, escutar, preparar uma refeição,"
+    },
+    {
+      "start": 56.339,
+      "end": 60.265,
+      "text": "acompanhar uma consulta ou permitir o choro sem transformar"
+    },
+    {
+      "start": 60.309,
+      "end": 62.731,
+      "text": "cada lágrima num problema teológico."
+    },
+    {
+      "start": 63.141,
+      "end": 66.912,
+      "text": "O problema começa depois, quando os amigos trocam presença"
+    },
+    {
+      "start": 67.332,
+      "end": 71.401,
+      "text": "por certezas e tentam explicar uma vida que não"
+    },
+    {
+      "start": 71.445,
+      "end": 72.054,
+      "text": "conhecem."
+    }
+  ],
+  "scriptures": [
+    {
+      "start": 26.486,
+      "end": 35.111,
+      "text": "E assentaram-se com ele na terra, sete dias e sete noites; e nenhum lhe dizia palavra alguma, porque viam que a dor era muito grande.",
+      "reference": "Jó 2:13 — ACF"
+    }
+  ]
+}

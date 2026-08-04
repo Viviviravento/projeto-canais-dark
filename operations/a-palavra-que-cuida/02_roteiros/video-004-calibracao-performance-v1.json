@@ -1,0 +1,60 @@
+{
+  "experiment": "video-004-calibracao-performance-v1",
+  "status": "prepared; no paid call started",
+  "review_title": "Vídeo 004 — Calibração da narração",
+  "review_instruction": "Ouça abertura, miolo e fechamento. A pergunta é única: a voz compreende e conduz uma ideia contínua em cada momento do vídeo?",
+  "review_rule": "Resposta esperada: método aprovado ou método reprovado. Não é necessário marcar frases ou timestamps.",
+  "purpose": "Cumprir o gate restaurado de voz com amostras independentes de abertura, miolo denso e fechamento antes de qualquer narração integral.",
+  "change_isolated": "O texto oral do vídeo 004 é avaliado com a mesma voz, modelo, idioma, seed e voice settings aprovados como referência; não há troca de provedor, modelo ou configuração.",
+  "performance_method": {
+    "sentence_unit": "Cada frase conduz uma relação completa; não há listas de microfrases para forçar ênfase.",
+    "punctuation": "Pontuação gramatical e natural, sem reticências, travessões repetidos, caixa alta ou tags de pausa.",
+    "cohesion": "Conectivos preservam causa, contraste, limite e aplicação ao longo de cada amostra.",
+    "scripture": "Referência completa e leitura literal permanecem intactas antes da explicação.",
+    "provider_boundary": "O contrato de atuação orienta a escrita, mas não é tratado como parâmetro enviado à API."
+  },
+  "api": {
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 271828,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    }
+  },
+  "voices": [
+    {"blind_label":"Narração contínua v004","name":"Bruno Cardoso","voice_id":"iF2QszmZhlyFLleUoFxy","source":"saved","rate":1.0,"selection_reason":"Mesma voz e configuração de referência; a revisão testa o texto em três posições do episódio."}
+  ],
+  "samples": [
+    {
+      "id":"01-abertura-curiosidade-e-limite",
+      "function":"Abrir curiosidade, nomear o silêncio dos Evangelhos e estabelecer o compromisso com o texto registrado.",
+      "previous_text":"",
+      "text":"Todos nós conhecemos Belém, a manjedoura, os pastores e os anjos. Também conhecemos o Jesus adulto que ensina, cura, chama discípulos, enfrenta a cruz e vence a morte. Mas, entre essas duas imagens, existe uma pergunta simples e poderosa: como foi a infância de Jesus? Essa pergunta chama a imaginação, porque queremos saber como eram a casa, as conversas e os dias comuns. A Bíblia, porém, entrega algumas cenas importantes e guarda silêncio sobre muitos dias. Esse silêncio não é um defeito que precisamos consertar com invenções. Ele nos ensina a olhar com atenção para o que foi registrado. Hoje, vamos caminhar por uma dessas cenas, em Lucas, capítulo dois.",
+      "next_text":"E vamos perceber que o pouco que o Evangelho conta não é pouco em significado."
+    },
+    {
+      "id":"02-miolo-identidade-e-familia",
+      "function":"Conduzir uma citação, uma explicação de identidade e o retorno à vida familiar sem mudar a entonação a cada frase curta.",
+      "previous_text":"Quando Maria o encontra, ela fala como uma mãe aflita falaria. Pergunta por que ele fez aquilo e diz que ela e José o procuravam ansiosos.",
+      "text":"A resposta de Jesus é curta, mas carrega uma profundidade que eles ainda não compreendiam. Lucas, capítulo dois, versículo quarenta e nove, diz: “E ele lhes disse: Por que é que me procuráveis? Não sabeis que me convém tratar dos negócios de meu Pai?” Não é uma frase de desprezo por Maria e José. O texto diz que eles não compreenderam plenamente o que ele falava. A resposta anuncia uma prioridade que se tornará mais clara ao longo do Evangelho: Jesus sabe que sua vida está ligada de modo único à vontade do Pai. Jesus pertence àquela família, cresce naquela casa e viaja com aqueles pais. Ao mesmo tempo, sua missão não cabe apenas nas expectativas de uma família.",
+      "next_text":"A identidade dele é maior do que a cena revela de uma vez só."
+    },
+    {
+      "id":"03-fechamento-e-cta",
+      "function":"Concluir a tese antes de fazer o convite ao canal e a pergunta editorial.",
+      "previous_text":"Há perguntas legítimas, e há mistérios que nos chamam a humildade.",
+      "text":"A infância de Jesus não nos entrega todos os detalhes que a curiosidade gostaria de ter. Mas ela nos entrega algo melhor: uma história verdadeira o bastante para nos ensinar a respeitar a Escritura, a valorizar o crescimento e a reconhecer que Deus age também nos dias que parecem comuns. Se você vive uma fase em que tudo parece lento, talvez este capítulo lembre você de uma verdade simples: amadurecer também importa. Nem todo dia terá uma grande resposta. Mas um coração que aprende a ouvir, a crescer e a permanecer fiel está sendo formado. Este é o canal A Palavra que Cuida. Para continuar nessa caminhada, clique em um dos dois vídeos que estão aparecendo na tela. Inscreva-se, curta e compartilhe com alguém que gosta de conhecer mais profundamente os Evangelhos.",
+      "next_text":"E me conta nos comentários: qual parte da história de Jesus você gostaria de ver aqui no canal?"
+    }
+  ],
+  "gate": {
+    "required_result":"human_approved",
+    "full_generation_if_rejected":"forbidden",
+    "human_response":"aprovar ou reprovar o método; sem marcação frase a frase"
+  }
+}

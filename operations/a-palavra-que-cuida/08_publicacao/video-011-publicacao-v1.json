@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "video_id": "video-011",
+  "channel": "A Palavra Que Cuida",
+  "status": "deleted",
+  "accidental_publication_at": "2026-08-01",
+  "corrected_at": "2026-08-01",
+  "deleted_at": "2026-08-01",
+  "title": "O filho pródigo: voltar para casa quando a culpa pesa",
+  "public_url": "https://youtu.be/VoOHwcGkok4",
+  "youtube_video_id": "VoOHwcGkok4",
+  "settings": {
+    "visibility": "private",
+    "video_language": "pt-BR",
+    "category": "Education",
+    "made_for_kids": false,
+    "age_restricted": false,
+    "altered_or_synthetic_content_disclosed": true,
+    "comments": "enabled",
+    "copyright_check": "passed_no_issues"
+  },
+  "end_screen": {
+    "template": "two_videos",
+    "elements": [
+      "best_for_viewer",
+      "most_recent_upload"
+    ],
+    "status": "saved"
+  },
+  "channel_comment": {
+    "status": "posted",
+    "text": "Quando você pensa em voltar para uma relação, uma casa ou uma fase da vida, o que precisa existir para esse retorno ser verdadeiro e seguro? Compartilhe apenas o que se sentir confortável em tornar público.",
+    "pinned": false,
+    "pin_blocker": "YouTube requires one-time advanced-features verification before pinning comments."
+  }
+}

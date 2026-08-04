@@ -1,0 +1,180 @@
+{
+  "derivativeId": "video-002-short-02",
+  "title": "Três perguntas para quando a preocupação crescer",
+  "audioFile": "audio/video-002-short-02-narracao.wav",
+  "spokenDurationSeconds": 72.736,
+  "endCardSeconds": 4.0,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 8.082,
+      "asset": "images/img-v002-cansaco-amanhecer-v1.png",
+      "focus": "70% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 8.082,
+      "end": 16.164,
+      "asset": "images/img-v002-noite-pensamentos-v1.png",
+      "focus": "85% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 16.164,
+      "end": 24.245,
+      "asset": "images/img-v002-orcamento-rotulos-integrados-v2.png",
+      "focus": "55% 50%",
+      "scale": 1.0
+    },
+    {
+      "start": 24.245,
+      "end": 32.327,
+      "asset": "images/img-v002-ligacao-documentos-v1.png",
+      "focus": "60% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 32.327,
+      "end": 40.409,
+      "asset": "images/img-s33-fechar-trabalho-v1.png",
+      "focus": "55% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 40.409,
+      "end": 48.491,
+      "asset": "images/img-s32-contato-seguro-v1.png",
+      "focus": "50% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 48.491,
+      "end": 56.572,
+      "asset": "images/img-s28-escolhas-do-outro-v1.png",
+      "focus": "47% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 56.572,
+      "end": 64.654,
+      "asset": "images/img-v002-amanhecer-presente-v1.png",
+      "focus": "55% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 64.654,
+      "end": 72.736,
+      "asset": "images/img-v002-cansaco-amanhecer-v1.png",
+      "focus": "70% 48%",
+      "scale": 1.03
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.12,
+      "end": 3.138,
+      "text": "O convite é parar de somar ao peso de"
+    },
+    {
+      "start": 3.161,
+      "end": 6.319,
+      "text": "hoje todos os pesos imaginados de amanhã."
+    },
+    {
+      "start": 7.074,
+      "end": 10.905,
+      "text": "Quando a preocupação crescer, talvez você possa distinguir três"
+    },
+    {
+      "start": 11.01,
+      "end": 14.179,
+      "text": "coisas. Primeiro: o que é fato e o que"
+    },
+    {
+      "start": 14.225,
+      "end": 14.992,
+      "text": "é previsão?"
+    },
+    {
+      "start": 15.862,
+      "end": 19.729,
+      "text": "Existe uma conta, uma conversa, um exame ou uma"
+    },
+    {
+      "start": 19.787,
+      "end": 23.444,
+      "text": "decisão real. Mas também podem existir dez finais diferentes"
+    },
+    {
+      "start": 23.49,
+      "end": 27.298,
+      "text": "que a sua mente escreveu sem ainda possuir todas"
+    },
+    {
+      "start": 27.519,
+      "end": 31.942,
+      "text": "as informações. Segundo: qual ação está ao seu alcance"
+    },
+    {
+      "start": 32.198,
+      "end": 33.765,
+      "text": "e qual resultado não está?"
+    },
+    {
+      "start": 34.578,
+      "end": 38.049,
+      "text": "Você pode fazer uma ligação, organizar documentos,"
+    },
+    {
+      "start": 38.212,
+      "end": 42.484,
+      "text": "pedir orientação, procurar atendimento ou conversar com alguém."
+    },
+    {
+      "start": 43.587,
+      "end": 46.815,
+      "text": "Mas não pode comandar a resposta de todas as"
+    },
+    {
+      "start": 46.873,
+      "end": 50.843,
+      "text": "pessoas nem garantir cada consequência. Terceiro:"
+    },
+    {
+      "start": 51.517,
+      "end": 53.038,
+      "text": "o que pertence a este dia?"
+    },
+    {
+      "start": 54.106,
+      "end": 57.391,
+      "text": "Talvez a vida não esteja pedindo que você resolva"
+    },
+    {
+      "start": 57.705,
+      "end": 59.481,
+      "text": "o mês inteiro nesta noite."
+    },
+    {
+      "start": 59.969,
+      "end": 63.069,
+      "text": "Talvez esteja pedindo apenas o próximo passo honesto."
+    },
+    {
+      "start": 63.847,
+      "end": 66.076,
+      "text": "Confiar em Deus não apaga o futuro."
+    },
+    {
+      "start": 66.563,
+      "end": 70.754,
+      "text": "Apenas impede que o futuro ocupe antecipadamente todo o"
+    },
+    {
+      "start": 70.801,
+      "end": 72.496,
+      "text": "espaço do presente."
+    }
+  ],
+  "platform": "youtube_shorts"
+}

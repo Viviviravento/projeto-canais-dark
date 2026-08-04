@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "derivative_id": "piloto-001-short-06",
+  "source_video_id": "piloto-001",
+  "slot": {
+    "scheduled_at": "2026-08-04T11:00:00-03:00",
+    "executed_at": "2026-08-04T13:32:06-03:00",
+    "cadence": "terça, quinta e sábado; 11h e 17h"
+  },
+  "tiktok": {
+    "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001-short-06-tiktok-v2.mp4",
+    "sha256": "936445af490f59ceff95d185272dda1cd91b617888303def72b67fadf32fdf35",
+    "title": "Entregar a ansiedade não é negar a realidade",
+    "caption": "Entregar a ansiedade não é negar a realidade. Deus não pede que você finja que está tudo bem; Ele convida você a entregar o que não pode controlar e dar o próximo passo possível. 🙏 #Ansiedade #FéCristã #ReflexãoBíblica #DeusCuidaDeVocê",
+    "cover": "primeiro frame corrigido: Bíblia aberta e mão em quadro, sem tela preta nem caderno em branco",
+    "location": null,
+    "publication": {
+      "status": "under_review",
+      "submitted_at": "2026-08-04T13:32:06-03:00",
+      "visibility_requested": "public",
+      "visibility_observed": "only_me_while_under_review",
+      "video_id": "7670214724327361810",
+      "url": "https://www.tiktok.com/@a.palavra.que.cuida/video/7670214724327361810",
+      "copyright_check": "pass",
+      "content_eligibility_check": "pass",
+      "blocker": "O TikTok recebeu a publicação, mas a listou temporariamente como Conteúdo sob análise e Somente eu. Não declarar como pública até a plataforma liberar a visibilidade."
+    }
+  },
+  "correction": {
+    "reason": "A versão v1 abria escura, contrariando a regra de capa do canal.",
+    "change": "Os primeiros 0,5 segundo foram substituídos por um frame não escuro do próprio vídeo; o áudio, duração, proporção e restante da edição foram preservados.",
+    "qa": {
+      "dimensions": "1080x1920",
+      "duration_seconds": 69.333333,
+      "first_frame": "pass_bible_and_hand_non_black",
+      "blank_notebook_image": "not_present"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-008",
+  "title": "Pedro negou Jesus: quando a vergonha parece maior que você",
+  "primary_text": "Lucas 22:31-62",
+  "supporting_text": "João 21:15-17",
+  "promise": "Ajudar a espectadora a encarar uma queda com verdade, reparação e esperança sem transformar vergonha em identidade.",
+  "audience_moment": "Culpa por uma escolha, medo de conversar, pedido de perdão ou reconstrução de confiança.",
+  "visual_direction": {
+    "core": "Cozinha, corredor, ônibus e rua brasileira entrelaçados a pátio noturno e encontro junto ao mar.",
+    "human_preference": "Mulheres brasileiras/latinas, naturais e reconhecíveis; uma peça de crochê sutil em apenas uma cena quando fizer sentido.",
+    "avoid": [
+      "texto editorial fora de citações",
+      "anjos ou sobrenatural não narrado",
+      "dramatização de culpa ou humilhação"
+    ]
+  },
+  "short_candidates": [
+    {
+      "id": "v008-short-01",
+      "hook": "Jesus não confundiu a queda de Pedro com o fim da história",
+      "source_sections": [
+        "01",
+        "02"
+      ]
+    },
+    {
+      "id": "v008-short-02",
+      "hook": "Pedir perdão não compra reconciliação; é um passo de verdade",
+      "source_sections": [
+        "04",
+        "07"
+      ]
+    }
+  ],
+  "publication_bridge": {
+    "end_screen_targets": [
+      "video-006",
+      "video-002"
+    ],
+    "comment_prompt": "Qual é a diferença entre culpa que paralisa e verdade que ajuda você a recomeçar?"
+  }
+}

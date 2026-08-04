@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v006-elevenlabs-v1-20260728",
+  "provider": "ElevenLabs",
+  "model": "eleven_multilingual_v2",
+  "operation": "full nine-block narration for video-006 using independent requests and 1.05x local postprocess",
+  "unit": "provider credit",
+  "quantity": 11018,
+  "expected_subscription_credits": 11018,
+  "maximum_subscription_credits": 12000,
+  "currency": "USD",
+  "expected_incremental_cash_charge": 0.0,
+  "maximum_incremental_cash_charge": 0.0,
+  "price_checked_at": "2026-07-28T14:47:21.202588+00:00",
+  "price_source": "Authenticated ElevenLabs subscription API read-only check in this Codex session; no paid generation started.",
+  "subscription_snapshot": {
+    "ok": true,
+    "tier": "creator",
+    "character_count": 25101,
+    "character_limit": 231154,
+    "credits_remaining_observed": 206053,
+    "next_character_count_reset_unix": 1787860904,
+    "checked_at": "2026-07-28T14:47:21.202588+00:00"
+  },
+  "status": "reconciled",
+  "approval": {
+    "approved_at": "2026-07-28T14:51:49.690673+00:00",
+    "user_statement": "nice, continua, no roteiro voce nao comete erros, confio 100%",
+    "scope": "Generate only the full narration for video-006 up to 12000 subscription credits. No automatic retry and no incremental cash charge."
+  },
+  "metadata": {
+    "manifest": "operations/a-palavra-que-cuida/02_roteiros/video-006-performance-v1.json",
+    "citation_manifest": "operations/a-palavra-que-cuida/02_roteiros/video-006-citacoes-acf-v1.json",
+    "request_stitching": false,
+    "context_mode": "independent_blocks",
+    "automatic_retry": false,
+    "postprocess_after_generation": "1.05x preserving pitch before master alignment"
+  },
+  "observed_subscription_credits": 6062
+}

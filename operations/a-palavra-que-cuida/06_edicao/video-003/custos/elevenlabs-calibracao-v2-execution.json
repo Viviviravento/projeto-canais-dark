@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0.0",
+  "execution_id": "v003-calibration-v2",
+  "quote_id": "v003-elevenlabs-calibration-v2-20260722",
+  "state": "reconciled_pending_human_review",
+  "reserved_at": "2026-07-22T22:23:05.467302+00:00",
+  "approved_maximum_usd": 0.17,
+  "automatic_retry": false,
+  "reconciled_at": "2026-07-22T22:23:31.720344+00:00",
+  "observed_subscription_credits": 542,
+  "observed_economic_cost_usd": 0.0542,
+  "review_page": "operations/a-palavra-que-cuida/05_audio/video-003/calibracao-v2/avaliacao.html"
+}

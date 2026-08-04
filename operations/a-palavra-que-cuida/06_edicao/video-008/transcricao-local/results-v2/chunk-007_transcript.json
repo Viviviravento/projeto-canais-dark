@@ -1,0 +1,1002 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.21,
+      "end": 3.11,
+      "text": "mas escolhemos preservar a pr\u00f3pria imagem,",
+      "words": [
+        {
+          "word": " mas",
+          "start": 0.21,
+          "end": 0.71,
+          "probability": 0.755
+        },
+        {
+          "word": " escolhemos",
+          "start": 0.71,
+          "end": 1.17,
+          "probability": 0.974
+        },
+        {
+          "word": " preservar",
+          "start": 1.17,
+          "end": 1.91,
+          "probability": 0.996
+        },
+        {
+          "word": " a",
+          "start": 1.91,
+          "end": 2.19,
+          "probability": 0.985
+        },
+        {
+          "word": " pr\u00f3pria",
+          "start": 2.19,
+          "end": 2.55,
+          "probability": 0.993
+        },
+        {
+          "word": " imagem,",
+          "start": 2.55,
+          "end": 3.11,
+          "probability": 0.975
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.77,
+      "end": 7.23,
+      "text": "a momentos em que sabemos o que \u00e9 certo, mas temos medo do pre\u00e7o,",
+      "words": [
+        {
+          "word": " a",
+          "start": 3.77,
+          "end": 3.95,
+          "probability": 0.473
+        },
+        {
+          "word": " momentos",
+          "start": 3.95,
+          "end": 4.15,
+          "probability": 0.855
+        },
+        {
+          "word": " em",
+          "start": 4.15,
+          "end": 4.47,
+          "probability": 0.994
+        },
+        {
+          "word": " que",
+          "start": 4.47,
+          "end": 4.61,
+          "probability": 0.993
+        },
+        {
+          "word": " sabemos",
+          "start": 4.61,
+          "end": 5.01,
+          "probability": 0.982
+        },
+        {
+          "word": " o",
+          "start": 5.01,
+          "end": 5.23,
+          "probability": 0.987
+        },
+        {
+          "word": " que",
+          "start": 5.23,
+          "end": 5.33,
+          "probability": 0.988
+        },
+        {
+          "word": " \u00e9",
+          "start": 5.33,
+          "end": 5.41,
+          "probability": 0.97
+        },
+        {
+          "word": " certo,",
+          "start": 5.41,
+          "end": 5.83,
+          "probability": 0.992
+        },
+        {
+          "word": " mas",
+          "start": 5.91,
+          "end": 6.03,
+          "probability": 0.987
+        },
+        {
+          "word": " temos",
+          "start": 6.03,
+          "end": 6.25,
+          "probability": 0.993
+        },
+        {
+          "word": " medo",
+          "start": 6.25,
+          "end": 6.59,
+          "probability": 0.999
+        },
+        {
+          "word": " do",
+          "start": 6.59,
+          "end": 6.79,
+          "probability": 0.996
+        },
+        {
+          "word": " pre\u00e7o,",
+          "start": 6.79,
+          "end": 7.23,
+          "probability": 0.976
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.81,
+      "end": 12.13,
+      "text": "a momentos em que o cora\u00e7\u00e3o tenta sobreviver, escondendo aquilo que ama.",
+      "words": [
+        {
+          "word": " a",
+          "start": 7.81,
+          "end": 8.01,
+          "probability": 0.876
+        },
+        {
+          "word": " momentos",
+          "start": 8.01,
+          "end": 8.25,
+          "probability": 0.967
+        },
+        {
+          "word": " em",
+          "start": 8.25,
+          "end": 8.55,
+          "probability": 0.996
+        },
+        {
+          "word": " que",
+          "start": 8.55,
+          "end": 8.69,
+          "probability": 0.997
+        },
+        {
+          "word": " o",
+          "start": 8.69,
+          "end": 8.81,
+          "probability": 0.971
+        },
+        {
+          "word": " cora\u00e7\u00e3o",
+          "start": 8.81,
+          "end": 9.07,
+          "probability": 0.991
+        },
+        {
+          "word": " tenta",
+          "start": 9.07,
+          "end": 9.71,
+          "probability": 0.964
+        },
+        {
+          "word": " sobreviver,",
+          "start": 9.71,
+          "end": 10.35,
+          "probability": 0.954
+        },
+        {
+          "word": " escondendo",
+          "start": 10.77,
+          "end": 11.41,
+          "probability": 0.982
+        },
+        {
+          "word": " aquilo",
+          "start": 11.41,
+          "end": 11.67,
+          "probability": 0.87
+        },
+        {
+          "word": " que",
+          "start": 11.67,
+          "end": 11.91,
+          "probability": 0.993
+        },
+        {
+          "word": " ama.",
+          "start": 11.91,
+          "end": 12.13,
+          "probability": 0.982
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 13.17,
+      "end": 19.31,
+      "text": "O texto de Lucas n\u00e3o descreve a express\u00e3o de Jesus, nem inventa uma conversa naquele instante.",
+      "words": [
+        {
+          "word": " O",
+          "start": 13.17,
+          "end": 13.29,
+          "probability": 0.961
+        },
+        {
+          "word": " texto",
+          "start": 13.29,
+          "end": 13.49,
+          "probability": 0.981
+        },
+        {
+          "word": " de",
+          "start": 13.49,
+          "end": 13.65,
+          "probability": 0.996
+        },
+        {
+          "word": " Lucas",
+          "start": 13.65,
+          "end": 13.83,
+          "probability": 0.726
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 13.83,
+          "end": 14.47,
+          "probability": 0.983
+        },
+        {
+          "word": " descreve",
+          "start": 14.47,
+          "end": 15.11,
+          "probability": 0.88
+        },
+        {
+          "word": " a",
+          "start": 15.11,
+          "end": 15.49,
+          "probability": 0.897
+        },
+        {
+          "word": " express\u00e3o",
+          "start": 15.49,
+          "end": 15.99,
+          "probability": 0.992
+        },
+        {
+          "word": " de",
+          "start": 15.99,
+          "end": 16.11,
+          "probability": 0.989
+        },
+        {
+          "word": " Jesus,",
+          "start": 16.11,
+          "end": 16.41,
+          "probability": 0.991
+        },
+        {
+          "word": " nem",
+          "start": 16.95,
+          "end": 17.17,
+          "probability": 0.99
+        },
+        {
+          "word": " inventa",
+          "start": 17.17,
+          "end": 17.61,
+          "probability": 0.898
+        },
+        {
+          "word": " uma",
+          "start": 17.61,
+          "end": 17.73,
+          "probability": 0.982
+        },
+        {
+          "word": " conversa",
+          "start": 17.73,
+          "end": 18.33,
+          "probability": 0.995
+        },
+        {
+          "word": " naquele",
+          "start": 18.33,
+          "end": 18.85,
+          "probability": 0.986
+        },
+        {
+          "word": " instante.",
+          "start": 18.85,
+          "end": 19.31,
+          "probability": 0.991
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 20.31,
+      "end": 22.43,
+      "text": "Ele apenas registra o que aconteceu.",
+      "words": [
+        {
+          "word": " Ele",
+          "start": 20.31,
+          "end": 20.55,
+          "probability": 0.991
+        },
+        {
+          "word": " apenas",
+          "start": 20.55,
+          "end": 20.81,
+          "probability": 0.927
+        },
+        {
+          "word": " registra",
+          "start": 20.81,
+          "end": 21.45,
+          "probability": 0.991
+        },
+        {
+          "word": " o",
+          "start": 21.45,
+          "end": 21.83,
+          "probability": 0.987
+        },
+        {
+          "word": " que",
+          "start": 21.83,
+          "end": 21.97,
+          "probability": 0.959
+        },
+        {
+          "word": " aconteceu.",
+          "start": 21.97,
+          "end": 22.43,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 23.61,
+      "end": 29.15,
+      "text": "Lucas, cap\u00edtulo 22, vers\u00edculos 61 e 62 diz,",
+      "words": [
+        {
+          "word": " Lucas,",
+          "start": 23.61,
+          "end": 23.85,
+          "probability": 0.911
+        },
+        {
+          "word": " cap\u00edtulo",
+          "start": 24.33,
+          "end": 24.69,
+          "probability": 0.765
+        },
+        {
+          "word": " 22,",
+          "start": 24.69,
+          "end": 25.25,
+          "probability": 0.915
+        },
+        {
+          "word": " vers\u00edculos",
+          "start": 25.93,
+          "end": 26.33,
+          "probability": 0.819
+        },
+        {
+          "word": " 61",
+          "start": 26.33,
+          "end": 27.31,
+          "probability": 0.967
+        },
+        {
+          "word": " e",
+          "start": 27.31,
+          "end": 27.93,
+          "probability": 0.976
+        },
+        {
+          "word": " 62",
+          "start": 27.93,
+          "end": 28.57,
+          "probability": 0.979
+        },
+        {
+          "word": " diz,",
+          "start": 28.57,
+          "end": 29.15,
+          "probability": 0.909
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 29.15,
+      "end": 30.01,
+      "text": "o que aconteceu com o que aconteceu com o que aconteceu com o cora\u00e7\u00e3o tenta sobreviver.",
+      "words": [
+        {
+          "word": " o",
+          "start": 29.15,
+          "end": 30.01,
+          "probability": 0.018
+        },
+        {
+          "word": " que",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.066
+        },
+        {
+          "word": " aconteceu",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.001
+        },
+        {
+          "word": " com",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.077
+        },
+        {
+          "word": " o",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.219
+        },
+        {
+          "word": " que",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.049
+        },
+        {
+          "word": " aconteceu",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.079
+        },
+        {
+          "word": " com",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.512
+        },
+        {
+          "word": " o",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.84
+        },
+        {
+          "word": " que",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.789
+        },
+        {
+          "word": " aconteceu",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.846
+        },
+        {
+          "word": " com",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.921
+        },
+        {
+          "word": " o",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.962
+        },
+        {
+          "word": " cora\u00e7\u00e3o",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.0
+        },
+        {
+          "word": " tenta",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.014
+        },
+        {
+          "word": " sobreviver.",
+          "start": 30.01,
+          "end": 30.01,
+          "probability": 0.192
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " mas",
+      "start": 0.21,
+      "end": 0.71,
+      "probability": 0.755
+    },
+    {
+      "word": " escolhemos",
+      "start": 0.71,
+      "end": 1.17,
+      "probability": 0.974
+    },
+    {
+      "word": " preservar",
+      "start": 1.17,
+      "end": 1.91,
+      "probability": 0.996
+    },
+    {
+      "word": " a",
+      "start": 1.91,
+      "end": 2.19,
+      "probability": 0.985
+    },
+    {
+      "word": " pr\u00f3pria",
+      "start": 2.19,
+      "end": 2.55,
+      "probability": 0.993
+    },
+    {
+      "word": " imagem,",
+      "start": 2.55,
+      "end": 3.11,
+      "probability": 0.975
+    },
+    {
+      "word": " a",
+      "start": 3.77,
+      "end": 3.95,
+      "probability": 0.473
+    },
+    {
+      "word": " momentos",
+      "start": 3.95,
+      "end": 4.15,
+      "probability": 0.855
+    },
+    {
+      "word": " em",
+      "start": 4.15,
+      "end": 4.47,
+      "probability": 0.994
+    },
+    {
+      "word": " que",
+      "start": 4.47,
+      "end": 4.61,
+      "probability": 0.993
+    },
+    {
+      "word": " sabemos",
+      "start": 4.61,
+      "end": 5.01,
+      "probability": 0.982
+    },
+    {
+      "word": " o",
+      "start": 5.01,
+      "end": 5.23,
+      "probability": 0.987
+    },
+    {
+      "word": " que",
+      "start": 5.23,
+      "end": 5.33,
+      "probability": 0.988
+    },
+    {
+      "word": " \u00e9",
+      "start": 5.33,
+      "end": 5.41,
+      "probability": 0.97
+    },
+    {
+      "word": " certo,",
+      "start": 5.41,
+      "end": 5.83,
+      "probability": 0.992
+    },
+    {
+      "word": " mas",
+      "start": 5.91,
+      "end": 6.03,
+      "probability": 0.987
+    },
+    {
+      "word": " temos",
+      "start": 6.03,
+      "end": 6.25,
+      "probability": 0.993
+    },
+    {
+      "word": " medo",
+      "start": 6.25,
+      "end": 6.59,
+      "probability": 0.999
+    },
+    {
+      "word": " do",
+      "start": 6.59,
+      "end": 6.79,
+      "probability": 0.996
+    },
+    {
+      "word": " pre\u00e7o,",
+      "start": 6.79,
+      "end": 7.23,
+      "probability": 0.976
+    },
+    {
+      "word": " a",
+      "start": 7.81,
+      "end": 8.01,
+      "probability": 0.876
+    },
+    {
+      "word": " momentos",
+      "start": 8.01,
+      "end": 8.25,
+      "probability": 0.967
+    },
+    {
+      "word": " em",
+      "start": 8.25,
+      "end": 8.55,
+      "probability": 0.996
+    },
+    {
+      "word": " que",
+      "start": 8.55,
+      "end": 8.69,
+      "probability": 0.997
+    },
+    {
+      "word": " o",
+      "start": 8.69,
+      "end": 8.81,
+      "probability": 0.971
+    },
+    {
+      "word": " cora\u00e7\u00e3o",
+      "start": 8.81,
+      "end": 9.07,
+      "probability": 0.991
+    },
+    {
+      "word": " tenta",
+      "start": 9.07,
+      "end": 9.71,
+      "probability": 0.964
+    },
+    {
+      "word": " sobreviver,",
+      "start": 9.71,
+      "end": 10.35,
+      "probability": 0.954
+    },
+    {
+      "word": " escondendo",
+      "start": 10.77,
+      "end": 11.41,
+      "probability": 0.982
+    },
+    {
+      "word": " aquilo",
+      "start": 11.41,
+      "end": 11.67,
+      "probability": 0.87
+    },
+    {
+      "word": " que",
+      "start": 11.67,
+      "end": 11.91,
+      "probability": 0.993
+    },
+    {
+      "word": " ama.",
+      "start": 11.91,
+      "end": 12.13,
+      "probability": 0.982
+    },
+    {
+      "word": " O",
+      "start": 13.17,
+      "end": 13.29,
+      "probability": 0.961
+    },
+    {
+      "word": " texto",
+      "start": 13.29,
+      "end": 13.49,
+      "probability": 0.981
+    },
+    {
+      "word": " de",
+      "start": 13.49,
+      "end": 13.65,
+      "probability": 0.996
+    },
+    {
+      "word": " Lucas",
+      "start": 13.65,
+      "end": 13.83,
+      "probability": 0.726
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 13.83,
+      "end": 14.47,
+      "probability": 0.983
+    },
+    {
+      "word": " descreve",
+      "start": 14.47,
+      "end": 15.11,
+      "probability": 0.88
+    },
+    {
+      "word": " a",
+      "start": 15.11,
+      "end": 15.49,
+      "probability": 0.897
+    },
+    {
+      "word": " express\u00e3o",
+      "start": 15.49,
+      "end": 15.99,
+      "probability": 0.992
+    },
+    {
+      "word": " de",
+      "start": 15.99,
+      "end": 16.11,
+      "probability": 0.989
+    },
+    {
+      "word": " Jesus,",
+      "start": 16.11,
+      "end": 16.41,
+      "probability": 0.991
+    },
+    {
+      "word": " nem",
+      "start": 16.95,
+      "end": 17.17,
+      "probability": 0.99
+    },
+    {
+      "word": " inventa",
+      "start": 17.17,
+      "end": 17.61,
+      "probability": 0.898
+    },
+    {
+      "word": " uma",
+      "start": 17.61,
+      "end": 17.73,
+      "probability": 0.982
+    },
+    {
+      "word": " conversa",
+      "start": 17.73,
+      "end": 18.33,
+      "probability": 0.995
+    },
+    {
+      "word": " naquele",
+      "start": 18.33,
+      "end": 18.85,
+      "probability": 0.986
+    },
+    {
+      "word": " instante.",
+      "start": 18.85,
+      "end": 19.31,
+      "probability": 0.991
+    },
+    {
+      "word": " Ele",
+      "start": 20.31,
+      "end": 20.55,
+      "probability": 0.991
+    },
+    {
+      "word": " apenas",
+      "start": 20.55,
+      "end": 20.81,
+      "probability": 0.927
+    },
+    {
+      "word": " registra",
+      "start": 20.81,
+      "end": 21.45,
+      "probability": 0.991
+    },
+    {
+      "word": " o",
+      "start": 21.45,
+      "end": 21.83,
+      "probability": 0.987
+    },
+    {
+      "word": " que",
+      "start": 21.83,
+      "end": 21.97,
+      "probability": 0.959
+    },
+    {
+      "word": " aconteceu.",
+      "start": 21.97,
+      "end": 22.43,
+      "probability": 0.996
+    },
+    {
+      "word": " Lucas,",
+      "start": 23.61,
+      "end": 23.85,
+      "probability": 0.911
+    },
+    {
+      "word": " cap\u00edtulo",
+      "start": 24.33,
+      "end": 24.69,
+      "probability": 0.765
+    },
+    {
+      "word": " 22,",
+      "start": 24.69,
+      "end": 25.25,
+      "probability": 0.915
+    },
+    {
+      "word": " vers\u00edculos",
+      "start": 25.93,
+      "end": 26.33,
+      "probability": 0.819
+    },
+    {
+      "word": " 61",
+      "start": 26.33,
+      "end": 27.31,
+      "probability": 0.967
+    },
+    {
+      "word": " e",
+      "start": 27.31,
+      "end": 27.93,
+      "probability": 0.976
+    },
+    {
+      "word": " 62",
+      "start": 27.93,
+      "end": 28.57,
+      "probability": 0.979
+    },
+    {
+      "word": " diz,",
+      "start": 28.57,
+      "end": 29.15,
+      "probability": 0.909
+    },
+    {
+      "word": " o",
+      "start": 29.15,
+      "end": 30.01,
+      "probability": 0.018
+    },
+    {
+      "word": " que",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.066
+    },
+    {
+      "word": " aconteceu",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.001
+    },
+    {
+      "word": " com",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.077
+    },
+    {
+      "word": " o",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.219
+    },
+    {
+      "word": " que",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.049
+    },
+    {
+      "word": " aconteceu",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.079
+    },
+    {
+      "word": " com",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.512
+    },
+    {
+      "word": " o",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.84
+    },
+    {
+      "word": " que",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.789
+    },
+    {
+      "word": " aconteceu",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.846
+    },
+    {
+      "word": " com",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.921
+    },
+    {
+      "word": " o",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.962
+    },
+    {
+      "word": " cora\u00e7\u00e3o",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.0
+    },
+    {
+      "word": " tenta",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.014
+    },
+    {
+      "word": " sobreviver.",
+      "start": 30.01,
+      "end": 30.01,
+      "probability": 0.192
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 30.037,
+  "model_size": "base",
+  "device": "cpu"
+}

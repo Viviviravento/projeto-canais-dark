@@ -1,0 +1,25 @@
+[Script Info]
+Title: Quase Celestial — Short 002 — Eu ainda posso começar
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Legenda,Gadugi,52,&H00F8F5FF,&H00F8F5FF,&H001C0710,&H96000000,0,0,0,0,100,100,0,0,1,2.2,0.8,2,110,110,260,1
+Style: Final,Gadugi,44,&H00F8F5FF,&H00F8F5FF,&H001C0710,&H96000000,0,0,0,0,100,100,0,0,1,1.6,0.8,7,76,76,160,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:05.20,Legenda,,0,0,0,,E se eu acordar amanhã ainda com algumas dúvidas,\Ntudo bem.
+Dialogue: 0,0:00:05.20,0:00:10.50,Legenda,,0,0,0,,Eu não preciso acordar transformada\Npara continuar mudando.
+Dialogue: 0,0:00:10.50,0:00:20.40,Legenda,,0,0,0,,Posso acordar comum, fazer café, olhar pela janela\Ne ainda estar a caminho de uma vida grande para mim.
+Dialogue: 0,0:00:20.40,0:00:27.20,Legenda,,0,0,0,,O extraordinário não precisa chegar fazendo barulho\Npara ser real.
+Dialogue: 0,0:00:27.20,0:00:35.20,Legenda,,0,0,0,,Às vezes ele começa como uma sensação pequena\Nde que eu já não aceito tão pouco de mim mesma.
+Dialogue: 0,0:00:35.20,0:00:42.60,Legenda,,0,0,0,,Começa quando eu percebo que a voz dentro da minha cabeça\Nficou mais gentil.
+Dialogue: 0,0:00:42.60,0:00:50.40,Legenda,,0,0,0,,Começa quando eu paro de voltar para aquilo que me feriu\Nsó porque era familiar.
+Dialogue: 0,0:00:50.40,0:00:59.30,Legenda,,0,0,0,,Começa quando escolho acreditar que existe mais para mim\Nsem humilhar a fase em que estou.
+Dialogue: 0,0:00:59.30,0:01:06.40,Legenda,,0,0,0,,Eu posso deixar o passado existir sem deixar\Nque ele decida o que eu mereço.
+Dialogue: 0,0:01:06.40,0:01:10.00,Legenda,,0,0,0,,Posso lembrar das versões minhas que tiveram medo\Ne ainda abrir a porta para uma versão que tenta.
+Dialogue: 1,0:01:07.00,0:01:10.00,Final,,0,0,0,,Quase Celestial

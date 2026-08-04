@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-009",
+  "version": "video-009-citacoes-acf-v1",
+  "bible_version": {
+    "name": "Almeida Corrigida Fiel",
+    "abbreviation": "ACF",
+    "copyright_notice": "A Bíblia Sagrada - Almeida Corrigida Fiel (ACF), © 1994, 1995, 2007, 2011 Sociedade Bíblica Trinitariana do Brasil, Trinitarian Bible Society.",
+    "source_locators": ["https://www.bibliaonline.com.br/acf/jo/4"]
+  },
+  "direct_acf_citations": [
+    {"reference":"João 4:7","spoken_lead_in":"João, capítulo quatro, versículo sete, diz:","text":"Veio uma mulher de Samaria tirar água. Disse-lhe Jesus: Dá-me de beber."},
+    {"reference":"João 4:14","spoken_lead_in":"João, capítulo quatro, versículo catorze, diz:","text":"Mas aquele que beber da água que eu lhe der nunca terá sede, porque a água que eu lhe der se fará nele uma fonte de água que salte para a vida eterna."},
+    {"reference":"João 4:17-18","spoken_lead_in":"João, capítulo quatro, versículos dezessete e dezoito, diz:","text":"A mulher respondeu, e disse: Não tenho marido. Disse-lhe Jesus: Disseste bem: Não tenho marido; Porque tiveste cinco maridos, e o que agora tens não é teu marido; isto disseste com verdade."},
+    {"reference":"João 4:29","spoken_lead_in":"João, capítulo quatro, versículo vinte e nove, diz:","text":"Vinde, vede um homem que me disse tudo quanto tenho feito. Porventura não é este o Cristo?"},
+    {"reference":"João 4:39","spoken_lead_in":"João, capítulo quatro, versículo trinta e nove, diz:","text":"E muitos dos samaritanos daquela cidade creram nele, pela palavra da mulher, que testificou: Disse-me tudo quanto tenho feito."}
+  ],
+  "display_policy": {"complete_reference_required":true,"show_only_during_direct_verse_reading":true,"do_not_show_when_book_or_reference_is_only_mentioned":true,"normal_captions_may_continue_outside_direct_quote":true}
+}

@@ -1,0 +1,40 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Caption,Arial,54,&H00FFFFFF,&H0000D7FF,&HDD000000,&H99000000,-1,0,0,0,100,100,0,0,3,2.5,1,2,85,85,215,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.08,0:00:02.46,Caption,,0,0,0,,A história de Pedro passa por esse lugar.
+Dialogue: 0,0:00:02.81,0:00:05.71,Caption,,0,0,0,,Não para nos ensinar a fingir que uma queda
+Dialogue: 0,0:00:05.72,0:00:09.78,Caption,,0,0,0,,não importa. Mas para mostrar que Jesus não confunde
+Dialogue: 0,0:00:09.72,0:00:12.84,Caption,,0,0,0,,uma queda com o fim de uma história.
+Dialogue: 0,0:00:13.71,0:00:15.21,Caption,,0,0,0,,Pedro era intenso.
+Dialogue: 0,0:00:15.99,0:00:19.10,Caption,,0,0,0,,Ele falava com coragem, se colocava à frente,
+Dialogue: 0,0:00:19.31,0:00:21.27,Caption,,0,0,0,,dizia que iria até o fim.
+Dialogue: 0,0:00:21.73,0:00:23.73,Caption,,0,0,0,,Na noite em que Jesus seria preso,
+Dialogue: 0,0:00:23.92,0:00:26.62,Caption,,0,0,0,,ele afirmou que estava pronto para ir com ele
+Dialogue: 0,0:00:26.87,0:00:29.16,Caption,,0,0,0,,até a prisão e até a morte.
+Dialogue: 0,0:00:29.61,0:00:32.80,Caption,,0,0,0,,Não era preciso zombar de Pedro para perceber o
+Dialogue: 0,0:00:32.75,0:00:36.01,Caption,,0,0,0,,contraste entre o que ele imaginava de si mesmo
+Dialogue: 0,0:00:36.46,0:00:39.02,Caption,,0,0,0,,e o que aconteceria poucas horas depois.
+Dialogue: 0,0:00:39.56,0:00:43.07,Caption,,0,0,0,,Jesus conhecia a fragilidade de Pedro antes que Pedro
+Dialogue: 0,0:00:43.09,0:00:46.85,Caption,,0,0,0,,a enxergasse. E, mesmo assim, não falou com ele
+Dialogue: 0,0:00:47.15,0:00:49.25,Caption,,0,0,0,,como quem descarta alguém.
+Dialogue: 0,0:00:49.88,0:00:51.86,Caption,,0,0,0,,Antes de avisar que ele o negaria,
+Dialogue: 0,0:00:52.09,0:00:54.82,Caption,,0,0,0,,Jesus disse uma frase que carrega cuidado e futuro.
+Dialogue: 0,0:00:55.32,0:00:59.16,Caption,,0,0,0,,Lucas, capítulo vinte e dois, versículo trinta e dois,
+Dialogue: 0,0:00:59.16,0:01:02.04,Caption,,0,0,0,,diz: "Mas eu roguei por ti, para que a
+Dialogue: 0,0:01:02.00,0:01:05.99,Caption,,0,0,0,,tua fé não desfaleça; e tu, quando te converteres,
+Dialogue: 0,0:01:06.03,0:01:08.65,Caption,,0,0,0,,confirma teus irmãos." Perceba a ordem.
+Dialogue: 0,0:01:08.92,0:01:11.74,Caption,,0,0,0,,Jesus não chama a negação de algo pequeno.
+Dialogue: 0,0:01:12.43,0:01:13.89,Caption,,0,0,0,,Ele avisa que ela viria.
+Dialogue: 0,0:01:14.58,0:01:16.75,Caption,,0,0,0,,Mas, no mesmo aviso, fala de um depois.
+Dialogue: 0,0:01:17.15,0:01:20.07,Caption,,0,0,0,,Quando te converteres. Confirma teus irmãos.
+Dialogue: 0,0:01:20.55,0:01:23.16,Caption,,0,0,0,,A queda não estava escondida de Jesus,
+Dialogue: 0,0:01:23.58,0:01:25.39,Caption,,0,0,0,,e o futuro de Pedro também não.

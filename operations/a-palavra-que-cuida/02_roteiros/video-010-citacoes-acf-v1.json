@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-010",
+  "version": "video-010-citacoes-acf-v1",
+  "bible_version": {
+    "name": "Almeida Corrigida Fiel",
+    "abbreviation": "ACF",
+    "copyright_notice": "A Bíblia Sagrada - Almeida Corrigida Fiel (ACF), © 1994, 1995, 2007, 2011 Sociedade Bíblica Trinitariana do Brasil, Trinitarian Bible Society.",
+    "source_locators": ["https://www.bibliaonline.com.br/acf/mc/4"]
+  },
+  "direct_acf_citations": [
+    {
+      "reference": "Marcos 4:38",
+      "spoken_lead_in": "Marcos, capítulo quatro, versículo trinta e oito, diz:",
+      "text": "E ele estava na popa, dormindo sobre uma almofada, e despertaram-no, dizendo-lhe: Mestre, não se te dá que pereçamos?"
+    },
+    {
+      "reference": "Marcos 4:39",
+      "spoken_lead_in": "Marcos, capítulo quatro, versículo trinta e nove, diz:",
+      "text": "E ele, despertando, repreendeu o vento, e disse ao mar: Cala-te, aquieta-te. E o vento se aquietou, e houve grande bonança."
+    },
+    {
+      "reference": "Marcos 4:40",
+      "spoken_lead_in": "Marcos, capítulo quatro, versículo quarenta, diz:",
+      "text": "E disse-lhes: Por que estais tão temerosos? Como não tendes fé?"
+    },
+    {
+      "reference": "Marcos 4:41",
+      "spoken_lead_in": "Marcos, capítulo quatro, versículo quarenta e um, diz:",
+      "text": "E sentiram um grande temor, e diziam uns aos outros: Mas quem é este, que até o vento e o mar lhe obedecem?"
+    }
+  ],
+  "display_policy": {
+    "complete_reference_required": true,
+    "show_only_during_direct_verse_reading": true,
+    "do_not_show_when_book_or_reference_is_only_mentioned": true,
+    "normal_captions_may_continue_outside_direct_quote": true
+  }
+}

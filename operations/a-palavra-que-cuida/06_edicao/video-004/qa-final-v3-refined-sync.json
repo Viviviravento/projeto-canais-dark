@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-004",
+  "render": {
+    "file": "07_exports/video-004/a-infancia-de-jesus-o-que-a-biblia-diz-v3-review-refined-sync.mp4",
+    "sha256": "ec48beaf27bf02c89887b8cb41010185f9a1aeafb49f8b88bc04e89229152f96",
+    "size_bytes": 607425651,
+    "duration_seconds": 707.456,
+    "video": {"codec": "h264", "width": 1920, "height": 1080, "fps": 30},
+    "audio": {"codec": "aac", "sample_rate_hz": 48000, "channels": 2}
+  },
+  "sync_fix": {
+    "source_incident": "06_edicao/video-004/incidentes/caption-timing-double-offset-v1.json",
+    "absolute_alignment_used": true,
+    "caption_grouping": "natural pause or maximum four words",
+    "sampled_points_seconds": [2, 300, 505, 698],
+    "result": "pass"
+  },
+  "publication_status": "review_only_human_approval_required"
+}

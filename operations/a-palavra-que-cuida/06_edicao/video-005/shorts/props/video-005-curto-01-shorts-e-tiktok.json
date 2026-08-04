@@ -1,0 +1,214 @@
+{
+  "derivativeId": "video-005-curto-01",
+  "title": "Você não começa a ter valor quando produz muito",
+  "platform": "universal",
+  "audioFile": "video-005-curtos/audio/video-005-curto-01-narracao.wav",
+  "spokenDurationSeconds": 76.292,
+  "endCardSeconds": 4.0,
+  "hook": "Seu valor vem antes da performance",
+  "hookEndSeconds": 4.2,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "asset": "video-005/assets/library/cotidiano_brasileiro/p001-reflexo-v1.png",
+      "focus": "70% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 9.0,
+      "end": 18.0,
+      "asset": "video-005/assets/library/cotidiano_brasileiro/p001-chegar-cansada-v1.png",
+      "focus": "50% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 18.0,
+      "end": 27.0,
+      "asset": "video-005/assets/library/apoio_relacoes/p001-carga-compartilhada-v1.png",
+      "focus": "68% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 27.0,
+      "end": 36.0,
+      "asset": "video-005/assets/library/cotidiano_brasileiro/p001-pausa-v1.png",
+      "focus": "52% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 36.0,
+      "end": 45.0,
+      "asset": "video-005/assets/library/cotidiano_brasileiro/v002-amanhecer-presente-v1.png",
+      "focus": "72% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 45.0,
+      "end": 54.0,
+      "asset": "video-005/assets/library/cotidiano_brasileiro/p001-reflexo-v1.png",
+      "focus": "70% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 54.0,
+      "end": 63.0,
+      "asset": "video-005/assets/library/apoio_relacoes/p001-carga-compartilhada-v1.png",
+      "focus": "68% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 63.0,
+      "end": 72.0,
+      "asset": "video-005/assets/library/apoio_relacoes/p001-escuta-v1.png",
+      "focus": "76% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 72.0,
+      "end": 76.292,
+      "asset": "video-005/assets/library/cotidiano_brasileiro/v002-amanhecer-presente-v1.png",
+      "focus": "72% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.08,
+      "end": 3.231,
+      "text": "Gênesis, capítulo um, versículo vinte e sete,"
+    },
+    {
+      "start": 3.265,
+      "end": 5.951,
+      "text": "diz: \"E criou Deus o homem à sua imagem;"
+    },
+    {
+      "start": 6.393,
+      "end": 9.257,
+      "text": "à imagem de Deus o criou; homem e mulher"
+    },
+    {
+      "start": 9.401,
+      "end": 10.109,
+      "text": "os criou.\""
+    },
+    {
+      "start": 10.772,
+      "end": 15.549,
+      "text": "Antes de currículo, cargo, casamento, maternidade, dinheiro na"
+    },
+    {
+      "start": 15.627,
+      "end": 18.91,
+      "text": "conta ou aprovação dos outros, o ser humano é"
+    },
+    {
+      "start": 18.932,
+      "end": 21.398,
+      "text": "apresentado como imagem de Deus."
+    },
+    {
+      "start": 21.818,
+      "end": 24.118,
+      "text": "Isso não quer dizer que a pessoa seja Deus."
+    },
+    {
+      "start": 24.483,
+      "end": 27.28,
+      "text": "Também não quer dizer que todas as escolhas humanas"
+    },
+    {
+      "start": 27.645,
+      "end": 32.068,
+      "text": "sejam boas. Significa que há uma dignidade recebida"
+    },
+    {
+      "start": 32.489,
+      "end": 35.728,
+      "text": "antes da performance. Você não começa a ter valor"
+    },
+    {
+      "start": 36.303,
+      "end": 37.608,
+      "text": "quando produz muito."
+    },
+    {
+      "start": 38.271,
+      "end": 40.428,
+      "text": "Você não começa a ter valor quando alguém te"
+    },
+    {
+      "start": 40.45,
+      "end": 41.035,
+      "text": "escolhe."
+    },
+    {
+      "start": 41.699,
+      "end": 44.209,
+      "text": "Você não começa a ter valor quando consegue dar"
+    },
+    {
+      "start": 44.287,
+      "end": 48.488,
+      "text": "conta de tudo. Segundo Gênesis, a dignidade humana vem"
+    },
+    {
+      "start": 48.544,
+      "end": 52.425,
+      "text": "do Criador. Essa verdade muda o espelho e muda"
+    },
+    {
+      "start": 52.59,
+      "end": 53.917,
+      "text": "o olhar para o outro."
+    },
+    {
+      "start": 54.382,
+      "end": 59.037,
+      "text": "Culpa, fracasso e exaustão podem distorcer a forma como"
+    },
+    {
+      "start": 59.092,
+      "end": 61.535,
+      "text": "você se vê, mas não apagam aquilo que Deus"
+    },
+    {
+      "start": 61.58,
+      "end": 64.787,
+      "text": "estabeleceu na criação. E se o outro também carrega"
+    },
+    {
+      "start": 65.273,
+      "end": 68.28,
+      "text": "dignidade diante de Deus, ele não pode ser reduzido"
+    },
+    {
+      "start": 68.38,
+      "end": 72.681,
+      "text": "a utilidade, aparência, produtividade, erro,"
+    },
+    {
+      "start": 73.168,
+      "end": 76.142,
+      "text": "classe social, idade ou ferida."
+    }
+  ],
+  "scriptures": [
+    {
+      "start": 3.972,
+      "end": 10.109,
+      "text": "E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou.",
+      "reference": "Gênesis 1:27 — ACF"
+    }
+  ]
+}

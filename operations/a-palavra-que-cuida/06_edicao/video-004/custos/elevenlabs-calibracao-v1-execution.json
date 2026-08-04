@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0.0",
+  "execution_id": "v004-elevenlabs-calibration-v1",
+  "quote_id": "v004-elevenlabs-calibracao-v1-20260726",
+  "state": "reconciled_pending_human_review",
+  "reserved_at": "2026-07-26T20:38:39.055081+00:00",
+  "approved_maximum_credits": 2103,
+  "automatic_retry": false,
+  "reconciled_at": "2026-07-26T20:39:08.848369+00:00",
+  "observed_subscription_credits": 0,
+  "review_page": "operations/a-palavra-que-cuida/05_audio/video-004/calibracao-v1/avaliacao.html"
+}

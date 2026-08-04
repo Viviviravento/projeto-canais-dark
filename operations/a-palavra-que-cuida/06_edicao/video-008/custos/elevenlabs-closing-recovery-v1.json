@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v008-elevenlabs-closing-recovery-20260729",
+  "provider": "ElevenLabs",
+  "operation": "Generate only the missing closing block for video-008.",
+  "quantity": 700,
+  "maximum_subscription_credits": 1000,
+  "maximum_incremental_cash_charge": 0.0,
+  "automatic_retry": false,
+  "authorization": {
+    "user_statement": "ja faz o video longo pensando em possiveis partes para extrair algo pro curto",
+    "scope": "One isolated closing block only; keep blocks 01-07 unchanged and reuse them."
+  },
+  "status": "authorized_pending_execution"
+}

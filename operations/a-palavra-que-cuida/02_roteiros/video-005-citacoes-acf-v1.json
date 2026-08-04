@@ -1,0 +1,57 @@
+{
+  "video_id": "video-005",
+  "title_working": "Gênesis e a criação: o que o começo do mundo revela sobre Deus e sobre você",
+  "state": "script-v1-preflight",
+  "source": {
+    "edition": "Almeida Corrigida Fiel",
+    "official_locator": "https://www.biblias.com.br/acfonline",
+    "supporting_locator": "https://www.bibliaonline.com.br/acf/gn/1",
+    "retrieved_at": "2026-07-27T00:00:00-03:00",
+    "retrieval_method": "ACF text checked against available online ACF references before script drafting"
+  },
+  "direct_acf_citations": [
+    {
+      "reference": "Gênesis 1:1",
+      "role": "opening-foundation",
+      "spoken_lead_in": "Gênesis, capítulo um, versículo um, diz:",
+      "text": "No princípio criou Deus os céus e a terra."
+    },
+    {
+      "reference": "Gênesis 1:2",
+      "role": "without-form-and-empty",
+      "spoken_lead_in": "Gênesis, capítulo um, versículo dois, diz:",
+      "text": "E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas."
+    },
+    {
+      "reference": "Gênesis 1:3",
+      "role": "word-that-orders",
+      "spoken_lead_in": "Gênesis, capítulo um, versículo três, diz:",
+      "text": "E disse Deus: Haja luz; e houve luz."
+    },
+    {
+      "reference": "Gênesis 1:27",
+      "role": "human-dignity",
+      "spoken_lead_in": "Gênesis, capítulo um, versículo vinte e sete, diz:",
+      "text": "E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou."
+    },
+    {
+      "reference": "Gênesis 1:31",
+      "role": "very-good-creation",
+      "spoken_lead_in": "Gênesis, capítulo um, versículo trinta e um, diz:",
+      "text": "E viu Deus tudo quanto tinha feito, e eis que era muito bom; e foi a tarde e a manhã, o dia sexto."
+    },
+    {
+      "reference": "Gênesis 2:15",
+      "role": "work-and-care",
+      "spoken_lead_in": "Gênesis, capítulo dois, versículo quinze, diz:",
+      "text": "E tomou o Senhor Deus o homem, e o pôs no jardim do Éden para o lavrar e o guardar."
+    }
+  ],
+  "references_without_direct_quote": [
+    "Gênesis 1:4-25",
+    "Gênesis 1:26",
+    "Gênesis 2:1-3"
+  ],
+  "display_policy": "Toda citação lida deve aparecer integralmente na tela somente durante a leitura direta do versículo correspondente, com livro, capítulo e versículo completos.",
+  "notes": "Seis unidades de versículo ACF no master horizontal. Cada derivado que reproduzir texto bíblico será contado como nova saída pública."
+}

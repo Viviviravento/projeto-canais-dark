@@ -1,0 +1,185 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-009",
+  "timing_state": "derived_from_master_alignment_1.07x",
+  "master_duration_seconds": 600.323667,
+  "visual_policy": {
+    "maximum_static_seconds": 7,
+    "maximum_base_asset_reuse": 2,
+    "avatar_only_while_speaking": true,
+    "scripture_display_must_match_spoken_quote": true,
+    "scripture_cards_only_during_direct_verse_reading": true,
+    "editorial_text_cards": false,
+    "end_screen_seconds": 15,
+    "end_screen_fixed_boxes": false,
+    "end_screen_native_youtube_recommendations": 2,
+    "end_screen_handle": "@apalavraquecuidabr"
+  },
+  "publication_cta_requirements": {
+    "audio_contains_comment_question": true,
+    "audio_contains_next_video_direction": true,
+    "must_add_two_native_youtube_video_elements": true,
+    "must_add_pinned_comment_question": true
+  },
+  "scenes": [
+    {
+      "id": "block-01-quando-a-historia-chega-antes-de-nos",
+      "block_id": "01-quando-a-historia-chega-antes-de-nos",
+      "start_seconds": 0,
+      "end_seconds": 66.149296,
+      "assets": [
+        "video-009/images/v01-manha-em-casa.png",
+        "video-009/images/v04-verdade-sem-humilhacao.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-02-jesus-comeca-uma-conversa",
+      "block_id": "02-jesus-comeca-uma-conversa",
+      "start_seconds": 66.149296,
+      "end_seconds": 139.231924,
+      "assets": [
+        "video-009/images/v02-samaritana-caminho-poco.png",
+        "video-009/images/v03-jesus-junto-ao-poco.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-03-a-sede-que-nao-se-resolve-so-por-fora",
+      "block_id": "03-a-sede-que-nao-se-resolve-so-por-fora",
+      "start_seconds": 139.231924,
+      "end_seconds": 224.87324,
+      "assets": [
+        "video-009/images/v03-jesus-junto-ao-poco.png",
+        "video-009/images/v01-manha-em-casa.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-04-verdade-sem-humilhacao",
+      "block_id": "04-verdade-sem-humilhacao",
+      "start_seconds": 224.87324,
+      "end_seconds": 330.006573,
+      "assets": [
+        "video-009/images/v04-verdade-sem-humilhacao.png",
+        "video-009/images/v05-conversa-no-poco.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-05-em-espirito-e-em-verdade",
+      "block_id": "05-em-espirito-e-em-verdade",
+      "start_seconds": 330.006573,
+      "end_seconds": 393.277934,
+      "assets": [
+        "video-009/images/v05-conversa-no-poco.png",
+        "video-009/images/v04-verdade-sem-humilhacao.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-06-ela-volta-para-a-cidade",
+      "block_id": "06-ela-volta-para-a-cidade",
+      "start_seconds": 393.277934,
+      "end_seconds": 458.424413,
+      "assets": [
+        "video-009/images/v06-caminho-ate-a-cidade.png",
+        "video-009/images/v07-historia-vira-ponte.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-07-a-palavra-dela-alcanca-outras-pessoas",
+      "block_id": "07-a-palavra-dela-alcanca-outras-pessoas",
+      "start_seconds": 458.424413,
+      "end_seconds": 533.644131,
+      "assets": [
+        "video-009/images/v07-historia-vira-ponte.png",
+        "video-009/images/v06-caminho-ate-a-cidade.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-08-fechamento-e-convite",
+      "block_id": "08-fechamento-e-convite",
+      "start_seconds": 533.644131,
+      "end_seconds": 600.317371,
+      "assets": [
+        "video-009/images/v07-historia-vira-ponte.png",
+        "video-009/images/v01-manha-em-casa.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    }
+  ],
+  "scripture_cards": [
+    {
+      "id": "scripture-acf-jo-o-4-7",
+      "reference": "João 4:7",
+      "text": "Veio uma mulher de Samaria tirar água. Disse-lhe Jesus: Dá-me de beber.",
+      "source": "04_assets/video-009/scripture_cards/acf-jo-o-4-7.png",
+      "block_id": "02-jesus-comeca-uma-conversa",
+      "start_seconds": 69.800939,
+      "end_seconds": 74.794366,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-jo-o-4-14",
+      "reference": "João 4:14",
+      "text": "Mas aquele que beber da água que eu lhe der nunca terá sede, porque a água que eu lhe der se fará nele uma fonte de água que salte para a vida eterna.",
+      "source": "04_assets/video-009/scripture_cards/acf-jo-o-4-14.png",
+      "block_id": "03-a-sede-que-nao-se-resolve-so-por-fora",
+      "start_seconds": 160.576526,
+      "end_seconds": 171.085446,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-jo-o-4-17-18",
+      "reference": "João 4:17-18",
+      "text": "A mulher respondeu, e disse: Não tenho marido. Disse-lhe Jesus: Disseste bem: Não tenho marido; Porque tiveste cinco maridos, e o que agora tens não é teu marido; isto disseste com verdade.",
+      "source": "04_assets/video-009/scripture_cards/acf-jo-o-4-17-18.png",
+      "block_id": "04-verdade-sem-humilhacao",
+      "start_seconds": 243.242253,
+      "end_seconds": 256.814085,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-jo-o-4-29",
+      "reference": "João 4:29",
+      "text": "Vinde, vede um homem que me disse tudo quanto tenho feito. Porventura não é este o Cristo?",
+      "source": "04_assets/video-009/scripture_cards/acf-jo-o-4-29.png",
+      "block_id": "06-ela-volta-para-a-cidade",
+      "start_seconds": 412.889202,
+      "end_seconds": 419.113615,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-jo-o-4-39",
+      "reference": "João 4:39",
+      "text": "E muitos dos samaritanos daquela cidade creram nele, pela palavra da mulher, que testificou: Disse-me tudo quanto tenho feito.",
+      "source": "04_assets/video-009/scripture_cards/acf-jo-o-4-39.png",
+      "block_id": "07-a-palavra-dela-alcanca-outras-pessoas",
+      "start_seconds": 469.77277,
+      "end_seconds": 478.700469,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    }
+  ],
+  "asset_strategy": "Use only approved video-009 stills. Scripture cards are reserved exclusively for direct verse readings."
+}

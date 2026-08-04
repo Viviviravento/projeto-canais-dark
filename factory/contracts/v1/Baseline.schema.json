@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://local.canais-dark/contracts/v1/Baseline.schema.json",
+  "title": "Baseline",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "baseline_id",
+    "capability",
+    "version",
+    "scope",
+    "state",
+    "input_conditions",
+    "parameters",
+    "evidence_artifacts",
+    "tests",
+    "approval_gate",
+    "clean_runs",
+    "clean_run_refs",
+    "invalidation_triggers",
+    "known_regressions",
+    "recorded_at",
+    "run_refs",
+    "experiment_refs"
+  ],
+  "properties": {
+    "schema_version": {"const": "1.0.0"},
+    "baseline_id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9._-]+$"},
+    "capability": {"type": "string", "minLength": 1},
+    "version": {"type": "integer", "minimum": 1},
+    "scope": {"type": "string", "minLength": 1},
+    "state": {"enum": ["approved", "invalidated", "retired"]},
+    "input_conditions": {"type": "object", "minProperties": 1},
+    "parameters": {"type": "object", "minProperties": 1},
+    "configuration_fingerprint": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "evidence_artifacts": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "tests": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "approval_gate": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "status", "evidence_ref"],
+      "properties": {
+        "kind": {"enum": ["human", "automatic", "hybrid"]},
+        "status": {"enum": ["passed", "restored", "blocked"]},
+        "evidence_ref": {"type": "string", "minLength": 1}
+      }
+    },
+    "clean_runs": {"type": "integer", "minimum": 1},
+    "clean_run_refs": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "invalidation_triggers": {
+      "type": "array",
+      "items": {"type": "string", "pattern": "^[A-Za-z0-9_-]+(?:\\.[A-Za-z0-9_-]+)*$"},
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "known_regressions": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "uniqueItems": true
+    },
+    "recorded_at": {"type": "string", "format": "date-time"},
+    "run_refs": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "experiment_refs": {
+      "type": "array",
+      "items": {"type": "string", "minLength": 1},
+      "uniqueItems": true
+    }
+  }
+}

@@ -1,0 +1,35 @@
+[Script Info]
+Title: Quase Celestial — TikTok 001
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Celeste,Gadugi,52,&H00F8F5FF,&H80000000,&HD910071C,&H90000000,0,0,0,0,100,100,0,0,1,2.2,0.8,2,110,110,170,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:02.64,Celeste,,0,0,0,,Se parece que todo mundo chegou\Nantes de você,
+Dialogue: 0,0:00:02.93,0:00:03.69,Celeste,,0,0,0,,ouve isso.
+Dialogue: 0,0:00:04.03,0:00:05.48,Celeste,,0,0,0,,Você não perdeu o seu momento.
+Dialogue: 0,0:00:05.71,0:00:10.30,Celeste,,0,0,0,,Às vezes, o que parece atraso é só uma vida\Nque não cabe na pressa dos outros.
+Dialogue: 0,0:00:10.91,0:00:14.22,Celeste,,0,0,0,,Talvez você esteja criando raízes\Nonde ninguém consegue ver.
+Dialogue: 0,0:00:14.84,0:00:18.31,Celeste,,0,0,0,,Não precisa se comparar com uma versão\Neditada da vida de alguém.
+Dialogue: 0,0:00:19.12,0:00:23.59,Celeste,,0,0,0,,O seu caminho pode ser silencioso agora\Ne ainda assim estar acontecendo.
+Dialogue: 0,0:00:24.50,0:00:24.97,Celeste,,0,0,0,,Hoje,
+Dialogue: 0,0:00:25.28,0:00:29.04,Celeste,,0,0,0,,solte a ideia de que você precisa correr\Npara merecer chegar.
+Dialogue: 0,0:00:29.87,0:00:32.27,Celeste,,0,0,0,,Escolha presença em vez de urgência.
+Dialogue: 0,0:00:33.02,0:00:35.53,Celeste,,0,0,0,,Permita que a sua vida tenha\No próprio ritmo.
+Dialogue: 0,0:00:36.12,0:00:37.58,Celeste,,0,0,0,,Você pode começar pequeno.
+Dialogue: 0,0:00:38.20,0:00:39.21,Celeste,,0,0,0,,Pode mudar de ideia.
+Dialogue: 0,0:00:39.88,0:00:42.48,Celeste,,0,0,0,,Pode ficar mais devagar\Nsem ficar para trás.
+Dialogue: 0,0:00:43.26,0:00:44.26,Celeste,,0,0,0,,O que é seu
+Dialogue: 0,0:00:44.71,0:00:49.04,Celeste,,0,0,0,,não exige que você se destrua tentando\Nacompanhar o tempo de todo mundo.
+Dialogue: 0,0:00:49.88,0:00:51.18,Celeste,,0,0,0,,Repete com leveza:
+Dialogue: 0,0:00:51.89,0:00:53.30,Celeste,,0,0,0,,eu volto para o meu tempo.
+Dialogue: 0,0:00:54.03,0:00:56.07,Celeste,,0,0,0,,Eu confio no que está nascendo em mim.
+Dialogue: 0,0:00:56.78,0:00:59.44,Celeste,,0,0,0,,Eu paro de me abandonar\Npara acompanhar os outros.
+Dialogue: 0,0:00:59.91,0:01:03.02,Celeste,,0,0,0,,A sua nova era não começa\Nquando tudo se resolve.
+Dialogue: 0,0:01:03.28,0:01:06.51,Celeste,,0,0,0,,Ela começa no segundo em que\Nvocê se escolhe de novo.

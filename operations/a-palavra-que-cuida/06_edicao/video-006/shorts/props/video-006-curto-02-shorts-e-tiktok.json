@@ -1,0 +1,212 @@
+{
+  "derivativeId": "video-006-curto-02",
+  "title": "Sobrecarga também precisa de ajuda real",
+  "platform": "universal",
+  "audioFile": "video-006-curtos/audio/video-006-curto-02-narracao.wav",
+  "spokenDurationSeconds": 84.276,
+  "endCardSeconds": 4.0,
+  "hook": "Sobrecarga precisa de ajuda real",
+  "hookEndSeconds": 4.2,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "asset": "video-006/assets/video-006/images/b02-responsabilidades-a-noite-v1.png",
+      "focus": "58% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 9.0,
+      "end": 18.0,
+      "asset": "video-006/assets/library/apoio_relacoes/p001-pedir-ajuda-v1.png",
+      "focus": "56% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 18.0,
+      "end": 27.0,
+      "asset": "video-006/assets/video-006/images/b03-responsabilidade-compartilhada-v1.png",
+      "focus": "30% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 27.0,
+      "end": 36.0,
+      "asset": "video-006/assets/video-006/images/b03-responsabilidade-compartilhada-v1.png",
+      "focus": "72% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 36.0,
+      "end": 45.0,
+      "asset": "video-006/assets/library/apoio_relacoes/p001-escuta-v1.png",
+      "focus": "28% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 45.0,
+      "end": 54.0,
+      "asset": "video-006/assets/library/apoio_relacoes/p001-escuta-v1.png",
+      "focus": "72% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 54.0,
+      "end": 63.0,
+      "asset": "video-006/assets/library/cotidiano_brasileiro/p001-peso-mental-v1.png",
+      "focus": "62% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 63.0,
+      "end": 72.0,
+      "asset": "video-006/assets/video-006/images/b01-pausa-na-cozinha-com-croche-v1.png",
+      "focus": "62% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 72.0,
+      "end": 84.276,
+      "asset": "video-006/assets/library/objetos_cenarios/p001-maos-em-pausa-v1.png",
+      "focus": "50% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.08,
+      "end": 3.497,
+      "text": "É importante trazer essa passagem para a vida de"
+    },
+    {
+      "start": 3.53,
+      "end": 7.665,
+      "text": "hoje com responsabilidade. Muitas pessoas usam Marta e Maria"
+    },
+    {
+      "start": 7.975,
+      "end": 11.27,
+      "text": "para dizer apenas: pare de reclamar e vá orar."
+    },
+    {
+      "start": 12.154,
+      "end": 15.372,
+      "text": "Mas isso pode ser injusto quando alguém está realmente"
+    },
+    {
+      "start": 15.438,
+      "end": 19.473,
+      "text": "sobrecarregado. Às vezes, a pessoa não precisa só de"
+    },
+    {
+      "start": 19.485,
+      "end": 23.133,
+      "text": "uma frase espiritual. Precisa de divisão de tarefas."
+    },
+    {
+      "start": 23.322,
+      "end": 26.915,
+      "text": "Precisa de descanso. Precisa de conversa honesta."
+    },
+    {
+      "start": 27.269,
+      "end": 31.614,
+      "text": "Precisa que outras pessoas assumam responsabilidades reais."
+    },
+    {
+      "start": 32.012,
+      "end": 34.931,
+      "text": "Jesus não está ensinando que uma pessoa deve aceitar"
+    },
+    {
+      "start": 35.23,
+      "end": 36.845,
+      "text": "exploração em silêncio."
+    },
+    {
+      "start": 37.596,
+      "end": 40.14,
+      "text": "Ao mesmo tempo, o texto também não permite que"
+    },
+    {
+      "start": 40.172,
+      "end": 41.035,
+      "text": "a sobrecarga"
+    },
+    {
+      "start": 41.676,
+      "end": 44.165,
+      "text": "mande no coração sem ser confrontada."
+    },
+    {
+      "start": 44.573,
+      "end": 47.824,
+      "text": "Existem duas perguntas que podem caminhar juntas."
+    },
+    {
+      "start": 48.233,
+      "end": 51.871,
+      "text": "Primeira: o que precisa ser dividido de modo mais"
+    },
+    {
+      "start": 51.893,
+      "end": 54.647,
+      "text": "justo? Segunda: o que, dentro de mim,"
+    },
+    {
+      "start": 54.702,
+      "end": 56.736,
+      "text": "está sendo governado por ansiedade?"
+    },
+    {
+      "start": 57.455,
+      "end": 60.695,
+      "text": "Uma pergunta olha para a estrutura da casa,"
+    },
+    {
+      "start": 60.761,
+      "end": 63.271,
+      "text": "do trabalho, da família, da igreja."
+    },
+    {
+      "start": 63.791,
+      "end": 65.295,
+      "text": "A outra olha para o coração."
+    },
+    {
+      "start": 65.483,
+      "end": 69.784,
+      "text": "As duas importam. Fé madura não chama injustiça de"
+    },
+    {
+      "start": 69.829,
+      "end": 73.665,
+      "text": "serviço. E também não chama ansiedade de zelo"
+    },
+    {
+      "start": 73.753,
+      "end": 78.231,
+      "text": "espiritual. Marta e Maria nos ajudam a procurar"
+    },
+    {
+      "start": 78.652,
+      "end": 81.903,
+      "text": "um caminho em que cuidado prático e escuta de"
+    },
+    {
+      "start": 81.958,
+      "end": 84.126,
+      "text": "Jesus não sejam inimigos."
+    }
+  ],
+  "scriptures": []
+}

@@ -31,6 +31,9 @@ Se a evidência ainda não existir, a resposta correta é pesquisar. Teste prát
 ## Separação
 
 - `ai/`: memória e decisões da metamorfose.
-- `Canal Religioso/`: estrutura prática de produção do canal.
+- `factory/`: implementação universal, contratos e testes.
+- `operations/`: operações concretas e seus materiais.
+- `operations/a-palavra-que-cuida/`: estrutura prática da operação religiosa atual.
+- `audits/`, `decisions/` e `research/`: vereditos, decisões arquiteturais e pesquisa transversal.
 
-O público-alvo é uma decisão fixa do canal, não uma variável por vídeo. Enquanto não for definido, não deve ser inferido.
+O público-alvo é uma decisão fixa da operação quando aplicável, não uma variável por vídeo. Enquanto não for definido, não deve ser inferido.

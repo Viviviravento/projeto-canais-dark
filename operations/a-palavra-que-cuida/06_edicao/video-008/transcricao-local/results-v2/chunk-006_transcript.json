@@ -1,0 +1,874 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.2,
+      "text": "Ois outra pessoa perguntou, ele negou de novo, mas tarde uma terceira voz insistiu e",
+      "words": [
+        {
+          "word": " Ois",
+          "start": 0.0,
+          "end": 0.1,
+          "probability": 0.31
+        },
+        {
+          "word": " outra",
+          "start": 0.1,
+          "end": 0.3,
+          "probability": 0.879
+        },
+        {
+          "word": " pessoa",
+          "start": 0.3,
+          "end": 0.58,
+          "probability": 0.99
+        },
+        {
+          "word": " perguntou,",
+          "start": 0.58,
+          "end": 1.14,
+          "probability": 0.996
+        },
+        {
+          "word": " ele",
+          "start": 1.74,
+          "end": 1.96,
+          "probability": 0.747
+        },
+        {
+          "word": " negou",
+          "start": 1.96,
+          "end": 2.24,
+          "probability": 0.937
+        },
+        {
+          "word": " de",
+          "start": 2.24,
+          "end": 2.34,
+          "probability": 0.974
+        },
+        {
+          "word": " novo,",
+          "start": 2.34,
+          "end": 2.58,
+          "probability": 0.995
+        },
+        {
+          "word": " mas",
+          "start": 3.32,
+          "end": 3.54,
+          "probability": 0.786
+        },
+        {
+          "word": " tarde",
+          "start": 3.54,
+          "end": 3.94,
+          "probability": 0.991
+        },
+        {
+          "word": " uma",
+          "start": 3.94,
+          "end": 4.72,
+          "probability": 0.839
+        },
+        {
+          "word": " terceira",
+          "start": 4.72,
+          "end": 5.16,
+          "probability": 0.991
+        },
+        {
+          "word": " voz",
+          "start": 5.16,
+          "end": 5.4,
+          "probability": 0.989
+        },
+        {
+          "word": " insistiu",
+          "start": 5.4,
+          "end": 6.32,
+          "probability": 0.689
+        },
+        {
+          "word": " e",
+          "start": 6.32,
+          "end": 7.2,
+          "probability": 0.662
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.2,
+      "end": 8.38,
+      "text": "ele negou pela terceira vez.",
+      "words": [
+        {
+          "word": " ele",
+          "start": 7.2,
+          "end": 7.28,
+          "probability": 0.955
+        },
+        {
+          "word": " negou",
+          "start": 7.28,
+          "end": 7.54,
+          "probability": 0.99
+        },
+        {
+          "word": " pela",
+          "start": 7.54,
+          "end": 7.7,
+          "probability": 0.967
+        },
+        {
+          "word": " terceira",
+          "start": 7.7,
+          "end": 8.1,
+          "probability": 0.988
+        },
+        {
+          "word": " vez.",
+          "start": 8.1,
+          "end": 8.38,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 9.14,
+      "end": 14.62,
+      "text": "\u00c9 f\u00e1cil olhar para esse epis\u00f3dio de fora e pensar, como ele conseguiu, mas quando",
+      "words": [
+        {
+          "word": " \u00c9",
+          "start": 9.14,
+          "end": 9.26,
+          "probability": 0.952
+        },
+        {
+          "word": " f\u00e1cil",
+          "start": 9.26,
+          "end": 9.42,
+          "probability": 0.844
+        },
+        {
+          "word": " olhar",
+          "start": 9.42,
+          "end": 9.68,
+          "probability": 0.996
+        },
+        {
+          "word": " para",
+          "start": 9.68,
+          "end": 9.9,
+          "probability": 0.991
+        },
+        {
+          "word": " esse",
+          "start": 9.9,
+          "end": 10.14,
+          "probability": 0.931
+        },
+        {
+          "word": " epis\u00f3dio",
+          "start": 10.14,
+          "end": 10.52,
+          "probability": 0.969
+        },
+        {
+          "word": " de",
+          "start": 10.52,
+          "end": 10.8,
+          "probability": 0.975
+        },
+        {
+          "word": " fora",
+          "start": 10.8,
+          "end": 11.06,
+          "probability": 0.991
+        },
+        {
+          "word": " e",
+          "start": 11.06,
+          "end": 11.22,
+          "probability": 0.954
+        },
+        {
+          "word": " pensar,",
+          "start": 11.22,
+          "end": 11.56,
+          "probability": 0.998
+        },
+        {
+          "word": " como",
+          "start": 12.34,
+          "end": 12.66,
+          "probability": 0.97
+        },
+        {
+          "word": " ele",
+          "start": 12.66,
+          "end": 12.76,
+          "probability": 0.982
+        },
+        {
+          "word": " conseguiu,",
+          "start": 12.76,
+          "end": 13.2,
+          "probability": 0.992
+        },
+        {
+          "word": " mas",
+          "start": 13.92,
+          "end": 14.32,
+          "probability": 0.994
+        },
+        {
+          "word": " quando",
+          "start": 14.32,
+          "end": 14.62,
+          "probability": 0.98
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.62,
+      "end": 21.64,
+      "text": "medo aberta, muita gente descobre uma dist\u00e2ncia dolorosa entre convic\u00e7\u00e3o e rea\u00e7\u00e3o, n\u00e3o",
+      "words": [
+        {
+          "word": " medo",
+          "start": 14.62,
+          "end": 15.14,
+          "probability": 0.74
+        },
+        {
+          "word": " aberta,",
+          "start": 15.14,
+          "end": 15.6,
+          "probability": 0.663
+        },
+        {
+          "word": " muita",
+          "start": 16.12,
+          "end": 16.28,
+          "probability": 0.97
+        },
+        {
+          "word": " gente",
+          "start": 16.28,
+          "end": 16.5,
+          "probability": 0.997
+        },
+        {
+          "word": " descobre",
+          "start": 16.5,
+          "end": 17.06,
+          "probability": 0.99
+        },
+        {
+          "word": " uma",
+          "start": 17.06,
+          "end": 17.64,
+          "probability": 0.983
+        },
+        {
+          "word": " dist\u00e2ncia",
+          "start": 17.64,
+          "end": 18.0,
+          "probability": 0.986
+        },
+        {
+          "word": " dolorosa",
+          "start": 18.0,
+          "end": 18.62,
+          "probability": 0.992
+        },
+        {
+          "word": " entre",
+          "start": 18.62,
+          "end": 18.86,
+          "probability": 0.991
+        },
+        {
+          "word": " convic\u00e7\u00e3o",
+          "start": 18.86,
+          "end": 19.46,
+          "probability": 0.926
+        },
+        {
+          "word": " e",
+          "start": 19.46,
+          "end": 20.24,
+          "probability": 0.999
+        },
+        {
+          "word": " rea\u00e7\u00e3o,",
+          "start": 20.24,
+          "end": 20.66,
+          "probability": 0.992
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 21.36,
+          "end": 21.64,
+          "probability": 0.987
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 21.64,
+      "end": 28.04,
+      "text": "\u00e9 uma desculpa para a nega\u00e7\u00e3o de Pedro, \u00e9 um convite \u00e0 honestidade, h\u00e1 momentos em",
+      "words": [
+        {
+          "word": " \u00e9",
+          "start": 21.64,
+          "end": 21.76,
+          "probability": 0.988
+        },
+        {
+          "word": " uma",
+          "start": 21.76,
+          "end": 21.86,
+          "probability": 0.996
+        },
+        {
+          "word": " desculpa",
+          "start": 21.86,
+          "end": 22.32,
+          "probability": 0.977
+        },
+        {
+          "word": " para",
+          "start": 22.32,
+          "end": 23.1,
+          "probability": 0.97
+        },
+        {
+          "word": " a",
+          "start": 23.1,
+          "end": 23.22,
+          "probability": 0.899
+        },
+        {
+          "word": " nega\u00e7\u00e3o",
+          "start": 23.22,
+          "end": 23.6,
+          "probability": 0.982
+        },
+        {
+          "word": " de",
+          "start": 23.6,
+          "end": 23.84,
+          "probability": 0.996
+        },
+        {
+          "word": " Pedro,",
+          "start": 23.84,
+          "end": 24.16,
+          "probability": 0.642
+        },
+        {
+          "word": " \u00e9",
+          "start": 24.94,
+          "end": 25.02,
+          "probability": 0.963
+        },
+        {
+          "word": " um",
+          "start": 25.02,
+          "end": 25.12,
+          "probability": 0.966
+        },
+        {
+          "word": " convite",
+          "start": 25.12,
+          "end": 25.58,
+          "probability": 0.973
+        },
+        {
+          "word": " \u00e0",
+          "start": 25.58,
+          "end": 25.7,
+          "probability": 0.875
+        },
+        {
+          "word": " honestidade,",
+          "start": 25.7,
+          "end": 26.38,
+          "probability": 0.947
+        },
+        {
+          "word": " h\u00e1",
+          "start": 27.28,
+          "end": 27.44,
+          "probability": 0.679
+        },
+        {
+          "word": " momentos",
+          "start": 27.44,
+          "end": 27.72,
+          "probability": 0.997
+        },
+        {
+          "word": " em",
+          "start": 27.72,
+          "end": 28.04,
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 28.04,
+      "end": 29.92,
+      "text": "que queremos parecer firmes.",
+      "words": [
+        {
+          "word": " que",
+          "start": 28.04,
+          "end": 28.18,
+          "probability": 0.155
+        },
+        {
+          "word": " queremos",
+          "start": 28.18,
+          "end": 28.52,
+          "probability": 0.969
+        },
+        {
+          "word": " parecer",
+          "start": 28.52,
+          "end": 29.16,
+          "probability": 0.816
+        },
+        {
+          "word": " firmes.",
+          "start": 29.16,
+          "end": 29.92,
+          "probability": 0.807
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " Ois",
+      "start": 0.0,
+      "end": 0.1,
+      "probability": 0.31
+    },
+    {
+      "word": " outra",
+      "start": 0.1,
+      "end": 0.3,
+      "probability": 0.879
+    },
+    {
+      "word": " pessoa",
+      "start": 0.3,
+      "end": 0.58,
+      "probability": 0.99
+    },
+    {
+      "word": " perguntou,",
+      "start": 0.58,
+      "end": 1.14,
+      "probability": 0.996
+    },
+    {
+      "word": " ele",
+      "start": 1.74,
+      "end": 1.96,
+      "probability": 0.747
+    },
+    {
+      "word": " negou",
+      "start": 1.96,
+      "end": 2.24,
+      "probability": 0.937
+    },
+    {
+      "word": " de",
+      "start": 2.24,
+      "end": 2.34,
+      "probability": 0.974
+    },
+    {
+      "word": " novo,",
+      "start": 2.34,
+      "end": 2.58,
+      "probability": 0.995
+    },
+    {
+      "word": " mas",
+      "start": 3.32,
+      "end": 3.54,
+      "probability": 0.786
+    },
+    {
+      "word": " tarde",
+      "start": 3.54,
+      "end": 3.94,
+      "probability": 0.991
+    },
+    {
+      "word": " uma",
+      "start": 3.94,
+      "end": 4.72,
+      "probability": 0.839
+    },
+    {
+      "word": " terceira",
+      "start": 4.72,
+      "end": 5.16,
+      "probability": 0.991
+    },
+    {
+      "word": " voz",
+      "start": 5.16,
+      "end": 5.4,
+      "probability": 0.989
+    },
+    {
+      "word": " insistiu",
+      "start": 5.4,
+      "end": 6.32,
+      "probability": 0.689
+    },
+    {
+      "word": " e",
+      "start": 6.32,
+      "end": 7.2,
+      "probability": 0.662
+    },
+    {
+      "word": " ele",
+      "start": 7.2,
+      "end": 7.28,
+      "probability": 0.955
+    },
+    {
+      "word": " negou",
+      "start": 7.28,
+      "end": 7.54,
+      "probability": 0.99
+    },
+    {
+      "word": " pela",
+      "start": 7.54,
+      "end": 7.7,
+      "probability": 0.967
+    },
+    {
+      "word": " terceira",
+      "start": 7.7,
+      "end": 8.1,
+      "probability": 0.988
+    },
+    {
+      "word": " vez.",
+      "start": 8.1,
+      "end": 8.38,
+      "probability": 0.998
+    },
+    {
+      "word": " \u00c9",
+      "start": 9.14,
+      "end": 9.26,
+      "probability": 0.952
+    },
+    {
+      "word": " f\u00e1cil",
+      "start": 9.26,
+      "end": 9.42,
+      "probability": 0.844
+    },
+    {
+      "word": " olhar",
+      "start": 9.42,
+      "end": 9.68,
+      "probability": 0.996
+    },
+    {
+      "word": " para",
+      "start": 9.68,
+      "end": 9.9,
+      "probability": 0.991
+    },
+    {
+      "word": " esse",
+      "start": 9.9,
+      "end": 10.14,
+      "probability": 0.931
+    },
+    {
+      "word": " epis\u00f3dio",
+      "start": 10.14,
+      "end": 10.52,
+      "probability": 0.969
+    },
+    {
+      "word": " de",
+      "start": 10.52,
+      "end": 10.8,
+      "probability": 0.975
+    },
+    {
+      "word": " fora",
+      "start": 10.8,
+      "end": 11.06,
+      "probability": 0.991
+    },
+    {
+      "word": " e",
+      "start": 11.06,
+      "end": 11.22,
+      "probability": 0.954
+    },
+    {
+      "word": " pensar,",
+      "start": 11.22,
+      "end": 11.56,
+      "probability": 0.998
+    },
+    {
+      "word": " como",
+      "start": 12.34,
+      "end": 12.66,
+      "probability": 0.97
+    },
+    {
+      "word": " ele",
+      "start": 12.66,
+      "end": 12.76,
+      "probability": 0.982
+    },
+    {
+      "word": " conseguiu,",
+      "start": 12.76,
+      "end": 13.2,
+      "probability": 0.992
+    },
+    {
+      "word": " mas",
+      "start": 13.92,
+      "end": 14.32,
+      "probability": 0.994
+    },
+    {
+      "word": " quando",
+      "start": 14.32,
+      "end": 14.62,
+      "probability": 0.98
+    },
+    {
+      "word": " medo",
+      "start": 14.62,
+      "end": 15.14,
+      "probability": 0.74
+    },
+    {
+      "word": " aberta,",
+      "start": 15.14,
+      "end": 15.6,
+      "probability": 0.663
+    },
+    {
+      "word": " muita",
+      "start": 16.12,
+      "end": 16.28,
+      "probability": 0.97
+    },
+    {
+      "word": " gente",
+      "start": 16.28,
+      "end": 16.5,
+      "probability": 0.997
+    },
+    {
+      "word": " descobre",
+      "start": 16.5,
+      "end": 17.06,
+      "probability": 0.99
+    },
+    {
+      "word": " uma",
+      "start": 17.06,
+      "end": 17.64,
+      "probability": 0.983
+    },
+    {
+      "word": " dist\u00e2ncia",
+      "start": 17.64,
+      "end": 18.0,
+      "probability": 0.986
+    },
+    {
+      "word": " dolorosa",
+      "start": 18.0,
+      "end": 18.62,
+      "probability": 0.992
+    },
+    {
+      "word": " entre",
+      "start": 18.62,
+      "end": 18.86,
+      "probability": 0.991
+    },
+    {
+      "word": " convic\u00e7\u00e3o",
+      "start": 18.86,
+      "end": 19.46,
+      "probability": 0.926
+    },
+    {
+      "word": " e",
+      "start": 19.46,
+      "end": 20.24,
+      "probability": 0.999
+    },
+    {
+      "word": " rea\u00e7\u00e3o,",
+      "start": 20.24,
+      "end": 20.66,
+      "probability": 0.992
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 21.36,
+      "end": 21.64,
+      "probability": 0.987
+    },
+    {
+      "word": " \u00e9",
+      "start": 21.64,
+      "end": 21.76,
+      "probability": 0.988
+    },
+    {
+      "word": " uma",
+      "start": 21.76,
+      "end": 21.86,
+      "probability": 0.996
+    },
+    {
+      "word": " desculpa",
+      "start": 21.86,
+      "end": 22.32,
+      "probability": 0.977
+    },
+    {
+      "word": " para",
+      "start": 22.32,
+      "end": 23.1,
+      "probability": 0.97
+    },
+    {
+      "word": " a",
+      "start": 23.1,
+      "end": 23.22,
+      "probability": 0.899
+    },
+    {
+      "word": " nega\u00e7\u00e3o",
+      "start": 23.22,
+      "end": 23.6,
+      "probability": 0.982
+    },
+    {
+      "word": " de",
+      "start": 23.6,
+      "end": 23.84,
+      "probability": 0.996
+    },
+    {
+      "word": " Pedro,",
+      "start": 23.84,
+      "end": 24.16,
+      "probability": 0.642
+    },
+    {
+      "word": " \u00e9",
+      "start": 24.94,
+      "end": 25.02,
+      "probability": 0.963
+    },
+    {
+      "word": " um",
+      "start": 25.02,
+      "end": 25.12,
+      "probability": 0.966
+    },
+    {
+      "word": " convite",
+      "start": 25.12,
+      "end": 25.58,
+      "probability": 0.973
+    },
+    {
+      "word": " \u00e0",
+      "start": 25.58,
+      "end": 25.7,
+      "probability": 0.875
+    },
+    {
+      "word": " honestidade,",
+      "start": 25.7,
+      "end": 26.38,
+      "probability": 0.947
+    },
+    {
+      "word": " h\u00e1",
+      "start": 27.28,
+      "end": 27.44,
+      "probability": 0.679
+    },
+    {
+      "word": " momentos",
+      "start": 27.44,
+      "end": 27.72,
+      "probability": 0.997
+    },
+    {
+      "word": " em",
+      "start": 27.72,
+      "end": 28.04,
+      "probability": 0.995
+    },
+    {
+      "word": " que",
+      "start": 28.04,
+      "end": 28.18,
+      "probability": 0.155
+    },
+    {
+      "word": " queremos",
+      "start": 28.18,
+      "end": 28.52,
+      "probability": 0.969
+    },
+    {
+      "word": " parecer",
+      "start": 28.52,
+      "end": 29.16,
+      "probability": 0.816
+    },
+    {
+      "word": " firmes.",
+      "start": 29.16,
+      "end": 29.92,
+      "probability": 0.807
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 29.952,
+  "model_size": "base",
+  "device": "cpu"
+}

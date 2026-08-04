@@ -1,0 +1,22 @@
+{
+  "quote_id": "v010-elevenlabs-v1-20260729",
+  "video_id": "video-010",
+  "provider": "ElevenLabs",
+  "status": "completed",
+  "approved_at": "2026-07-29T22:35:00-03:00",
+  "user_statement": "ta, faz",
+  "maximum_subscription_credits": 9000,
+  "maximum_incremental_cash_charge": 0.0,
+  "automatic_retry": false,
+  "request_stitching": false,
+  "postprocess": "local 1.07x preserving pitch",
+  "manifest": "operations/a-palavra-que-cuida/02_roteiros/video-010-performance-v1.json",
+  "completed_at": "2026-07-29T22:50:00-03:00",
+  "credits_consumed": 4921,
+  "raw_duration_seconds": 715.778,
+  "master_duration_seconds": 668.952438,
+  "outputs": {
+    "review_mp3": "operations/a-palavra-que-cuida/05_audio/video-010/v1/video-010-narracao-v1-1.07x-review.mp3",
+    "alignment": "operations/a-palavra-que-cuida/05_audio/video-010/v1/master-alignment-1.07x.json"
+  }
+}

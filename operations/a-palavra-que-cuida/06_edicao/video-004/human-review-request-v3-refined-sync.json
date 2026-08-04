@@ -1,0 +1,15 @@
+{
+  "video_id": "video-004",
+  "review_file": "07_exports/video-004/a-infancia-de-jesus-o-que-a-biblia-diz-v3-review-refined-sync.mp4",
+  "supersedes": [
+    "a-infancia-de-jesus-o-que-a-biblia-diz-v1-review.mp4",
+    "a-infancia-de-jesus-o-que-a-biblia-diz-v2-review-synced.mp4"
+  ],
+  "review_status": "awaiting_human_master_review",
+  "approval_rule": "Nao publicar nem enviar para o YouTube antes da aprovacao humana explicita deste master v3.",
+  "reviewer_checks": [
+    "Veja o inicio, um trecho no meio e o final; as legendas devem entrar junto da fala e trocar em frases curtas.",
+    "Assista ao menos alguns minutos completos para confirmar que a leitura permanece confortavel em 1,05x.",
+    "Confirme que as seis cartas biblicas aparecem durante a leitura correspondente."
+  ]
+}

@@ -1,0 +1,52 @@
+schema_version: 1.0.0
+operation_id: mukbang-br-incubating
+display_name: Tese Mukbang BR
+lifecycle: incubating
+purpose: Investigar uma tese de companhia de mesa e experiencia sensorial antes de qualquer instanciacao ou gasto pago.
+audience:
+  definition: Ainda nao definida; hipotese de espectadores brasileiros que buscam companhia de refeicao e estimulacao sensorial.
+  evidence_refs:
+    - evidencias/claims.jsonl#mk-audience-hypothesis
+promise: Transformar uma refeicao brasileira comum em companhia de mesa e experiencia sensorial agradavel.
+positioning: Mukbang brasileiro cotidiano, sem culto ao excesso e sem copiar a estetica de outro canal do projeto.
+surfaces:
+  - youtube
+  - tiktok
+formats:
+  - id: meal-session
+    description: Captura original de uma refeicao completa; duracao sera hipotese do piloto, nao regra herdada.
+  - id: sensory-cut
+    description: Derivado vertical centrado em um momento sensorial ou de identificacao.
+capabilities:
+  editorial_thesis:
+    state: investigating
+    baseline: null
+    evidence_refs:
+      - teses.yaml
+      - evidencias/claims.jsonl
+    notes: O ensaio seco formulou a tese, mas ainda nao a validou com piloto ou observacao.
+  original_capture:
+    state: not_exercised
+    baseline: null
+    evidence_refs:
+      - desenho-piloto.yaml
+    notes: Captura foi deliberadamente excluida do ensaio seco.
+  publication:
+    state: not_exercised
+    baseline: null
+    evidence_refs:
+      - run.json
+    notes: Nenhum conteudo foi produzido ou publicado.
+economics:
+  objective: Medir demanda e capacidade de producao com captura local antes de qualquer API paga.
+  currency: BRL
+parameters:
+  content_source: original_capture
+  paid_apis: disabled_for_dry_run
+  duration: undecided_until_pilot_evidence
+  presenter: undecided
+  narration: undecided
+policies:
+  evidence: ../../factory/policies/evidence-v0.1.yaml
+  gates: ../../factory/policies/gates-v0.1.yaml
+  media: ../../factory/policies/media-v0.1.yaml

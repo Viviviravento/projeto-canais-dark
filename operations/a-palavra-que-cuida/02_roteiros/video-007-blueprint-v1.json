@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-007",
+  "title": "Quando o atalho parece alívio",
+  "primary_text": "Mateus 4:1-10",
+  "supporting_text": "Hebreus 4:15",
+  "promise": "Ajudar a espectadora a reconhecer quando uma necessidade real está sendo usada para empurrá-la a um caminho que cobra caro.",
+  "audience_moment": "Cansaço, carência, pressa e pressão para resolver algo sem clareza.",
+  "visual_direction": {
+    "core": "Noite e manhã em casa, escolhas cotidianas, caminho, pausa, deserto discreto e presença humana.",
+    "human_preference": "Mulheres brasileiras/latinas, naturais e reconhecíveis; uma peça de crochê sutil em apenas uma cena quando fizer sentido.",
+    "avoid": [
+      "texto editorial fora de citações",
+      "anjos ou sobrenatural não narrado",
+      "tentação caricata ou sensacionalista"
+    ]
+  },
+  "short_candidates": [
+    {
+      "id": "v007-short-01",
+      "hook": "O atalho quase nunca diz que vai ferir você",
+      "source_sections": [
+        "01",
+        "02"
+      ]
+    },
+    {
+      "id": "v007-short-02",
+      "hook": "Nem tudo que parece coragem é fé",
+      "source_sections": [
+        "03",
+        "04"
+      ]
+    }
+  ],
+  "publication_bridge": {
+    "end_screen_targets": [
+      "video-006",
+      "video-002"
+    ],
+    "comment_prompt": "Que tipo de atalho costuma parecer alívio quando você está cansada?"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-005",
+  "timing_state": "derived_from_master_alignment_1.05x",
+  "master_duration_seconds": 715.620208,
+  "visual_policy": {
+    "maximum_static_seconds": 7,
+    "maximum_base_asset_reuse": 2,
+    "avatar_only_while_speaking": true,
+    "scripture_display_must_match_spoken_quote": true,
+    "scripture_cards_only_during_direct_verse_reading": true,
+    "editorial_text_cards": false,
+    "end_screen_seconds": 15,
+    "end_screen_fixed_boxes": false,
+    "end_screen_native_youtube_recommendations": 2,
+    "end_screen_handle": "@apalavraquecuidabr"
+  },
+  "publication_cta_requirements": {
+    "audio_contains_comment_question": true,
+    "audio_contains_next_video_direction": false,
+    "must_add_next_video_direction_in_end_screen": true,
+    "must_add_two_native_youtube_video_elements": true,
+    "must_add_pinned_comment_question": true
+  },
+  "scenes": [
+    {
+      "id": "block-01-antes-da-discussao-o-comeco",
+      "block_id": "01-antes-da-discussao-o-comeco",
+      "start_seconds": 0.0,
+      "end_seconds": 63.55619,
+      "assets": [
+        "stock/s05-storm-sky.mp4",
+        "stock/s03-sea-aerial.mp4",
+        "library/biblia_fe/p001-biblia-mesa-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-02-deus-comeca-onde-ha-vazio",
+      "block_id": "02-deus-comeca-onde-ha-vazio",
+      "start_seconds": 63.55619,
+      "end_seconds": 144.273333,
+      "assets": [
+        "stock/s01-barren-rock.mp4",
+        "stock/s05-storm-sky.mp4",
+        "library/cotidiano_brasileiro/p001-peso-mental-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-03-a-palavra-que-ilumina",
+      "block_id": "03-a-palavra-que-ilumina",
+      "start_seconds": 144.273333,
+      "end_seconds": 219.19619,
+      "assets": [
+        "stock/s03-sea-aerial.mp4",
+        "library/cotidiano_brasileiro/v002-amanhecer-presente-v1.png",
+        "library/cotidiano_brasileiro/p001-caminhada-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-04-o-mundo-nao-e-descartavel",
+      "block_id": "04-o-mundo-nao-e-descartavel",
+      "start_seconds": 219.19619,
+      "end_seconds": 296.817143,
+      "assets": [
+        "stock/s04-waves-rock.mp4",
+        "stock/s06-wild-goats.mp4",
+        "library/biblico_historico/v002-jesus-aves-flores-v2.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-05-valor-antes-da-performance",
+      "block_id": "05-valor-antes-da-performance",
+      "start_seconds": 296.817143,
+      "end_seconds": 397.348571,
+      "assets": [
+        "library/apoio_relacoes/p001-escuta-v1.png",
+        "library/apoio_relacoes/p001-carga-compartilhada-v1.png",
+        "library/cotidiano_brasileiro/p001-reflexo-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-06-muito-bom-e-responsavel",
+      "block_id": "06-muito-bom-e-responsavel",
+      "start_seconds": 397.348571,
+      "end_seconds": 478.109524,
+      "assets": [
+        "stock/s03-sea-aerial.mp4",
+        "library/objetos_cenarios/p001-maos-em-pausa-v1.png",
+        "library/cotidiano_brasileiro/p001-dia-em-andamento-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-07-trabalhar-e-guardar",
+      "block_id": "07-trabalhar-e-guardar",
+      "start_seconds": 478.109524,
+      "end_seconds": 553.519048,
+      "assets": [
+        "library/objetos_cenarios/p001-tarefas-v1.png",
+        "library/cotidiano_brasileiro/p001-fechar-trabalho-v1.png",
+        "video004/brazil/b05-mesa-com-croche-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-08-o-comeco-ensina-descanso",
+      "block_id": "08-o-comeco-ensina-descanso",
+      "start_seconds": 553.519048,
+      "end_seconds": 624.682857,
+      "assets": [
+        "library/cotidiano_brasileiro/p001-pausa-v1.png",
+        "library/cotidiano_brasileiro/p001-chegar-cansada-v1.png",
+        "video004/brazil/b08-tempo-de-ouvir-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-09-fechamento-e-convite",
+      "block_id": "09-fechamento-e-convite",
+      "start_seconds": 624.682857,
+      "end_seconds": 715.61619,
+      "assets": [
+        "library/biblia_fe/p001-biblia-mesa-v1.png",
+        "library/apoio_relacoes/p001-carga-compartilhada-v1.png",
+        "library/cotidiano_brasileiro/v002-amanhecer-presente-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    }
+  ],
+  "scripture_cards": [
+    {
+      "id": "scripture-acf-g-nesis-1-1",
+      "reference": "Gênesis 1:1",
+      "text": "No princípio criou Deus os céus e a terra.",
+      "source": "04_assets/video-005/scripture_cards/acf-g-nesis-1-1.png",
+      "block_id": "01-antes-da-discussao-o-comeco",
+      "start_seconds": 38.422857,
+      "end_seconds": 41.397143,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-g-nesis-1-2",
+      "reference": "Gênesis 1:2",
+      "text": "E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.",
+      "source": "04_assets/video-005/scripture_cards/acf-g-nesis-1-2.png",
+      "block_id": "02-deus-comeca-onde-ha-vazio",
+      "start_seconds": 78.649524,
+      "end_seconds": 87.494286,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-g-nesis-1-3",
+      "reference": "Gênesis 1:3",
+      "text": "E disse Deus: Haja luz; e houve luz.",
+      "source": "04_assets/video-005/scripture_cards/acf-g-nesis-1-3.png",
+      "block_id": "03-a-palavra-que-ilumina",
+      "start_seconds": 155.74,
+      "end_seconds": 159.311429,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-g-nesis-1-27",
+      "reference": "Gênesis 1:27",
+      "text": "E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou.",
+      "source": "04_assets/video-005/scripture_cards/acf-g-nesis-1-27.png",
+      "block_id": "05-valor-antes-da-performance",
+      "start_seconds": 311.711429,
+      "end_seconds": 317.770476,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-g-nesis-1-31",
+      "reference": "Gênesis 1:31",
+      "text": "E viu Deus tudo quanto tinha feito, e eis que era muito bom; e foi a tarde e a manhã, o dia sexto.",
+      "source": "04_assets/video-005/scripture_cards/acf-g-nesis-1-31.png",
+      "block_id": "06-muito-bom-e-responsavel",
+      "start_seconds": 407.2,
+      "end_seconds": 414.520952,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-g-nesis-2-15",
+      "reference": "Gênesis 2:15",
+      "text": "E tomou o Senhor Deus o homem, e o pôs no jardim do Éden para o lavrar e o guardar.",
+      "source": "04_assets/video-005/scripture_cards/acf-g-nesis-2-15.png",
+      "block_id": "07-trabalhar-e-guardar",
+      "start_seconds": 489.840952,
+      "end_seconds": 495.027619,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    }
+  ],
+  "asset_strategy": "Use existing stock nature clips and approved Brazilian daily-life assets before requesting paid generation."
+}

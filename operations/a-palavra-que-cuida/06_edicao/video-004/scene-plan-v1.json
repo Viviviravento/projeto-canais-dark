@@ -1,0 +1,203 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-004",
+  "timing_state": "derived_from_master_alignment_1.05x",
+  "master_duration_seconds": 707.38625,
+  "visual_policy": {
+    "maximum_static_seconds": 7,
+    "maximum_base_asset_reuse": 2,
+    "avatar_only_while_speaking": true,
+    "scripture_display_must_match_spoken_quote": true,
+    "end_screen_seconds": 15,
+    "end_screen_recommendation_slots": 2
+  },
+  "scenes": [
+    {
+      "id": "block-01-a-pergunta-que-existe-entre-duas-cenas",
+      "block_id": "01-a-pergunta-que-existe-entre-duas-cenas",
+      "start_seconds": 0.0,
+      "end_seconds": 57.408571,
+      "assets": [
+        "planned:avatar-opening",
+        "planned:editorial-time-gap",
+        "h02-caminho-a-jerusalem-v1"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-02-o-que-o-evangelho-mostra",
+      "block_id": "02-o-que-o-evangelho-mostra",
+      "start_seconds": 57.408571,
+      "end_seconds": 140.82381,
+      "assets": [
+        "planned:graphic-what-is-written",
+        "h01-jesus-no-templo-v1"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-03-uma-familia-que-volta-todos-os-anos",
+      "block_id": "03-uma-familia-que-volta-todos-os-anos",
+      "start_seconds": 140.82381,
+      "end_seconds": 226.09619,
+      "assets": [
+        "h02-caminho-a-jerusalem-v1",
+        "planned:jerusalem-road-detail"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-04-o-menino-no-templo",
+      "block_id": "04-o-menino-no-templo",
+      "start_seconds": 226.09619,
+      "end_seconds": 332.952381,
+      "assets": [
+        "h03-procura-em-jerusalem-v1",
+        "h01-jesus-no-templo-v1"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-05-uma-resposta-que-abre-o-centro",
+      "block_id": "05-uma-resposta-que-abre-o-centro",
+      "start_seconds": 332.952381,
+      "end_seconds": 412.431429,
+      "assets": [
+        "h01-jesus-no-templo-v1",
+        "planned:family-listening-detail"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-06-o-versiculo-que-impede-dois-erros",
+      "block_id": "06-o-versiculo-que-impede-dois-erros",
+      "start_seconds": 412.431429,
+      "end_seconds": 476.253333,
+      "assets": [
+        "h04-retorno-a-nazare-v1",
+        "planned:nazareth-home-exterior"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-07-crescer-tambem-e-parte-da-historia",
+      "block_id": "07-crescer-tambem-e-parte-da-historia",
+      "start_seconds": 476.253333,
+      "end_seconds": 561.968571,
+      "assets": [
+        "b01-escuta-em-familia-v1",
+        "b02-aprender-com-constancia-v1",
+        "b03-pedido-de-perdao-v1",
+        "b04-crescimento-em-dias-comuns-v1"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-08-o-silencio-dos-anos",
+      "block_id": "08-o-silencio-dos-anos",
+      "start_seconds": 561.968571,
+      "end_seconds": 634.768571,
+      "assets": [
+        "planned:graphic-silence-is-not-invention",
+        "planned:nazareth-still-life"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-09-fechamento-e-convite",
+      "block_id": "09-fechamento-e-convite",
+      "start_seconds": 634.768571,
+      "end_seconds": 707.391429,
+      "assets": [
+        "planned:avatar-closing",
+        "planned:end-screen-two-slots"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    }
+  ],
+  "scripture_cards": [
+    {
+      "id": "scripture-lucas-2-40",
+      "reference": "Lucas 2:40",
+      "text": "E o menino crescia, e era fortalecido em espírito, e cheio de sabedoria; e a graça de Deus estava sobre ele.",
+      "source": "04_assets/video-004/scripture_cards/acf-lucas-2-40.png",
+      "block_id": "02-o-que-o-evangelho-mostra",
+      "start_seconds": 103.727619,
+      "end_seconds": 115.093333,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true
+    },
+    {
+      "id": "scripture-lucas-2-41",
+      "reference": "Lucas 2:41",
+      "text": "Ora, todos os anos iam seus pais a Jerusalém à festa da páscoa;",
+      "source": "04_assets/video-004/scripture_cards/acf-lucas-2-41.png",
+      "block_id": "03-uma-familia-que-volta-todos-os-anos",
+      "start_seconds": 150.15619,
+      "end_seconds": 159.941905,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true
+    },
+    {
+      "id": "scripture-lucas-2-46",
+      "reference": "Lucas 2:46",
+      "text": "E aconteceu que, passados três dias, o acharam no templo, assentado no meio dos doutores, ouvindo-os, e interrogando-os.",
+      "source": "04_assets/video-004/scripture_cards/acf-lucas-2-46.png",
+      "block_id": "04-o-menino-no-templo",
+      "start_seconds": 255.087619,
+      "end_seconds": 268.54381,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true
+    },
+    {
+      "id": "scripture-lucas-2-49",
+      "reference": "Lucas 2:49",
+      "text": "E ele lhes disse: Por que é que me procuráveis? Não sabeis que me convém tratar dos negócios de meu Pai?",
+      "source": "04_assets/video-004/scripture_cards/acf-lucas-2-49.png",
+      "block_id": "05-uma-resposta-que-abre-o-centro",
+      "start_seconds": 350.754286,
+      "end_seconds": 362.154286,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true
+    },
+    {
+      "id": "scripture-lucas-2-51",
+      "reference": "Lucas 2:51",
+      "text": "E desceu com eles, e foi para Nazaré, e era-lhes sujeito. E sua mãe guardava no seu coração todas estas coisas.",
+      "source": "04_assets/video-004/scripture_cards/acf-lucas-2-51.png",
+      "block_id": "06-o-versiculo-que-impede-dois-erros",
+      "start_seconds": 417.041905,
+      "end_seconds": 429.060952,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true
+    },
+    {
+      "id": "scripture-lucas-2-52",
+      "reference": "Lucas 2:52",
+      "text": "E crescia Jesus em sabedoria, e em estatura, e em graça para com Deus e os homens.",
+      "source": "04_assets/video-004/scripture_cards/acf-lucas-2-52.png",
+      "block_id": "07-crescer-tambem-e-parte-da-historia",
+      "start_seconds": 481.306667,
+      "end_seconds": 491.999048,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true
+    }
+  ],
+  "remaining_asset_families": [
+    "historical details",
+    "Brazilian applications",
+    "stock literal",
+    "editorial graphics",
+    "avatar",
+    "thumbnail"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0.0",
+  "preflight_id": "video-004-prosodia-performance-v1",
+  "created_at": "2026-07-26",
+  "input": "02_roteiros/video-004-performance-v1.json",
+  "reference_calibration": {
+    "manifest": "02_roteiros/video-003-calibracao-performance-v3.json",
+    "evaluation": "05_audio/video-003/calibracao-v3/avaliacao-semantica-v3.json",
+    "human_result": "method_approved",
+    "words": 116,
+    "duration_seconds": 54.752,
+    "observed_words_per_second": 2.119
+  },
+  "gate_requirement": {
+    "gate": "06_edicao/video-003/gate-audio-semantico-v1.json",
+    "state": "restored",
+    "required_samples": ["opening", "dense_middle", "closing"],
+    "full_generation_before_human_approval": "forbidden"
+  },
+  "thresholds": {
+    "maximum_share_sentences_with_four_words_or_fewer_pct": 15,
+    "maximum_consecutive_sentences_with_seven_words_or_fewer": 2,
+    "ellipsis_allowed": false,
+    "repeated_dashes_allowed": false,
+    "break_tags_allowed": false
+  },
+  "observed": {
+    "blocks": 9,
+    "characters": 9200,
+    "words": 1559,
+    "sentences": 116,
+    "average_words_per_sentence": 13.44,
+    "sentences_with_four_words_or_fewer": 5,
+    "share_sentences_with_four_words_or_fewer_pct": 4.31,
+    "maximum_consecutive_sentences_with_seven_words_or_fewer": 2,
+    "ellipses": 0,
+    "repeated_dashes": 0,
+    "break_tags": 0,
+    "estimated_raw_duration_seconds": 735.72,
+    "canonical_postprocess_tempo": 1.05,
+    "estimated_master_duration_seconds_after_postprocess": 700.69,
+    "estimated_master_duration_minutes_after_postprocess": 11.68
+  },
+  "scripture_integrity": {
+    "citation_manifest": "02_roteiros/video-004-citacoes-acf-v1.json",
+    "quoted_bible_passages": 6,
+    "literal_comparison": "passed locally against all six manifest texts",
+    "display_requirement": "Toda citação lida deve aparecer integralmente, com referência completa, e ser comparada novamente ao master e às legendas."
+  },
+  "result": "passed_for_three_sample_validation",
+  "limits": [
+    "O preflight textual reduz risco de supersegmentação, mas não substitui o crivo semântico humano do áudio.",
+    "A duração é uma estimativa baseada na amostra de referência; o master só é aceito depois da medição do áudio final.",
+    "Cotação, saldo e preço vigentes ainda não foram consultados; nenhuma chamada paga foi iniciada."
+  ],
+  "next_action": "Obter cotação e saldo atuais para apenas as três amostras, pedir aprovação explícita do teto e gerar os arquivos de revisão humana."
+}

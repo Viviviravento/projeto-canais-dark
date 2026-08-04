@@ -1,0 +1,26 @@
+[Script Info]
+Title: Quase Celestial — Short 002 — Eu não preciso correr
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Legenda,Gadugi,52,&H00F8F5FF,&H00F8F5FF,&H001C0710,&H96000000,0,0,0,0,100,100,0,0,1,2.2,0.8,2,110,110,260,1
+Style: Final,Gadugi,44,&H00F8F5FF,&H00F8F5FF,&H001C0710,&H96000000,0,0,0,0,100,100,0,0,1,1.6,0.8,7,76,76,160,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:04.20,Legenda,,0,0,0,,Antes de dormir, eu posso soltar um pouco do peso\Nde achar que tudo depende de mim agora.
+Dialogue: 0,0:00:04.20,0:00:09.10,Legenda,,0,0,0,,Posso respirar sem transformar cada silêncio\Nem sinal de que algo deu errado.
+Dialogue: 0,0:00:09.10,0:00:14.60,Legenda,,0,0,0,,Não preciso resolver a minha vida inteira\Nantes de fechar os olhos.
+Dialogue: 0,0:00:14.60,0:00:20.10,Legenda,,0,0,0,,Há coisas que só vão fazer sentido\Nquando chegarem mais perto.
+Dialogue: 0,0:00:20.10,0:00:26.50,Legenda,,0,0,0,,Há respostas que ainda estão amadurecendo\Nfora do meu campo de visão.
+Dialogue: 0,0:00:26.50,0:00:33.20,Legenda,,0,0,0,,E eu não preciso forçar uma porta para provar\Nque mereço atravessá-la.
+Dialogue: 0,0:00:33.20,0:00:39.40,Legenda,,0,0,0,,Esta noite, eu deixo o dia pousar em mim\Nsem julgamento.
+Dialogue: 0,0:00:39.40,0:00:48.10,Legenda,,0,0,0,,O que eu fiz hoje foi o que eu consegui fazer\Ncom a energia, a coragem e a clareza que eu tinha.
+Dialogue: 0,0:00:48.10,0:00:56.20,Legenda,,0,0,0,,Eu posso olhar para isso com honestidade,\Nsem me tratar como uma máquina que nunca pode cansar.
+Dialogue: 0,0:00:56.20,0:01:03.60,Legenda,,0,0,0,,Nem todo dia precisa render uma história bonita\Npara ser importante.
+Dialogue: 0,0:01:03.60,0:01:08.00,Legenda,,0,0,0,,Alguns dias servem apenas\Npara me manter perto de mim.
+Dialogue: 1,0:01:05.00,0:01:08.00,Final,,0,0,0,,Quase Celestial

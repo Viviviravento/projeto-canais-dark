@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "blueprint_id": "v004-infancia-de-jesus-v1",
+  "channel_id": "palavra-que-cuida",
+  "topic_id": "v004-infancia-de-jesus",
+  "artifact_kind": "script",
+  "promise": "Ler o que os Evangelhos realmente revelam sobre a infância de Jesus, sem preencher o silêncio bíblico com imaginação apresentada como fato.",
+  "structure": [
+    {"id":"01-pergunta","purpose":"Abrir a curiosidade legítima e estabelecer o limite do texto.","content":"Entre o nascimento e o ministério público, os Evangelhos guardam muitos dias em silêncio; Lucas 2 oferece uma cena decisiva."},
+    {"id":"02-limite-do-relato","purpose":"Distinguir Evangelho de tradição ou imaginação.","content":"Lucas e Mateus narram cenas específicas, não um diário dos primeiros anos; Lucas 2:40 resume crescimento, sabedoria e graça."},
+    {"id":"03-familia-e-pratica","purpose":"Mostrar a fé familiar como prática repetida.","content":"Lucas 2:41 mostra José e Maria indo todos os anos a Jerusalém; a rotina prepara a cena dos doze anos."},
+    {"id":"04-templo","purpose":"Ler a cena do templo sem transformar Jesus menino em fantasia.","content":"Lucas 2:46 apresenta Jesus ouvindo e perguntando; a sabedoria aparece no diálogo atento."},
+    {"id":"05-identidade","purpose":"Explicar a resposta sobre os negócios do Pai.","content":"Lucas 2:49 anuncia uma identidade e missão únicas, que a família ainda não compreende plenamente."},
+    {"id":"06-nazare","purpose":"Manter juntas missão divina e vida familiar concreta.","content":"Lucas 2:51 mostra Jesus retornando a Nazaré e sendo sujeito a José e Maria."},
+    {"id":"07-crescimento","purpose":"Aplicar o crescimento sem igualar a história da audiência à de Jesus.","content":"Lucas 2:52 apresenta sabedoria, estatura e graça; processos comuns também importam."},
+    {"id":"08-silencio","purpose":"Encerrar a leitura do texto antes do convite.","content":"O silêncio dos anos não autoriza episódios inventados; o que foi revelado já afirma uma infância real e significativa."},
+    {"id":"09-convite","purpose":"Concluir a tese e abrir uma conversa editorialmente útil.","content":"Valorizar Escritura, crescimento e fidelidade nos dias comuns; convidar a audiência a escolher a próxima história de Jesus."}
+  ],
+  "performance_notes": [
+    "Falar com curiosidade serena, como quem lê o Evangelho ao lado da audiência, sem tom de documentário sensacionalista.",
+    "Distinguir fato narrado, limite textual e aplicação espiritual; não fazer o silêncio soar como uma lacuna a ser preenchida.",
+    "Anunciar livro, capítulo e versículo completos, ler a citação integral com reverência e só então explicá-la.",
+    "Na cena de Maria e José, preservar a aflição humana sem dramatização; na resposta de Jesus, preservar profundidade sem frieza.",
+    "Concluir a mensagem antes do CTA e manter a pergunta final aberta a próximos episódios dos Evangelhos."
+  ],
+  "research_refs": [
+    "01_briefs/video-004-infancia-de-jesus-v1.md",
+    "02_roteiros/video-004-citacoes-acf-v1.json",
+    "ai/memoria.md#sementes-editoriais-e-video-004"
+  ],
+  "derivative_candidates": [
+    {"source_section":"02-limite-do-relato","hook":"A Bíblia não conta cada dia da infância de Jesus. Isso não é uma falha que a gente precisa preencher com invenções.","target_seconds":70},
+    {"source_section":"06-nazare","hook":"Jesus fala dos negócios do Pai e, logo depois, volta para Nazaré com José e Maria. Esse detalhe impede dois erros.","target_seconds":75}
+  ]
+}

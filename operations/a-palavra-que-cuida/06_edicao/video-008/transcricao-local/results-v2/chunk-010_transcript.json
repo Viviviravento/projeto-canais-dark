@@ -1,0 +1,842 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.02,
+      "text": "que confian\u00e7a, se reconstr\u00f3i, com tempo, const\u00e2ncia e atitudes novas, e quando a dor",
+      "words": [
+        {
+          "word": " que",
+          "start": 0.0,
+          "end": 0.12,
+          "probability": 0.498
+        },
+        {
+          "word": " confian\u00e7a,",
+          "start": 0.12,
+          "end": 0.92,
+          "probability": 0.989
+        },
+        {
+          "word": " se",
+          "start": 1.24,
+          "end": 1.48,
+          "probability": 0.973
+        },
+        {
+          "word": " reconstr\u00f3i,",
+          "start": 1.48,
+          "end": 2.22,
+          "probability": 0.918
+        },
+        {
+          "word": " com",
+          "start": 2.52,
+          "end": 2.56,
+          "probability": 0.925
+        },
+        {
+          "word": " tempo,",
+          "start": 2.56,
+          "end": 3.06,
+          "probability": 0.438
+        },
+        {
+          "word": " const\u00e2ncia",
+          "start": 3.6,
+          "end": 4.34,
+          "probability": 0.591
+        },
+        {
+          "word": " e",
+          "start": 4.34,
+          "end": 4.82,
+          "probability": 0.893
+        },
+        {
+          "word": " atitudes",
+          "start": 4.82,
+          "end": 5.28,
+          "probability": 0.941
+        },
+        {
+          "word": " novas,",
+          "start": 5.28,
+          "end": 5.74,
+          "probability": 0.993
+        },
+        {
+          "word": " e",
+          "start": 6.38,
+          "end": 6.54,
+          "probability": 0.961
+        },
+        {
+          "word": " quando",
+          "start": 6.54,
+          "end": 6.76,
+          "probability": 0.981
+        },
+        {
+          "word": " a",
+          "start": 6.76,
+          "end": 6.88,
+          "probability": 0.83
+        },
+        {
+          "word": " dor",
+          "start": 6.88,
+          "end": 7.02,
+          "probability": 0.812
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.02,
+      "end": 13.28,
+      "text": "vem de uma situa\u00e7\u00e3o de viol\u00eancia, manipula\u00e7\u00e3o ou risco, a rependimento n\u00e3o pede que ningu\u00e9m",
+      "words": [
+        {
+          "word": " vem",
+          "start": 7.02,
+          "end": 7.24,
+          "probability": 0.826
+        },
+        {
+          "word": " de",
+          "start": 7.24,
+          "end": 7.44,
+          "probability": 0.926
+        },
+        {
+          "word": " uma",
+          "start": 7.44,
+          "end": 7.56,
+          "probability": 0.996
+        },
+        {
+          "word": " situa\u00e7\u00e3o",
+          "start": 7.56,
+          "end": 8.06,
+          "probability": 0.989
+        },
+        {
+          "word": " de",
+          "start": 8.06,
+          "end": 8.28,
+          "probability": 0.988
+        },
+        {
+          "word": " viol\u00eancia,",
+          "start": 8.28,
+          "end": 8.86,
+          "probability": 0.99
+        },
+        {
+          "word": " manipula\u00e7\u00e3o",
+          "start": 9.76,
+          "end": 10.46,
+          "probability": 0.991
+        },
+        {
+          "word": " ou",
+          "start": 10.46,
+          "end": 10.62,
+          "probability": 0.929
+        },
+        {
+          "word": " risco,",
+          "start": 10.62,
+          "end": 11.06,
+          "probability": 0.988
+        },
+        {
+          "word": " a",
+          "start": 11.56,
+          "end": 11.7,
+          "probability": 0.928
+        },
+        {
+          "word": " rependimento",
+          "start": 11.7,
+          "end": 12.14,
+          "probability": 0.726
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 12.14,
+          "end": 12.38,
+          "probability": 0.998
+        },
+        {
+          "word": " pede",
+          "start": 12.38,
+          "end": 12.76,
+          "probability": 0.876
+        },
+        {
+          "word": " que",
+          "start": 12.76,
+          "end": 12.98,
+          "probability": 0.983
+        },
+        {
+          "word": " ningu\u00e9m",
+          "start": 12.98,
+          "end": 13.28,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.28,
+      "end": 18.46,
+      "text": "volte para o perigo para provar que perdoou, verdade tamb\u00e9m precisa de prote\u00e7\u00e3o.",
+      "words": [
+        {
+          "word": " volte",
+          "start": 13.28,
+          "end": 13.72,
+          "probability": 0.914
+        },
+        {
+          "word": " para",
+          "start": 13.72,
+          "end": 14.0,
+          "probability": 0.993
+        },
+        {
+          "word": " o",
+          "start": 14.0,
+          "end": 14.14,
+          "probability": 0.978
+        },
+        {
+          "word": " perigo",
+          "start": 14.14,
+          "end": 14.5,
+          "probability": 0.957
+        },
+        {
+          "word": " para",
+          "start": 14.5,
+          "end": 14.74,
+          "probability": 0.786
+        },
+        {
+          "word": " provar",
+          "start": 14.74,
+          "end": 15.16,
+          "probability": 0.933
+        },
+        {
+          "word": " que",
+          "start": 15.16,
+          "end": 15.34,
+          "probability": 0.959
+        },
+        {
+          "word": " perdoou,",
+          "start": 15.34,
+          "end": 15.76,
+          "probability": 0.775
+        },
+        {
+          "word": " verdade",
+          "start": 16.24,
+          "end": 16.64,
+          "probability": 0.963
+        },
+        {
+          "word": " tamb\u00e9m",
+          "start": 16.64,
+          "end": 17.08,
+          "probability": 0.983
+        },
+        {
+          "word": " precisa",
+          "start": 17.08,
+          "end": 17.58,
+          "probability": 0.982
+        },
+        {
+          "word": " de",
+          "start": 17.58,
+          "end": 17.9,
+          "probability": 0.997
+        },
+        {
+          "word": " prote\u00e7\u00e3o.",
+          "start": 17.9,
+          "end": 18.46,
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 19.18,
+      "end": 25.4,
+      "text": "Depois da ressurrei\u00e7\u00e3o Pedro encontra Jesus novamente, e a cena n\u00e3o come\u00e7a com uma humilha\u00e7\u00e3o",
+      "words": [
+        {
+          "word": " Depois",
+          "start": 19.18,
+          "end": 19.54,
+          "probability": 0.963
+        },
+        {
+          "word": " da",
+          "start": 19.54,
+          "end": 19.72,
+          "probability": 0.992
+        },
+        {
+          "word": " ressurrei\u00e7\u00e3o",
+          "start": 19.72,
+          "end": 20.36,
+          "probability": 0.705
+        },
+        {
+          "word": " Pedro",
+          "start": 20.36,
+          "end": 21.1,
+          "probability": 0.387
+        },
+        {
+          "word": " encontra",
+          "start": 21.1,
+          "end": 21.5,
+          "probability": 0.952
+        },
+        {
+          "word": " Jesus",
+          "start": 21.5,
+          "end": 21.9,
+          "probability": 0.949
+        },
+        {
+          "word": " novamente,",
+          "start": 21.9,
+          "end": 22.48,
+          "probability": 0.996
+        },
+        {
+          "word": " e",
+          "start": 23.24,
+          "end": 23.36,
+          "probability": 0.989
+        },
+        {
+          "word": " a",
+          "start": 23.36,
+          "end": 23.48,
+          "probability": 0.973
+        },
+        {
+          "word": " cena",
+          "start": 23.48,
+          "end": 23.58,
+          "probability": 0.854
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 23.58,
+          "end": 23.78,
+          "probability": 0.995
+        },
+        {
+          "word": " come\u00e7a",
+          "start": 23.78,
+          "end": 24.1,
+          "probability": 0.982
+        },
+        {
+          "word": " com",
+          "start": 24.1,
+          "end": 24.44,
+          "probability": 0.971
+        },
+        {
+          "word": " uma",
+          "start": 24.44,
+          "end": 24.7,
+          "probability": 0.995
+        },
+        {
+          "word": " humilha\u00e7\u00e3o",
+          "start": 24.7,
+          "end": 25.4,
+          "probability": 0.936
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 25.4,
+      "end": 29.54,
+      "text": "p\u00fablica. Em Jo\u00e3o, os disc\u00edpulos est\u00e3o perto do mar.",
+      "words": [
+        {
+          "word": " p\u00fablica.",
+          "start": 25.4,
+          "end": 25.9,
+          "probability": 0.739
+        },
+        {
+          "word": " Em",
+          "start": 26.52,
+          "end": 26.78,
+          "probability": 0.854
+        },
+        {
+          "word": " Jo\u00e3o,",
+          "start": 26.78,
+          "end": 27.08,
+          "probability": 0.806
+        },
+        {
+          "word": " os",
+          "start": 27.42,
+          "end": 27.88,
+          "probability": 0.991
+        },
+        {
+          "word": " disc\u00edpulos",
+          "start": 27.88,
+          "end": 28.38,
+          "probability": 0.79
+        },
+        {
+          "word": " est\u00e3o",
+          "start": 28.38,
+          "end": 28.72,
+          "probability": 0.993
+        },
+        {
+          "word": " perto",
+          "start": 28.72,
+          "end": 29.1,
+          "probability": 0.999
+        },
+        {
+          "word": " do",
+          "start": 29.1,
+          "end": 29.26,
+          "probability": 0.984
+        },
+        {
+          "word": " mar.",
+          "start": 29.26,
+          "end": 29.54,
+          "probability": 0.828
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " que",
+      "start": 0.0,
+      "end": 0.12,
+      "probability": 0.498
+    },
+    {
+      "word": " confian\u00e7a,",
+      "start": 0.12,
+      "end": 0.92,
+      "probability": 0.989
+    },
+    {
+      "word": " se",
+      "start": 1.24,
+      "end": 1.48,
+      "probability": 0.973
+    },
+    {
+      "word": " reconstr\u00f3i,",
+      "start": 1.48,
+      "end": 2.22,
+      "probability": 0.918
+    },
+    {
+      "word": " com",
+      "start": 2.52,
+      "end": 2.56,
+      "probability": 0.925
+    },
+    {
+      "word": " tempo,",
+      "start": 2.56,
+      "end": 3.06,
+      "probability": 0.438
+    },
+    {
+      "word": " const\u00e2ncia",
+      "start": 3.6,
+      "end": 4.34,
+      "probability": 0.591
+    },
+    {
+      "word": " e",
+      "start": 4.34,
+      "end": 4.82,
+      "probability": 0.893
+    },
+    {
+      "word": " atitudes",
+      "start": 4.82,
+      "end": 5.28,
+      "probability": 0.941
+    },
+    {
+      "word": " novas,",
+      "start": 5.28,
+      "end": 5.74,
+      "probability": 0.993
+    },
+    {
+      "word": " e",
+      "start": 6.38,
+      "end": 6.54,
+      "probability": 0.961
+    },
+    {
+      "word": " quando",
+      "start": 6.54,
+      "end": 6.76,
+      "probability": 0.981
+    },
+    {
+      "word": " a",
+      "start": 6.76,
+      "end": 6.88,
+      "probability": 0.83
+    },
+    {
+      "word": " dor",
+      "start": 6.88,
+      "end": 7.02,
+      "probability": 0.812
+    },
+    {
+      "word": " vem",
+      "start": 7.02,
+      "end": 7.24,
+      "probability": 0.826
+    },
+    {
+      "word": " de",
+      "start": 7.24,
+      "end": 7.44,
+      "probability": 0.926
+    },
+    {
+      "word": " uma",
+      "start": 7.44,
+      "end": 7.56,
+      "probability": 0.996
+    },
+    {
+      "word": " situa\u00e7\u00e3o",
+      "start": 7.56,
+      "end": 8.06,
+      "probability": 0.989
+    },
+    {
+      "word": " de",
+      "start": 8.06,
+      "end": 8.28,
+      "probability": 0.988
+    },
+    {
+      "word": " viol\u00eancia,",
+      "start": 8.28,
+      "end": 8.86,
+      "probability": 0.99
+    },
+    {
+      "word": " manipula\u00e7\u00e3o",
+      "start": 9.76,
+      "end": 10.46,
+      "probability": 0.991
+    },
+    {
+      "word": " ou",
+      "start": 10.46,
+      "end": 10.62,
+      "probability": 0.929
+    },
+    {
+      "word": " risco,",
+      "start": 10.62,
+      "end": 11.06,
+      "probability": 0.988
+    },
+    {
+      "word": " a",
+      "start": 11.56,
+      "end": 11.7,
+      "probability": 0.928
+    },
+    {
+      "word": " rependimento",
+      "start": 11.7,
+      "end": 12.14,
+      "probability": 0.726
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 12.14,
+      "end": 12.38,
+      "probability": 0.998
+    },
+    {
+      "word": " pede",
+      "start": 12.38,
+      "end": 12.76,
+      "probability": 0.876
+    },
+    {
+      "word": " que",
+      "start": 12.76,
+      "end": 12.98,
+      "probability": 0.983
+    },
+    {
+      "word": " ningu\u00e9m",
+      "start": 12.98,
+      "end": 13.28,
+      "probability": 0.996
+    },
+    {
+      "word": " volte",
+      "start": 13.28,
+      "end": 13.72,
+      "probability": 0.914
+    },
+    {
+      "word": " para",
+      "start": 13.72,
+      "end": 14.0,
+      "probability": 0.993
+    },
+    {
+      "word": " o",
+      "start": 14.0,
+      "end": 14.14,
+      "probability": 0.978
+    },
+    {
+      "word": " perigo",
+      "start": 14.14,
+      "end": 14.5,
+      "probability": 0.957
+    },
+    {
+      "word": " para",
+      "start": 14.5,
+      "end": 14.74,
+      "probability": 0.786
+    },
+    {
+      "word": " provar",
+      "start": 14.74,
+      "end": 15.16,
+      "probability": 0.933
+    },
+    {
+      "word": " que",
+      "start": 15.16,
+      "end": 15.34,
+      "probability": 0.959
+    },
+    {
+      "word": " perdoou,",
+      "start": 15.34,
+      "end": 15.76,
+      "probability": 0.775
+    },
+    {
+      "word": " verdade",
+      "start": 16.24,
+      "end": 16.64,
+      "probability": 0.963
+    },
+    {
+      "word": " tamb\u00e9m",
+      "start": 16.64,
+      "end": 17.08,
+      "probability": 0.983
+    },
+    {
+      "word": " precisa",
+      "start": 17.08,
+      "end": 17.58,
+      "probability": 0.982
+    },
+    {
+      "word": " de",
+      "start": 17.58,
+      "end": 17.9,
+      "probability": 0.997
+    },
+    {
+      "word": " prote\u00e7\u00e3o.",
+      "start": 17.9,
+      "end": 18.46,
+      "probability": 0.995
+    },
+    {
+      "word": " Depois",
+      "start": 19.18,
+      "end": 19.54,
+      "probability": 0.963
+    },
+    {
+      "word": " da",
+      "start": 19.54,
+      "end": 19.72,
+      "probability": 0.992
+    },
+    {
+      "word": " ressurrei\u00e7\u00e3o",
+      "start": 19.72,
+      "end": 20.36,
+      "probability": 0.705
+    },
+    {
+      "word": " Pedro",
+      "start": 20.36,
+      "end": 21.1,
+      "probability": 0.387
+    },
+    {
+      "word": " encontra",
+      "start": 21.1,
+      "end": 21.5,
+      "probability": 0.952
+    },
+    {
+      "word": " Jesus",
+      "start": 21.5,
+      "end": 21.9,
+      "probability": 0.949
+    },
+    {
+      "word": " novamente,",
+      "start": 21.9,
+      "end": 22.48,
+      "probability": 0.996
+    },
+    {
+      "word": " e",
+      "start": 23.24,
+      "end": 23.36,
+      "probability": 0.989
+    },
+    {
+      "word": " a",
+      "start": 23.36,
+      "end": 23.48,
+      "probability": 0.973
+    },
+    {
+      "word": " cena",
+      "start": 23.48,
+      "end": 23.58,
+      "probability": 0.854
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 23.58,
+      "end": 23.78,
+      "probability": 0.995
+    },
+    {
+      "word": " come\u00e7a",
+      "start": 23.78,
+      "end": 24.1,
+      "probability": 0.982
+    },
+    {
+      "word": " com",
+      "start": 24.1,
+      "end": 24.44,
+      "probability": 0.971
+    },
+    {
+      "word": " uma",
+      "start": 24.44,
+      "end": 24.7,
+      "probability": 0.995
+    },
+    {
+      "word": " humilha\u00e7\u00e3o",
+      "start": 24.7,
+      "end": 25.4,
+      "probability": 0.936
+    },
+    {
+      "word": " p\u00fablica.",
+      "start": 25.4,
+      "end": 25.9,
+      "probability": 0.739
+    },
+    {
+      "word": " Em",
+      "start": 26.52,
+      "end": 26.78,
+      "probability": 0.854
+    },
+    {
+      "word": " Jo\u00e3o,",
+      "start": 26.78,
+      "end": 27.08,
+      "probability": 0.806
+    },
+    {
+      "word": " os",
+      "start": 27.42,
+      "end": 27.88,
+      "probability": 0.991
+    },
+    {
+      "word": " disc\u00edpulos",
+      "start": 27.88,
+      "end": 28.38,
+      "probability": 0.79
+    },
+    {
+      "word": " est\u00e3o",
+      "start": 28.38,
+      "end": 28.72,
+      "probability": 0.993
+    },
+    {
+      "word": " perto",
+      "start": 28.72,
+      "end": 29.1,
+      "probability": 0.999
+    },
+    {
+      "word": " do",
+      "start": 29.1,
+      "end": 29.26,
+      "probability": 0.984
+    },
+    {
+      "word": " mar.",
+      "start": 29.26,
+      "end": 29.54,
+      "probability": 0.828
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 30.037,
+  "model_size": "base",
+  "device": "cpu"
+}

@@ -1,32 +1,24 @@
 # Projeto Canais Dark
 
-Este repositório registra o desenvolvimento de uma fábrica de canais dark e de
-vídeos. O primeiro campo de prova é o canal religioso `A Palavra que Cuida`.
+Este repositório desenvolve uma fábrica universal de operações de conteúdo. Uma operação concreta pode representar um canal, perfil, marca ou experimento e declara suas próprias superfícies, formatos, políticas e maturidade.
 
 ## Estrutura
 
-- `ai/`: memória do projeto e núcleo candidato da fábrica, com contratos,
-  políticas e testes em Python.
-- `Canal Religioso/`: briefs, roteiros, evidências e materiais textuais de
-  produção do primeiro canal.
-- `00_incubadora/`: experimentos e evidências de hipóteses de novos canais.
+- `factory/`: contratos, runtime, políticas universais, capacidades opcionais e testes.
+- `operations/`: operações concretas; a atual é `operations/a-palavra-que-cuida/`.
+- `audits/`: auditorias e evidências de vereditos.
+- `decisions/`: decisões arquiteturais curtas.
+- `research/`: pesquisa transversal e fotografias históricas de preparação.
+- `ai/`: memória contextual mínima do agente.
 
-## Tecnologias identificadas
+O “casulo” não é uma pasta. É o regime de maturação descrito pelo lifecycle da operação, pelo estado granular de capacidades, por baselines reproduzíveis, gates de regressão e execuções limpas.
 
-O projeto contém Python, PowerShell, JSON Schema, YAML e Markdown. A composição
-audiovisual local utiliza OpenMontage, mantido fora deste repositório por ser uma
-ferramenta externa com dependências, ambientes locais e artefatos de trabalho.
+## Testes
 
-## Testes conhecidos
-
-Com o ambiente local do OpenMontage configurado, o núcleo da fábrica pode ser
-testado com:
+Com o ambiente Python local já configurado:
 
 ```powershell
-tools\OpenMontage\.venv\Scripts\python.exe -m unittest discover ai\fabrica\tests
+tools\OpenMontage\.venv\Scripts\python.exe -m unittest discover factory\tests
 ```
 
-## Configuração local
-
-Credenciais e arquivos `.env` permanecem exclusivamente na máquina local e não
-devem ser adicionados ao repositório.
+O OpenMontage permanece ferramenta externa em `tools/`. Credenciais, `.env`, mídia e estado local do editor não fazem parte da fábrica nem devem ser versionados.

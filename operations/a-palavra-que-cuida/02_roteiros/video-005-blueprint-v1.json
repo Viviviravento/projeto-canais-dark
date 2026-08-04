@@ -1,0 +1,107 @@
+{
+  "video_id": "video-005",
+  "title_working": "Gênesis e a criação: o que o começo do mundo revela sobre Deus e sobre você",
+  "status": "preproduction_ready_pending_audio_approval",
+  "duration_target": {
+    "min_minutes": 10,
+    "max_minutes": 12.5,
+    "estimated_from_script_minutes": 12.08
+  },
+  "editorial_promise": "Mostrar que Gênesis não é apenas uma página antiga sobre o passado, mas uma base bíblica para ordem, dignidade humana, cuidado, trabalho e descanso.",
+  "chapters": [
+    {
+      "id": "01-antes-da-discussao-o-comeco",
+      "label": "Antes da discussão, o começo",
+      "visual_role": "Abrir com criação, amanhecer e escala do mundo sem entrar em debate técnico."
+    },
+    {
+      "id": "02-deus-comeca-onde-ha-vazio",
+      "label": "Deus começa onde nós só veríamos vazio",
+      "visual_role": "Transitar de escuridão/águas para presença e esperança, evitando terror ou fantasia excessiva."
+    },
+    {
+      "id": "03-a-palavra-que-ilumina",
+      "label": "A palavra que ilumina e separa",
+      "visual_role": "Luz entrando, separação de elementos, ordem visual e ritmo."
+    },
+    {
+      "id": "04-o-mundo-nao-e-descartavel",
+      "label": "O mundo criado não é descartável",
+      "visual_role": "Natureza brasileira, alimento, casa, corpo e criação recebida com cuidado."
+    },
+    {
+      "id": "05-valor-antes-da-performance",
+      "label": "Valor antes da performance",
+      "visual_role": "Mulheres brasileiras/latinas em cenas comuns, dignas e íntimas, sem pose publicitária."
+    },
+    {
+      "id": "06-muito-bom-e-responsavel",
+      "label": "Muito bom não significa sem responsabilidade",
+      "visual_role": "Beleza da criação contrastada com consumo e excesso, sem tom apocalíptico."
+    },
+    {
+      "id": "07-trabalhar-e-guardar",
+      "label": "Trabalhar e guardar",
+      "visual_role": "Mãos, jardim, mesa, rotina doméstica e cuidado; inserir detalhe artesanal sutil se couber."
+    },
+    {
+      "id": "08-o-comeco-ensina-descanso",
+      "label": "O começo também ensina descanso",
+      "visual_role": "Casa no fim do dia, pausa, respiração, rede ou manta discreta, sem parecer propaganda de bem-estar."
+    },
+    {
+      "id": "09-fechamento-e-convite",
+      "label": "Fechamento e convite",
+      "visual_role": "Encerramento limpo com canal e handle central, sem caixas fixas de vídeo."
+    }
+  ],
+  "visual_direction": {
+    "people": "Priorizar mulheres brasileiras/latinas comuns, semelhantes em naturalidade às personagens aprovadas nos dois primeiros vídeos.",
+    "craft_detail": "Inserir uma peça de crochê ou artesanato brasileiro de forma sutil uma vez no vídeo, por exemplo em mesa, sofá, apoio de xícara ou manta.",
+    "text_policy": "Sem placas editoriais sobre B-roll. Texto fora de legenda só entra em citações bíblicas durante leitura direta e na tela final estrutural.",
+    "scripture_cards": "Cada citação ACF aparece somente enquanto o narrador lê o versículo correspondente e permanece até a última palavra da leitura.",
+    "end_screen": "Sem quadrados ou espaços predeterminados para vídeos. Final com nome do canal e @apalavraquecuidabr centralizado."
+  },
+  "thumbnail_direction": {
+    "phrase": "O COMEÇO NÃO É CAOS",
+    "visual": "Pessoa brasileira em contemplação diante de luz entrando pela janela ou paisagem de criação, com contraste forte e sem estética de ficção científica.",
+    "avoid": [
+      "globo terrestre genérico de banco de imagem",
+      "Adão e Eva sensacionalistas",
+      "disputa ciência versus fé na thumbnail"
+    ]
+  },
+  "shorts_candidates": [
+    {
+      "id": "video-005-curto-01",
+      "title": "Você não começa a ter valor quando produz",
+      "source_sections": ["05"],
+      "promise": "Imagem de Deus como dignidade antes da performance."
+    },
+    {
+      "id": "video-005-curto-02",
+      "title": "Nem todo limite é prisão",
+      "source_sections": ["03"],
+      "promise": "Gênesis mostra limite como cuidado e ordem."
+    },
+    {
+      "id": "video-005-curto-03",
+      "title": "Trabalhar sem guardar também adoece",
+      "source_sections": ["07"],
+      "promise": "Lavrar e guardar como correção para produtividade sem cuidado."
+    },
+    {
+      "id": "video-005-curto-04",
+      "title": "Deus não precisa encontrar tudo pronto",
+      "source_sections": ["02"],
+      "promise": "Esperança para fases sem forma, sem transformar aplicação em promessa mágica."
+    }
+  ],
+  "next_gates": [
+    "Aprovação humana do roteiro ou autorização para gerar áudio.",
+    "Gerar narração sem retentativa automática, dentro do teto de 5,000 créditos.",
+    "Revisar áudio completo antes de assets pagos.",
+    "Planejar imagens com reaproveitamento de acervo e geração seletiva.",
+    "Renderizar proxy/preview antes do master final."
+  ]
+}

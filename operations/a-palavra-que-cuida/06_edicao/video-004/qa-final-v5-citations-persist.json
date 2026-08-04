@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-004",
+  "version": "v5-citations-persist",
+  "render": {
+    "file": "07_exports/video-004/a-infancia-de-jesus-o-que-a-biblia-diz-v5-citations-persist.mp4",
+    "sha256": "33BB3B2E3AF62DD318019927937E90BB029D12B108DA89FEE8ACCE79E56DFE28",
+    "size_bytes": 538137584,
+    "duration_seconds": 707.456,
+    "video": "H.264, 1920x1080, 30 fps",
+    "audio": "AAC, 48000 Hz, estéreo"
+  },
+  "citation_layering": {
+    "method": "cartas bíblicas aplicadas acima do master durante toda a faixa de leitura",
+    "intervals_seconds": [
+      [103.727619, 115.093333],
+      [150.15619, 159.941905],
+      [255.087619, 268.54381],
+      [350.754286, 362.154286],
+      [417.041905, 429.060952],
+      [481.306667, 491.999048]
+    ],
+    "final_frame_check": "pass"
+  },
+  "visual_sampling": [
+    "06_edicao/video-004/qa-frames-v5-citations-persist/01-lucas-2-40-final.png",
+    "06_edicao/video-004/qa-frames-v5-citations-persist/02-lucas-2-41-final.png",
+    "06_edicao/video-004/qa-frames-v5-citations-persist/03-lucas-2-46-final.png",
+    "06_edicao/video-004/qa-frames-v5-citations-persist/04-lucas-2-49-final.png",
+    "06_edicao/video-004/qa-frames-v5-citations-persist/05-lucas-2-51-final.png",
+    "06_edicao/video-004/qa-frames-v5-citations-persist/06-lucas-2-52-final.png"
+  ],
+  "cost": {
+    "external_ai": "none",
+    "credits_consumed": 0
+  },
+  "publication_status": "review_only_human_approval_required"
+}

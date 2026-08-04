@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "source_video": "video-006",
+  "rendered_editorial_derivatives": [
+    {
+      "derivative_id": "video-006-curto-01",
+      "title": "Jesus chama você pelo nome na ansiedade",
+      "source_windows": [
+        {
+          "start": 300.275,
+          "end": 384.805
+        }
+      ],
+      "spoken_duration_seconds": 84.53,
+      "total_duration_seconds": 88.53,
+      "audio": "tools/OpenMontage/remotion-composer/public/video-006-curtos/audio/video-006-curto-01-narracao.wav",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-006/shorts/props/video-006-curto-01-shorts-e-tiktok.json",
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "video-006-curto-02",
+      "title": "Sobrecarga também precisa de ajuda real",
+      "source_windows": [
+        {
+          "start": 577.025,
+          "end": 661.3
+        }
+      ],
+      "spoken_duration_seconds": 84.276,
+      "total_duration_seconds": 88.276,
+      "audio": "tools/OpenMontage/remotion-composer/public/video-006-curtos/audio/video-006-curto-02-narracao.wav",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-006/shorts/props/video-006-curto-02-shorts-e-tiktok.json",
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    }
+  ],
+  "editorial_derivative_count": 2,
+  "physical_mp4_target_count": 2,
+  "paid_api_cost_usd": 0,
+  "method": "Narração e imagens canônicas, alinhamento aprovado, recomposição vertical manual em cover e render local."
+}

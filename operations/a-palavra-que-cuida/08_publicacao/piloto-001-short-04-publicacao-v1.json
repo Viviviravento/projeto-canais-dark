@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "derivative_id": "piloto-001-short-04",
+  "source_video_id": "piloto-001",
+  "slot": {
+    "scheduled_at": "2026-07-30T17:00:00-03:00",
+    "executed_at": "2026-07-30T22:42:22-03:00",
+    "cadence": "terça, quinta e sábado; 11h e 17h",
+    "execution_note": "O despacho foi executado assim que chegou a este chat, depois do horário nominal do slot."
+  },
+  "youtube_shorts": {
+    "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001-short-04-youtube-short-v2.mp4",
+    "sha256": "61a96b60d0e0d2aa10ad39a8a54225a70f44f00edaed3ef0d0be52579a2b7e1c",
+    "title": "Quando o cuidado se transforma em prisão",
+    "publication": {
+      "status": "published",
+      "visibility": "public",
+      "video_id": "I2iXGna0Rvk",
+      "url": "https://youtube.com/shorts/I2iXGna0Rvk",
+      "public_visibility_saved_at": "2026-08-01T17:09:21-03:00",
+      "recovery_note": "O Studio listava o Short como privado apesar do manifesto anterior registrar publica\u00e7\u00e3o. A visibilidade P\u00fablico foi salva e verificada no slot de 01/08/2026 \u00e0s 17h."
+    },
+    "settings": {
+      "made_for_kids": false,
+      "altered_or_synthetic_content": true,
+      "video_language": "pt-BR",
+      "category": "Educação",
+      "copyright_check": "pass",
+      "related_long_video_id": "ZkmCkF6XR_g",
+      "related_long_video_url_in_description": true,
+      "native_related_video": "blocked_pending_one_time_advanced_features_verification"
+    },
+    "qa": {
+      "dimensions": "1080x1920",
+      "duration_seconds": 68.566667,
+      "first_frame": "pass_character_image_non_black",
+      "blank_notebook_image": "not_present",
+      "sd_processing": "complete",
+      "hd_processing": "complete",
+      "copyright": "pass"
+    }
+  },
+  "tiktok": {
+    "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001-short-04-tiktok-v2.mp4",
+    "sha256": "2ad71c4ccffc6ddf5f251de927fd2b63a0537be0b195361c48b03bc16243f27f",
+    "caption": "Ser responsável importa. Mas o amor não deveria exigir que você esteja disponível, forte e atenta o tempo inteiro. Pedir ajuda também é cuidado. 🙏 #CansaçoEmocional #FéCristã #ReflexãoBíblica #DeusCuidaDeVocê",
+    "cover": "primeiro frame com a personagem e a frase Outros pesos quase nunca recebem nome.",
+    "location": null,
+    "publication": {
+      "status": "published",
+      "published": true,
+      "visibility": "public",
+      "published_at": "2026-08-01T11:05:00-03:00",
+      "video_id": "7669063973777575176",
+      "url": "https://www.tiktok.com/@a.palavra.que.cuida/video/7669063973777575176",
+      "copyright_check": "pass",
+      "content_eligibility_check": "pass"
+    },
+    "transfer_to_tablet": {
+      "status": "sent",
+      "target": "btkr-w09",
+      "tailscale": "active_direct"
+    }
+  },
+  "correction": {
+    "reason": "O arquivo aprovado v1 começava com um frame escuro, contrariando a regra de capa do canal.",
+    "change": "Os primeiros 0,5 segundo foram substituídos pela primeira imagem da personagem no próprio vídeo; áudio, duração e restante da edição foram preservados.",
+    "source_versions_preserved": true
+  },
+  "verification_audit": {
+    "verified_at": "2026-08-04T13:32:06-03:00",
+    "studio_content_list": "stale_private_label",
+    "direct_public_url": "https://www.youtube.com/shorts/I2iXGna0Rvk",
+    "direct_public_result": "accessible_as_public_video",
+    "note": "A lista do Studio continuou exibindo Privado após a recuperação, mas a página pública do Short carregou com título, player e ações públicas. O estado canônico é público."
+  }
+}

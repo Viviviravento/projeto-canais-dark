@@ -1,0 +1,181 @@
+{
+  "derivativeId": "video-004-curto-02",
+  "title": "O detalhe que impede dois erros",
+  "platform": "universal",
+  "audioFile": "video-004-curtos/audio/video-004-curto-02-narracao.wav",
+  "spokenDurationSeconds": 63.565,
+  "endCardSeconds": 4.0,
+  "hook": "O detalhe que impede dois erros",
+  "hookEndSeconds": 4.2,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "asset": "video-004-curtos/images/historical/h10-retorno-pelo-caminho-v1.png",
+      "focus": "30% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 7.0,
+      "end": 20.0,
+      "asset": "video-004-curtos/images/historical/h10-retorno-pelo-caminho-v1.png",
+      "focus": "30% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 20.0,
+      "end": 28.0,
+      "asset": "video-004-curtos/images/historical/h05-casa-de-nazare-v1.png",
+      "focus": "28% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 28.0,
+      "end": 36.0,
+      "asset": "video-004-curtos/images/historical/h06-reflexao-domestica-v1.png",
+      "focus": "30% 49%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 36.0,
+      "end": 44.0,
+      "asset": "video-004-curtos/images/brazil/b07-responsabilidade-comum-v1.png",
+      "focus": "42% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 44.0,
+      "end": 52.0,
+      "asset": "video-004-curtos/images/historical/h01-jesus-no-templo-v1.png",
+      "focus": "67% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 52.0,
+      "end": 59.0,
+      "asset": "video-004-curtos/images/brazil/b05-mesa-com-croche-v1.png",
+      "focus": "27% 49%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 59.0,
+      "end": 63.565,
+      "asset": "video-004-curtos/images/historical/h06-reflexao-domestica-v1.png",
+      "focus": "30% 49%",
+      "scale": 1.0,
+      "fit": "cover"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.08,
+      "end": 4.249,
+      "text": "Depois dessa resposta, Lucas acrescenta um detalhe decisivo."
+    },
+    {
+      "start": 4.635,
+      "end": 7.599,
+      "text": "Lucas, capítulo dois, versículo cinquenta e um,"
+    },
+    {
+      "start": 7.698,
+      "end": 11.115,
+      "text": "diz: \"E desceu com eles, e foi para Nazaré,"
+    },
+    {
+      "start": 11.248,
+      "end": 14.974,
+      "text": "e era-lhes sujeito. E sua mãe guardava no seu"
+    },
+    {
+      "start": 15.008,
+      "end": 18.59,
+      "text": "coração todas estas coisas.\" Jesus fala dos negócios de"
+    },
+    {
+      "start": 18.645,
+      "end": 21.442,
+      "text": "seu Pai e, logo depois, volta com José e"
+    },
+    {
+      "start": 21.509,
+      "end": 25.003,
+      "text": "Maria para Nazaré. Ele não usa sua identidade como"
+    },
+    {
+      "start": 25.069,
+      "end": 27.114,
+      "text": "desculpa para desprezar a família."
+    },
+    {
+      "start": 27.424,
+      "end": 30.388,
+      "text": "O texto mantém as duas verdades diante de nós:"
+    },
+    {
+      "start": 31.161,
+      "end": 33.749,
+      "text": "há uma missão divina única e há uma vida"
+    },
+    {
+      "start": 33.793,
+      "end": 36.624,
+      "text": "concreta de obediência dentro de uma casa."
+    },
+    {
+      "start": 37.088,
+      "end": 38.492,
+      "text": "Isso impede dois erros:"
+    },
+    {
+      "start": 38.78,
+      "end": 43.114,
+      "text": "reduzir Jesus a um menino de talento precoce ou"
+    },
+    {
+      "start": 43.17,
+      "end": 46.31,
+      "text": "imaginar que sua missão o afastava da vida humana"
+    },
+    {
+      "start": 46.343,
+      "end": 50.324,
+      "text": "real. Lucas apresenta uma identidade que começa a se"
+    },
+    {
+      "start": 50.368,
+      "end": 53.829,
+      "text": "manifestar e uma submissão vivida no cotidiano."
+    },
+    {
+      "start": 54.404,
+      "end": 57.279,
+      "text": "Maria guarda aquelas coisas no coração."
+    },
+    {
+      "start": 58.186,
+      "end": 60.928,
+      "text": "Há momentos em que a fé precisa guardar uma"
+    },
+    {
+      "start": 60.971,
+      "end": 63.415,
+      "text": "pergunta sem forçar uma resposta."
+    }
+  ],
+  "scriptures": [
+    {
+      "start": 8.616,
+      "end": 16.688,
+      "text": "E desceu com eles, e foi para Nazaré, e era-lhes sujeito. E sua mãe guardava no seu coração todas estas coisas.",
+      "reference": "Lucas 2:51 — ACF"
+    }
+  ]
+}

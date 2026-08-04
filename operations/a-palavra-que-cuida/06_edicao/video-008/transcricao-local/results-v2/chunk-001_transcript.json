@@ -1,0 +1,950 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.06,
+      "text": "por quem \u00e9 de verdade. Agora n\u00e3o adianta tentar. Agora as pessoas s\u00f3 v\u00e3o lembrar do pior",
+      "words": [
+        {
+          "word": " por",
+          "start": 0.0,
+          "end": 0.0,
+          "probability": 0.016
+        },
+        {
+          "word": " quem",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.124
+        },
+        {
+          "word": " \u00e9",
+          "start": 0.24,
+          "end": 0.4,
+          "probability": 0.989
+        },
+        {
+          "word": " de",
+          "start": 0.4,
+          "end": 0.52,
+          "probability": 0.799
+        },
+        {
+          "word": " verdade.",
+          "start": 0.52,
+          "end": 1.04,
+          "probability": 0.996
+        },
+        {
+          "word": " Agora",
+          "start": 1.96,
+          "end": 2.14,
+          "probability": 0.935
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 2.14,
+          "end": 2.32,
+          "probability": 0.918
+        },
+        {
+          "word": " adianta",
+          "start": 2.32,
+          "end": 2.74,
+          "probability": 0.972
+        },
+        {
+          "word": " tentar.",
+          "start": 2.74,
+          "end": 3.1,
+          "probability": 0.986
+        },
+        {
+          "word": " Agora",
+          "start": 3.96,
+          "end": 4.14,
+          "probability": 0.949
+        },
+        {
+          "word": " as",
+          "start": 4.14,
+          "end": 4.36,
+          "probability": 0.99
+        },
+        {
+          "word": " pessoas",
+          "start": 4.36,
+          "end": 4.68,
+          "probability": 1.0
+        },
+        {
+          "word": " s\u00f3",
+          "start": 4.68,
+          "end": 4.98,
+          "probability": 0.878
+        },
+        {
+          "word": " v\u00e3o",
+          "start": 4.98,
+          "end": 5.14,
+          "probability": 0.997
+        },
+        {
+          "word": " lembrar",
+          "start": 5.14,
+          "end": 5.52,
+          "probability": 0.997
+        },
+        {
+          "word": " do",
+          "start": 5.52,
+          "end": 5.78,
+          "probability": 0.979
+        },
+        {
+          "word": " pior",
+          "start": 5.78,
+          "end": 6.06,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.06,
+      "end": 12.7,
+      "text": "momento e \u00e0s vezes ela parece t\u00e3o convincente que a pessoa n\u00e3o procura ajuda. N\u00e3o pede",
+      "words": [
+        {
+          "word": " momento",
+          "start": 6.06,
+          "end": 6.6,
+          "probability": 0.997
+        },
+        {
+          "word": " e",
+          "start": 6.6,
+          "end": 7.36,
+          "probability": 0.337
+        },
+        {
+          "word": " \u00e0s",
+          "start": 7.36,
+          "end": 7.46,
+          "probability": 0.69
+        },
+        {
+          "word": " vezes",
+          "start": 7.46,
+          "end": 7.72,
+          "probability": 0.999
+        },
+        {
+          "word": " ela",
+          "start": 7.72,
+          "end": 7.94,
+          "probability": 0.963
+        },
+        {
+          "word": " parece",
+          "start": 7.94,
+          "end": 8.2,
+          "probability": 0.895
+        },
+        {
+          "word": " t\u00e3o",
+          "start": 8.2,
+          "end": 8.56,
+          "probability": 0.997
+        },
+        {
+          "word": " convincente",
+          "start": 8.56,
+          "end": 9.24,
+          "probability": 0.815
+        },
+        {
+          "word": " que",
+          "start": 9.24,
+          "end": 9.44,
+          "probability": 0.989
+        },
+        {
+          "word": " a",
+          "start": 9.44,
+          "end": 9.5,
+          "probability": 0.997
+        },
+        {
+          "word": " pessoa",
+          "start": 9.5,
+          "end": 9.84,
+          "probability": 0.998
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 9.84,
+          "end": 10.06,
+          "probability": 0.996
+        },
+        {
+          "word": " procura",
+          "start": 10.06,
+          "end": 10.62,
+          "probability": 0.991
+        },
+        {
+          "word": " ajuda.",
+          "start": 10.62,
+          "end": 11.18,
+          "probability": 0.838
+        },
+        {
+          "word": " N\u00e3o",
+          "start": 12.32,
+          "end": 12.42,
+          "probability": 0.957
+        },
+        {
+          "word": " pede",
+          "start": 12.42,
+          "end": 12.7,
+          "probability": 0.961
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.7,
+      "end": 19.6,
+      "text": "perd\u00e3o, n\u00e3o conversa, n\u00e3o repara. Apenas se esconde, a hist\u00f3ria de Pedro passa por esse",
+      "words": [
+        {
+          "word": " perd\u00e3o,",
+          "start": 12.7,
+          "end": 13.16,
+          "probability": 0.97
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 13.68,
+          "end": 13.76,
+          "probability": 0.991
+        },
+        {
+          "word": " conversa,",
+          "start": 13.76,
+          "end": 14.44,
+          "probability": 0.935
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 15.16,
+          "end": 15.26,
+          "probability": 0.994
+        },
+        {
+          "word": " repara.",
+          "start": 15.26,
+          "end": 15.66,
+          "probability": 0.927
+        },
+        {
+          "word": " Apenas",
+          "start": 16.22,
+          "end": 16.58,
+          "probability": 0.866
+        },
+        {
+          "word": " se",
+          "start": 16.58,
+          "end": 16.76,
+          "probability": 0.967
+        },
+        {
+          "word": " esconde,",
+          "start": 16.76,
+          "end": 17.16,
+          "probability": 0.987
+        },
+        {
+          "word": " a",
+          "start": 17.9,
+          "end": 17.98,
+          "probability": 0.981
+        },
+        {
+          "word": " hist\u00f3ria",
+          "start": 17.98,
+          "end": 18.24,
+          "probability": 0.984
+        },
+        {
+          "word": " de",
+          "start": 18.24,
+          "end": 18.44,
+          "probability": 0.998
+        },
+        {
+          "word": " Pedro",
+          "start": 18.44,
+          "end": 18.74,
+          "probability": 0.771
+        },
+        {
+          "word": " passa",
+          "start": 18.74,
+          "end": 19.12,
+          "probability": 0.989
+        },
+        {
+          "word": " por",
+          "start": 19.12,
+          "end": 19.4,
+          "probability": 0.995
+        },
+        {
+          "word": " esse",
+          "start": 19.4,
+          "end": 19.6,
+          "probability": 0.991
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 19.6,
+      "end": 26.12,
+      "text": "lugar, n\u00e3o para nos ensinar a fingir que uma queda n\u00e3o importa. Mas para mostrar que Jesus",
+      "words": [
+        {
+          "word": " lugar,",
+          "start": 19.6,
+          "end": 19.88,
+          "probability": 0.998
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 20.56,
+          "end": 20.74,
+          "probability": 0.988
+        },
+        {
+          "word": " para",
+          "start": 20.74,
+          "end": 21.02,
+          "probability": 0.969
+        },
+        {
+          "word": " nos",
+          "start": 21.02,
+          "end": 21.24,
+          "probability": 0.997
+        },
+        {
+          "word": " ensinar",
+          "start": 21.24,
+          "end": 21.64,
+          "probability": 0.992
+        },
+        {
+          "word": " a",
+          "start": 21.64,
+          "end": 22.14,
+          "probability": 0.951
+        },
+        {
+          "word": " fingir",
+          "start": 22.14,
+          "end": 22.64,
+          "probability": 0.999
+        },
+        {
+          "word": " que",
+          "start": 22.64,
+          "end": 22.78,
+          "probability": 0.992
+        },
+        {
+          "word": " uma",
+          "start": 22.78,
+          "end": 22.92,
+          "probability": 0.98
+        },
+        {
+          "word": " queda",
+          "start": 22.92,
+          "end": 23.18,
+          "probability": 0.966
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 23.18,
+          "end": 23.66,
+          "probability": 0.998
+        },
+        {
+          "word": " importa.",
+          "start": 23.66,
+          "end": 24.18,
+          "probability": 0.997
+        },
+        {
+          "word": " Mas",
+          "start": 24.76,
+          "end": 24.96,
+          "probability": 0.965
+        },
+        {
+          "word": " para",
+          "start": 24.96,
+          "end": 25.16,
+          "probability": 0.951
+        },
+        {
+          "word": " mostrar",
+          "start": 25.16,
+          "end": 25.5,
+          "probability": 0.975
+        },
+        {
+          "word": " que",
+          "start": 25.5,
+          "end": 25.76,
+          "probability": 0.991
+        },
+        {
+          "word": " Jesus",
+          "start": 25.76,
+          "end": 26.12,
+          "probability": 0.975
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 26.12,
+      "end": 30.0,
+      "text": "n\u00e3o confunde uma queda com o fim de uma hist\u00f3ria.",
+      "words": [
+        {
+          "word": " n\u00e3o",
+          "start": 26.12,
+          "end": 26.82,
+          "probability": 0.278
+        },
+        {
+          "word": " confunde",
+          "start": 26.82,
+          "end": 27.46,
+          "probability": 0.857
+        },
+        {
+          "word": " uma",
+          "start": 27.46,
+          "end": 27.66,
+          "probability": 0.965
+        },
+        {
+          "word": " queda",
+          "start": 27.66,
+          "end": 28.02,
+          "probability": 0.981
+        },
+        {
+          "word": " com",
+          "start": 28.02,
+          "end": 28.68,
+          "probability": 0.966
+        },
+        {
+          "word": " o",
+          "start": 28.68,
+          "end": 28.94,
+          "probability": 0.967
+        },
+        {
+          "word": " fim",
+          "start": 28.94,
+          "end": 29.14,
+          "probability": 0.966
+        },
+        {
+          "word": " de",
+          "start": 29.14,
+          "end": 29.72,
+          "probability": 0.919
+        },
+        {
+          "word": " uma",
+          "start": 29.72,
+          "end": 29.86,
+          "probability": 0.772
+        },
+        {
+          "word": " hist\u00f3ria.",
+          "start": 29.86,
+          "end": 30.0,
+          "probability": 0.181
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " por",
+      "start": 0.0,
+      "end": 0.0,
+      "probability": 0.016
+    },
+    {
+      "word": " quem",
+      "start": 0.0,
+      "end": 0.24,
+      "probability": 0.124
+    },
+    {
+      "word": " \u00e9",
+      "start": 0.24,
+      "end": 0.4,
+      "probability": 0.989
+    },
+    {
+      "word": " de",
+      "start": 0.4,
+      "end": 0.52,
+      "probability": 0.799
+    },
+    {
+      "word": " verdade.",
+      "start": 0.52,
+      "end": 1.04,
+      "probability": 0.996
+    },
+    {
+      "word": " Agora",
+      "start": 1.96,
+      "end": 2.14,
+      "probability": 0.935
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 2.14,
+      "end": 2.32,
+      "probability": 0.918
+    },
+    {
+      "word": " adianta",
+      "start": 2.32,
+      "end": 2.74,
+      "probability": 0.972
+    },
+    {
+      "word": " tentar.",
+      "start": 2.74,
+      "end": 3.1,
+      "probability": 0.986
+    },
+    {
+      "word": " Agora",
+      "start": 3.96,
+      "end": 4.14,
+      "probability": 0.949
+    },
+    {
+      "word": " as",
+      "start": 4.14,
+      "end": 4.36,
+      "probability": 0.99
+    },
+    {
+      "word": " pessoas",
+      "start": 4.36,
+      "end": 4.68,
+      "probability": 1.0
+    },
+    {
+      "word": " s\u00f3",
+      "start": 4.68,
+      "end": 4.98,
+      "probability": 0.878
+    },
+    {
+      "word": " v\u00e3o",
+      "start": 4.98,
+      "end": 5.14,
+      "probability": 0.997
+    },
+    {
+      "word": " lembrar",
+      "start": 5.14,
+      "end": 5.52,
+      "probability": 0.997
+    },
+    {
+      "word": " do",
+      "start": 5.52,
+      "end": 5.78,
+      "probability": 0.979
+    },
+    {
+      "word": " pior",
+      "start": 5.78,
+      "end": 6.06,
+      "probability": 0.99
+    },
+    {
+      "word": " momento",
+      "start": 6.06,
+      "end": 6.6,
+      "probability": 0.997
+    },
+    {
+      "word": " e",
+      "start": 6.6,
+      "end": 7.36,
+      "probability": 0.337
+    },
+    {
+      "word": " \u00e0s",
+      "start": 7.36,
+      "end": 7.46,
+      "probability": 0.69
+    },
+    {
+      "word": " vezes",
+      "start": 7.46,
+      "end": 7.72,
+      "probability": 0.999
+    },
+    {
+      "word": " ela",
+      "start": 7.72,
+      "end": 7.94,
+      "probability": 0.963
+    },
+    {
+      "word": " parece",
+      "start": 7.94,
+      "end": 8.2,
+      "probability": 0.895
+    },
+    {
+      "word": " t\u00e3o",
+      "start": 8.2,
+      "end": 8.56,
+      "probability": 0.997
+    },
+    {
+      "word": " convincente",
+      "start": 8.56,
+      "end": 9.24,
+      "probability": 0.815
+    },
+    {
+      "word": " que",
+      "start": 9.24,
+      "end": 9.44,
+      "probability": 0.989
+    },
+    {
+      "word": " a",
+      "start": 9.44,
+      "end": 9.5,
+      "probability": 0.997
+    },
+    {
+      "word": " pessoa",
+      "start": 9.5,
+      "end": 9.84,
+      "probability": 0.998
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 9.84,
+      "end": 10.06,
+      "probability": 0.996
+    },
+    {
+      "word": " procura",
+      "start": 10.06,
+      "end": 10.62,
+      "probability": 0.991
+    },
+    {
+      "word": " ajuda.",
+      "start": 10.62,
+      "end": 11.18,
+      "probability": 0.838
+    },
+    {
+      "word": " N\u00e3o",
+      "start": 12.32,
+      "end": 12.42,
+      "probability": 0.957
+    },
+    {
+      "word": " pede",
+      "start": 12.42,
+      "end": 12.7,
+      "probability": 0.961
+    },
+    {
+      "word": " perd\u00e3o,",
+      "start": 12.7,
+      "end": 13.16,
+      "probability": 0.97
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 13.68,
+      "end": 13.76,
+      "probability": 0.991
+    },
+    {
+      "word": " conversa,",
+      "start": 13.76,
+      "end": 14.44,
+      "probability": 0.935
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 15.16,
+      "end": 15.26,
+      "probability": 0.994
+    },
+    {
+      "word": " repara.",
+      "start": 15.26,
+      "end": 15.66,
+      "probability": 0.927
+    },
+    {
+      "word": " Apenas",
+      "start": 16.22,
+      "end": 16.58,
+      "probability": 0.866
+    },
+    {
+      "word": " se",
+      "start": 16.58,
+      "end": 16.76,
+      "probability": 0.967
+    },
+    {
+      "word": " esconde,",
+      "start": 16.76,
+      "end": 17.16,
+      "probability": 0.987
+    },
+    {
+      "word": " a",
+      "start": 17.9,
+      "end": 17.98,
+      "probability": 0.981
+    },
+    {
+      "word": " hist\u00f3ria",
+      "start": 17.98,
+      "end": 18.24,
+      "probability": 0.984
+    },
+    {
+      "word": " de",
+      "start": 18.24,
+      "end": 18.44,
+      "probability": 0.998
+    },
+    {
+      "word": " Pedro",
+      "start": 18.44,
+      "end": 18.74,
+      "probability": 0.771
+    },
+    {
+      "word": " passa",
+      "start": 18.74,
+      "end": 19.12,
+      "probability": 0.989
+    },
+    {
+      "word": " por",
+      "start": 19.12,
+      "end": 19.4,
+      "probability": 0.995
+    },
+    {
+      "word": " esse",
+      "start": 19.4,
+      "end": 19.6,
+      "probability": 0.991
+    },
+    {
+      "word": " lugar,",
+      "start": 19.6,
+      "end": 19.88,
+      "probability": 0.998
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 20.56,
+      "end": 20.74,
+      "probability": 0.988
+    },
+    {
+      "word": " para",
+      "start": 20.74,
+      "end": 21.02,
+      "probability": 0.969
+    },
+    {
+      "word": " nos",
+      "start": 21.02,
+      "end": 21.24,
+      "probability": 0.997
+    },
+    {
+      "word": " ensinar",
+      "start": 21.24,
+      "end": 21.64,
+      "probability": 0.992
+    },
+    {
+      "word": " a",
+      "start": 21.64,
+      "end": 22.14,
+      "probability": 0.951
+    },
+    {
+      "word": " fingir",
+      "start": 22.14,
+      "end": 22.64,
+      "probability": 0.999
+    },
+    {
+      "word": " que",
+      "start": 22.64,
+      "end": 22.78,
+      "probability": 0.992
+    },
+    {
+      "word": " uma",
+      "start": 22.78,
+      "end": 22.92,
+      "probability": 0.98
+    },
+    {
+      "word": " queda",
+      "start": 22.92,
+      "end": 23.18,
+      "probability": 0.966
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 23.18,
+      "end": 23.66,
+      "probability": 0.998
+    },
+    {
+      "word": " importa.",
+      "start": 23.66,
+      "end": 24.18,
+      "probability": 0.997
+    },
+    {
+      "word": " Mas",
+      "start": 24.76,
+      "end": 24.96,
+      "probability": 0.965
+    },
+    {
+      "word": " para",
+      "start": 24.96,
+      "end": 25.16,
+      "probability": 0.951
+    },
+    {
+      "word": " mostrar",
+      "start": 25.16,
+      "end": 25.5,
+      "probability": 0.975
+    },
+    {
+      "word": " que",
+      "start": 25.5,
+      "end": 25.76,
+      "probability": 0.991
+    },
+    {
+      "word": " Jesus",
+      "start": 25.76,
+      "end": 26.12,
+      "probability": 0.975
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 26.12,
+      "end": 26.82,
+      "probability": 0.278
+    },
+    {
+      "word": " confunde",
+      "start": 26.82,
+      "end": 27.46,
+      "probability": 0.857
+    },
+    {
+      "word": " uma",
+      "start": 27.46,
+      "end": 27.66,
+      "probability": 0.965
+    },
+    {
+      "word": " queda",
+      "start": 27.66,
+      "end": 28.02,
+      "probability": 0.981
+    },
+    {
+      "word": " com",
+      "start": 28.02,
+      "end": 28.68,
+      "probability": 0.966
+    },
+    {
+      "word": " o",
+      "start": 28.68,
+      "end": 28.94,
+      "probability": 0.967
+    },
+    {
+      "word": " fim",
+      "start": 28.94,
+      "end": 29.14,
+      "probability": 0.966
+    },
+    {
+      "word": " de",
+      "start": 29.14,
+      "end": 29.72,
+      "probability": 0.919
+    },
+    {
+      "word": " uma",
+      "start": 29.72,
+      "end": 29.86,
+      "probability": 0.772
+    },
+    {
+      "word": " hist\u00f3ria.",
+      "start": 29.86,
+      "end": 30.0,
+      "probability": 0.181
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 30.037,
+  "model_size": "base",
+  "device": "cpu"
+}

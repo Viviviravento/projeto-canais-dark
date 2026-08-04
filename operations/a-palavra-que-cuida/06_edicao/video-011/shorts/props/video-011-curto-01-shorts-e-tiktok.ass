@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Caption,Arial,54,&H00FFFFFF,&H0000D7FF,&HDD000000,&H99000000,-1,0,0,0,100,100,0,0,3,2.5,1,2,85,85,215,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.08,0:00:02.61,Caption,,0,0,0,,O pai se move de íntima compaixão.
+Dialogue: 0,0:00:02.84,0:00:05.67,Caption,,0,0,0,,Ele corre, abraça e beija o filho.
+Dialogue: 0,0:00:05.94,0:00:09.55,Caption,,0,0,0,,Depois manda trazer roupa, anel e sandálias.
+Dialogue: 0,0:00:09.82,0:00:12.79,Caption,,0,0,0,,A recepção é pública, concreta, visível.
+Dialogue: 0,0:00:13.27,0:00:16.66,Caption,,0,0,0,,Mas precisamos resistir a uma leitura apressada.
+Dialogue: 0,0:00:16.93,0:00:20.04,Caption,,0,0,0,,O abraço não devolve automaticamente o dinheiro perdido.
+Dialogue: 0,0:00:20.33,0:00:22.00,Caption,,0,0,0,,Não reescreve o que foi dito.
+Dialogue: 0,0:00:22.52,0:00:25.07,Caption,,0,0,0,,Não garante que a confiança será igual no dia
+Dialogue: 0,0:00:25.01,0:00:29.61,Caption,,0,0,0,,seguinte. Não transforma uma família machucada em uma família
+Dialogue: 0,0:00:29.90,0:00:34.65,Caption,,0,0,0,,sem conversas difíceis. Receber alguém de volta não significa
+Dialogue: 0,0:00:34.61,0:00:38.95,Caption,,0,0,0,,entregar imediatamente todas as chaves, todas as senhas e
+Dialogue: 0,0:00:38.96,0:00:43.09,Caption,,0,0,0,,todas as responsabilidades. Reconciliação pode ser um caminho com
+Dialogue: 0,0:00:43.04,0:00:47.34,Caption,,0,0,0,,limites, tempo, acompanhamento e proteção.
+Dialogue: 0,0:00:47.71,0:00:52.02,Caption,,0,0,0,,Em algumas situações, a distância segura ainda é necessária.
+Dialogue: 0,0:00:52.27,0:00:55.17,Caption,,0,0,0,,Perdoar não é se colocar de novo em perigo.
+Dialogue: 0,0:00:55.54,0:00:58.53,Caption,,0,0,0,,O que a parábola apresenta é a dignidade de
+Dialogue: 0,0:00:58.47,0:01:01.58,Caption,,0,0,0,,alguém que não é recebido apenas pelo seu pior
+Dialogue: 0,0:01:01.53,0:01:04.96,Caption,,0,0,0,,capítulo. O pai não diz que nada aconteceu.
+Dialogue: 0,0:01:05.26,0:01:08.23,Caption,,0,0,0,,Ele age como quem acredita que a história não
+Dialogue: 0,0:01:08.18,0:01:09.33,Caption,,0,0,0,,terminou na queda.

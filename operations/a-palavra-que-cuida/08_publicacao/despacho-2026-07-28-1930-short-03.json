@@ -1,0 +1,24 @@
+{
+  "despacho": "timer_youtube_shorts_short_03",
+  "horario_recebido": "2026-07-28T19:31:16.8847689-03:00",
+  "conteudo_solicitado": "Piloto 001 — Short 03 — Responsabilidade não é tentar controlar tudo",
+  "resultado": "nao_publicado_calendario_superado",
+  "youtube": {
+    "estado_verificado": true,
+    "titulo_encontrado": false,
+    "publicado": false,
+    "programado": false
+  },
+  "evidencias": [
+    "O calendário antigo já estava marcado como SUPERADO em 28/07/2026.",
+    "A grade vigente publica dois curtos do vídeo longo do dia anterior às terças, quintas e sábados, às 11h e às 18h.",
+    "A lista real do YouTube Shorts não contém o Short 03 solicitado.",
+    "O arquivo local do Short 03 existe e está aprovado, mas pertence ao estoque antigo e não ao episódio mais recente."
+  ],
+  "automacao": {
+    "id": "despachar-publicacao-youtube-shorts-03",
+    "atualizada": true,
+    "nova_regra": "terca_quinta_sabado_11h_18h",
+    "tiktok": "publicacao_manual_pela_usuaria"
+  }
+}

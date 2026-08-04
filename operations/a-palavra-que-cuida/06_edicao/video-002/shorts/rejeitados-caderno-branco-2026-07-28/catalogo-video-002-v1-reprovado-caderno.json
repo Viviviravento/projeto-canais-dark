@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-07-27",
+  "source_video": "video-002",
+  "canonical_directory": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados",
+  "approval_status": "qa_passed_pending_user_review",
+  "approval_source": "operations/a-palavra-que-cuida/09_qa/video-002-shorts-lote-01/qa-v1.md",
+  "technical_profile": {
+    "width": 1080,
+    "height": 1920,
+    "frame_rate": "30/1",
+    "video_codec": "h264",
+    "audio_codec": "aac",
+    "audio_sample_rate": 48000,
+    "audio_channels": 2
+  },
+  "shorts": [
+    {
+      "short_id": "video-002-short-01",
+      "title": "Ansiedade não é falta de fé",
+      "spoken_duration_seconds": 69.305,
+      "duration_seconds": 73.333,
+      "output": {
+        "file": "video-002-curto-01-shorts-e-tiktok-v1.mp4",
+        "platforms": [
+          "youtube_shorts",
+          "tiktok"
+        ],
+        "file_size_bytes": 34085789,
+        "sha256": "31aac067273a0b57ff1d0983c5153621865e344894daa196fa2ebd673acd392c"
+      }
+    },
+    {
+      "short_id": "video-002-short-02",
+      "title": "Três perguntas para quando a preocupação crescer",
+      "spoken_duration_seconds": 72.736,
+      "duration_seconds": 76.767,
+      "output": {
+        "file": "video-002-curto-02-shorts-e-tiktok-v1.mp4",
+        "platforms": [
+          "youtube_shorts",
+          "tiktok"
+        ],
+        "file_size_bytes": 38698711,
+        "sha256": "46b2b9afa80b4a347044f2490619895cb9eca93fd480b026e7536bf875cfdec4"
+      }
+    }
+  ],
+  "candidate_policy": {
+    "mapped_candidates": 4,
+    "rendered_editorial_derivatives": 2,
+    "master_files": 2,
+    "planned_publications": 4,
+    "interpretation": "Quatro candidatos por vídeo longo são um mapa editorial; somente os 1–2 melhores são finalizados. Um mesmo master deve atender Shorts e TikTok quando não houver diferença material."
+  },
+  "storage_policy": "Não duplicar o MP4 completo apenas para trocar a tela final ou o nome da plataforma. Criar versão separada somente quando houver diferença material exigida pela plataforma.",
+  "paid_api_cost_usd": 0
+}

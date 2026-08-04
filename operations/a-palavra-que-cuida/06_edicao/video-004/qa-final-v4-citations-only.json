@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-004",
+  "version": "v4-citations-only",
+  "render": {
+    "file": "07_exports/video-004/a-infancia-de-jesus-o-que-a-biblia-diz-v4-review-citations-only.mp4",
+    "sha256": "10CE491C0E659A53456D6EEC4ADC0A43ABF18DDD2BF7A9108D7E4441BE326D64",
+    "size_bytes": 795564897,
+    "duration_seconds": 707.456,
+    "video": "H.264, 1920x1080, 30 fps",
+    "audio": "AAC, 48000 Hz, estéreo"
+  },
+  "text_on_screen": {
+    "editorial_tags": 0,
+    "editorial_b_roll": 0,
+    "scripture_cards": 6,
+    "subtitle_mode": "alinhamento absoluto, frases naturais ou máximo de quatro palavras",
+    "result": "pass"
+  },
+  "visual_sampling": [
+    "06_edicao/video-004/qa-frames-v4-citations-only/01-abertura-sem-titulo.png",
+    "06_edicao/video-004/qa-frames-v4-citations-only/02-sem-placa-editorial.png",
+    "06_edicao/video-004/qa-frames-v4-citations-only/03-leitura-lucas-2-40.png",
+    "06_edicao/video-004/qa-frames-v4-citations-only/04-legenda-sincronizada.png"
+  ],
+  "publication_status": "review_only_human_approval_required"
+}

@@ -1,0 +1,29 @@
+{
+  "video_longo": "video-002",
+  "tipo": "short",
+  "ordem": 2,
+  "plataforma": "youtube_shorts",
+  "arquivo": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/video-002-curto-02-shorts-e-tiktok-v2.mp4",
+  "titulo": "Três perguntas para quando a preocupação crescer",
+  "status": "publicado_publico",
+  "publicado_em": "2026-07-29T16:39:07.1865391-03:00",
+  "natureza_do_slot": "recuperacao_do_segundo_short_de_28_07_2026",
+  "youtube_id": "LNOhYtKXJec",
+  "url": "https://youtube.com/shorts/LNOhYtKXJec",
+  "video_longo_relacionado_id": "GE1pGyJogqk",
+  "video_longo_relacionado_url": "https://youtu.be/GE1pGyJogqk",
+  "vinculo_nativo": {
+    "status": "pendente",
+    "motivo": "O YouTube ainda exige a verificação única de recursos avançados.",
+    "contorno_temporario": "URL do vídeo longo incluída na descrição; publicação pública autorizada expressamente pelo usuário."
+  },
+  "verificacao_direitos_autorais": "concluida_sem_problemas",
+  "declaracao_uso_ia": true,
+  "destinado_a_criancas": false,
+  "cronograma_vigente": {
+    "dias": ["terça", "quinta", "sábado"],
+    "curto_1": "11:00",
+    "curto_2": "17:00",
+    "fuso": "America/Sao_Paulo"
+  }
+}

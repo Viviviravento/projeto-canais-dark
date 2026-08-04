@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "source_video": "video-010",
+  "method": "Narracao canonica e imagens aprovadas; recomposicao vertical manual em cover, legendas sincronizadas e render local.",
+  "rendered_editorial_derivatives": [
+    {
+      "derivative_id": "video-010-curto-01",
+      "title": "O medo pode estar no barco sem ser o capitão",
+      "hook": "Sentir medo não prova que você perdeu a fé.",
+      "source_windows": [
+        {
+          "start": 350.324,
+          "end": 408.756
+        },
+        {
+          "start": 587.384,
+          "end": 600.472
+        }
+      ],
+      "spoken_duration_seconds": 71.7,
+      "total_duration_seconds": 74.7,
+      "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/video-010-short-01-shorts-e-tiktok-v1.mp4",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-010/shorts/props/video-010-curto-01-shorts-e-tiktok.json",
+      "qa": {
+        "dimensions": "1080x1920",
+        "video_codec": "h264",
+        "duration": 74.8
+      },
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "video-010-curto-02",
+      "title": "Uma oração desesperada ainda é uma oração",
+      "hook": "Quando parece que Deus está dormindo enquanto o barco enche.",
+      "source_windows": [
+        {
+          "start": 154.322,
+          "end": 240.543
+        }
+      ],
+      "spoken_duration_seconds": 86.221,
+      "total_duration_seconds": 89.221,
+      "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/video-010-short-02-shorts-e-tiktok-v1.mp4",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-010/shorts/props/video-010-curto-02-shorts-e-tiktok.json",
+      "qa": {
+        "dimensions": "1080x1920",
+        "video_codec": "h264",
+        "duration": 89.2
+      },
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    }
+  ],
+  "editorial_derivative_count": 2,
+  "physical_mp4_target_count": 2,
+  "paid_api_cost_usd": 0
+}

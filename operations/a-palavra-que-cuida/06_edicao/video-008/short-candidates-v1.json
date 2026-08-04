@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-008",
+  "status": "planned_from_long_script_before_master",
+  "target_duration_seconds": {
+    "minimum": 65,
+    "maximum": 80,
+    "rationale": "Curto com arco próprio, pouco acima de um minuto, utilizável no TikTok e adaptável ao YouTube Shorts."
+  },
+  "candidates": [
+    {
+      "id": "v008-short-01-queda-nao-e-fim",
+      "source_sections": ["01", "02"],
+      "hook": "Jesus não confundiu a queda de Pedro com o fim da história.",
+      "arc": "A vergonha chama a pessoa para se esconder; Jesus avisou Pedro sobre a queda e, no mesmo aviso, falou de um futuro.",
+      "planned_entry": "Começar na frase sobre a vergonha parecer provar quem a pessoa é de verdade.",
+      "planned_exit": "Encerrar em: a queda não estava escondida de Jesus, e o futuro de Pedro também não.",
+      "standalone_value": "Acolhe quem se sente definida pelo próprio erro sem minimizar responsabilidade.",
+      "context_risk": "Não recortar a frase sobre reparação de modo que pareça promessa de reconciliação automática."
+    },
+    {
+      "id": "v008-short-02-pedir-perdao-nao-compra-reconciliacao",
+      "source_sections": ["04", "07"],
+      "hook": "Pedir perdão não compra reconciliação. É um passo de verdade.",
+      "arc": "Distingue vergonha que paralisa de arrependimento que nomeia o dano, repara quando é seguro e respeita limites.",
+      "planned_entry": "Começar na definição de arrependimento como parar de defender o que precisa mudar.",
+      "planned_exit": "Encerrar em: às vezes a reparação acontece respeitando distância, assumindo o dano e mudando de caminho.",
+      "standalone_value": "Entrega aplicação prática e segura para culpa, pedido de perdão e limites relacionais.",
+      "context_risk": "Preservar a ressalva sobre violência, manipulação e risco; não sugerir retorno a relações perigosas."
+    },
+    {
+      "id": "v008-short-03-a-verdade-nao-e-identidade",
+      "source_sections": ["06", "07", "08"],
+      "hook": "O passado pode ensinar, mas não precisa virar a sua identidade.",
+      "arc": "Pedro é chamado a seguir em responsabilidade; a espectadora recebe três movimentos para começar um recomeço real.",
+      "planned_entry": "Começar em: Jesus não ignora a ferida, mas também não prende Pedro nela.",
+      "planned_exit": "Encerrar em: o recomeço é deixar que verdade, graça e responsabilidade produzam um caminho novo.",
+      "standalone_value": "Fecha com esperança responsável e pode conduzir ao longo completo.",
+      "context_risk": "Só selecionar se a duração final permitir preservar os três movimentos sem acelerar demais."
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "derivative_id": "piloto-001-short-02",
+  "source_video_id": "piloto-001",
+  "platform": "youtube_shorts",
+  "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001-short-02-youtube-short-v1.mp4",
+  "title": "Quando você continua funcionando, mas já está sobrecarregada",
+  "publication": {
+    "status": "published",
+    "published_at": "2026-07-27T13:01:00-03:00",
+    "video_id": "VKXKtAtMle0",
+    "url": "https://youtube.com/shorts/VKXKtAtMle0",
+    "recovery_reason": "Publicação planejada para 2026-07-26 às 19:30 não foi executada; slot recuperado após nova autorização da usuária em 2026-07-27."
+  },
+  "settings": {
+    "visibility": "public",
+    "made_for_kids": false,
+    "altered_or_synthetic_content": true,
+    "video_language": "pt-BR",
+    "category": "Educação",
+    "copyright_check": "pass",
+    "related_video": "not_added_pending_one_time_advanced_features_verification"
+  },
+  "qa": {
+    "first_frame": "pass_non_black",
+    "upload_processing": "pass",
+    "copyright": "pass"
+  }
+}

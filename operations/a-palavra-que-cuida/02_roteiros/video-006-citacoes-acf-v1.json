@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-006",
+  "version": "video-006-citacoes-acf-v1",
+  "bible_version": {
+    "name": "Almeida Corrigida Fiel",
+    "abbreviation": "ACF",
+    "copyright_notice": "A Bíblia Sagrada - Almeida Corrigida Fiel (ACF), © 1994, 1995, 2007, 2011 Sociedade Bíblica Trinitariana do Brasil, Trinitarian Bible Society.",
+    "source_locators": [
+      "https://www.biblias.com.br/acfonline",
+      "https://www.bibliaonline.com.br/acf/lc/10",
+      "https://www.bibliaonline.com.br/acf/jo/11"
+    ]
+  },
+  "direct_acf_citations": [
+    {
+      "reference": "Lucas 10:38",
+      "spoken_lead_in": "Lucas, capítulo dez, versículo trinta e oito, diz:",
+      "text": "E aconteceu que, indo eles de caminho, entrou Jesus numa aldeia; e certa mulher, por nome Marta, o recebeu em sua casa;"
+    },
+    {
+      "reference": "Lucas 10:39",
+      "spoken_lead_in": "Lucas, capítulo dez, versículo trinta e nove, continua:",
+      "text": "E tinha esta uma irmã chamada Maria, a qual, assentando-se também aos pés de Jesus, ouvia a sua palavra."
+    },
+    {
+      "reference": "Lucas 10:40",
+      "spoken_lead_in": "Lucas, capítulo dez, versículo quarenta, diz:",
+      "text": "Marta, porém, andava distraída em muitos serviços; e, aproximando-se, disse: Senhor, não se te dá de que minha irmã me deixe servir só? Dize-lhe que me ajude."
+    },
+    {
+      "reference": "Lucas 10:41",
+      "spoken_lead_in": "Lucas, capítulo dez, versículo quarenta e um, diz:",
+      "text": "E respondendo Jesus, disse-lhe: Marta, Marta, estás ansiosa e afadigada com muitas coisas,"
+    },
+    {
+      "reference": "Lucas 10:42",
+      "spoken_lead_in": "Lucas, capítulo dez, versículo quarenta e dois, conclui:",
+      "text": "Mas uma só é necessária; E Maria escolheu a boa parte, a qual não lhe será tirada."
+    },
+    {
+      "reference": "João 11:5",
+      "spoken_lead_in": "João, capítulo onze, versículo cinco, diz:",
+      "text": "Ora Jesus amava a Marta, e a sua irmã, e a Lázaro."
+    }
+  ],
+  "display_policy": {
+    "complete_reference_required": true,
+    "show_only_during_direct_verse_reading": true,
+    "do_not_show_when_book_or_reference_is_only_mentioned": true,
+    "normal_captions_may_continue_outside_direct_quote": true
+  }
+}

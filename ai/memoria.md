@@ -24,22 +24,29 @@ O Codex não deve presumir que tarefas visualmente caras, como QA visual fino, a
 
 ## Decisões atuais
 
-- Prioridade de crescimento cristalizada em 2026-07-24: buscar o maior público possível e construir `A Palavra Que Cuida` para escala de milhões de acessos, usando intensamente as alavancas legítimas de distribuição. O projeto não testará tráfego artificial, spam, engagement bait, redes de contas, violação de direitos ou contorno de enforcement. O guia central é `Canal Religioso/01_briefs/guardrails-crescimento-multiplataforma-v1.md`.
-- Política de curtos cristalizada em 2026-07-24: Shorts e TikTok serão tratados como funil mensurável de `parada -> compreensão -> permanência -> satisfação -> ação -> conversão`. Edição admirável significa edição semanticamente intencional, não efeito frenético. Desde a mudança de contagem do Shorts, `Views` é alcance bruto; a análise prioriza `Engaged views`, `Stayed to watch`, retenção e conversão. Manual central: `Canal Religioso/01_briefs/manual-curtos-retencao-conversao-v1.md`.
-- Decisão TikTok de 2026-07-24: um único perfil pode variar forma sem variar público ou promessa. O piloto começa com duas famílias — reflexão falada com ponte ao YouTube e música cristã em contexto — limitado a no máximo três famílias ativas. Cadência inicial: cinco publicações por semana durante quatro semanas, com doze peças faladas e oito musicais. O ápice experimental futuro é três por dia, alcançado pela escada cinco por semana, uma por dia, duas por dia e três por dia, sempre condicionado aos gates. Documento central: `Canal Religioso/01_briefs/decisao-perfil-tiktok-formatos-cadencia-v1.md`.
-- Direção de escala multiplataforma aprovada em 2026-07-24: buscar a maior cadência sustentável pelo ganho marginal total, não por preenchimento de limite técnico. Ápice experimental: 2 longos e até 3 Shorts por dia no YouTube; até 3 TikToks; até 3 Facebook Reels; até 3 blocos de Stories. Espaçamento mínimo: 8 horas entre longos e 4 horas entre verticais do mesmo formato. Correção de balanço: `quatro curtos por longo` passa a significar pelo menos quatro candidatos mapeados, não quatro renders completos obrigatórios. Separar candidato de corte, master editorial vertical e adaptação por plataforma. Com dois longos por dia, a base segura é 1 vertical ligado a cada longo e distribuído em Shorts e TikTok quando couber; terceiro slot é opcional por métrica. Quatro ou mais por plataforma/dia só entram como experimento futuro depois de 3/dia provar ganho marginal e ausência de fadiga. A frequência atual não muda automaticamente; cada plataforma sobe separadamente por coortes e recua quando total, mediana, conversão, QA, originalidade ou segurança cruzarem os gates. Política: `Canal Religioso/01_briefs/politica-cadencia-maxima-multiplataforma-v0.1.md`.
+- Prioridade de crescimento cristalizada em 2026-07-24: buscar o maior público possível e construir `A Palavra Que Cuida` para escala de milhões de acessos, usando intensamente as alavancas legítimas de distribuição. O projeto não testará tráfego artificial, spam, engagement bait, redes de contas, violação de direitos ou contorno de enforcement. O guia central é `operations/a-palavra-que-cuida/01_briefs/guardrails-crescimento-multiplataforma-v1.md`.
+- Política de curtos cristalizada em 2026-07-24: Shorts e TikTok serão tratados como funil mensurável de `parada -> compreensão -> permanência -> satisfação -> ação -> conversão`. Edição admirável significa edição semanticamente intencional, não efeito frenético. Desde a mudança de contagem do Shorts, `Views` é alcance bruto; a análise prioriza `Engaged views`, `Stayed to watch`, retenção e conversão. Manual central: `operations/a-palavra-que-cuida/01_briefs/manual-curtos-retencao-conversao-v1.md`.
+- Consolidação de armazenamento decidida pelo usuário em 2026-07-27: todos os MP4s verticais aprovados ficam diretamente em `operations/a-palavra-que-cuida/07_exports/shorts-aprovados/`, sem subpastas por vídeo-fonte. Quando o mesmo curto servir ao TikTok e ao YouTube Shorts, preservar um único MP4 universal identificado como `shorts-e-tiktok`. Não duplicar o arquivo inteiro apenas para trocar nome ou tela final. Caption, som, link e vídeo relacionado ficam na publicação; versão separada só existe quando houver diferença material obrigatória no próprio vídeo. Cópias redundantes devem ir para a Lixeira, preservando fontes, scripts e QA reproduzíveis.
+- Regra de dependência dos curtos decidida pelo usuário em 2026-07-29: o master renderizado do vídeo longo não é requisito absoluto para produzir seus curtos. A produção antecipada só é permitida quando existirem narração final aprovada, alinhamento canônico correspondente, imagens aprovadas suficientes e possibilidade de executar o mesmo QA técnico e visual aplicado aos demais curtos. O curto deve ser montado diretamente dessas fontes sem perda de qualidade; se qualquer uma dessas garantias faltar, houver risco de mudança editorial material ou o enquadramento não puder ser validado, aguardar o master longo e não produzir antecipadamente.
+- Decisão TikTok de 2026-07-24: um único perfil pode variar forma sem variar público ou promessa. O piloto começa com duas famílias — reflexão falada com ponte ao YouTube e música cristã em contexto — limitado a no máximo três famílias ativas. Cadência inicial: cinco publicações por semana durante quatro semanas, com doze peças faladas e oito musicais. O ápice experimental futuro é três por dia, alcançado pela escada cinco por semana, uma por dia, duas por dia e três por dia, sempre condicionado aos gates. Documento central: `operations/a-palavra-que-cuida/01_briefs/decisao-perfil-tiktok-formatos-cadencia-v1.md`.
+- Direção de escala multiplataforma aprovada em 2026-07-24: buscar a maior cadência sustentável pelo ganho marginal total, não por preenchimento de limite técnico. Ápice experimental: 2 longos e até 3 Shorts por dia no YouTube; até 3 TikToks; até 3 Facebook Reels; até 3 blocos de Stories. Espaçamento mínimo: 8 horas entre longos e 4 horas entre verticais do mesmo formato. Correção de balanço: `quatro curtos por longo` passa a significar pelo menos quatro candidatos mapeados, não quatro renders completos obrigatórios. Separar candidato de corte, master editorial vertical e adaptação por plataforma. Com dois longos por dia, a base segura é 1 vertical ligado a cada longo e distribuído em Shorts e TikTok quando couber; terceiro slot é opcional por métrica. Quatro ou mais por plataforma/dia só entram como experimento futuro depois de 3/dia provar ganho marginal e ausência de fadiga. A frequência atual não muda automaticamente; cada plataforma sobe separadamente por coortes e recua quando total, mediana, conversão, QA, originalidade ou segurança cruzarem os gates. Política: `operations/a-palavra-que-cuida/01_briefs/politica-cadencia-maxima-multiplataforma-v0.1.md`.
 - Modelo operacional desejado pelo usuário: depois de construída e aprovada a base, o Codex deve funcionar como braço direito de publicação e tomar autonomamente decisões de slots, adaptações, reagendamentos e promoção de cadência dentro das políticas. Isso é direção de governança futura, não prova de capacidade técnica nem autorização de publicação imediata. Automação pública ainda depende de manifestos, estados, logs, credenciais, OAuth/2FA, auditorias de API, consentimentos e kill switches.
 - Política de contas seguidas no TikTok, decidida em 2026-07-24: seguir serve como radar editorial e de relacionamento, não como hack de distribuição. Começar com 30 contas manualmente selecionadas e manter faixa operacional de 30 a 60 contas úteis, com revisão mensal. Não praticar follow for follow, seguimento automático, ciclos em massa nem promoção invasiva nos comentários alheios. A quantidade seguida não é KPI; medir achados editoriais, testes originados e relações legítimas. Detalhes no documento central da decisão TikTok.
-- Radar inicial do TikTok verificado publicamente em 2026-07-24: 30 handles distribuídos entre reflexão, música, necessidades do público, criação e ecossistema estão em `Canal Religioso/01_briefs/radar-contas-tiktok-inicial-v1.md`. Antes de seguir, conferir handle e duas publicações no aplicativo. Interação inicial é manual e autêntica, sem promoção do canal, comentário copiado ou resposta em massa; três a cinco comentários substantivos por dia é limite operacional inicial, não regra da plataforma.
-- Decisão de metadados e comunidade YouTube de 2026-07-24: descrições horizontais terão parte editorial única, palavras estratégicas naturais e rodapé fixo com redes verificadas. Cada vídeo terá conjunto semântico próprio de tags e hashtags, orientado pela pergunta que responde; tags são secundárias e hashtags serão poucas e precisas, normalmente duas a quatro como disciplina interna. Foram substituídas as antigas metas de 8 a 15 hashtags e de aproximadamente 450 caracteres de tags. Medir termos reais de pesquisa, tráfego de Busca, CTR por origem, retenção, inscrições e próxima visualização, sem atribuir alcance aos metadados isoladamente. Cada vídeo começa com pergunta específica fixada pelo canal. Até média aproximada de 200 comentários por vídeo, curtir todos os comentários elegíveis; coração é endosso seletivo de contribuições especialmente valiosas e seguras. Notificação é efeito possível, não justificativa para engajamento indiscriminado. Política: `Canal Religioso/01_briefs/politica-descricoes-comunidade-youtube-v1.md`.
-- Arquitetura de descrições aprovada em 2026-07-24: padronizar a ordem `essencial -> próximo passo -> apoio -> identidade -> classificação`, sem copiar o mesmo texto. A primeira linha sempre começa pelo conteúdo; redes e hashtags não abrem a descrição. YouTube longo usa primeiras linhas únicas, continuidade, resumo, capítulos, fontes, rodapé social e hashtags; Shorts usa texto curto e vídeo relacionado, sem URL crua; TikTok e Facebook recebem captions próprias; Stories organizam contexto e CTA dentro dos frames. Cada publicação terá campos estruturados, preview móvel e validação de links. Política: `Canal Religioso/01_briefs/politica-arquitetura-descricoes-multiplataforma-v1.md`.
+- Radar inicial do TikTok verificado publicamente em 2026-07-24: 30 handles distribuídos entre reflexão, música, necessidades do público, criação e ecossistema estão em `operations/a-palavra-que-cuida/01_briefs/radar-contas-tiktok-inicial-v1.md`. Antes de seguir, conferir handle e duas publicações no aplicativo. Interação inicial é manual e autêntica, sem promoção do canal, comentário copiado ou resposta em massa; três a cinco comentários substantivos por dia é limite operacional inicial, não regra da plataforma.
+- Decisão de metadados e comunidade YouTube de 2026-07-24: descrições horizontais terão parte editorial única, palavras estratégicas naturais e rodapé fixo com redes verificadas. Cada vídeo terá conjunto semântico próprio de tags e hashtags, orientado pela pergunta que responde; tags são secundárias e hashtags serão poucas e precisas, normalmente duas a quatro como disciplina interna. Foram substituídas as antigas metas de 8 a 15 hashtags e de aproximadamente 450 caracteres de tags. Medir termos reais de pesquisa, tráfego de Busca, CTR por origem, retenção, inscrições e próxima visualização, sem atribuir alcance aos metadados isoladamente. Cada vídeo começa com pergunta específica fixada pelo canal. Até média aproximada de 200 comentários por vídeo, curtir todos os comentários elegíveis; coração é endosso seletivo de contribuições especialmente valiosas e seguras. Notificação é efeito possível, não justificativa para engajamento indiscriminado. Política: `operations/a-palavra-que-cuida/01_briefs/politica-descricoes-comunidade-youtube-v1.md`.
+- Correção operacional de 2026-07-26: a publicação de cada longo só é concluída depois de verificar na interface que a pergunta específica do canal foi publicada nos comentários e, quando prevista, fixada no topo. Essa verificação é parte do gate final, não uma intenção registrada apenas no manifesto.
+- Regra transversal de comunidade, decidida em 2026-07-29: todo vídeo longo publicado por qualquer canal deve receber, pela própria conta do canal, um comentário original e específico daquele episódio. O comentário precisa ampliar ou aprofundar a ideia do vídeo e convidar uma resposta humana concreta; não usar pergunta genérica, CTA mecânico ou texto repetido entre vídeos. A publicação só fica concluída após verificar que o comentário foi efetivamente enviado e, quando a plataforma permitir, fixado no topo.
+- Regra universal de interação em comentários, decidida em 2026-07-29: em todos os canais atuais e futuros, até cada canal alcançar 1.000 inscritos, curtir todos os comentários elegíveis recebidos nos seus vídeos. Dar coração apenas de forma seletiva a comentários pertinentes, seguros e especialmente alinhados ao assunto do vídeo ou ao propósito do canal; o coração é endosso editorial, não ação automática. A notificação ao autor é um possível efeito da plataforma, não garantia de retorno.
+- Arquitetura de descrições aprovada em 2026-07-24: padronizar a ordem `essencial -> próximo passo -> apoio -> identidade -> classificação`, sem copiar o mesmo texto. A primeira linha sempre começa pelo conteúdo; redes e hashtags não abrem a descrição. YouTube longo usa primeiras linhas únicas, continuidade, resumo, capítulos, fontes, rodapé social e hashtags; Shorts usa texto curto e vídeo relacionado, sem URL crua; TikTok e Facebook recebem captions próprias; Stories organizam contexto e CTA dentro dos frames. Cada publicação terá campos estruturados, preview móvel e validação de links. Política: `operations/a-palavra-que-cuida/01_briefs/politica-arquitetura-descricoes-multiplataforma-v1.md`.
 - O primeiro canal será o `Canal Religioso`.
 - O projeto raiz é plural: `Canais Dark`. O canal religioso é o primeiro caso de teste, não o limite da arquitetura.
 - A esteira-base deve sustentar a gênese de vários canais e uma fábrica de vídeos reutilizável; cada canal nasce com sua própria subesteira sobre esse núcleo comum.
 - O fluxo agêntico metamorfado deve conter duas fábricas aninhadas: a fábrica de canais, que imagina, pesquisa, desenvolve, amadurece, testa e cristaliza novos canais; e a fábrica de vídeos, que opera dentro de cada canal cristalizado. Cada canal herda um núcleo universal e possui sua própria subesteira editorial, econômica, visual e operacional.
 - A próxima frente de foco é a parte que custa dinheiro: integrações pagas, chaves de API, créditos, gateways e decisões de custo-benefício. Nenhuma ferramenta paga deve virar stack definida sem evidência atual de preço, utilidade e teste pequeno aprovado.
 - As redes iniciais são YouTube e TikTok.
-- A estrutura prática de produção do canal fica em `Canal Religioso/`.
+- Regra de organização atualizada em 2026-08-04: cada unidade concreta recebe uma pasta própria sob `operations/`, com todo o seu material de produção. Nunca misturar ativos entre operações; `operations/a-palavra-que-cuida/` e `operations/quase-celestial/` são estruturas independentes. Quando uma nova operação começar, criar sua pasta sob `operations/` antes de gerar ou salvar o primeiro ativo. Esta regra substitui a decisão de 2026-07-29 que colocava cada canal diretamente na raiz.
+- Decisão arquitetural de 2026-08-04: `factory/` contém a implementação universal; `operations/` agrupa unidades concretas; `audits/`, `decisions/` e `research/` separam vereditos, decisões arquiteturais e pesquisa transversal; `ai/` fica restrito à memória contextual do agente. “Casulo” é regime de maturação por lifecycle, capacidades, baselines, gates e execuções limpas, não uma pasta.
+- Estado de maturidade de 2026-08-04 para `A Palavra que Cuida`: lifecycle `stabilizing`. `longform_voice` está em `regression_detected`, sem baseline reproduzível; QA técnico não equivale a aprovação semântica. A regressão dessa capacidade não reinicia automaticamente toda a operação.
 - `ai/` guarda apenas memória, ideias importantes, decisões e limites do agente.
 - O público-alvo é fixo no nível do canal, não dinâmico por vídeo.
 - Público-alvo inicial definido: majoritariamente mulheres de 25 a 49 anos, com preferência estratégica por 35 a 49 anos.
@@ -48,6 +55,10 @@ O Codex não deve presumir que tarefas visualmente caras, como QA visual fino, a
 - O avatar deve parecer um narrador comum com autoridade pelo conhecimento, não uma autoridade pedante, professoral ou que fale de cima para baixo.
 - Preferência atual para o canal religioso: voz separada do avatar. O avatar deve funcionar como corpo/presença visual; a voz pode ser escolhida como identidade própria e reutilizada também fora do avatar.
 - Música deve começar por stock/biblioteca com licença limpa, não por geração musical paga.
+- Decisão do usuário em 2026-07-29 para o futuro canal de legendas/traduções musicais: operar sem contato manual por e-mail. Só selecionar faixas de catálogos cuja licença ou regra nativa autorize claramente uso comercial no YouTube, tradução/legenda da letra e publicação com visual próprio; não usar clipes ou músicas de terceiros quando essa permissão não estiver explícita. Cada faixa deverá passar por um gate documental simples antes da produção, preservando a fonte da licença e seus limites.
+- Organização do novo canal em 2026-07-29, atualizada apenas quanto ao caminho em 2026-08-04: seus briefs, pesquisas, licenças, letras/traduções, artes, projetos, renders, publicações e métricas deverão ficar em pasta própria sob `operations/`, separada de `operations/a-palavra-que-cuida/` e `operations/quase-celestial/`. A pasta só deve ser criada com o nome definitivo; até lá, não salvar ativos dentro de outra operação.
+- Direção editorial inicial do canal de legendas/traduções, aprovada pelo usuário em 2026-07-29: não ficar preso a um único gênero, mas manter a promessa `ajudar brasileiros a entender e sentir músicas internacionais através de traduções naturais`. Piloto exploratório: 60% pop romântico/emocional, 25% R&B/soul/hip-hop melódico e 15% indie/alternative/nostalgia. A divisão pode mudar conforme a disponibilidade de licenças compatíveis, busca, retenção, inscritos ganhos por vídeo e retorno da audiência; não é uma regra permanente.
+- Ajuste editorial do canal de legendas/traduções em 2026-07-29: reservar 20% dos vídeos do piloto para rock, com prioridade para clássicos antigos e cobertura controlada de outros subgêneros (pop rock, alternative, emo, hard rock e similares). O balanceamento será acompanhado em uma janela móvel de 20 vídeos, e a seleção de cada música deverá considerar a proporção acumulada do canal, a disponibilidade de licença compatível e o desempenho por subgênero. Os 20% são hipótese inicial, não promessa de resultado.
 - Prioridade atual de contas/APIs pagas: HeyGen entra primeiro por causa do papel central do avatar no canal religioso. Depois disso, investigar um caminho para usar a versão mais atual do Kling, sem assumir que o gateway do OpenMontage já expõe a versão mais nova.
 - Chaves iniciais já foram coletadas por janela segura e gravadas no `.env` do OpenMontage. Daqui em diante, novas chaves só devem ser coletadas quando o usuário pedir explicitamente.
 - A ideia de vídeos longos ficou suspensa por custo. Minutagens com avatar/geração paga tornam longos caros demais para o início. Precisamos decidir depois novos tamanhos realistas e como adaptar as ideias anteriores para formatos menores, testáveis e financeiramente viáveis.
@@ -59,8 +70,8 @@ O Codex não deve presumir que tarefas visualmente caras, como QA visual fino, a
 - Identidade do canal: nome, promessa central, estética, tipo de autoridade e limites denominacionais podem ser propostos/decididos pelo Codex, com base na lógica do canal e sem inferência disfarçada de fato. Avatar é exceção parcial: o Codex pode gerar/propor opções, mas a escolha final precisa passar por crivo humano porque aparência, naturalidade e confiança são altamente sensíveis.
 - Correção de sequência: antes de montar o piloto, o próximo bloco correto é concluir uma identidade v0 suficiente do canal: promessa central, estética, tipo de autoridade, limites denominacionais, direção de avatar e naming em versão testável. Isso dá chão ao piloto sem tentar fechar a estrutura inteira do canal.
 - Naming do canal reaberto. `A Palavra e o Dia` não está aprovado; fica apenas como hipótese inicial. O nome do canal não deve ser escolhido por intuição ou gosto solto. Antes de propor lista curta, pesquisar critérios de naming para YouTube, saturação do nicho religioso brasileiro, handles, risco de confusão e relação entre nome, marca, descoberta e monetização.
-- Identidade do canal religioso promovida para v1. Nome público: `A Palavra que Cuida`. Handle escolhido: `@apalavraquecuida`, com fallback operacional `@apalavraquecuidabr` se a plataforma bloquear o handle na criação. A identidade atual está em `Canal Religioso/01_briefs/identidade-canal-v1.md`; versões anteriores foram movidas para `Canal Religioso/01_briefs/legacy/`.
-- Avatar-base do canal religioso aprovado pelo usuário e salvo em `Canal Religioso/04_assets/avatar/avatar-base-v1.png`. Direção: homem brasileiro/lusófono maduro, comum, sereno, camisa azul-marinho, barba curta grisalha, fenótipo pardo/moreno moderado. Não alterar raça/fenótipo de forma brusca; ajustes futuros devem ser finos e práticos, como enquadramento, nitidez, iluminação, fundo, roupa ou compatibilidade com HeyGen.
+- Identidade do canal religioso promovida para v1. Nome público: `A Palavra que Cuida`. Handle escolhido: `@apalavraquecuida`, com fallback operacional `@apalavraquecuidabr` se a plataforma bloquear o handle na criação. A identidade atual está em `operations/a-palavra-que-cuida/01_briefs/identidade-canal-v1.md`; versões anteriores foram movidas para `operations/a-palavra-que-cuida/01_briefs/legacy/`.
+- Avatar-base do canal religioso aprovado pelo usuário e salvo em `operations/a-palavra-que-cuida/04_assets/avatar/avatar-base-v1.png`. Direção: homem brasileiro/lusófono maduro, comum, sereno, camisa azul-marinho, barba curta grisalha, fenótipo pardo/moreno moderado. Não alterar raça/fenótipo de forma brusca; ajustes futuros devem ser finos e práticos, como enquadramento, nitidez, iluminação, fundo, roupa ou compatibilidade com HeyGen.
 - A pesquisa de naming e concorrência não deve prender o projeto em preparação infinita. Ela serve para entender o espaço disponível, evitar erros óbvios e formular uma posição plausível. Depois do piloto publicado, o feedback decisivo passa a ser das métricas pós-publicação: CTR, retenção, comentários, inscritos por vídeo, desempenho de cortes, custo por minuto produzido e sinais de aderência do público.
 - Pilares editoriais amplos não precisam ser fechados agora. Eles devem amadurecer depois de 1-3 pilotos, quando já houver direção real de edição, visual, formato e resposta humana.
 - Não existe uma estrutura editorial única nem cinco moldes obrigatórios. A esteira deve montar a arquitetura de cada episódio a partir da promessa, da evidência, do argumento e da duração de 10 a 12 minutos, preservando apenas contratos transversais já aprovados, como clareza de abertura, referências bíblicas completas, conclusão, CTA, legendas e tela final.
@@ -71,7 +82,7 @@ O Codex não deve presumir que tarefas visualmente caras, como QA visual fino, a
 - A divisão entre humano e Codex ainda não está definida; ela deve nascer depois da análise realista de ferramentas e custo-benefício.
 - Veredito humano após o vídeo 003, em 2026-07-23: o Codex ainda não está pronto para conduzir sozinho a produção audiovisual integral, embora a evolução do método seja reconhecida. A subesteira permanece em modo assistido. QA técnico, validação por keyframes e conclusão do render não autorizam promoção automática do gate editorial-visual. Enquanto não houver evidência posterior suficiente, o humano deve assistir ao master completo e aprovar contexto, pertinência das imagens, ritmo, montagem, avatar e qualidade geral antes da publicação. O próprio Codex continua responsável por perceber quando há base para propor mudança de gate, mas o vídeo 003 não forneceu essa base.
 - Correção humana complementar do vídeo 003: a voz melhorou, porém ainda fala devagar demais e conserva pausas artificiais. A direção para o próximo ajuste é acelerar levemente, com comparação curta antes de qualquer nova geração paga. Não fixar uma porcentagem por intuição; distinguir pausa causada pela escrita/geração de simples lentidão global.
-- Decisão humana após comparação controlada em 2026-07-23: a variante C, com pós-processamento local em `1.05x` e pitch preservado, foi aprovada como padrão da voz Bruno Cardoso. Aplicar a aceleração após o TTS e antes de gerar alinhamentos, legendas, avatar ou composição. O padrão resolve apenas a lentidão global; pausas artificiais internas devem voltar para escrita e geração, sem aceleração excessiva para escondê-las.
+- Decisão do usuário atualizada em 2026-07-28: a voz Bruno Cardoso passa a receber pós-processamento local em `1.07x`, com pitch preservado. Aplicar a aceleração após o TTS e antes de gerar alinhamentos, legendas, avatar ou composição. O padrão resolve apenas a lentidão global; pausas artificiais internas devem voltar para escrita e geração, sem aceleração excessiva para escondê-las. O vídeo 006 permanece em `1.05x` como exceção histórica, pois o render já havia começado antes da mudança.
 
 ## Regra de César
 
@@ -355,6 +366,8 @@ Data: 2026-07-11.
 - O problema do primeiro piloto nao era apenas a identidade vocal. A mesma voz melhorou de forma clara quando recebeu roteiro de performance, grandes unidades semanticas, contexto anterior/posterior, `language_code=pt`, stability `0.50`, similarity `0.75`, style `0`, speed `1.0` e pausas intencionais.
 - Metodo aprovado para producao: gerar grandes blocos contiguos com Request Stitching, montar automaticamente e pedir ao humano apenas aprovacao/reprovacao do audio completo ou de um bloco inteiro. Nao criar processo normal de remendos frase a frase.
 - Regra fixa de encerramento do canal: depois de concluir a mensagem, apontar para outro video que aparece na tela, pedir inscricao, curtida e compartilhamento e terminar com uma pergunta/reflexao especifica do episodio para incentivar comentarios. A estrutura e fixa; a pergunta final e contextual e nao deve ser repetida mecanicamente.
+- Reforco operacional de 2026-07-27: se a narração aprovada não direcionar claramente para próximos vídeos, não regenerar voz só por isso sem necessidade; completar obrigatoriamente na tela final, descrição, elementos nativos do YouTube e comentário fixado. Em todo pacote de publicação de longo, verificar quatro itens de CTA: inscrição/curtida/compartilhamento, pergunta de comentário, dois próximos vídeos recomendados e comentário fixado do canal.
+- Direção de thumbnails reforçada em 2026-07-27: capas conceituais podem existir, mas normalmente devem ter algum ponto humano/personagem quando isso aumentar conexão emocional. Em temas bíblicos, não inserir anjos, figuras divinas ou cenas sobrenaturais se o roteiro/texto bíblico não sustentar isso; preferir pessoa humana discreta, silhueta, mãos com Bíblia ou olhar para luz/horizonte.
 - Modelos listados para a voz: `eleven_multilingual_v2`, `eleven_turbo_v2_5`, `eleven_v2_5_flash`, `eleven_flash_v2_5`, `eleven_multilingual_sts_v2`.
 - Correcao apos o audio 002: 42 tags `<break>` em oito blocos, somando 34,9 segundos de pausas cronometradas, produziram ritmo artificial e foram reprovadas pelo usuario. A documentacao da ElevenLabs alerta que excesso de break tags pode causar instabilidade. Regra atual: em narracao longa com Multilingual v2, controlar o ritmo primeiro por estrutura semantica, pontuacao natural e Request Stitching. Pausa cronometrada vira excecao justificada, deve ser contada no preflight e nao pode ser espalhada mecanicamente entre todos os paragrafos.
 - Regra de referencia biblica falada: toda vez que a narracao identificar um versiculo, deve dizer livro, capitulo e versiculo de forma completa. Nao mencionar apenas `versiculo vinte e cinco` confiando que o ouvinte lembrara o livro e o capitulo. Para evitar redundancia, apresentar a referencia completa uma vez imediatamente antes da leitura, em vez de dar referencia incompleta antes e repeti-la depois.
@@ -383,6 +396,7 @@ Data: 2026-07-11.
 - Tema/titulo de trabalho do primeiro piloto: `Voce nao precisa carregar tudo sozinha`.
 - Pautas reservadas para videos futuros: `O que Jo ensina quando a vida parece injusta` e `Nao andeis ansiosos: o que Jesus realmente quis dizer`.
 - Pautas sugeridas por Layane em 2026-07-21, preservadas como sementes editoriais: infância de Jesus; tentações; narrativas dos Evangelhos; criação em Gênesis; personagens bíblicos contados por história e conflito; Apocalipse, selos, falso profeta e anticristo. O vídeo 004 foi escolhido como `O que a Bíblia revela sobre a infância de Jesus — e o que ela não conta`, uma mudança deliberada para narrativa bíblica e curiosidade textual. A linha de Apocalipse fica reservada para pesquisa e delimitação denominacional antes de qualquer roteiro; ela não deve ensinar a identificar pessoas, governos ou eventos atuais como se o texto bíblico oferecesse esse diagnóstico.
+- Grade editorial decidida em 2026-07-27 para os 7 longos novos ate 15/08: `video-005` sera Genesis/criacao; depois Marta e Maria; tentacoes de Jesus; Pedro negou Jesus; mulher samaritana; Jesus acalma a tempestade; filho prodigo. Como acabou de sair um video sobre Jesus, temas em que Jesus e o foco principal foram espaçados. Fonte operacional: `operations/a-palavra-que-cuida/01_briefs/grade-editorial-2026-07-27-a-2026-08-15-v1.md`.
 - Ainda nao definir versiculo central, estrutura, duracao, roteiro ou custo do piloto sem pesquisa e decisao especificas.
 
 ## Regra editorial e controle ACF
@@ -391,7 +405,7 @@ Data: 2026-07-11.
 
 - Um roteiro pode ter um texto biblico principal e citar outros trechos de apoio quando isso for necessario para contexto, argumento ou nao redundancia. Referencias de apoio nao devem virar uma lista decorativa de versiculos.
 - A SBTB permite citar ate 1.100 versiculos ACF sem autorizacao previa, desde que nao formem livro completo nem 50% da obra que os menciona, e exige atribuicao. O termo publico nao esclarece o escopo desse teto entre obras diferentes.
-- Como politica interna conservadora, a fabrica nao ultrapassara 1.000 unidades de versiculo ACF em todas as saidas publicadas sob seu controle sem autorizacao escrita da SBTB. A regra abrange canais diferentes; abrir outro canal nao reinicia nem multiplica o teto. Cada versiculo citado direta e parcialmente conta uma vez por saida publica; um short ou republicacao separada conta de novo. O registro e o preflight ficam em `Canal Religioso/08_publicacao/`.
+- Como politica interna conservadora, a fabrica nao ultrapassara 1.000 unidades de versiculo ACF em todas as saidas publicadas sob seu controle sem autorizacao escrita da SBTB. A regra abrange canais diferentes; abrir outro canal nao reinicia nem multiplica o teto. Cada versiculo citado direta e parcialmente conta uma vez por saida publica; um short ou republicacao separada conta de novo. O registro e o preflight ficam em `operations/a-palavra-que-cuida/08_publicacao/`.
 
 ## Biblia Livre para leitura integral
 
@@ -429,8 +443,8 @@ Data: 2026-07-21.
 Data: 2026-07-21.
 
 - A narracao v2 de `Nao andeis ansiosos: o que Jesus realmente quis dizer` foi aprovada pelo usuario. O metodo sem tags `<break>`, apoiado em pontuacao natural, blocos semanticos e Request Stitching, produziu uma leitura claramente melhor e passa a ser a referencia atual para narracoes longas com a voz Bruno Cardoso.
-- Correcao do video 003: voz, modelo e Request Stitching nao bastam para generalizar o resultado entre roteiros. O contrato de performance armazenado no manifesto nao controla a API se nao fizer parte dos parametros realmente enviados. A primeira narracao de Jo passou em integridade textual e loudness, mas foi reprovada por leitura sem compreensao, entonacao e hierarquia. A tentativa de correcao v2 nao isolou a capacidade da voz: ela supersegmentou a fala em microfrases e, por isso, nao prova incapacidade de Bruno Cardoso + Multilingual v2. No payload da calibracao nao havia prompt de atuacao, contexto longo, caracteres ocultos nem Request Stitching; overprompting e rotten context foram descartados para esse teste. A causa da narracao integral v1 continua aberta; ancoragem de uma cadencia ruim pelo Request Stitching e apenas hipotese. Antes de trocar de motor, fazer um A/B pequeno com escrita oral continua, mantendo o restante fixo. QA tecnico aprovado nunca pode ser chamado de audio aprovado sem o crivo semantico humano. Pesquisa pratica: `Canal Religioso/01_briefs/pesquisa-pratica-prosodia-tts-2026-v1.md`.
-- Escrita oral v0.1: pontuacao deve continuar gramatical e o ritmo deve nascer de sintaxe, conectivos, ordem das informacoes e paragrafos semanticamente completos. Ponto encerra ideia completa; listas nao viram cascatas de microfrases para forcar enfase. Reticencias, travessoes repetidos, caixa alta e tags de pausa ficam proibidos por padrao. O preflight local alerta acima de 15% de frases com ate quatro palavras ou tres frases consecutivas com ate sete; esses limites vieram do contraste com o video 002 aprovado e nao sao regra universal. O primeiro bloco precisa ser aprovado antes de alimentar Request Stitching. A amostra v3 foi preparada sem chamada paga em `Canal Religioso/02_roteiros/video-003-calibracao-performance-v3.json`.
+- Correcao do video 003: voz, modelo e Request Stitching nao bastam para generalizar o resultado entre roteiros. O contrato de performance armazenado no manifesto nao controla a API se nao fizer parte dos parametros realmente enviados. A primeira narracao de Jo passou em integridade textual e loudness, mas foi reprovada por leitura sem compreensao, entonacao e hierarquia. A tentativa de correcao v2 nao isolou a capacidade da voz: ela supersegmentou a fala em microfrases e, por isso, nao prova incapacidade de Bruno Cardoso + Multilingual v2. No payload da calibracao nao havia prompt de atuacao, contexto longo, caracteres ocultos nem Request Stitching; overprompting e rotten context foram descartados para esse teste. A causa da narracao integral v1 continua aberta; ancoragem de uma cadencia ruim pelo Request Stitching e apenas hipotese. Antes de trocar de motor, fazer um A/B pequeno com escrita oral continua, mantendo o restante fixo. QA tecnico aprovado nunca pode ser chamado de audio aprovado sem o crivo semantico humano. Pesquisa pratica: `operations/a-palavra-que-cuida/01_briefs/pesquisa-pratica-prosodia-tts-2026-v1.md`.
+- Escrita oral v0.1: pontuacao deve continuar gramatical e o ritmo deve nascer de sintaxe, conectivos, ordem das informacoes e paragrafos semanticamente completos. Ponto encerra ideia completa; listas nao viram cascatas de microfrases para forcar enfase. Reticencias, travessoes repetidos, caixa alta e tags de pausa ficam proibidos por padrao. O preflight local alerta acima de 15% de frases com ate quatro palavras ou tres frases consecutivas com ate sete; esses limites vieram do contraste com o video 002 aprovado e nao sao regra universal. O primeiro bloco precisa ser aprovado antes de alimentar Request Stitching. A amostra v3 foi preparada sem chamada paga em `operations/a-palavra-que-cuida/02_roteiros/video-003-calibracao-performance-v3.json`.
 - Em 2026-07-23, a amostra v3 foi aprovada pelo crivo humano com a mesma voz, modelo, seed e configuracoes. A mudanca isolada da escrita confirmou a supersegmentacao como causa principal da falha da calibracao v2. O metodo deve ser aplicado ao roteiro integral, mas a narracao completa continua bloqueada ate o preflight textual e a aprovacao humana do primeiro bloco reescrito.
 - A fala termina em 658,194 segundos. O master de producao recebeu localmente 3 segundos de silencio ao final e ficou com 661,193 segundos. Nao houve regeneracao nem novo custo de ElevenLabs.
 - Regra de fechamento: preservar alguns segundos depois da ultima fala para a end screen continuar utilizavel e para o audio terminar sem corte seco.
@@ -456,7 +470,7 @@ Data: 2026-07-21.
 
 ## Biblioteca central de imagens geradas
 
-- As imagens geradas reutilizaveis do canal ficam centralizadas em `Canal Religioso/04_assets/biblioteca_imagens/`, sem remover os originais dos projetos em que nasceram.
+- As imagens geradas reutilizaveis do canal ficam centralizadas em `operations/a-palavra-que-cuida/04_assets/biblioteca_imagens/`, sem remover os originais dos projetos em que nasceram.
 - O acervo e deduplicado por SHA-256 e separado entre imagens atuais e legado util. Origem, dimensoes, categoria, estado e motivo de exclusao ficam em `catalogo.json`.
 - Folhas de QA, contact sheets, screenshots e frames derivados nao contam como ativos-fonte.
 - Imagens explicitamente reprovadas nao entram na biblioteca curada. A exclusao permanece registrada para impedir reutilizacao acidental, especialmente cadernos/papeis vazios, medicamentos sem rotulo e composicoes com texto achatado sobre objetos.
@@ -467,7 +481,7 @@ Data: 2026-07-21.
 - A v2 removeu o caderno vazio, o orcamento sem rotulos e todas as sobreposicoes que fingiam pertencer fisicamente a objetos. Os envelopes aprovados usam texto integrado na propria imagem.
 - Cenas de Jesus, Sermao do Monte e Galileia passaram a ocupar os trechos biblicos; cotidiano brasileiro e apoio humano ocupam as aplicacoes contemporaneas.
 - End screen: os 600 frames finais, equivalentes a 20 segundos, ficam reservados ao video recomendado. Depois da ultima fala ha cerca de 3,264 segundos de respiro e fade, sem avatar estatico.
-- A revisao reutilizou ativos existentes e nao fez nova chamada paga. O master local esta em `Canal Religioso/07_exports/video-002/nao-andeis-ansiosos-v2.mp4` e foi aprovado pelo usuario para publicacao com dividas de qualidade registradas abaixo.
+- A revisao reutilizou ativos existentes e nao fez nova chamada paga. O master local esta em `operations/a-palavra-que-cuida/07_exports/video-002/nao-andeis-ansiosos-v2.mp4` e foi aprovado pelo usuario para publicacao com dividas de qualidade registradas abaixo.
 - Limite tecnico observado: videos stock e avatar tornam o render 1080p no Remotion muito mais lento que planos de imagem. Investigar proxy/intraframe ou montagem hibrida com FFmpeg antes de fixar a estrategia da esteira.
 
 ## Feedback humano cristalizado depois do video 002
@@ -481,6 +495,10 @@ Data: 2026-07-21.
 - Antes do render, comparar a transcricao do trecho biblico com o grafismo palavra por palavra. A fala, o texto exibido e a versao biblica registrada precisam coincidir.
 - Repeticao visual deve diminuir conforme o acervo cresce. Antes da montagem, contar reutilizacoes por ativo e ampliar o conjunto com stock preciso ou novas geracoes. Repetir somente quando houver funcao editorial clara; falta de material nao pode virar repeticao silenciosa por padrao.
 - Decisao cristalizada de tela final para todos os proximos videos: reservar dois espacos visuais para recomendacoes e configurar exatamente dois elementos nativos de video no YouTube. Um deve ser a continuacao tematica prioritaria escolhida pelo canal; o outro, uma alternativa relevante para o espectador. O CTA deve falar no plural ou permitir naturalmente que o espectador escolha entre as duas opcoes.
+- Regra universal reforcada pelo usuario em 2026-07-29: todo video longo publicado no YouTube, de qualquer canal atual ou futuro, deve ter exatamente dois videos recomendados por elementos nativos na tela final. Prever dois espacos no master nao basta: a publicacao so pode ser considerada concluida depois de configurar e verificar os dois destinos no YouTube Studio/player publico. Se a verificacao nao ocorrer, manter o video bloqueado, nao concluido ou explicitamente pendente; nao tratar pendencia manual como sucesso.
+- Aplicacao retroativa e prospectiva definida pelo usuario em 2026-07-29: auditar todos os videos longos ja publicados em todos os canais e corrigir, quando houver acesso operacional, os que estiverem sem os dois elementos nativos. A ausencia nao e excecao editorial nem deve ser repetida em canais futuros.
+- Regra universal de tela final, decidida em 2026-07-29: em todos os canais do YouTube, os dois elementos nativos devem apontar para o video imediatamente anterior ao episodio e para o video mais recentemente publicado no canal no momento da publicacao. A narração nunca deve citar titulos, personagens ou temas especificos dos cards; deve apenas orientar o espectador a escolher um dos videos exibidos. A selecao deve ser atualizada por episodio, sem presumir que o video assistido seja o mais recente, e sem prometer uma recomendacao que possa ficar arquivada, indisponivel ou desatualizada.
+- Aplicacao operacional da regra de 2026-07-29: o video 010 ja teve a narracao gerada com a CTA especifica anterior e nao sera regravado sem nova aprovacao de custo; a regra generica passa a ser obrigatoria a partir do video 011 e em todos os canais futuros.
 - Nao usar tres ou quatro recomendacoes por padrao. Uma quantidade maior so podera entrar como teste futuro, sustentado por catalogo realmente pertinente e pelas metricas de clique dos elementos da tela final.
 - Evidencia de plataforma verificada em 2026-07-21: o YouTube permite tela final nos ultimos 5 a 20 segundos e ate quatro elementos em video 16:9; portanto, duas recomendacoes de video sao suportadas. Fonte oficial: https://support.google.com/youtube/answer/6388789?hl=pt-br
 - Excecao explicita: nao remontar o video 002 para aplicar a tela dupla ou corrigir as dividas acima. As regras comecam no proximo video.
@@ -494,12 +512,12 @@ Data: 2026-07-21.
 - Tags de video sao baixa prioridade e servem principalmente para grafias alternativas e erros comuns.
 - Titulo e thumbnail devem ser avaliados juntos. Quando houver impressoes suficientes e recursos avancados, usar o teste A/B nativo do YouTube, cujo vencedor e escolhido por tempo de exibicao, nao CTR isolado.
 - Metricas devem ser lidas por origem de trafego e em conjunto. Nao adotar meta universal de CTR, retencao ou horario sem dados do proprio canal e de videos comparaveis.
-- Pesquisa e aplicacao do video 002 registradas em `Canal Religioso/01_briefs/estrategia-distribuicao-youtube-v0.1.md`.
+- Pesquisa e aplicacao do video 002 registradas em `operations/a-palavra-que-cuida/01_briefs/estrategia-distribuicao-youtube-v0.1.md`.
 - Familia futura de testes temporais aprovada pelo usuario: `Se esta mensagem apareceu para voce hoje, [data], ouca ate o fim`; `Uma palavra para voce hoje, [data]: voce nao esta sozinha`; `Antes de dormir nesta [dia da semana], voce precisa ouvir isto`; `Talvez voce tenha encontrado esta mensagem no momento certo`. Testar primeiro uma unica variacao em conteudo que cumpra a promessa. Se houver melhora sustentada de clique qualificado, retencao inicial, tempo de exibicao por impressao e satisfacao contra videos comparaveis, testar as demais com espacamento. Nao promover toda a familia por CTR isolado nem afirmar selecao divina ou pessoal pelo algoritmo.
 
 ## Pacotes de publicacao dos videos 001 e 002
 
-- Em 2026-07-21, tudo que podia ser concluido localmente para os dois primeiros videos foi fechado em `Canal Religioso/08_publicacao/`.
+- Em 2026-07-21, tudo que podia ser concluido localmente para os dois primeiros videos foi fechado em `operations/a-palavra-que-cuida/08_publicacao/`.
 - Os manifestos canonicos sao `piloto-001-publicacao-v1.json` e `video-002-publicacao-v1.json`. Eles preservam titulo, descricao, capitulos exatos, tags, hashtags, comentario fixado, arquivos, hashes, tela final, controle ACF e dividas aceitas de cada episodio.
 - O video 002 recebeu legenda `pt-BR` baseada nos alinhamentos por caractere da narracao aprovada: 168 cues ate `657,984 s`, preservando o respiro final.
 - O preflight local dos dois pacotes passou. Os rascunhos somam 8 unidades ACF, mas o registro publicado continua em 0 ate que cada video realmente se torne publico.
@@ -508,7 +526,7 @@ Data: 2026-07-21.
 ## Preparacao offline do canal no YouTube
 
 - Antes da restauracao da conta Google, foram preparados o banner `2560x1440`, a foto de perfil ja aprovada, uma marca-dagua `300x300` abaixo de 1 MB, a descricao do canal, palavras-chave enxutas, a playlist inicial e a hipotese de pagina inicial.
-- O manifesto canonico e `Canal Religioso/08_publicacao/configuracao-canal-v1.json`; os comandos reais do yutu estao em `yutu-pos-restauracao-v1.md`.
+- O manifesto canonico e `operations/a-palavra-que-cuida/08_publicacao/configuracao-canal-v1.json`; os comandos reais do yutu estao em `yutu-pos-restauracao-v1.md`.
 - O yutu pode atualizar canal e banner, criar playlist, enviar videos, thumbnails e legendas, atualizar metadados, publicar comentarios e administrar marca-dagua depois do OAuth.
 - A sintaxe preparada para canal, banner, playlist, video, thumbnail, legenda, comentario e marca-dagua passou no `--dry-run` local do yutu em 2026-07-21, sem chamada a API.
 - Continuam humanos no YouTube Studio: handle, foto de perfil, telas finais, fixacao dos comentarios, pagina inicial e confirmacao da visibilidade publica.
@@ -521,7 +539,7 @@ Data: 2026-07-21.
 - O video 002 tem um ponto de atencao por tratar de ansiedade. O narrador sintetico deve permanecer como narrador de reflexao biblica, nunca profissional de saude; nao diagnosticar, prescrever ou substituir atendimento.
 - A futura ideia de leitura integral composta apenas por texto subindo e narracao tem alto risco de nao monetizacao: a politica cita leitura exclusiva de material nao criado e texto rolando/slideshow com pouco comentario. Nao produzir presumindo elegibilidade para anuncios.
 - Marcar sempre a divulgacao de conteudo alterado ou sintetico. Segundo o YouTube, a divulgacao correta nao reduz por si mesma o alcance nem a elegibilidade para monetizacao.
-- Politica e preflight registrados em `Canal Religioso/01_briefs/politica-monetizacao-youtube-v1.md`.
+- Politica e preflight registrados em `operations/a-palavra-que-cuida/01_briefs/politica-monetizacao-youtube-v1.md`.
 
 ## Legendas e TikTok
 
@@ -540,7 +558,7 @@ Data: 2026-07-21.
 - Como o avatar aparece em momentos importantes, dar preferencia a recortes que incluam uma aparicao falada dele quando isso fortalecer reconhecimento, autoridade e continuidade visual do canal. Isso nao obriga todo curto a usar avatar.
 - Um unico video medio pode e deve originar varios videos de TikTok quando houver mais de um trecho forte. Nao repetir a mesma ideia apenas para aumentar quantidade.
 - Politica de selecao: primeiro marcar candidatos durante o roteiro; depois confirmar os melhores no audio aprovado e na montagem final. Cada recorte precisa ter gancho proprio, desenvolvimento minimo, conclusao ou ponte e CTA adequado.
-- Politica operacional completa registrada em `Canal Religioso/01_briefs/politica-legendas-e-tiktok-v1.md`.
+- Politica operacional completa registrada em `operations/a-palavra-que-cuida/01_briefs/politica-legendas-e-tiktok-v1.md`.
 
 ## Musica e descoberta no TikTok
 
@@ -554,7 +572,7 @@ Data: 2026-07-21.
 - Correção sobre som de tendência: é permitido adicionar pelo próprio TikTok uma faixa em volume muito baixo, inclusive praticamente inaudível, apenas para testar a associação à página do som, desde que a licença e o sentido da faixa sejam adequados. Não há evidência oficial de impulso garantido nem de penalidade por esse uso. Relatos de 2026 indicam que o aplicativo pode remover sons detectados como baixos demais; por isso, verificar depois da publicação se a faixa permaneceu associada e comparar resultados com e sem essa técnica.
 - Conteudo patrocinado ou que promova produto, servico ou marca de terceiro deve usar a Biblioteca de Musicas Comerciais ou musica com direitos comprovados. Nao presumir que uma faixa da biblioteca geral cobre uso comercial.
 - Ativar a verificacao de direitos autorais de som no TikTok Studio antes de publicar. Se houver duvida sobre licenca, nao publicar com a faixa.
-- Pesquisa e procedimento registrados em `Canal Religioso/01_briefs/pesquisa-musica-distribuicao-tiktok-v1.md`.
+- Pesquisa e procedimento registrados em `operations/a-palavra-que-cuida/01_briefs/pesquisa-musica-distribuicao-tiktok-v1.md`.
 
 ## TikTok como aquisicao para o YouTube
 
@@ -568,7 +586,7 @@ Data: 2026-07-21.
 - Metricas do funil serao lidas em conjunto: retencao e conclusao no TikTok, visitas ao perfil, cliques quando disponiveis, trafego externo no YouTube, desempenho do video de destino, espectadores recorrentes e origem das inscricoes. Nao adotar taxa universal antes dos dados do canal.
 - Relatos atuais de criadores mostram resultados contraditorios: alguns obtiveram inscritos ao pedir a migracao, outros tiveram grande alcance no TikTok sem impacto perceptivel no YouTube. Isso confirma que conversao nao e automatica e que relato individual e hipotese operacional, nao regra do algoritmo.
 - Metodo obrigatorio de pesquisa para distribuicao: consultar primeiro fontes oficiais atuais para capacidades, elegibilidade e politicas; depois investigar videos, minicursos publicos, Reddit e foruns recentes para praticas, incidentes e mudancas percebidas. Registrar data, pais, tipo de conta e natureza da evidencia. Confirmar alegacoes secundarias em fonte primaria quando possivel e deixar como hipotese quando nao for.
-- Estrategia, evidencias e procedimento registrados em `Canal Religioso/01_briefs/estrategia-aquisicao-tiktok-youtube-v1.md`.
+- Estrategia, evidencias e procedimento registrados em `operations/a-palavra-que-cuida/01_briefs/estrategia-aquisicao-tiktok-youtube-v1.md`.
 
 ## Decisão sobre a metamorfose
 
@@ -623,9 +641,9 @@ Data: 2026-07-23.
 - O primeiro QA rejeitou a abertura com caderno em branco. A v2 a substituiu por uma cena de cansaço noturno, coerente com o gancho, sem nova geração.
 - A v2 foi reprovada pelo usuário porque as legendas resumiam a mensagem em vez de transcrever a fala e o áudio começava uma frase cortada no final. A v3 usa transcrição literal sincronizada por palavra e termina depois de `porque ele cuida de você`.
 - TikTok e YouTube Shorts são destinos obrigatórios. O corpo pode ser comum para economizar, mas cada plataforma recebe acabamento próprio e métricas separadas; não inferir que os públicos ou resultados serão iguais.
-- Local canônico atual do corte 01: TikTok em `Canal Religioso/07_exports/shorts-aprovados/piloto-001/piloto-001-short-01-tiktok-v5-autocontido.mp4`; YouTube Shorts em `Canal Religioso/07_exports/shorts-aprovados/piloto-001/piloto-001-short-01-youtube-short-v3-autocontido.mp4`.
+- Local canônico atual do corte 01: TikTok em `operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001/piloto-001-short-01-tiktok-v5-autocontido.mp4`; YouTube Shorts em `operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001/piloto-001-short-01-youtube-short-v3-autocontido.mp4`.
 - No YouTube Short, associar o vídeo longo `ZkmCkF6XR_g` pelo recurso de vídeo relacionado. No TikTok, vincular o YouTube ao perfil e selecionar música com verificação de direitos dentro do aplicativo perto da publicação.
-- Política completa: `Canal Religioso/01_briefs/politica-distribuicao-vertical-multiplataforma-v1.md`.
+- Política completa: `operations/a-palavra-que-cuida/01_briefs/politica-distribuicao-vertical-multiplataforma-v1.md`.
 
 ## Incidente de áudio e legenda no primeiro vertical
 
@@ -655,15 +673,16 @@ Data: 2026-07-24.
 - A versão autocontida de 62,2 segundos do derivado vertical 001 foi aprovada pelo usuário como aceitável para publicação.
 - Dívida aceita: o vídeo ainda pode ficar um pouco mais dinâmico. Não regenerar este derivado apenas por isso; aplicar o aprendizado desde o planejamento dos próximos.
 - Dinamismo futuro deve vir de ritmo e variedade visual coerentes com a mensagem. Não acelerar por acelerar, não competir com a legenda e não aumentar custos sem função comunicativa.
+- Incidente observado na primeira publicação do TikTok em 2026-07-26: o quadro inicial preto virou a miniatura do vídeo no perfil. Para todos os próximos verticais, o primeiro frame deve ser uma imagem forte do próprio vídeo, nunca preto ou em transição, e a capa deve ser selecionada e conferida manualmente antes de publicar.
 
 ## Pasta canônica de Shorts aprovados
 
 Data: 2026-07-24.
 
-- Os derivados verticais aprovados ficam concentrados em `Canal Religioso/07_exports/shorts-aprovados/`, com uma subpasta por vídeo-fonte.
+- Os derivados verticais aprovados ficam concentrados em `operations/a-palavra-que-cuida/07_exports/shorts-aprovados/`, com uma subpasta por vídeo-fonte.
 - A pasta canônica guarda somente finalizações aprovadas. Prévia de QA, render intermediário e versão reprovada ficam fora dela.
 - Finalizações de TikTok e YouTube Shorts não são tratadas como duplicatas quando possuem acabamento ou tela final específicos para a plataforma.
-- O piloto 001 possui seis cortes aprovados e doze arquivos finais, duas finalizações por corte. O índice verificável está em `Canal Religioso/07_exports/shorts-aprovados/piloto-001/catalogo-v1.json`.
+- O piloto 001 possui seis cortes aprovados e doze arquivos finais, duas finalizações por corte. O índice verificável está em `operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001/catalogo-v1.json`.
 
 ## Evidência para títulos de encontro providencial
 
@@ -674,7 +693,7 @@ Data: 2026-07-24.
 - Inferência permitida: nosso vídeo foi associado a esse bairro temático. Inferência proibida: afirmar que o título concorrente causou sozinho sua recomendação ou desempenho.
 - Decisão: testar futuramente a moldura de `encontro providencial` em um episódio compatível, sem promessa sobrenatural específica não entregue e sem transformar todo o canal nesse padrão.
 - A forma evergreen é especialmente interessante porque cria sensação de oportunidade sem exigir mudança diária de título.
-- Experimento documentado em `Canal Religioso/01_briefs/experimento-titulo-encontro-providencial-v0.1.md`.
+- Experimento documentado em `operations/a-palavra-que-cuida/01_briefs/experimento-titulo-encontro-providencial-v0.1.md`.
 
 ## Frase editorial candidata - preservar a paz
 
@@ -704,13 +723,16 @@ Data: 2026-07-24.
 - Não foi fechado um corte rígido entre 10 ou 30 vídeos. A transição ocorrerá pela cobertura real da biblioteca: primeiro expansão acelerada, depois geração seletiva e, por fim, reutilização como padrão com geração apenas de lacunas.
 - Mesmo com acervo maduro, temas novos e passagens sem representação adequada podem exigir imagens novas. Economia nunca autoriza imagem semanticamente errada.
 - Thumbnail, abertura e embalagem precisam continuar distinguindo cada episódio. Reciclar o corpo visual não significa apresentar vídeos indistinguíveis.
-- Política operacional registrada em `Canal Religioso/01_briefs/politica-acervo-visual-v0.1.md`.
+- Política operacional registrada em `operations/a-palavra-que-cuida/01_briefs/politica-acervo-visual-v0.1.md`.
 
 ## Cadência futura e alternância editorial
 
 Data: 2026-07-24.
 
 - Preferência estratégica do usuário: chegar a dois vídeos longos por dia. Isso é alvo de escala, não evidência de que a frequência por si só aumentará a distribuição ou a receita. A hipótese será testada com dados do canal, capacidade de produção, custo e manutenção de qualidade.
+- Regra operacional adicionada em 2026-07-27: manter estoque de seguranca de aproximadamente 7 videos longos prontos, com seus derivados e pacote de publicacao quando aplicavel. A producao diaria pode ser de 1 ou 2 longos, mas a publicacao nao deve depender do video recem-produzido ficar pronto em cima do horario.
+- Ao finalizar um episodio, a esteira deve deixar o video no esquema completo: master preparado, derivados planejados ou renderizados conforme a politica de curtos, thumbnail/metadados/pacote de publicacao e estado claro de aprovacao. Depois que o comando de render final for iniciado com log e caminho de saida previstos, o Codex pode encerrar a resposta sem esperar o render terminar, desde que informe o processo iniciado, o arquivo esperado e o ponto de retomada.
+- Render local longo deve ser tratado como trabalho assincrono quando for demorado. A regra desejada e criar uma notificacao persistente do sistema ao concluir, com clique abrindo o video renderizado. Ate isso estar implementado tecnicamente nos scripts, registrar a pendencia e nao prometer notificacao real sem executar um watcher ou automacao equivalente.
 - Quando o canal passar a publicar três vídeos por semana, o Codex deve relembrar proativamente esta decisão e propor uma grade que alterne dinâmicas editoriais sem abandonar a identidade reconhecível de `A Palavra que Cuida`.
 - Elementos constantes: voz, avatar, identidade visual, fidelidade bíblica, cotidiano brasileiro, legendas e padrão de qualidade. O que deve variar é o motor narrativo, por exemplo: acolhimento e aplicação; história de uma figura bíblica; investigação de uma pergunta difícil; correção de uma leitura popular; ou mensagem direta de encontro providencial.
 - Se a cadência chegar a dois vídeos por dia, a hipótese inicial é usar o primeiro slot para o formato reflexivo-aplicado já conhecido e o segundo para uma dinâmica claramente diferente. Não variar apenas o tema: promessa, abertura, progressão, ritmo e função das imagens também precisam mudar.
@@ -733,7 +755,7 @@ Data: 2026-07-24.
 - Para TikTok e Shorts, não existe segundo mágico universal. A política v0.1 é cumulativa: primeiro frame ativo; motivo para parar até dois segundos; assunto compreensível até três; primeira recompensa concreta até cinco ou seis segundos.
 - No TikTok Creator Rewards, visualizações inferiores a cinco segundos não são qualificadas quando a conta participa do programa. Isso torna cinco segundos uma fronteira financeira relevante, não garantia de distribuição.
 - Curiosidade é permitida quando nasce do conteúdo. Urgência falsa, promessa mirabolante, revelação pessoal inventada e `assista até o fim` vazio são proibidos.
-- Política e fontes registradas em `Canal Religioso/01_briefs/politica-aberturas-retencao-v0.1.md`.
+- Política e fontes registradas em `operations/a-palavra-que-cuida/01_briefs/politica-aberturas-retencao-v0.1.md`.
 
 ## Catalogo futuro e playlists
 
@@ -744,7 +766,7 @@ Data: 2026-07-24.
 - A arquitetura usa camadas cruzadas: necessidade vivida, mapa biblico e abordagem editorial. Playlists comuns permitem ate uma classificacao primaria e duas secundarias por video.
 - Crescimento v0.1: um video registra a semente no repositorio; dois tornam a playlist elegivel para publicacao; tres tornam a lista elegivel para secao da pagina inicial. Esses limiares evitam listas vazias e nao sao apresentados como regra do algoritmo.
 - Series oficiais do YouTube ficam reservadas a sequencias realmente ordenadas, pois um video nao pode integrar mais de uma playlist de serie.
-- O catalogo inicial e as familias incubadas estao em `Canal Religioso/08_publicacao/catalogo-playlists-v0.1.yaml`; politica completa em `Canal Religioso/01_briefs/politica-catalogo-playlists-v0.1.md`.
+- O catalogo inicial e as familias incubadas estao em `operations/a-palavra-que-cuida/08_publicacao/catalogo-playlists-v0.1.yaml`; politica completa em `operations/a-palavra-que-cuida/01_briefs/politica-catalogo-playlists-v0.1.md`.
 
 ## Correcao economica - otimizar, nao reduzir
 
@@ -770,3 +792,264 @@ Data: 2026-07-24.
 - O pacote do piloto 001 registra publicacao publica, enquanto a camada de metricas ainda diz que nenhuma publicacao ocorreu. Estado operacional precisa ter uma unica fonte canonica.
 - Antes do video 004, sao P0: runner real da fabrica, estado e custo unificados, ciclo de vida de artefatos, calibracao de voz em abertura/miolo/CTA, storyboard revisado antes de gasto, proxy antes do master e atualizacao da verdade de publicacao/metricas.
 - A auditoria completa e suas evidencias estao em `ai/auditorias/retrospectiva-fluxo-agentico-videos-001-003-v1.md`.
+
+## Correcao de edicao - texto na tela
+
+Data: 2026-07-27.
+
+- Decisao do usuario: fora de legendas sincronizadas, o master horizontal nao usa textos editoriais, titulos de abertura ou frases de apoio sobre imagens. A excecao e a carta biblica completa durante a leitura direta e a tela final estrutural.
+- Mencionar livro, personagem ou capitulo nao aciona carta biblica. A carta ACF completa aparece exclusivamente durante a leitura direta do versiculo correspondente.
+- Legendas sao transcricao sincronizada e continuam separadas de placas editoriais. O QA humano confere inicio, meio e fim ouvindo a fala e lendo a tela; texto sem frase correspondente reprova o master.
+- A politica central e `operations/a-palavra-que-cuida/01_briefs/politica-legendas-e-tiktok-v1.md`. O gerador do video 004 passou a bloquear por erro qualquer ativo `editorial/` na lista ciclica de B-roll.
+
+## Correcao de tela final - sem slots fixos
+
+Data: 2026-07-27.
+
+- Decisao do usuario: os proximos masters horizontais terminam sem quadrados, molduras ou lugares pré-determinados para videos clicáveis. A plataforma define quantidade e posicionamento dos elementos na etapa de publicacao.
+- A tela final preserva o nome do canal e o handle ativo `@apalavraquecuidabr`, centralizado horizontalmente. O video 004 v5 permanece como excecao aprovada, com seus dois espacos visuais.
+
+## Cadencia dos curtos apos cada video longo
+
+Data: 2026-07-28.
+
+- Nova grade semanal decidida pelo usuario: videos longos do canal religioso sao publicados as segundas, quartas e sextas-feiras. Os curtos do canal e de suas redes sao publicados as tercas, quintas e sabados, sempre derivados do longo do dia anterior.
+- Cadencia operacional fixa: em cada terca, quinta e sabado, publicar o primeiro par as 11h e o segundo par as 17h. Cada par contem 1 YouTube Short e 1 TikTok do mesmo corte; no total do dia, sao 2 YouTube Shorts e 2 TikToks.
+- Domingo foi definido como dia de proximidade com a comunidade, sem video regular. Publicar as 11h um post na Comunidade do YouTube com imagem bonita e original acompanhada de um versiculo ou de uma boa mensagem de acolhimento; perguntas e pedidos de oracao podem ser usados quando fizerem sentido.
+- Decisao do usuario: os dois curtos derivados de cada video longo devem ser publicados no dia seguinte ao longo, tanto no YouTube Shorts quanto no TikTok.
+- Horarios fixos decididos: curto 1 as 11h e curto 2 as 17h, no horario de Brasilia.
+- Quando houver um video longo novo no mesmo dia, ele entra a noite; no YouTube, a operacao fica em dois Shorts e um longo naquele dia.
+- Esta regra substitui a grade anterior que espalhava os dois curtos por varios dias. Curto atrasado de um longo ja publicado tem prioridade sobre o estoque antigo que nao esta ligado ao episodio mais recente.
+- Nao publicar curto antes do respectivo video longo. Estoque antigo pode ocupar dias sem estreia ou slots de recuperacao, desde que nao atrase os dois curtos do episodio mais recente.
+- Procedimento padrao decidido pelo usuario: todo YouTube Short deve receber, antes da publicacao, o respectivo video longo pelo recurso nativo `Video relacionado`. A URL na descricao nao substitui esse vinculo. Se os recursos avancados da conta impedirem o vinculo, manter o Short privado e pausar a publicacao ate a verificacao ser concluida.
+- Divisao operacional de `A Palavra Que Cuida`, atualizada pela usuaria em 2026-08-01: o Codex assume a publicacao do YouTube Shorts e do TikTok no mesmo slot. Sempre que publicar um Short, deve publicar tambem o TikTok correspondente, verificando antes canal autenticado, arquivo aprovado, capa, legenda, localizacao, direitos autorais, elegibilidade e duplicacao. Se qualquer plataforma ou conta impedir a publicacao, registrar o bloqueio e avisar imediatamente a usuaria para que ela possa intervir. O envio ao tablet deixa de ser a rota padrao deste canal e passa a ser contingencia quando a publicacao direta do TikTok nao estiver disponivel.
+- Roteamento operacional atualizado pela central em 2026-07-29: este chat executor responde apenas pelos pares de YouTube Shorts e TikTok das tercas, quintas e sabados, as 11h e 17h. O post da Comunidade do YouTube aos domingos as 11h passa a ser executado pelo chat de videos longos.
+- Decisao do usuario sobre duracao: os curtos destinados tambem ao TikTok nao precisam terminar em 1:00 cravado. Quando a mensagem permitir, devem ultrapassar 60 segundos por alguns segundos para atender a estrategia de monetizacao, sem inserir enrolacao ou prejudicar o ritmo. A faixa exata ainda nao foi fixada; o corte aprovado atual, com 1:14, e uma referencia valida.
+- Regra visual explícita do usuário: não usar imagens de caderno aberto com páginas em branco. A proibição vale para vídeos longos, curtos, novos renders e seleção de biblioteca; não basta evitar um arquivo específico. Cadernos só podem aparecer quando houver ação concreta e informação visual necessária, nunca como preenchimento genérico ou grande área vazia.
+
+## Duracao dos videos longos
+
+Data: 2026-07-28.
+
+- Decisao do usuario: os videos longos do canal religioso devem durar no minimo 10 minutos e no maximo 13 minutos.
+- A duracao real deve ser conferida pelo master WAV e pela linha do tempo, nunca apenas pelo MP3 de revisao. Se a narracao exceder o teto, pausar antes da edicao e propor enxugamento do roteiro e nova geracao com cotacao e aprovacao separadas.
+
+## Emocao da narracao
+
+Data: 2026-07-28.
+
+- Sinal humano a investigar: a narracao atual em `eleven_multilingual_v2`, com a voz Bruno Cardoso e configuracao-base de estabilidade `0.5` e estilo `0`, foi percebida como pouco emocional. Isso e uma observacao de QA, nao um diagnostico definitivo da voz ou do modelo.
+- Antes de uma proxima narracao longa paga, executar uma calibracao curta e representativa de abertura, leitura biblica e trecho de acolhimento, com cotacao e aprovacao explicitas. Comparar configuracoes de expressividade e avaliar por escuta humana antes de gerar o roteiro inteiro.
+- Nao usar tags pseudoemocionais, comandos entre colchetes, direcoes teatrais que seriam narradas, excesso de reticencias, nem `<break>` como atalho. Esses recursos nao pertencem ao contrato atual da voz e ja causaram pausas artificiais ou prosodia ruim. A emocao deve vir primeiro do texto, da segmentacao semantica e de parametros validados por amostra.
+
+## Identificacao em videos por personagens biblicos
+
+Data: 2026-07-28.
+
+- Decisao do usuario: historias de personagens biblicos continuam sendo uma frente importante, mas nao podem afastar a espectadora da propria vida. Cada roteiro desse tipo deve conduzir, nas entrelinhas, a experiencia de quem escuta para dentro da cena: cansaco, escolhas, culpa, espera, fe, relacoes e cotidiano reconhecivel.
+- A identificacao nao deve virar rotulo demografico, interrogatorio ou formula repetitiva. A personagem biblica abre o episodio; a aplicacao faz a espectadora se perceber sem ser colocada de forma artificial no papel de Marta, Maria ou outro personagem.
+- A grade futura tambem deve preservar episodios dedicados diretamente a necessidade vivida pela espectadora, como nos primeiros videos, alternando motores narrativos sem perder a identidade do canal.
+- Alternancia editorial confirmada: intercalar videos que contam e interpretam uma historia ou figura biblica com videos que partem diretamente de uma situacao da vida cotidiana. Em ambos, a mensagem biblica e o acolhimento ao publico permanecem centrais; muda o ponto de entrada, nao a promessa do canal.
+
+## Direcao exploratoria - canal de afirmacoes
+
+Data: 2026-07-26.
+
+- Para o proximo canal em exploracao, o usuario escolheu manter o foco em duas linhas: `afirmacoes positivas para dormir` e `manifestacao por afirmacoes`.
+- Publico-alvo fixado pelo usuario: meninas e mulheres brasileiras de 16 a 24 anos. O centro imaginado para linguagem, estetica, titulos e referencias culturais esta entre o fim da adolescencia e o inicio dos vinte; o conteudo nao e direcionado a criancas.
+- Nome criativo escolhido pelo usuario para o canal de afirmacoes: `Quase Celestial`. A checagem inicial de busca publica em 2026-07-26 nao mostrou concorrente direto evidente, mas as consultas diretas a YouTube e Instagram foram limitadas pela plataforma e isso nao comprova disponibilidade de `@`, marca ou dominio. Antes da abertura/publicacao, verificar handle no proprio YouTube e Instagram e fazer busca formal aplicavel no INPI.
+- Esta e uma direcao editorial de pesquisa e piloto, nao uma decisao de publico-alvo, promessa garantida, stack ou formato final.
+- Meditacao guiada e sons ambientes puros nao serao o foco deste canal. Podem ser referencias ou alternativas para outro canal no futuro, sem entrar automaticamente no escopo atual.
+- A hipotese visual candidata e uma estetica imaginativa, delicada e "salvavel no Pinterest", com voz feminina de afirmacoes como centro e loops/cenas sutis como atmosfera; ela ainda precisa de analise concorrencial e teste original antes de ser cristalizada.
+- A palavra `subliminal` pode ser testada somente como sublinha ou playlist, nao como identidade obrigatoria do canal; a comunicacao deve evitar alegacoes medicas, promessas de resultado ou apresentacao de crenca como fato comprovado.
+- A composicao editorial candidata passa a ter somente duas linhas: aproximadamente 60% de `afirmacoes positivas para dormir` e 40% de `manifestacao por afirmacoes`. Nao ha espaco reservado para meditacao guiada.
+- Regra de audio: a voz pode ser suave pela interpretacao e pela mixagem, mas deve permanecer clara em volume normal de celular. Nao baixar o master a ponto de exigir que a pessoa aumente muito o aparelho para dormir; cada faixa devera passar por escuta em alto-falante mono de celular e em fones, em volume habitual.
+- Voz-base escolhida pelo usuario para o canal de afirmacoes: `Marianne - Sweet, Calm and Clear` (voice id `iScHbNW8K33gNo3lGgbo`), gerada com o modelo `eleven_v3`. A escolha substitui a tentativa anterior com Laura, que fica somente como amostra descartada de calibracao. A Marianne foi selecionada por audicao de amostra curta em portugues e e classificada como jovem adulta no catalogo; parametros de performance, ritmo, tags e mixagem permanecem para calibracao no piloto. O nome descritivo do catalogo nao substitui o crivo humano de adequacao ao canal.
+- Assinatura sonora aprovada para os dois pilares: em momentos pontuais, a voz principal da Marianne, clara e central, ganha uma segunda copia da mesma voz, curta, baixa e difusa como textura eterea — nao um eco nitido. Em `manifestacao por afirmacoes`, ela pode aparecer nos pontos de expansao e frases-chave; em `afirmacoes para dormir`, mais discreta, sobretudo em finais de frase. Ponto de partida de calibracao: copia cerca de 14–18 dB abaixo da principal e atraso inicial de 45–70 ms; validar inteligibilidade em fones e alto-falante mono antes de promover.
+- A amostra de manifestacao com Marianne em `eleven_v3`, cama sonora eterea original e voz-sombra pontual foi aprovada pelo usuario como direcao do primeiro episodio. O roteiro completo ainda precisa ser recalibrado para atingir a duracao-alvo de 11:11 no ritmo real dessa voz.
+- A experiencia de anuncios e variavel e esta fora do controle do canal. A documentacao do YouTube informa que o recurso de volume estavel pode equilibrar o audio do video, mas nao afeta anuncios. Logo, essa incerteza nao justifica publicar uma faixa artificialmente baixa; a mitigacao controlavel e evitar picos, fala agressiva e diferencas grandes dentro do nosso proprio audio.
+- Identidade criativa candidata aprovada pelo usuario: nucleo em afirmacoes audiveis e manifestacao; experiencia bonita, intima, feminina e imaginativa; visual composto por loops ou cenas sutis com estetica propria. O canal nao usara avatar, persona de "professora guiando meditacao", chuva/cachoeira ou musica de relaxamento generica como pilares.
+- Direcao visual candidata do canal de afirmacoes: eterea, onirica, pictorica e sublime, com presencas/femininas luminosas, feixes de luz, flores, agua/cosmos e uma sensacao angelical nao necessariamente religiosa. A referencia deve privilegiar atmosfera, luz, paleta e movimento; nunca reproduzir composicao, personagem ou obra de terceiros.
+- Pinterest e outros moodboards sao instrumentos de descoberta, nao banco de assets. Para cada arte publicada, usar somente geracao original, stock com licenca comercial compativel com monetizacao, ou obra comprovadamente em dominio publico com a origem documentada. Uma obra original conhecida, sua fotografia ou seu scan nao se presume livre apenas por aparecer no Pinterest.
+- Movimento visual inicial de custo otimizado: uma arte-master original com animacao sutil e coerente (pulso de luz, particulas, agua/ceu, parallax leve ou zoom lento). Decidir por video se um loop sem costura ou uma animacao curta agrega valor; nao animar por obrigacao nem repetir o mesmo master de modo indistinguivel entre episodios.
+- Exclusividade visual decidida para o canal de afirmacoes: cada episodio publicado recebe uma arte-master propria e nao reutiliza a arte de outro episodio. Paleta, motivos e linguagem podem se repetir como identidade, mas nunca a mesma imagem, personagem ou composicao final.
+- A arte publicada sai da rotacao editorial apos o episodio, mas permanece arquivada com sua origem, prompt/licenca, versao e destino publicado. "Descartar" significa nao reutilizar no canal; nao apagar evidencia nem abrir margem para reutilizacao acidental.
+- Formato visual-base decidido: todo episodio longo usa uma "arte viva" exclusiva — imagem original com movimento local sutil e continuo, como pulso de luz, particulas, nevoa, agua, parallax ou zoom lento. Isso evita tanto a tela completamente parada quanto a obrigacao de gerar video caro para cada faixa.
+- Geracao de animacao por IA fica reservada a episodios em que uma cena realmente animada acrescentar sentido e justificar seu custo, depois de storyboard, amostra e QA. Nao e requisito para publicar nem substitui a arte viva.
+- Tratamento visual confirmado: os dois pilares usam arte viva original, editada para a assinatura do canal. Em `afirmacoes para dormir`, o movimento e quase imperceptivel e sem cortes (por exemplo, luz respirando, nevoa, particulas, agua ou zoom lentissimo). Em `manifestacao por afirmacoes`, a mesma linguagem recebe movimento um pouco mais expressivo, mas ainda suave e em loop (aura, feixes, flores/tecido, profundidade ou parallax). Video integralmente gerado por IA fica reservado a episodios especiais, nao como padrao.
+- Prototipos visuais aprovados como referencia de direcao, nao como assets reutilizaveis: para `afirmacoes para dormir`, o usuario preferiu a primeira arte gerada em noite azul-profunda, figura repousando, halo lilas e agua, por manter riqueza visual e misterio sem ficar escura demais; para `manifestacao`, aprovou a versao de aurora rosada com garota de aparencia cotidiana, roupa simples, cabelo natural e rosto oculto, rejeitando o aspecto de "princesa perfeita". Cada episodio continua exigindo arte exclusiva.
+- Correcao visual do piloto de manifestacao: personagens humanas devem ler claramente como jovens adultas; evitar rostos, proporcoes ou figurinos que as facam parecer criancas ou "princesas". A imagem do episodio 001 foi aprovada apesar desse desvio; a regra vale para os proximos.
+- Diversidade visual de `Quase Celestial`, decidida em 2026-08-01: a identidade nao deve se reduzir a uma mesma garota contemplando uma janela em tons violetas. Cada novo episodio deve explorar deliberadamente outra combinacao de paleta, personagem/presenca, cenario e motivo visual, preservando apenas a atmosfera intima, imaginativa e salvavel. As referencias anteriores continuam servindo como direcao de sensacao e nao como composicao a repetir. O episodio 002, com mulher jovem-adulta em cena noturna, foi aprovado como uso pontual; nao vira modelo composicional padrao.
+- Foto de perfil aprovada para `Quase Celestial`: gato preto luminoso integrado a um talisma de quatro pontas com orbita interrompida, em azul-noite, lilas, fucsia e damasco. O gato e mascote/identidade visual, nao assunto recorrente dos videos; pode aparecer apenas de forma pontual nas artes.
+- Correcao de audio do piloto: na abertura dos proximos episodios, manter a voz totalmente seca e inequivoca; qualquer voz-sombra/textura que possa soar como segunda fala so pode entrar depois de uma amostra de abertura aprovada. O piloto 001 permanece aceito pelo usuario apesar de uma poluicao leve percebida nos primeiros minutos.
+- Direcao TikTok para `Quase Celestial` escolhida pelo usuario: publicar videos verticais originais com duracao-alvo de 1:05 a 1:20, e nao cortes de menos de um minuto, para manter elegibilidade potencial ao Programa de Recompensas do Criador. Cada video deve ter arco proprio e ser pensado para TikTok; a entrada e a remuneracao efetiva continuam sujeitas aos requisitos, revisao e metricas vigentes da plataforma.
+- Programacao TikTok para `Quase Celestial`, delegada pelo usuario em 2026-07-29: o Codex escolhe, por tema e funcao editorial, a mistura entre verticais originais e cortes reeditados dos videos longos. Nao ha alternancia fixa. Todo corte precisa ganhar gancho, inicio e fim proprios, continuar acima de um minuto quando destinado ao TikTok e nunca parecer um trecho solto. A decisao de volume e sequencia deve priorizar variedade, descoberta e ponte honesta ao YouTube, com revisao posterior pelas metricas.
+- Cadencia inicial do TikTok de `Quase Celestial`, atualizada em 2026-07-29: publicar 6 videos por semana, um por dia de segunda a sabado, sem publicacao aos domingos. A fonte regular passa a ser somente cortes reeditados dos longos: dois candidatos fortes por episodio, com tres longos semanais gerando seis verticais. Nao produzir novos TikToks exclusivos enquanto essa grade for suficiente. Cada corte precisa ser autonomo, com gancho, inicio e fim proprios; se um episodio nao oferecer dois trechos realmente bons, priorizar qualidade em vez de publicar um corte fraco. Ao fim do ciclo inicial, revisar retencao, conclusao, salvamentos, compartilhamentos, visitas ao perfil e ponte ao YouTube antes de mudar a frequencia.
+- Entrega para TikTok de `Quase Celestial`, decidida em 2026-07-29: a usuaria publica manualmente. De segunda a sabado, as 9h, o Codex deve enviar ao tablet o proximo MP4 aprovado e entregar no chat a legenda final pronta para copiar, com aviso explicito de que o video foi enviado. Nunca publicar o TikTok por conta propria; no domingo nao ha entrega. Se nao houver master aprovado, declarar o bloqueio em vez de enviar substituto improvisado.
+- Estoque inicial de `Quase Celestial`, decidido em 2026-07-29: preparar 13 TikToks prontos para publicar, cobrindo os slots de uma cadencia de 5 por semana de 29 de julho a 15 de agosto de 2026. Cada master precisa obedecer ao padrao de legendas sincronizadas. O primeiro longo disponivel, `Minha nova era`, dura 11:38,9 e pode originar cortes depois de uma selecao editorial e reediçao propria; sua publicacao so pode ocorrer no canal `Quase Celestial`, nunca em outro canal autenticado por engano.
+- Cadencia de longos de `Quase Celestial`, atualizada em 2026-08-01: publicar tres videos longos por semana, sempre as segundas, quartas e sextas-feiras, as 19h (America/Sao_Paulo). Cada longo deve nascer com dois candidatos reais de cortes verticais; assim, os tres longos geram seis candidatos para sustentar a publicacao de um TikTok por dia, de segunda a sabado. A automacao `Publicar longos — Quase Celestial` executa esse slot somente quando houver pacote plenamente aprovado; identidade do canal, master, thumbnail, metadados e comentario especifico do criador continuam gates obrigatorios.
+- Grade de YouTube Shorts de `Quase Celestial`, atualizada em 2026-08-01: publicar dois Shorts por dia, as tercas, quintas e sabados, nos horarios de 11h e 17h (America/Sao_Paulo); nao publicar Shorts nos demais dias. Cada Short deve ser reeditado a partir do video longo mais recentemente publicado no canal e manter gancho, contexto, encerramento e legendas proprios. A automacao `Publicar Shorts — Quase Celestial` executa a publicacao somente com master aprovado, canal correto e metadados/classificacao verificados. Os horarios sao uma hipotese operacional e devem ser revistos depois de 28 dias com dados do YouTube Analytics.
+- Comunidade de `Quase Celestial`, decidida em 2026-07-29: todo domingo, inicialmente as 11h (America/Sao_Paulo), publicar um post interessante e interativo conectado a algum material da semana anterior, preferencialmente ao longo mais recente. Pode ser pergunta curta, enquete ou texto acompanhado de composicao grafica original simples; nao reutilizar arte final de episodio como se fosse material novo. A automacao `Publicar comunidade — Quase Celestial` realiza essa publicacao no canal correto, ou registra bloqueio se faltar material ou acesso. O horario de 11h e hipotese operacional ate haver dados de audiencia suficientes para revisao.
+- Legendas TikTok para `Quase Celestial`, decididas pelo usuario em 2026-07-29: todos os videos verticais publicados devem trazer legendas queimadas, sincronizadas com a narracao e posicionadas de forma discreta no terco inferior seguro. Elas precisam reproduzir o que e falado e passar por checagem contra o audio. Titulos grandes centralizados de abertura nao sao o padrao; so entram quando houver uma escolha editorial especifica aprovada.
+- Padrao visual de legendas TikTok para `Quase Celestial`, atualizado em 2026-08-01: fonte Gadugi, 52 px no canvas 1080x1920, peso regular, texto branco-rosado, contorno escuro de 2,2 px, sombra de 0,8 px, centralizada no rodape seguro com margens laterais de 110 px e margem vertical de 320 px. A legenda deve ficar mais alta que o rodape/interface nativa do TikTok e reproduzir a fala com checagem contra o audio.
+- Assinatura de cabecalho TikTok para `Quase Celestial`, atualizada em 2026-08-01: absolutamente todos os TikToks futuros devem trazer `Quase Celestial` no canto superior esquerdo desde o primeiro frame, mantendo-se visivel durante todo o video e na miniatura automatica. A posicao segue a referencia dos curtos de `A Palavra que Cuida`, com ajuste para baixo: Gadugi, 44 px, branco-rosado com sombra discreta, x=64/y=150 em canvas 1080x1920. Esta assinatura e exclusiva dos verticais; videos longos do YouTube permanecem limpos.
+- Estrutura visual dos longos de `Quase Celestial`, decidida em 2026-08-01: cada episodio usara duas artes-master originais, exclusivas e visualmente distintas. A primeira ocupa a primeira metade e a segunda, a metade final; ambas recebem animacao propria, perceptivel e ainda serena, priorizando elementos naturais da cena como folhas, galhos, capim e agua. Os dois cortes verticais derivados devem vir de metades diferentes, para comunicar variedade visual tambem no TikTok. Nao reutilizar a mesma arte em episodios distintos.
+- Correção de identidade visual de `Quase Celestial`, decidida em 2026-08-03: variedade não autoriza uma estética naturalista, simples ou dessaturada. Todo novo vídeo deve conservar energia etérea e cósmica inequívoca: luz radiante, brilho, contraste, saturação intencional e cores de fantasia (por exemplo, azul-noturno, lilás, fúcsia, rosa-aurora, dourado, turquesa luminoso), com espaço sideral, estrelas, halos, partículas, feixes ou aura quando fizer sentido. Elementos naturais só entram como cenário transformado por essa linguagem — nunca como uma paisagem comum de aparência tranquila/genérica. Antes de renderizar, avaliar a arte em miniatura e em tela cheia contra esse gate; se ela puder passar por vídeo de natureza/relaxamento genérico, está reprovada. O episódio 003 é exceção já publicada, não nova referência de direção.
+
+## Grade semanal do canal religioso
+
+Data: 2026-07-28.
+
+- Decisao do usuario: publicar video longo no YouTube as segundas, quartas e sextas-feiras. Nas tercas, quintas e sabados, publicar 2 YouTube Shorts e 2 TikToks por dia: primeiro par as 11h e segundo par as 17h.
+- Domingo fica sem publicacao de video. As 11h, publicar um post na Comunidade do YouTube com imagem original e mensagem ou versiculo; quando fizer sentido, pode haver pergunta, pedido de oracao ou convite de conversa.
+
+## Direcao de interpretacao da narracao
+
+Data: 2026-07-28.
+
+- Decisao do usuario: a narracao deve ter emocao seletiva e certeira, nao uma dramatizacao constante. Reservar maior carga interpretativa para o apice do argumento, perguntas realmente importantes, leituras biblicas e temas sensiveis; o restante preserva a serenidade acolhedora do canal.
+- O roteiro deve marcar esses pontos como batidas internas de interpretacao e escrever a fala de modo natural para sustenta-los: perguntas curtas, imagens concretas, contraste e pausas semanticas reais. A marcacao nao deve ser enviada como direcao teatral que a voz possa ler em voz alta.
+- Quando a configuracao de voz precisar mudar para uma batida especial, gerar apenas esse bloco separado depois de calibracao curta, cotacao e aprovacao humanas. Nao aumentar a expressividade do episodio inteiro nem recorrer a tags nao suportadas, excesso de pontuacao ou `<break>`.
+
+## Interpretacao de comportamento em true crime
+
+Data: 2026-07-29.
+
+- Direcao do usuario para o novo canal: o roteiro pode descrever comportamentos observaveis durante interrogatorios, como desviar o olhar, pausar ou mudar a postura, para criar tensao e acompanhar a cena.
+- A observacao nao deve ser apresentada como prova cientifica de mentira, culpa ou estado mental. A ressalva deve ser curta, natural e variar de formulacao; nao repetir um aviso mecanico em toda ocorrencia.
+- Evitar leitura de mente na narracao. Preferir "desviou o olhar quando o investigador apresentou a suspeita" a afirmar que a pessoa percebeu, mentiu ou se sentiu encurralada, salvo quando isso estiver documentado.
+- Se evidencias posteriores apontarem fortemente para a culpa, o comportamento pode ganhar valor retrospectivo dentro da narrativa, mas continua sendo elemento de tensao e interpretacao, nao prova isolada. Fatos documentados, analise profissional e hipotese narrativa devem permanecer separados.
+
+## Direcao editorial inicial do canal de crimes
+
+Data: 2026-07-29.
+
+- O canal deve abordar casos brasileiros e internacionais; crimes acontecem em contextos diversos e a pauta nao fica limitada ao Brasil.
+- A selecao deve alternar casos pouco comentados ou pouco explorados no YouTube com casos famosos, desde que exista justificativa editorial para voltar ao assunto: novo hype, interesse publico ainda ativo, informacao relevante, novo angulo ou momento de alta procura.
+- Dar preferencia a casos recentes ou ainda culturalmente vivos, sem transformar recencia em criterio absoluto. Casos antigos podem entrar quando a historia, as provas ou o comportamento continuam fortes para o formato.
+- Priorizar casos de alta complexidade, estranheza, sofrimento e impacto narrativo. O canal pode explorar o sofrimento como parte do espetaculo emocional do true crime — medo, choque, indignacao, suspense e desconforto sao motores legitimos de audiencia — desde que isso seja construido por narrativa, contexto, testemunhos, evidencias e consequencias, e nao dependa automaticamente de gore gratuito ou de afirmacoes falsas.
+- A intensidade nao deve ser higienizada a ponto de retirar o motivo pelo qual o publico procura o genero. Ao mesmo tempo, cenas graficas, thumbnails e descricoes precisam ser avaliadas separadamente por risco de restricao de plataforma, monetizacao limitada, dano a vitimas e perda de credibilidade.
+- Tom editorial: usar um grau controlado de sensacionalismo como ferramenta de atracao — titulos fortes, aberturas perturbadoras, detalhes selecionados, urgencia e suspense — sem fabricar fatos, inflar provas, afirmar hipoteses como certezas ou humilhar vitimas e familiares. O sensacionalismo deve amplificar uma historia real, nao substituir a pesquisa.
+- Direcao visual provisoria: identidade baseada em preto e vermelho, por associarem imediatamente perigo, urgencia, crime e tensao. Para evitar uma estetica generica ou exageradamente gore, o preto/carvao deve dominar, o vermelho deve funcionar como acento de alerta — preferencialmente vermelho profundo/vinho — e textos podem usar branco quebrado ou cinza claro. Tons exatos, tipografia e sistema de thumbnails ainda precisam de teste pratico.
+- Direcao de thumbnails: usar preto e vinho como elementos de identidade, sem obrigar toda thumbnail a ser escura ou visualmente carregada. A composicao deve priorizar alto contraste, um unico foco de atencao, imagem ou rosto/objeto relevante do caso, atmosfera sensacionalista controlada e texto curto, forte e chamativo. A tipografia deve manter letras levemente ponteagudas, coerentes com a capa do canal, com leitura imediata em tela pequena. O impacto pode ser agressivo, mas titulo e imagem nao devem prometer algo que o video nao entrega.
+
+## Nome criativo em exploracao para o canal de crimes
+
+Data: 2026-07-29.
+
+- Nome escolhido pelo usuario para a exploracao: `Ruptura Oculta`.
+- A escolha combina a ideia de uma ruptura na versao oficial de um caso com a descoberta de uma camada escondida. O nome ainda nao esta aprovado como marca final: antes da abertura, verificar disponibilidade de handle nas plataformas, risco de confusao e busca formal aplicavel no INPI.
+- Publico inicial de trabalho definido pelo usuario: mulheres de 25 a 44 anos como prioridade, sem exclusividade; homens continuam incluidos por se tratar de um canal documental aberto. A linguagem, a escolha de casos e a abordagem podem considerar interesses predominantes desse publico sem mencionar segmentacao no roteiro. A faixa e a composicao de genero devem ser confirmadas pelas metricas do proprio canal.
+- Regra estrutural do projeto: cada canal deve ter uma pasta propria diretamente dentro de `Canais Dark`, com seus assets, roteiros, audios, edicoes, exports, publicacao e metricas isolados. Nenhum material de um canal novo deve ser guardado em `Canal Religioso` ou em outra pasta de canal existente.
+- Regra transversal de comunidade: todo video longo publicado por qualquer canal atual ou futuro deve receber um comentario escrito pelo proprio criador do canal. O comentario precisa fazer sentido com o episodio, acrescentar uma observacao ou pergunta relevante e instigar respostas reais, sem CTA generico ou engajamento artificial. A publicacao so e considerada concluida depois de verificar esse comentario na interface; quando fizer sentido editorial, ele tambem pode ser fixado.
+- Estrategia inicial de TikTok: o video longo do YouTube sera o ativo editorial principal e tambem abastecera o TikTok com cortes bem escolhidos das melhores partes — perguntas decisivas, contradicoes, viradas e momentos de tensao. A prioridade e equilibrar custo e retorno; nao produzir um video completamente separado para cada postagem por padrao.
+- Plataformas iniciais do Ruptura Oculta: YouTube como casa dos documentarios completos e TikTok como canal de descoberta por meio dos cortes; Instagram nao faz parte do escopo inicial.
+- Cada corte ainda deve funcionar como peca vertical: entrada compreensivel, contexto minimo, ritmo proprio, legendas e encerramento que preserve curiosidade. Nao produzir videos exclusivos para TikTok por padrao; Shorts e TikToks serao derivados estrategicamente dos videos longos.
+- Regra transversal para canais longos com TikTok: o video longo deve ser planejado desde a pauta e o storyboard com possiveis blocos verticais de pouco mais de 1 minuto. Cada candidato deve conter um gancho claro, contexto suficiente, uma escalada de tensao ou revelacao e um fechamento que deixe curiosidade sem mutilar o argumento do longo. A selecao do corte acontece antes da edicao final para orientar enquadramento, legendas e pontos de transicao. A regra vale para qualquer canal da fabrica somente quando o usuario optar por manter uma conta correspondente no TikTok.
+- Direcao de edicao aprovada para o Ruptura Oculta: documentario criminal tensionado, inspirado na intensidade do Insanity, na leitura de interrogatorios do JCS e na costura documental de referencias semelhantes, sem copia direta. A narracao original e a espinha dorsal; trechos reais, documentos, fotos, mapas, timelines e telas de evidencia entram com comentario, pausas, zooms discretos, congelamentos, sound design e movimento leve. A producao deve economizar creditos evitando avatar, video gerado por IA em cada cena, animacoes complexas e troca freneticamente generica de imagens. O efeito de alto valor deve vir de ritmo, silencio, selecao de evidencia, voz e montagem.
+- Duracao aprovada para videos longos: minimo de 20 minutos e maximo de 24 minutos. A faixa deve ser cumprida pelo master final, sem alongar o episodio com repeticao ou preenchimento; casos que nao sustentem a duracao devem ser recusados ou reestruturados antes da producao.
+- Restricoes explicitas de edicao: nao usar video gerado por IA para cada cena, avatar falando, animacoes complexas, excesso de transicoes, trilhas caras, imagens genericas trocadas freneticamente ou blocos longos de bodycam sem analise. Essas praticas ficam fora do padrao do canal; qualquer excecao futura precisa de justificativa editorial e aprovacao especifica.
+
+## Identidade visual aprovada do Ruptura Oculta
+
+Data: 2026-07-29.
+
+- Foto de perfil aprovada pelo usuario.
+- Paleta aprovada: preto e vinho como base, com carvao, branco envelhecido e contraste suficiente para leitura em telas pequenas.
+- Thumbnails podem fugir pontualmente da paleta quando isso for necessario para contraste, legibilidade ou impacto editorial, mas o padrao deve permanecer preto e vinho.
+- O efeito de nevoeiro usado na identidade deve continuar aparecendo como recurso de atmosfera, sem encobrir a leitura.
+- Toda capa de video deve conter texto.
+- Todos os textos de capa e thumbnail devem usar a mesma fonte agressiva e levemente pontiaguda da capa do canal.
+- A hierarquia de cor dos textos pode alternar palavras em branco e em vinho dessaturado. Palavras em vinho podem receber reducao de opacidade, desde que continuem legiveis; esse tratamento funciona como assinatura visual do sentido de "oculta".
+
+- Nova referencia visual aprovada para thumbnails: usar objetos como pistas materiais do caso, em composicoes de alto contraste e textura forte. Exemplos de linguagem observada no Dr Insanity/Viroscopo: correntes, cadeados, digitais, papeis, alfinetes, simbolos quebrados e retratos estilizados. No Ruptura Oculta, selecionar poucos objetos diretamente ligados ao episodio e evitar colagem generica; cada objeto precisa representar uma pergunta, evidencia ou conflito real.
+
+## Comunidade aos domingos
+
+Data: 2026-07-28.
+
+- Decisao do usuario: todo domingo as 11h tera um post na Comunidade do YouTube, com imagem original e uma proposta de conversa bonita e interativa. O post deve acolher, fazer uma pergunta simples e relevante, e pode aproveitar de forma natural o tema do longo mais recente ou abrir escuta para uma pauta futura.
+- O post de domingo nao e video, nem substitui os videos curtos da grade. Ele deve ser preparado junto com o pacote editorial da semana, sem uso de imagem generica ou CTA mecanico.
+- A execucao do post dominical pertence ao chat de videos longos; o presente chat de curtos nao deve publicar esse slot quando a central despachar a agenda.
+- Atualizacao do usuario em 2026-08-02: a publicacao na Comunidade do YouTube fica suspensa por enquanto. Nao preparar nem publicar o post dominical automaticamente ate nova autorizacao explicita.
+
+## Longos pensados para cortes verticais
+
+Data: 2026-07-29.
+
+- Decisao do usuario para todos os canais atuais e futuros: quando um canal tiver TikTok, seus videos longos devem nascer com possiveis trechos verticais autonomos previstos no roteiro e no plano de edicao. Nao deixar a busca de cortes para depois do master pronto.
+- Cada longo deve mapear pelo menos dois candidatos reais de aproximadamente 65 a 80 segundos, com gancho proprio, ideia compreensivel, desenvolvimento curto e fechamento ou ponte honesta. O objetivo e permitir curtos um pouco acima de um minuto sem enrolacao.
+- O longo continua sendo uma obra completa: nao pode virar uma sequencia artificial de clipes nem sacrificar contexto, profundidade ou ritmo apenas para produzir cortes.
+- O mapa de candidatos deve registrar inicio editorial, promessa, texto de gancho, funcao de retencao, final e riscos de contexto. Depois do master, a selecao final continua dependente da narracao, da sincronizacao e da qualidade real do trecho.
+- Quando um canal nao tiver TikTok, esta regra nao cria obrigacao de produzir verticais; ela apenas preserva a possibilidade editorial caso essa distribuicao seja adotada depois.
+
+## Operacao diaria do Facebook
+
+Data: 2026-07-29.
+
+- O Facebook de `A Palavra que Cuida` tera, como cadencia inicial, uma publicacao diaria pela manha.
+- Cada post deve ser preparado no chat antes da publicacao manual pela usuaria, sempre considerando as publicacoes mais recentes do YouTube, com prioridade para o video mais recente.
+- Todo post do Facebook deve direcionar para o canal do YouTube. A URL do canal deve ser incluida quando estiver confirmada; o handle ativo de referencia e `@apalavraquecuidabr`.
+- A usuaria nao quer usar o perfil pessoal nem aparecer para atrair publico. As orientacoes de crescimento devem priorizar a propria pagina, conteudo original, colaboracoes, grupos quando permitidos e testes pagos controlados.
+
+## Voz do Ruptura Oculta
+
+Data: 2026-07-29.
+
+- Direcao aprovada para o narrador: homem adulto, voz grave, segura e clara, com autoridade documental e sem teatralidade excessiva.
+- A escolha masculina substitui a preferencia feminina anterior porque se alinha melhor ao padrao sonoro dos canais de referencia e ao tom documental criminal definido para o canal. A voz final ainda sera escolhida por teste real no Eleven v3, comparando perfis documental grave, intimo investigativo e frio cinematografico; o nome exibido pela biblioteca nao substitui a audicao em portugues brasileiro.
+- O Eleven v3 sera usado com audio tags entre colchetes para orientar emocao, ritmo, entrega e reacoes humanas. As tags devem ser aplicadas com criterio, apenas em batidas narrativas que ganham com interpretacao; nao devem aparecer em toda frase nem substituir um bom texto.
+- Tags candidatas para o canal: `[curious]`, `[concerned]`, `[thoughtful]`, `[quietly]`, `[whispers]`, `[sighs]`, `[hesitates]`, `[surprised]`, `[serious]` e `[slowly]`, sempre validadas na voz escolhida. Evitar tags que criem uma performance melodramatica ou contradigam os fatos.
+- O roteiro deve marcar internamente as batidas de interpretacao e separar o texto enviado ao modelo das observacoes de producao. Gerar a narracao em blocos curtos e coerentes, porque o v3 e mais expressivo, mas pode variar mais; revisar abertura, miolo denso e fechamento antes de renderizar o episodio inteiro.
+- Hierarquia de validacao: as recomendacoes tecnicas oficiais da ElevenLabs devem orientar o uso do v3, das tags, dos parametros e da segmentacao, desde que nao contrariem uma pratica ja testada, compreendida e aprovada como utilizacao legitima pelo usuario. Quando houver conflito, a identidade editorial do canal e a aprovacao humana prevalecem; a excecao deve ser documentada e validada por amostra.
+- Correção de decisão em 2026-08-04: a voz-base aprovada pelo usuário para o Ruptura Oculta é `Marcelo Costa - Articulate and Balanced` (voice id `bJrNspxJVFovUxNBQ0wh`), na interpretação tensa/cinematográfica calibrada para o canal. `Bruno Cardoso` pertence ao canal A Palavra que Cuida e não deve ser reutilizado no Ruptura Oculta. A promoção anterior do Bruno para o episódio 01 foi um erro de registro e produção; os áudios correspondentes foram reclassificados como rejeitados por voz incorreta.
+- Ponto de partida de performance do Marcelo: modelo `eleven_v3`, stability `0.42`, similarity boost `0.75`, style `0.28`, speed de geração `1.0`, speaker boost ativo e pós-processamento local em `1.08x` com pitch preservado. A direção deve preservar tensão controlada/cinematográfica, sem teatralidade, grave excessivo ou ritmo arrastado.
+
+## Regra de clareza e emocao do audio do Ruptura Oculta
+
+Data: 2026-08-01.
+
+- O usuario aprovou o uso frequente e intencional das audio tags do Eleven v3, no formato `<emocao>`/tags entre colchetes conforme o formato aceito pelo modelo, para evitar uma narracao generica e dar tensao real a cada bloco.
+- As tags devem ser distribuidas por funcao narrativa: curiosidade no gancho, preocupacao na escalada, seriedade em fatos graves, pausa ou entrega mais baixa em revelacoes e firmeza nas conclusoes. Nao usar a mesma emocao mecanicamente em todas as frases.
+- A prioridade absoluta continua sendo a audibilidade: texto revisado, palavras simples quando possivel, frases com respiracao natural, pontuacao clara e velocidade que nao engula consoantes ou finais de palavra.
+- Todo episodio deve passar por uma revisao textual antes da geracao e por uma escuta de controle depois da geracao. Trechos com erro de pronuncia, palavra pouco audivel, emocao exagerada ou ritmo arrastado devem ser regenerados isoladamente, sem desperdiçar creditos refazendo o episodio inteiro.
+- A narracao sera produzida em blocos curtos e semanticamente fechados. As tags entram no texto de producao, mas nunca devem ser lidas pelo narrador; a versao final precisa ser conferida contra o roteiro aprovado.
+
+- Antes de cada geracao, preservar acentos e grafia completa do portugues brasileiro. Pontuacao deve ser revisada para controlar pausas, evitar frases longas e impedir que o v3 desloque a enfase. Palavras com risco de erro de pronuncia devem ser testadas isoladamente ou em frase curta antes de entrar no episodio.
+
+- Falhas observadas em testes anteriores de `A Palavra Que Cuida` e confirmadas na calibracao do Ruptura Oculta viram gate universal: nunca remover acentos, nunca gerar episodio inteiro sem amostra aprovada, conferir audio palavra por palavra contra o texto e regenerar blocos com erro antes da montagem. Um arquivo com emocao bonita, mas pronuncia ou pontuacao errada, e reprovado.
+
+## Referencia editorial adicional do Ruptura Oculta
+
+Data: 2026-08-02.
+
+- O usuario aprovou observar o canal Viroscopo, especialmente o video `Como a internet resolveu um misterio 36 anos depois`, como referencia de admirador para estrutura de documentarios criminais, perguntas investigativas, aprofundamento e promessa clara de titulo. A inspiracao deve ser adaptada ao Ruptura Oculta, sem copiar roteiro, identidade, frases, thumbnails ou montagem.
+
+## Regra de profundidade sem preenchimento do Ruptura Oculta
+
+Data: 2026-08-02.
+
+- O usuario definiu que os documentarios devem ser completos, detalhados e bem contextualizados, mas nunca esticados artificialmente para atingir uma minutagem.
+- Cada bloco precisa acrescentar algo: fato novo, contexto, evidencia, contradicao, consequencia, analise ou virada narrativa. Repetir a mesma informacao com palavras diferentes e considerado falha de roteiro.
+- Imagens, trechos documentais e telas de apoio precisam cumprir funcao editorial clara. Nao usar imagem generica, plano vazio ou montagem decorativa apenas para ocupar tempo.
+- A faixa de duracao de referencia passa a ser aproximadamente 28 a 38 minutos, com casos excepcionais podendo chegar a 45 quando a pesquisa sustentar. A duracao final continua subordinada a completude e a qualidade do caso, nao o contrario.
+
+## Regra de montagem documental e economia de narracao
+
+Data: 2026-08-02.
+
+- Quando uma gravacao real ja comunica a acao, a emocao ou a reacao de forma compreensivel, deixar a cena se desenvolver sem cobrir cada segundo com narracao.
+- A voz do Bruno deve entrar em comentarios certeiros e pontuais: situar o momento, chamar atencao para uma evidencia, explicar uma contradicao ou fazer a ponte para a proxima parte. Nao descrever literalmente tudo o que o espectador esta vendo.
+- A narracao deve ser economizada em blocos de imagens e gravacoes que funcionam sozinhos. Isso reduz custo de ElevenLabs sem reduzir densidade editorial.
+- Materiais escritos entram como evidencias visuais: manchetes, documentos, datas, locais, nomes de operacoes, trechos curtos e citacoes essenciais. Exibir o titulo ou uma frase-chave pode ser melhor do que narrar o texto inteiro; leituras completas so entram quando o documento for central para a compreensao.
+- Toda informacao escrita precisa ter funcao e fonte identificavel. Evitar telas cheias de texto, leitura acelerada e materiais usados apenas como decoracao.
+- O uso de videos de terceiros deve passar por verificacao de origem, permissao/licenca aplicavel e transformacao editorial suficiente. Priorizar materiais oficiais, jornalisticos e licenciados, sempre com comentario, contexto ou analise proprios.
+
+## Direcao de sound design e textos em tela do Ruptura Oculta
+
+Data: 2026-08-02.
+
+- O usuario aprovou estudar a linguagem de edicao do canal Dr Insanity como referencia de admirador, especialmente textos que entram como digitacao, sons de teclado e cliques, impactos discretos, transicoes sonoras, ambiencias, silencias e efeitos sincronizados com evidencias ou mudancas de cena.
+- O sound design deve aumentar a tensao sem virar uma camada barulhenta. Cada efeito precisa marcar uma acao, revelacao, documento, mudanca de tempo ou ponto de virada; nao usar efeitos aleatorios em toda troca de imagem.
+- Textos em tela podem simular digitacao quando apresentarem mensagens, documentos, datas, titulos, nomes de operacoes ou frases-chave. A leitura deve ser curta, grande e legivel, com tempo suficiente para o espectador compreender.
+- A referencia Dr Insanity serve para linguagem e ritmo, nunca para copiar identidade, roteiro, frases, thumbnails, sequencias ou assets.

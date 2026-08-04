@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "source_video": "video-005",
+  "rendered_editorial_derivatives": [
+    {
+      "derivative_id": "video-005-curto-01",
+      "title": "Você não começa a ter valor quando produz muito",
+      "source_windows": [
+        {
+          "start": 307.684,
+          "end": 383.976
+        }
+      ],
+      "spoken_duration_seconds": 76.292,
+      "total_duration_seconds": 80.292,
+      "audio": "tools/OpenMontage/remotion-composer/public/video-005-curtos/audio/video-005-curto-01-narracao.wav",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-005/shorts/props/video-005-curto-01-shorts-e-tiktok.json",
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "video-005-curto-02",
+      "title": "Descansar não é falhar",
+      "source_windows": [
+        {
+          "start": 553.494,
+          "end": 624.258
+        }
+      ],
+      "spoken_duration_seconds": 70.763,
+      "total_duration_seconds": 74.763,
+      "audio": "tools/OpenMontage/remotion-composer/public/video-005-curtos/audio/video-005-curto-02-narracao.wav",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-005/shorts/props/video-005-curto-02-shorts-e-tiktok.json",
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    }
+  ],
+  "editorial_derivative_count": 2,
+  "physical_mp4_target_count": 2,
+  "paid_api_cost_usd": 0,
+  "method": "Narração e imagens já aprovadas, alinhamento canônico, recomposição vertical manual em cover e render local."
+}

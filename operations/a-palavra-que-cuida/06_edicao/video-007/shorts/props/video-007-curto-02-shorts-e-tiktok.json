@@ -1,0 +1,235 @@
+{
+  "derivativeId": "video-007-curto-02",
+  "title": "Três perguntas antes de uma escolha urgente",
+  "platform": "universal",
+  "audioFile": "video-007-curtos/audio/video-007-curto-02-narracao.wav",
+  "spokenDurationSeconds": 88.151,
+  "endCardSeconds": 4.0,
+  "hook": "Não decida no pior momento do dia",
+  "hookEndSeconds": 4.2,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "asset": "video-007/assets/video-007/images/v03-pausa-diante-da-pressao-v1.png",
+      "focus": "20% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 9.0,
+      "end": 18.0,
+      "asset": "video-007/assets/video-007/images/v04-pausa-no-corredor-v1.png",
+      "focus": "22% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 18.0,
+      "end": 27.0,
+      "asset": "video-007/assets/video-007/images/v05-acolhimento-na-sala-v1.png",
+      "focus": "40% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 27.0,
+      "end": 36.0,
+      "asset": "video-007/assets/video-007/images/v01-pausa-na-cozinha-com-croche-v1.png",
+      "focus": "61% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 36.0,
+      "end": 45.0,
+      "asset": "video-007/assets/video-007/images/v06-caminho-sem-pressa-v1.png",
+      "focus": "50% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 45.0,
+      "end": 54.0,
+      "asset": "video-007/assets/video-007/images/v02-jesus-no-deserto-v1.png",
+      "focus": "20% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 54.0,
+      "end": 63.0,
+      "asset": "video-007/assets/video-007/images/v04-pausa-no-corredor-v1.png",
+      "focus": "22% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 63.0,
+      "end": 72.0,
+      "asset": "video-007/assets/video-007/images/v05-acolhimento-na-sala-v1.png",
+      "focus": "40% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 72.0,
+      "end": 81.0,
+      "asset": "video-007/assets/video-007/images/v01-pausa-na-cozinha-com-croche-v1.png",
+      "focus": "61% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 81.0,
+      "end": 88.151,
+      "asset": "video-007/assets/video-007/images/v06-caminho-sem-pressa-v1.png",
+      "focus": "50% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.08,
+      "end": 3.465,
+      "text": "Quando você perceber que uma escolha está parecendo urgente"
+    },
+    {
+      "start": 3.508,
+      "end": 6.731,
+      "text": "demais, tente não decidir apenas no impulso."
+    },
+    {
+      "start": 7.36,
+      "end": 9.693,
+      "text": "Não para se tornar lenta em tudo."
+    },
+    {
+      "start": 10.095,
+      "end": 12.569,
+      "text": "Mas para não entregar o volante da vida ao"
+    },
+    {
+      "start": 12.612,
+      "end": 14.337,
+      "text": "momento mais fraco do dia."
+    },
+    {
+      "start": 14.967,
+      "end": 15.975,
+      "text": "Primeira pergunta:"
+    },
+    {
+      "start": 16.604,
+      "end": 20.153,
+      "text": "que necessidade verdadeira está gritando em mim agora?"
+    },
+    {
+      "start": 20.413,
+      "end": 23.159,
+      "text": "Talvez seja descanso. Talvez seja proteção."
+    },
+    {
+      "start": 23.571,
+      "end": 26.468,
+      "text": "Talvez seja carinho. Talvez seja reconhecimento."
+    },
+    {
+      "start": 26.945,
+      "end": 29.549,
+      "text": "Dar nome à necessidade não é fraqueza."
+    },
+    {
+      "start": 29.961,
+      "end": 33.433,
+      "text": "É parar de deixar que ela trabalhe escondida."
+    },
+    {
+      "start": 34.085,
+      "end": 37.058,
+      "text": "Segunda pergunta: este caminho cuida de mim ou só"
+    },
+    {
+      "start": 37.112,
+      "end": 39.097,
+      "text": "silencia a dor por alguns minutos?"
+    },
+    {
+      "start": 39.704,
+      "end": 44.164,
+      "text": "Existem alívios que parecem descanso, mas roubam paz depois."
+    },
+    {
+      "start": 44.772,
+      "end": 48.744,
+      "text": "Existem escolhas que parecem liberdade, mas aumentam a prisão."
+    },
+    {
+      "start": 49.351,
+      "end": 52.682,
+      "text": "Existem promessas que parecem afeto, mas deixam a pessoa"
+    },
+    {
+      "start": 52.715,
+      "end": 54.722,
+      "text": "menor. Terceira pergunta:"
+    },
+    {
+      "start": 55.362,
+      "end": 58.9,
+      "text": "eu conseguiria colocar essa decisão diante de Deus sem"
+    },
+    {
+      "start": 58.943,
+      "end": 60.43,
+      "text": "esconder uma parte dela?"
+    },
+    {
+      "start": 61.449,
+      "end": 64.162,
+      "text": "Não é uma pergunta para fabricar culpa."
+    },
+    {
+      "start": 64.802,
+      "end": 67.276,
+      "text": "É uma pergunta para recuperar direção."
+    },
+    {
+      "start": 67.743,
+      "end": 70.054,
+      "text": "Talvez a resposta seja pedir tempo."
+    },
+    {
+      "start": 70.358,
+      "end": 72.951,
+      "text": "Talvez seja procurar uma conversa confiável."
+    },
+    {
+      "start": 73.255,
+      "end": 76.119,
+      "text": "Talvez seja dormir antes de responder."
+    },
+    {
+      "start": 76.597,
+      "end": 79.059,
+      "text": "Talvez seja sair de uma situação perigosa."
+    },
+    {
+      "start": 79.473,
+      "end": 81.707,
+      "text": "Talvez seja pedir ajuda profissional."
+    },
+    {
+      "start": 82.185,
+      "end": 86.199,
+      "text": "Talvez seja simplesmente não chamar de destino aquilo que"
+    },
+    {
+      "start": 86.221,
+      "end": 88.001,
+      "text": "está tentando comprar sua paz."
+    }
+  ],
+  "scriptures": []
+}

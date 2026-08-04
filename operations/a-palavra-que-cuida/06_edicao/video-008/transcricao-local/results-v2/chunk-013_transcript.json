@@ -1,0 +1,818 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.88,
+      "text": "verdade. A pergunta volta outras vezes. O texto n\u00e3o explica em uma frase porque ela",
+      "words": [
+        {
+          "word": " verdade.",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.096
+        },
+        {
+          "word": " A",
+          "start": 1.1,
+          "end": 1.2,
+          "probability": 0.913
+        },
+        {
+          "word": " pergunta",
+          "start": 1.2,
+          "end": 1.48,
+          "probability": 0.996
+        },
+        {
+          "word": " volta",
+          "start": 1.48,
+          "end": 1.96,
+          "probability": 0.955
+        },
+        {
+          "word": " outras",
+          "start": 1.96,
+          "end": 2.42,
+          "probability": 0.882
+        },
+        {
+          "word": " vezes.",
+          "start": 2.42,
+          "end": 2.82,
+          "probability": 0.999
+        },
+        {
+          "word": " O",
+          "start": 3.76,
+          "end": 3.92,
+          "probability": 0.897
+        },
+        {
+          "word": " texto",
+          "start": 3.92,
+          "end": 4.22,
+          "probability": 0.99
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 4.22,
+          "end": 4.38,
+          "probability": 0.998
+        },
+        {
+          "word": " explica",
+          "start": 4.38,
+          "end": 4.86,
+          "probability": 0.996
+        },
+        {
+          "word": " em",
+          "start": 4.86,
+          "end": 5.46,
+          "probability": 0.829
+        },
+        {
+          "word": " uma",
+          "start": 5.46,
+          "end": 5.62,
+          "probability": 0.997
+        },
+        {
+          "word": " frase",
+          "start": 5.62,
+          "end": 5.96,
+          "probability": 0.989
+        },
+        {
+          "word": " porque",
+          "start": 5.96,
+          "end": 6.4,
+          "probability": 0.769
+        },
+        {
+          "word": " ela",
+          "start": 6.4,
+          "end": 6.88,
+          "probability": 0.982
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.88,
+      "end": 13.18,
+      "text": "\u00e9 repetida tr\u00eas vezes. Por isso, n\u00e3o precisamos transformar uma interpreta\u00e7\u00e3o em certeza,",
+      "words": [
+        {
+          "word": " \u00e9",
+          "start": 6.88,
+          "end": 7.04,
+          "probability": 0.98
+        },
+        {
+          "word": " repetida",
+          "start": 7.04,
+          "end": 7.62,
+          "probability": 0.991
+        },
+        {
+          "word": " tr\u00eas",
+          "start": 7.62,
+          "end": 7.94,
+          "probability": 0.759
+        },
+        {
+          "word": " vezes.",
+          "start": 7.94,
+          "end": 8.34,
+          "probability": 0.999
+        },
+        {
+          "word": " Por",
+          "start": 8.98,
+          "end": 9.28,
+          "probability": 0.985
+        },
+        {
+          "word": " isso,",
+          "start": 9.28,
+          "end": 9.56,
+          "probability": 0.997
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 9.98,
+          "end": 10.34,
+          "probability": 0.993
+        },
+        {
+          "word": " precisamos",
+          "start": 10.34,
+          "end": 10.88,
+          "probability": 0.998
+        },
+        {
+          "word": " transformar",
+          "start": 10.88,
+          "end": 11.54,
+          "probability": 0.978
+        },
+        {
+          "word": " uma",
+          "start": 11.54,
+          "end": 11.74,
+          "probability": 0.978
+        },
+        {
+          "word": " interpreta\u00e7\u00e3o",
+          "start": 11.74,
+          "end": 12.5,
+          "probability": 0.984
+        },
+        {
+          "word": " em",
+          "start": 12.5,
+          "end": 12.62,
+          "probability": 0.616
+        },
+        {
+          "word": " certeza,",
+          "start": 12.62,
+          "end": 13.18,
+          "probability": 0.959
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.8,
+      "end": 17.64,
+      "text": "mas Jo\u00e3o mostra que Pedro se entristece com a terceira pergunta.",
+      "words": [
+        {
+          "word": " mas",
+          "start": 13.8,
+          "end": 14.04,
+          "probability": 0.987
+        },
+        {
+          "word": " Jo\u00e3o",
+          "start": 14.04,
+          "end": 14.28,
+          "probability": 0.821
+        },
+        {
+          "word": " mostra",
+          "start": 14.28,
+          "end": 15.0,
+          "probability": 0.99
+        },
+        {
+          "word": " que",
+          "start": 15.0,
+          "end": 15.18,
+          "probability": 0.996
+        },
+        {
+          "word": " Pedro",
+          "start": 15.18,
+          "end": 15.5,
+          "probability": 0.926
+        },
+        {
+          "word": " se",
+          "start": 15.5,
+          "end": 15.72,
+          "probability": 0.687
+        },
+        {
+          "word": " entristece",
+          "start": 15.72,
+          "end": 16.42,
+          "probability": 0.722
+        },
+        {
+          "word": " com",
+          "start": 16.42,
+          "end": 16.6,
+          "probability": 0.998
+        },
+        {
+          "word": " a",
+          "start": 16.6,
+          "end": 16.7,
+          "probability": 0.998
+        },
+        {
+          "word": " terceira",
+          "start": 16.7,
+          "end": 17.28,
+          "probability": 0.956
+        },
+        {
+          "word": " pergunta.",
+          "start": 17.28,
+          "end": 17.64,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 18.78,
+      "end": 25.64,
+      "text": "Jo\u00e3o, cap\u00edtulo 21, vers\u00edculo 17 diz, disse-lhe terceira vez. Sim\u00e3o, filho de Jonas,",
+      "words": [
+        {
+          "word": " Jo\u00e3o,",
+          "start": 18.78,
+          "end": 19.12,
+          "probability": 0.895
+        },
+        {
+          "word": " cap\u00edtulo",
+          "start": 19.5,
+          "end": 20.0,
+          "probability": 0.852
+        },
+        {
+          "word": " 21,",
+          "start": 20.0,
+          "end": 20.78,
+          "probability": 0.941
+        },
+        {
+          "word": " vers\u00edculo",
+          "start": 21.22,
+          "end": 21.48,
+          "probability": 0.824
+        },
+        {
+          "word": " 17",
+          "start": 21.48,
+          "end": 21.96,
+          "probability": 0.988
+        },
+        {
+          "word": " diz,",
+          "start": 21.96,
+          "end": 22.36,
+          "probability": 0.626
+        },
+        {
+          "word": " disse",
+          "start": 22.62,
+          "end": 23.1,
+          "probability": 0.873
+        },
+        {
+          "word": "-lhe",
+          "start": 23.1,
+          "end": 23.3,
+          "probability": 0.833
+        },
+        {
+          "word": " terceira",
+          "start": 23.3,
+          "end": 23.92,
+          "probability": 0.778
+        },
+        {
+          "word": " vez.",
+          "start": 23.92,
+          "end": 24.08,
+          "probability": 0.988
+        },
+        {
+          "word": " Sim\u00e3o,",
+          "start": 24.76,
+          "end": 24.98,
+          "probability": 0.752
+        },
+        {
+          "word": " filho",
+          "start": 25.16,
+          "end": 25.26,
+          "probability": 0.923
+        },
+        {
+          "word": " de",
+          "start": 25.26,
+          "end": 25.42,
+          "probability": 0.993
+        },
+        {
+          "word": " Jonas,",
+          "start": 25.42,
+          "end": 25.64,
+          "probability": 0.616
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 25.64,
+      "end": 29.46,
+      "text": "amas-me. Sim\u00e3o, entristeceu-se por lhe ter dito terceira vez.",
+      "words": [
+        {
+          "word": " amas",
+          "start": 25.64,
+          "end": 25.82,
+          "probability": 0.362
+        },
+        {
+          "word": "-me.",
+          "start": 25.82,
+          "end": 26.68,
+          "probability": 0.693
+        },
+        {
+          "word": " Sim\u00e3o,",
+          "start": 27.18,
+          "end": 27.44,
+          "probability": 0.527
+        },
+        {
+          "word": " entristeceu",
+          "start": 27.5,
+          "end": 28.06,
+          "probability": 0.676
+        },
+        {
+          "word": "-se",
+          "start": 28.06,
+          "end": 28.18,
+          "probability": 0.841
+        },
+        {
+          "word": " por",
+          "start": 28.18,
+          "end": 28.34,
+          "probability": 0.989
+        },
+        {
+          "word": " lhe",
+          "start": 28.34,
+          "end": 28.44,
+          "probability": 0.591
+        },
+        {
+          "word": " ter",
+          "start": 28.44,
+          "end": 28.56,
+          "probability": 0.946
+        },
+        {
+          "word": " dito",
+          "start": 28.56,
+          "end": 28.86,
+          "probability": 0.962
+        },
+        {
+          "word": " terceira",
+          "start": 28.86,
+          "end": 29.26,
+          "probability": 0.786
+        },
+        {
+          "word": " vez.",
+          "start": 29.26,
+          "end": 29.46,
+          "probability": 0.987
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " verdade.",
+      "start": 0.0,
+      "end": 0.38,
+      "probability": 0.096
+    },
+    {
+      "word": " A",
+      "start": 1.1,
+      "end": 1.2,
+      "probability": 0.913
+    },
+    {
+      "word": " pergunta",
+      "start": 1.2,
+      "end": 1.48,
+      "probability": 0.996
+    },
+    {
+      "word": " volta",
+      "start": 1.48,
+      "end": 1.96,
+      "probability": 0.955
+    },
+    {
+      "word": " outras",
+      "start": 1.96,
+      "end": 2.42,
+      "probability": 0.882
+    },
+    {
+      "word": " vezes.",
+      "start": 2.42,
+      "end": 2.82,
+      "probability": 0.999
+    },
+    {
+      "word": " O",
+      "start": 3.76,
+      "end": 3.92,
+      "probability": 0.897
+    },
+    {
+      "word": " texto",
+      "start": 3.92,
+      "end": 4.22,
+      "probability": 0.99
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 4.22,
+      "end": 4.38,
+      "probability": 0.998
+    },
+    {
+      "word": " explica",
+      "start": 4.38,
+      "end": 4.86,
+      "probability": 0.996
+    },
+    {
+      "word": " em",
+      "start": 4.86,
+      "end": 5.46,
+      "probability": 0.829
+    },
+    {
+      "word": " uma",
+      "start": 5.46,
+      "end": 5.62,
+      "probability": 0.997
+    },
+    {
+      "word": " frase",
+      "start": 5.62,
+      "end": 5.96,
+      "probability": 0.989
+    },
+    {
+      "word": " porque",
+      "start": 5.96,
+      "end": 6.4,
+      "probability": 0.769
+    },
+    {
+      "word": " ela",
+      "start": 6.4,
+      "end": 6.88,
+      "probability": 0.982
+    },
+    {
+      "word": " \u00e9",
+      "start": 6.88,
+      "end": 7.04,
+      "probability": 0.98
+    },
+    {
+      "word": " repetida",
+      "start": 7.04,
+      "end": 7.62,
+      "probability": 0.991
+    },
+    {
+      "word": " tr\u00eas",
+      "start": 7.62,
+      "end": 7.94,
+      "probability": 0.759
+    },
+    {
+      "word": " vezes.",
+      "start": 7.94,
+      "end": 8.34,
+      "probability": 0.999
+    },
+    {
+      "word": " Por",
+      "start": 8.98,
+      "end": 9.28,
+      "probability": 0.985
+    },
+    {
+      "word": " isso,",
+      "start": 9.28,
+      "end": 9.56,
+      "probability": 0.997
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 9.98,
+      "end": 10.34,
+      "probability": 0.993
+    },
+    {
+      "word": " precisamos",
+      "start": 10.34,
+      "end": 10.88,
+      "probability": 0.998
+    },
+    {
+      "word": " transformar",
+      "start": 10.88,
+      "end": 11.54,
+      "probability": 0.978
+    },
+    {
+      "word": " uma",
+      "start": 11.54,
+      "end": 11.74,
+      "probability": 0.978
+    },
+    {
+      "word": " interpreta\u00e7\u00e3o",
+      "start": 11.74,
+      "end": 12.5,
+      "probability": 0.984
+    },
+    {
+      "word": " em",
+      "start": 12.5,
+      "end": 12.62,
+      "probability": 0.616
+    },
+    {
+      "word": " certeza,",
+      "start": 12.62,
+      "end": 13.18,
+      "probability": 0.959
+    },
+    {
+      "word": " mas",
+      "start": 13.8,
+      "end": 14.04,
+      "probability": 0.987
+    },
+    {
+      "word": " Jo\u00e3o",
+      "start": 14.04,
+      "end": 14.28,
+      "probability": 0.821
+    },
+    {
+      "word": " mostra",
+      "start": 14.28,
+      "end": 15.0,
+      "probability": 0.99
+    },
+    {
+      "word": " que",
+      "start": 15.0,
+      "end": 15.18,
+      "probability": 0.996
+    },
+    {
+      "word": " Pedro",
+      "start": 15.18,
+      "end": 15.5,
+      "probability": 0.926
+    },
+    {
+      "word": " se",
+      "start": 15.5,
+      "end": 15.72,
+      "probability": 0.687
+    },
+    {
+      "word": " entristece",
+      "start": 15.72,
+      "end": 16.42,
+      "probability": 0.722
+    },
+    {
+      "word": " com",
+      "start": 16.42,
+      "end": 16.6,
+      "probability": 0.998
+    },
+    {
+      "word": " a",
+      "start": 16.6,
+      "end": 16.7,
+      "probability": 0.998
+    },
+    {
+      "word": " terceira",
+      "start": 16.7,
+      "end": 17.28,
+      "probability": 0.956
+    },
+    {
+      "word": " pergunta.",
+      "start": 17.28,
+      "end": 17.64,
+      "probability": 0.999
+    },
+    {
+      "word": " Jo\u00e3o,",
+      "start": 18.78,
+      "end": 19.12,
+      "probability": 0.895
+    },
+    {
+      "word": " cap\u00edtulo",
+      "start": 19.5,
+      "end": 20.0,
+      "probability": 0.852
+    },
+    {
+      "word": " 21,",
+      "start": 20.0,
+      "end": 20.78,
+      "probability": 0.941
+    },
+    {
+      "word": " vers\u00edculo",
+      "start": 21.22,
+      "end": 21.48,
+      "probability": 0.824
+    },
+    {
+      "word": " 17",
+      "start": 21.48,
+      "end": 21.96,
+      "probability": 0.988
+    },
+    {
+      "word": " diz,",
+      "start": 21.96,
+      "end": 22.36,
+      "probability": 0.626
+    },
+    {
+      "word": " disse",
+      "start": 22.62,
+      "end": 23.1,
+      "probability": 0.873
+    },
+    {
+      "word": "-lhe",
+      "start": 23.1,
+      "end": 23.3,
+      "probability": 0.833
+    },
+    {
+      "word": " terceira",
+      "start": 23.3,
+      "end": 23.92,
+      "probability": 0.778
+    },
+    {
+      "word": " vez.",
+      "start": 23.92,
+      "end": 24.08,
+      "probability": 0.988
+    },
+    {
+      "word": " Sim\u00e3o,",
+      "start": 24.76,
+      "end": 24.98,
+      "probability": 0.752
+    },
+    {
+      "word": " filho",
+      "start": 25.16,
+      "end": 25.26,
+      "probability": 0.923
+    },
+    {
+      "word": " de",
+      "start": 25.26,
+      "end": 25.42,
+      "probability": 0.993
+    },
+    {
+      "word": " Jonas,",
+      "start": 25.42,
+      "end": 25.64,
+      "probability": 0.616
+    },
+    {
+      "word": " amas",
+      "start": 25.64,
+      "end": 25.82,
+      "probability": 0.362
+    },
+    {
+      "word": "-me.",
+      "start": 25.82,
+      "end": 26.68,
+      "probability": 0.693
+    },
+    {
+      "word": " Sim\u00e3o,",
+      "start": 27.18,
+      "end": 27.44,
+      "probability": 0.527
+    },
+    {
+      "word": " entristeceu",
+      "start": 27.5,
+      "end": 28.06,
+      "probability": 0.676
+    },
+    {
+      "word": "-se",
+      "start": 28.06,
+      "end": 28.18,
+      "probability": 0.841
+    },
+    {
+      "word": " por",
+      "start": 28.18,
+      "end": 28.34,
+      "probability": 0.989
+    },
+    {
+      "word": " lhe",
+      "start": 28.34,
+      "end": 28.44,
+      "probability": 0.591
+    },
+    {
+      "word": " ter",
+      "start": 28.44,
+      "end": 28.56,
+      "probability": 0.946
+    },
+    {
+      "word": " dito",
+      "start": 28.56,
+      "end": 28.86,
+      "probability": 0.962
+    },
+    {
+      "word": " terceira",
+      "start": 28.86,
+      "end": 29.26,
+      "probability": 0.786
+    },
+    {
+      "word": " vez.",
+      "start": 29.26,
+      "end": 29.46,
+      "probability": 0.987
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 29.952,
+  "model_size": "base",
+  "device": "cpu"
+}

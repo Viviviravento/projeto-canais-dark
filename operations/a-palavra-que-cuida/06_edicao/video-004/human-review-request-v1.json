@@ -1,0 +1,12 @@
+{
+  "video_id": "video-004",
+  "review_file": "07_exports/video-004/a-infancia-de-jesus-o-que-a-biblia-diz-v1-review.mp4",
+  "review_status": "awaiting_human_master_review",
+  "approval_rule": "Nao publicar nem enviar para o YouTube antes da aprovacao humana explicita do master.",
+  "reviewer_checks": [
+    "Assista ao video completo, de preferencia com fones ou caixa de som habitual.",
+    "Confirme se o ritmo da voz em 1,05x continua confortavel.",
+    "Observe se as seis cartas biblicas aparecem quando os versiculos sao lidos.",
+    "Confirme abertura, legendas, imagens e tela final."
+  ]
+}

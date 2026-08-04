@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Caption,Arial,54,&H00FFFFFF,&H0000D7FF,&HDD000000,&H99000000,-1,0,0,0,100,100,0,0,3,2.5,1,2,85,85,215,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.08,0:00:03.41,Caption,,0,0,0,,No meio do temporal, Jesus está dormindo na popa,
+Dialogue: 0,0:00:03.62,0:00:04.95,Caption,,0,0,0,,sobre uma almofada.
+Dialogue: 0,0:00:05.60,0:00:08.78,Caption,,0,0,0,,A cena incomoda porque o medo dos discípulos parece
+Dialogue: 0,0:00:08.73,0:00:11.18,Caption,,0,0,0,,urgente demais para permitir descanso.
+Dialogue: 0,0:00:11.65,0:00:15.09,Caption,,0,0,0,,Eles não enxergam apenas água e vento; enxergam a
+Dialogue: 0,0:00:15.04,0:00:19.22,Caption,,0,0,0,,possibilidade de perecer. Marcos, capítulo quatro,
+Dialogue: 0,0:00:19.41,0:00:21.22,Caption,,0,0,0,,versículo trinta e oito, diz:
+Dialogue: 0,0:00:21.52,0:00:25.27,Caption,,0,0,0,,"E ele estava na popa, dormindo sobre uma almofada,
+Dialogue: 0,0:00:25.46,0:00:29.43,Caption,,0,0,0,,e despertaram-no, dizendo-lhe: Mestre, não se te dá que
+Dialogue: 0,0:00:29.39,0:00:33.40,Caption,,0,0,0,,pereçamos?" O grito deles não é bonito nem organizado.
+Dialogue: 0,0:00:33.70,0:00:35.90,Caption,,0,0,0,,É uma pergunta atravessada por pânico:
+Dialogue: 0,0:00:36.27,0:00:37.51,Caption,,0,0,0,,o senhor não se importa?
+Dialogue: 0,0:00:38.03,0:00:41.67,Caption,,0,0,0,,Quando a resposta não vem na velocidade que esperávamos,
+Dialogue: 0,0:00:41.97,0:00:46.01,Caption,,0,0,0,,o medo pode interpretar o silêncio como abandono.
+Dialogue: 0,0:00:46.47,0:00:49.92,Caption,,0,0,0,,Talvez você já tenha orado assim, mesmo sem dizer
+Dialogue: 0,0:00:50.01,0:00:53.69,Caption,,0,0,0,,essas palavras. Deus, o senhor está vendo?
+Dialogue: 0,0:00:54.14,0:00:56.44,Caption,,0,0,0,,O senhor percebe que eu não estou dando conta?
+Dialogue: 0,0:00:56.81,0:00:58.70,Caption,,0,0,0,,O senhor sabe que eu estou tentando?
+Dialogue: 0,0:00:59.77,0:01:02.85,Caption,,0,0,0,,Uma oração desesperada ainda é uma oração.
+Dialogue: 0,0:01:03.30,0:01:06.02,Caption,,0,0,0,,A Bíblia não precisa maquiar os discípulos para nos
+Dialogue: 0,0:01:06.00,0:01:10.35,Caption,,0,0,0,,permitir reconhecê-los. Também existe uma diferença entre o
+Dialogue: 0,0:01:10.32,0:01:13.50,Caption,,0,0,0,,descanso de Jesus e a indiferença que às vezes
+Dialogue: 0,0:01:13.46,0:01:16.87,Caption,,0,0,0,,projetamos nele. O texto não diz que Jesus não
+Dialogue: 0,0:01:16.80,0:01:19.51,Caption,,0,0,0,,se importava. Diz que ele estava dormindo.
+Dialogue: 0,0:01:19.87,0:01:23.92,Caption,,0,0,0,,A sensação dos discípulos era real; a conclusão deles
+Dialogue: 0,0:01:24.18,0:01:26.17,Caption,,0,0,0,,ainda precisava ser examinada.

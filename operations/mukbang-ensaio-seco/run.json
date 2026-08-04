@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": "genesis-mukbang-dry-001",
+  "kind": "channel",
+  "created_at": "2026-07-22T16:00:00-03:00",
+  "updated_at": "2026-07-22T16:20:00-03:00",
+  "metadata": {"mode": "dry_run", "paid_api_calls": 0, "selected_thesis": "mk-domestic"},
+  "stages": [
+    {"id": "entrada", "status": "completed", "reason": null, "artifacts": ["entrada.yaml"], "updated_at": "2026-07-22T16:01:00-03:00"},
+    {"id": "evidencias", "status": "completed", "reason": null, "artifacts": ["evidencias/claims.jsonl"], "updated_at": "2026-07-22T16:10:00-03:00"},
+    {"id": "tese", "status": "completed", "reason": null, "artifacts": ["teses.yaml", "manifest.yaml"], "updated_at": "2026-07-22T16:13:00-03:00"},
+    {"id": "desenho_do_piloto", "status": "completed", "reason": null, "artifacts": ["tema-piloto.json", "requisito-midia-piloto.json", "custo-piloto.json", "desenho-piloto.yaml"], "updated_at": "2026-07-22T16:20:00-03:00"},
+    {"id": "instanciacao", "status": "not_applicable", "reason": "Ensaio seco termina no plano; a tese ainda nao ganhou evidencia brasileira e microteste suficientes para virar canal.", "artifacts": [], "updated_at": "2026-07-22T16:20:00-03:00"},
+    {"id": "piloto", "status": "not_applicable", "reason": "Captura e producao foram excluidas deste ensaio seco sem gastos.", "artifacts": [], "updated_at": "2026-07-22T16:20:00-03:00"},
+    {"id": "publicacao_observacao", "status": "not_applicable", "reason": "Nenhum conteudo foi produzido ou publicado neste ensaio seco.", "artifacts": [], "updated_at": "2026-07-22T16:20:00-03:00"},
+    {"id": "cristalizacao", "status": "not_applicable", "reason": "Uma tese sem piloto nem observacao nao pode ser cristalizada.", "artifacts": [], "updated_at": "2026-07-22T16:20:00-03:00"}
+  ]
+}

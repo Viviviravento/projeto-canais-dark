@@ -1,0 +1,846 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.98,
+      "text": "Ele avisa que ela viria, mas no mesmo aviso fala de um depois, quando te converteris,",
+      "words": [
+        {
+          "word": " Ele",
+          "start": 0.0,
+          "end": 0.38,
+          "probability": 0.236
+        },
+        {
+          "word": " avisa",
+          "start": 0.38,
+          "end": 0.68,
+          "probability": 0.78
+        },
+        {
+          "word": " que",
+          "start": 0.68,
+          "end": 0.88,
+          "probability": 0.642
+        },
+        {
+          "word": " ela",
+          "start": 0.88,
+          "end": 1.02,
+          "probability": 0.987
+        },
+        {
+          "word": " viria,",
+          "start": 1.02,
+          "end": 1.42,
+          "probability": 0.983
+        },
+        {
+          "word": " mas",
+          "start": 2.24,
+          "end": 2.48,
+          "probability": 0.993
+        },
+        {
+          "word": " no",
+          "start": 2.48,
+          "end": 2.62,
+          "probability": 0.898
+        },
+        {
+          "word": " mesmo",
+          "start": 2.62,
+          "end": 2.8,
+          "probability": 0.994
+        },
+        {
+          "word": " aviso",
+          "start": 2.8,
+          "end": 3.18,
+          "probability": 0.948
+        },
+        {
+          "word": " fala",
+          "start": 3.18,
+          "end": 3.5,
+          "probability": 0.974
+        },
+        {
+          "word": " de",
+          "start": 3.5,
+          "end": 3.7,
+          "probability": 0.99
+        },
+        {
+          "word": " um",
+          "start": 3.7,
+          "end": 3.76,
+          "probability": 0.993
+        },
+        {
+          "word": " depois,",
+          "start": 3.76,
+          "end": 4.06,
+          "probability": 0.976
+        },
+        {
+          "word": " quando",
+          "start": 4.78,
+          "end": 5.14,
+          "probability": 0.858
+        },
+        {
+          "word": " te",
+          "start": 5.14,
+          "end": 5.3,
+          "probability": 0.97
+        },
+        {
+          "word": " converteris,",
+          "start": 5.3,
+          "end": 5.98,
+          "probability": 0.455
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.54,
+      "end": 12.82,
+      "text": "confirma seus irm\u00e3os, a queda n\u00e3o estava escondida de Jesus, e o futuro de Pedro tamb\u00e9m n\u00e3o.",
+      "words": [
+        {
+          "word": " confirma",
+          "start": 6.54,
+          "end": 6.98,
+          "probability": 0.834
+        },
+        {
+          "word": " seus",
+          "start": 6.98,
+          "end": 7.14,
+          "probability": 0.504
+        },
+        {
+          "word": " irm\u00e3os,",
+          "start": 7.14,
+          "end": 7.58,
+          "probability": 0.992
+        },
+        {
+          "word": " a",
+          "start": 8.22,
+          "end": 8.44,
+          "probability": 0.976
+        },
+        {
+          "word": " queda",
+          "start": 8.44,
+          "end": 8.68,
+          "probability": 0.991
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 8.68,
+          "end": 9.16,
+          "probability": 0.995
+        },
+        {
+          "word": " estava",
+          "start": 9.16,
+          "end": 9.5,
+          "probability": 0.953
+        },
+        {
+          "word": " escondida",
+          "start": 9.5,
+          "end": 10.02,
+          "probability": 0.983
+        },
+        {
+          "word": " de",
+          "start": 10.02,
+          "end": 10.22,
+          "probability": 0.985
+        },
+        {
+          "word": " Jesus,",
+          "start": 10.22,
+          "end": 10.52,
+          "probability": 0.99
+        },
+        {
+          "word": " e",
+          "start": 11.36,
+          "end": 11.48,
+          "probability": 0.97
+        },
+        {
+          "word": " o",
+          "start": 11.48,
+          "end": 11.54,
+          "probability": 0.997
+        },
+        {
+          "word": " futuro",
+          "start": 11.54,
+          "end": 11.8,
+          "probability": 0.996
+        },
+        {
+          "word": " de",
+          "start": 11.8,
+          "end": 12.0,
+          "probability": 0.998
+        },
+        {
+          "word": " Pedro",
+          "start": 12.0,
+          "end": 12.26,
+          "probability": 0.606
+        },
+        {
+          "word": " tamb\u00e9m",
+          "start": 12.26,
+          "end": 12.6,
+          "probability": 0.994
+        },
+        {
+          "word": " n\u00e3o.",
+          "start": 12.6,
+          "end": 12.82,
+          "probability": 0.987
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.54,
+      "end": 20.18,
+      "text": "Isso n\u00e3o quer dizer que Deus aprova aquilo que nos destr\u00f3i ou machuca outras pessoas.",
+      "words": [
+        {
+          "word": " Isso",
+          "start": 13.54,
+          "end": 13.78,
+          "probability": 0.982
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 13.78,
+          "end": 13.88,
+          "probability": 0.992
+        },
+        {
+          "word": " quer",
+          "start": 13.88,
+          "end": 14.02,
+          "probability": 0.997
+        },
+        {
+          "word": " dizer",
+          "start": 14.02,
+          "end": 14.26,
+          "probability": 0.999
+        },
+        {
+          "word": " que",
+          "start": 14.26,
+          "end": 14.46,
+          "probability": 0.997
+        },
+        {
+          "word": " Deus",
+          "start": 14.46,
+          "end": 14.7,
+          "probability": 0.988
+        },
+        {
+          "word": " aprova",
+          "start": 14.7,
+          "end": 15.82,
+          "probability": 0.717
+        },
+        {
+          "word": " aquilo",
+          "start": 15.82,
+          "end": 16.74,
+          "probability": 0.992
+        },
+        {
+          "word": " que",
+          "start": 16.74,
+          "end": 16.98,
+          "probability": 0.991
+        },
+        {
+          "word": " nos",
+          "start": 16.98,
+          "end": 17.22,
+          "probability": 0.981
+        },
+        {
+          "word": " destr\u00f3i",
+          "start": 17.22,
+          "end": 18.32,
+          "probability": 0.809
+        },
+        {
+          "word": " ou",
+          "start": 18.32,
+          "end": 18.78,
+          "probability": 0.889
+        },
+        {
+          "word": " machuca",
+          "start": 18.78,
+          "end": 19.28,
+          "probability": 0.954
+        },
+        {
+          "word": " outras",
+          "start": 19.28,
+          "end": 19.68,
+          "probability": 0.995
+        },
+        {
+          "word": " pessoas.",
+          "start": 19.68,
+          "end": 20.18,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 20.62,
+      "end": 27.92,
+      "text": "Tamb\u00e9m n\u00e3o quer dizer que toda confian\u00e7a volta no mesmo dia, como se pedir perd\u00e3o a pagasse cada consequ\u00eancia.",
+      "words": [
+        {
+          "word": " Tamb\u00e9m",
+          "start": 20.62,
+          "end": 20.86,
+          "probability": 0.944
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 20.86,
+          "end": 20.98,
+          "probability": 0.997
+        },
+        {
+          "word": " quer",
+          "start": 20.98,
+          "end": 21.16,
+          "probability": 0.997
+        },
+        {
+          "word": " dizer",
+          "start": 21.16,
+          "end": 21.42,
+          "probability": 0.999
+        },
+        {
+          "word": " que",
+          "start": 21.42,
+          "end": 21.6,
+          "probability": 0.996
+        },
+        {
+          "word": " toda",
+          "start": 21.6,
+          "end": 21.86,
+          "probability": 0.989
+        },
+        {
+          "word": " confian\u00e7a",
+          "start": 21.86,
+          "end": 22.52,
+          "probability": 0.968
+        },
+        {
+          "word": " volta",
+          "start": 22.52,
+          "end": 22.84,
+          "probability": 0.951
+        },
+        {
+          "word": " no",
+          "start": 22.84,
+          "end": 23.1,
+          "probability": 0.981
+        },
+        {
+          "word": " mesmo",
+          "start": 23.1,
+          "end": 23.36,
+          "probability": 0.997
+        },
+        {
+          "word": " dia,",
+          "start": 23.36,
+          "end": 23.78,
+          "probability": 0.998
+        },
+        {
+          "word": " como",
+          "start": 24.22,
+          "end": 24.54,
+          "probability": 0.997
+        },
+        {
+          "word": " se",
+          "start": 24.54,
+          "end": 24.72,
+          "probability": 0.991
+        },
+        {
+          "word": " pedir",
+          "start": 24.72,
+          "end": 25.06,
+          "probability": 0.856
+        },
+        {
+          "word": " perd\u00e3o",
+          "start": 25.06,
+          "end": 25.72,
+          "probability": 0.978
+        },
+        {
+          "word": " a",
+          "start": 25.72,
+          "end": 26.32,
+          "probability": 0.305
+        },
+        {
+          "word": " pagasse",
+          "start": 26.32,
+          "end": 26.88,
+          "probability": 0.589
+        },
+        {
+          "word": " cada",
+          "start": 26.88,
+          "end": 27.18,
+          "probability": 0.98
+        },
+        {
+          "word": " consequ\u00eancia.",
+          "start": 27.18,
+          "end": 27.92,
+          "probability": 0.968
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " Ele",
+      "start": 0.0,
+      "end": 0.38,
+      "probability": 0.236
+    },
+    {
+      "word": " avisa",
+      "start": 0.38,
+      "end": 0.68,
+      "probability": 0.78
+    },
+    {
+      "word": " que",
+      "start": 0.68,
+      "end": 0.88,
+      "probability": 0.642
+    },
+    {
+      "word": " ela",
+      "start": 0.88,
+      "end": 1.02,
+      "probability": 0.987
+    },
+    {
+      "word": " viria,",
+      "start": 1.02,
+      "end": 1.42,
+      "probability": 0.983
+    },
+    {
+      "word": " mas",
+      "start": 2.24,
+      "end": 2.48,
+      "probability": 0.993
+    },
+    {
+      "word": " no",
+      "start": 2.48,
+      "end": 2.62,
+      "probability": 0.898
+    },
+    {
+      "word": " mesmo",
+      "start": 2.62,
+      "end": 2.8,
+      "probability": 0.994
+    },
+    {
+      "word": " aviso",
+      "start": 2.8,
+      "end": 3.18,
+      "probability": 0.948
+    },
+    {
+      "word": " fala",
+      "start": 3.18,
+      "end": 3.5,
+      "probability": 0.974
+    },
+    {
+      "word": " de",
+      "start": 3.5,
+      "end": 3.7,
+      "probability": 0.99
+    },
+    {
+      "word": " um",
+      "start": 3.7,
+      "end": 3.76,
+      "probability": 0.993
+    },
+    {
+      "word": " depois,",
+      "start": 3.76,
+      "end": 4.06,
+      "probability": 0.976
+    },
+    {
+      "word": " quando",
+      "start": 4.78,
+      "end": 5.14,
+      "probability": 0.858
+    },
+    {
+      "word": " te",
+      "start": 5.14,
+      "end": 5.3,
+      "probability": 0.97
+    },
+    {
+      "word": " converteris,",
+      "start": 5.3,
+      "end": 5.98,
+      "probability": 0.455
+    },
+    {
+      "word": " confirma",
+      "start": 6.54,
+      "end": 6.98,
+      "probability": 0.834
+    },
+    {
+      "word": " seus",
+      "start": 6.98,
+      "end": 7.14,
+      "probability": 0.504
+    },
+    {
+      "word": " irm\u00e3os,",
+      "start": 7.14,
+      "end": 7.58,
+      "probability": 0.992
+    },
+    {
+      "word": " a",
+      "start": 8.22,
+      "end": 8.44,
+      "probability": 0.976
+    },
+    {
+      "word": " queda",
+      "start": 8.44,
+      "end": 8.68,
+      "probability": 0.991
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 8.68,
+      "end": 9.16,
+      "probability": 0.995
+    },
+    {
+      "word": " estava",
+      "start": 9.16,
+      "end": 9.5,
+      "probability": 0.953
+    },
+    {
+      "word": " escondida",
+      "start": 9.5,
+      "end": 10.02,
+      "probability": 0.983
+    },
+    {
+      "word": " de",
+      "start": 10.02,
+      "end": 10.22,
+      "probability": 0.985
+    },
+    {
+      "word": " Jesus,",
+      "start": 10.22,
+      "end": 10.52,
+      "probability": 0.99
+    },
+    {
+      "word": " e",
+      "start": 11.36,
+      "end": 11.48,
+      "probability": 0.97
+    },
+    {
+      "word": " o",
+      "start": 11.48,
+      "end": 11.54,
+      "probability": 0.997
+    },
+    {
+      "word": " futuro",
+      "start": 11.54,
+      "end": 11.8,
+      "probability": 0.996
+    },
+    {
+      "word": " de",
+      "start": 11.8,
+      "end": 12.0,
+      "probability": 0.998
+    },
+    {
+      "word": " Pedro",
+      "start": 12.0,
+      "end": 12.26,
+      "probability": 0.606
+    },
+    {
+      "word": " tamb\u00e9m",
+      "start": 12.26,
+      "end": 12.6,
+      "probability": 0.994
+    },
+    {
+      "word": " n\u00e3o.",
+      "start": 12.6,
+      "end": 12.82,
+      "probability": 0.987
+    },
+    {
+      "word": " Isso",
+      "start": 13.54,
+      "end": 13.78,
+      "probability": 0.982
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 13.78,
+      "end": 13.88,
+      "probability": 0.992
+    },
+    {
+      "word": " quer",
+      "start": 13.88,
+      "end": 14.02,
+      "probability": 0.997
+    },
+    {
+      "word": " dizer",
+      "start": 14.02,
+      "end": 14.26,
+      "probability": 0.999
+    },
+    {
+      "word": " que",
+      "start": 14.26,
+      "end": 14.46,
+      "probability": 0.997
+    },
+    {
+      "word": " Deus",
+      "start": 14.46,
+      "end": 14.7,
+      "probability": 0.988
+    },
+    {
+      "word": " aprova",
+      "start": 14.7,
+      "end": 15.82,
+      "probability": 0.717
+    },
+    {
+      "word": " aquilo",
+      "start": 15.82,
+      "end": 16.74,
+      "probability": 0.992
+    },
+    {
+      "word": " que",
+      "start": 16.74,
+      "end": 16.98,
+      "probability": 0.991
+    },
+    {
+      "word": " nos",
+      "start": 16.98,
+      "end": 17.22,
+      "probability": 0.981
+    },
+    {
+      "word": " destr\u00f3i",
+      "start": 17.22,
+      "end": 18.32,
+      "probability": 0.809
+    },
+    {
+      "word": " ou",
+      "start": 18.32,
+      "end": 18.78,
+      "probability": 0.889
+    },
+    {
+      "word": " machuca",
+      "start": 18.78,
+      "end": 19.28,
+      "probability": 0.954
+    },
+    {
+      "word": " outras",
+      "start": 19.28,
+      "end": 19.68,
+      "probability": 0.995
+    },
+    {
+      "word": " pessoas.",
+      "start": 19.68,
+      "end": 20.18,
+      "probability": 0.999
+    },
+    {
+      "word": " Tamb\u00e9m",
+      "start": 20.62,
+      "end": 20.86,
+      "probability": 0.944
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 20.86,
+      "end": 20.98,
+      "probability": 0.997
+    },
+    {
+      "word": " quer",
+      "start": 20.98,
+      "end": 21.16,
+      "probability": 0.997
+    },
+    {
+      "word": " dizer",
+      "start": 21.16,
+      "end": 21.42,
+      "probability": 0.999
+    },
+    {
+      "word": " que",
+      "start": 21.42,
+      "end": 21.6,
+      "probability": 0.996
+    },
+    {
+      "word": " toda",
+      "start": 21.6,
+      "end": 21.86,
+      "probability": 0.989
+    },
+    {
+      "word": " confian\u00e7a",
+      "start": 21.86,
+      "end": 22.52,
+      "probability": 0.968
+    },
+    {
+      "word": " volta",
+      "start": 22.52,
+      "end": 22.84,
+      "probability": 0.951
+    },
+    {
+      "word": " no",
+      "start": 22.84,
+      "end": 23.1,
+      "probability": 0.981
+    },
+    {
+      "word": " mesmo",
+      "start": 23.1,
+      "end": 23.36,
+      "probability": 0.997
+    },
+    {
+      "word": " dia,",
+      "start": 23.36,
+      "end": 23.78,
+      "probability": 0.998
+    },
+    {
+      "word": " como",
+      "start": 24.22,
+      "end": 24.54,
+      "probability": 0.997
+    },
+    {
+      "word": " se",
+      "start": 24.54,
+      "end": 24.72,
+      "probability": 0.991
+    },
+    {
+      "word": " pedir",
+      "start": 24.72,
+      "end": 25.06,
+      "probability": 0.856
+    },
+    {
+      "word": " perd\u00e3o",
+      "start": 25.06,
+      "end": 25.72,
+      "probability": 0.978
+    },
+    {
+      "word": " a",
+      "start": 25.72,
+      "end": 26.32,
+      "probability": 0.305
+    },
+    {
+      "word": " pagasse",
+      "start": 26.32,
+      "end": 26.88,
+      "probability": 0.589
+    },
+    {
+      "word": " cada",
+      "start": 26.88,
+      "end": 27.18,
+      "probability": 0.98
+    },
+    {
+      "word": " consequ\u00eancia.",
+      "start": 27.18,
+      "end": 27.92,
+      "probability": 0.968
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 29.952,
+  "model_size": "base",
+  "device": "cpu"
+}

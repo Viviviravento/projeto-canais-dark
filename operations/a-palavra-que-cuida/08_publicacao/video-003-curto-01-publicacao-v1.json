@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "derivative_id": "video-003-curto-01",
+  "source_video_id": "video-003",
+  "slot": {
+    "scheduled_at": "2026-08-04T17:00:00-03:00",
+    "executed_at": "2026-08-04T17:14:45-03:00",
+    "cadence": "terça, quinta e sábado; 11h e 17h"
+  },
+  "tiktok": {
+    "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/video-003-curto-01-shorts-e-tiktok-v2.mp4",
+    "sha256": "74c1344e9214b1c543501ff253c4d78bcd8929e23412b68d50a306d4251c2d02",
+    "title": "Presença antes da explicação",
+    "caption": "Antes de qualquer explicação, talvez a pessoa precise de escuta, comida, companhia, descanso ou ajuda profissional. Em Jó 2:13, os amigos acertam quando se sentam ao lado dele. 🙏 #Sofrimento #FéCristã #LivroDeJó #ReflexãoBíblica",
+    "cover": "primeiro frame com personagem inteira, título legível e sem tela preta",
+    "location": null,
+    "publication": {
+      "status": "under_review",
+      "submitted_at": "2026-08-04T17:14:45-03:00",
+      "visibility_requested": "public",
+      "visibility_observed": "only_me_while_under_review",
+      "video_id": "7670272364931812626",
+      "url": "https://www.tiktok.com/@a.palavra.que.cuida/video/7670272364931812626",
+      "copyright_check": "pass",
+      "content_eligibility_check": "pass",
+      "blocker": "O TikTok recebeu a publicação, mas a listou temporariamente como Conteúdo sob análise e Somente eu. Não declarar como pública até a plataforma liberar a visibilidade."
+    }
+  },
+  "qa": {
+    "dimensions": "1080x1920",
+    "duration_seconds": 76.233,
+    "first_frame": "pass_character_centered_non_black",
+    "blank_notebook_image": "not_present"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v010-elevenlabs-v1-20260729",
+  "provider": "ElevenLabs",
+  "model": "eleven_multilingual_v2",
+  "operation": "full eight-block narration for video-010 using one controlled sequential execution and 1.07x local postprocess",
+  "unit": "provider credit",
+  "quantity": 8946,
+  "expected_subscription_credits": 8946,
+  "maximum_subscription_credits": 9000,
+  "currency": "USD",
+  "expected_incremental_cash_charge": 0.0,
+  "maximum_incremental_cash_charge": 0.0,
+  "price_checked_at": "2026-07-29T22:23:03.823689+00:00",
+  "price_source": "Authenticated ElevenLabs subscription API read-only check in this Codex session; no paid generation started.",
+  "subscription_snapshot": {
+    "tier": "creator",
+    "character_count": 47884,
+    "character_limit": 231154,
+    "credits_remaining_observed": 183270,
+    "checked_at": "2026-07-29T22:23:03.823689+00:00"
+  },
+  "status": "completed",
+  "approval": {
+    "approved_at": "2026-07-29T22:35:00-03:00",
+    "user_statement": "ta, faz",
+    "scope": "Generate only video-010 narration up to 9000 subscription credits, with no automatic retry and no incremental cash charge."
+  },
+  "metadata": {
+    "manifest": "operations/a-palavra-que-cuida/02_roteiros/video-010-performance-v1.json",
+    "citation_manifest": "operations/a-palavra-que-cuida/02_roteiros/video-010-citacoes-acf-v1.json",
+    "request_stitching": false,
+    "context_mode": "independent_blocks",
+    "automatic_retry": false,
+    "postprocess_after_generation": "1.07x preserving pitch before master alignment"
+  },
+  "actual_execution": {
+    "status": "completed",
+    "credits_consumed": 4921,
+    "raw_duration_seconds": 715.778,
+    "master_duration_seconds": 668.952438,
+    "completed_at": "2026-07-29T22:50:00-03:00"
+  }
+}

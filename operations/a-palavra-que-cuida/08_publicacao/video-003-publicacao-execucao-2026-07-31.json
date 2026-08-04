@@ -1,0 +1,38 @@
+{
+  "video_id": "video-003",
+  "youtube_video_id": "59G32W6bYx0",
+  "url": "https://youtu.be/59G32W6bYx0",
+  "result": "published_public_with_comment_gate_pending",
+  "published_at": "2026-07-31T12:40:14.0259444-03:00",
+  "verified": {
+    "visibility": "public",
+    "duration": "11:20",
+    "resolution_source": "1920x1080 master",
+    "custom_thumbnail": true,
+    "video_language": "pt-BR",
+    "altered_or_synthetic_content": true,
+    "made_for_kids": false,
+    "copyright_check": "completed_no_issues",
+    "caption_language": "pt-BR",
+    "caption_status_studio": "published",
+    "manual_caption_and_automatic_transcript_present": true,
+    "end_screen": {
+      "saved": true,
+      "targets": [
+        "Não andeis ansiosos: o que Jesus realmente quis dizer",
+        "Você não precisa carregar tudo sozinha | Deus cuida de você"
+      ]
+    }
+  },
+  "comment": {
+    "required_text": "Em um momento difícil, o que mais cuidou de você: uma explicação ou a presença de alguém? Você não precisa contar detalhes que não queira; pode compartilhar apenas o gesto que fez diferença.",
+    "posted": false,
+    "pinned": false,
+    "blocker": "A página pública não aceitou o envio enquanto a conta exibia a exigência de confirmação de idade. A verificação de idade não foi automatizada por segurança."
+  },
+  "tooling": {
+    "upload_surface": "YouTube Studio in-app browser",
+    "yutu_status": "unavailable_invalid_client_secret_configuration",
+    "publication_recovery": "Recovered the previously approved video-003 backlog item after Google browser access became available."
+  }
+}

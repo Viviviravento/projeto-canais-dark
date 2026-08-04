@@ -1,0 +1,8 @@
+{
+  "video_id": "video-007",
+  "version": "v1-1.07x",
+  "status": "approved",
+  "approved_at": "2026-07-29",
+  "evidence": "A usuaria aprovou tres amostras representativas da abertura, acolhimento e perguntas/fechamento; relatou que a voz ficou boa e nao apresentou os erros anteriores de pausas ou virgulas artificiais.",
+  "scope": "Aprovacao do master de narracao existente a 1.07x, com preservacao de pitch. Nao autoriza nova geracao de voz."
+}

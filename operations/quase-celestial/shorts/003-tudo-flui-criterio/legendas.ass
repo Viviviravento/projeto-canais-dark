@@ -1,0 +1,27 @@
+[Script Info]
+Title: Quase Celestial — Tudo flui — Paz tambem e criterio
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Legenda,Gadugi,52,&H00F8F5FF,&H00F8F5FF,&H001C0710,&H96000000,0,0,0,0,100,100,0,0,1,2.2,0.8,2,110,110,320,1
+Style: Cabecalho,Gadugi,44,&H00F8F5FF,&H00F8F5FF,&H001C0710,&H96000000,0,0,0,0,100,100,0,0,1,1.6,0.8,7,64,64,150,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 1,0:00:00.00,0:01:23.52,Cabecalho,,0,0,0,,Quase Celestial
+Dialogue: 0,0:00:00.00,0:00:06.10,Legenda,,0,0,0,,O que é para te fazer bem não exige\Nque você viva em estado de medo.
+Dialogue: 0,0:00:06.10,0:00:12.20,Legenda,,0,0,0,,O que é para somar não precisa fazer você\Nduvidar do próprio valor todos os dias.
+Dialogue: 0,0:00:12.20,0:00:18.90,Legenda,,0,0,0,,O que é verdadeiro pode ter desafios,\Nmas não precisa ser uma guerra contra você.
+Dialogue: 0,0:00:18.90,0:00:28.10,Legenda,,0,0,0,,A sua vida pode melhorar sem que você precise\Nse tornar alguém irreconhecível.
+Dialogue: 0,0:00:28.10,0:00:42.60,Legenda,,0,0,0,,Pode melhorar porque você está aprendendo a escolher.\NPaz também é um critério.
+Dialogue: 0,0:00:42.60,0:00:47.10,Legenda,,0,0,0,,Você não precisa se explicar até desaparecer.
+Dialogue: 0,0:00:47.10,0:00:51.70,Legenda,,0,0,0,,Não precisa ser útil o tempo inteiro\Npara merecer amor.
+Dialogue: 0,0:00:51.70,0:00:56.10,Legenda,,0,0,0,,Não precisa fazer tudo sozinha\Npara provar que é forte.
+Dialogue: 0,0:00:56.10,0:01:03.00,Legenda,,0,0,0,,Há uma inteligência em construir devagar.
+Dialogue: 0,0:01:03.00,0:01:08.20,Legenda,,0,0,0,,Há beleza em uma vida que cresce\Nde um jeito que você consegue sustentar.
+Dialogue: 0,0:01:08.20,0:01:19.60,Legenda,,0,0,0,,Um sonho aparece em escolhas pequenas:\Nnum limite colocado, numa porta que você tenta abrir.
+Dialogue: 0,0:01:19.60,0:01:23.52,Legenda,,0,0,0,,É assim que muita coisa começa a fluir.

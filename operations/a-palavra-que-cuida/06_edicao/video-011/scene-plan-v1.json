@@ -1,0 +1,170 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-011",
+  "timing_state": "derived_from_master_alignment_1.07x",
+  "master_duration_seconds": 716.528458,
+  "visual_policy": {
+    "maximum_static_seconds": 7,
+    "maximum_base_asset_reuse": 2,
+    "avatar_only_while_speaking": true,
+    "scripture_display_must_match_spoken_quote": true,
+    "scripture_cards_only_during_direct_verse_reading": true,
+    "editorial_text_cards": false,
+    "end_screen_seconds": 15,
+    "end_screen_fixed_boxes": false,
+    "end_screen_native_youtube_recommendations": 2,
+    "end_screen_handle": "@apalavraquecuidabr"
+  },
+  "publication_cta_requirements": {
+    "audio_contains_comment_question": true,
+    "audio_contains_next_video_direction": true,
+    "must_add_two_native_youtube_video_elements": true,
+    "must_add_pinned_comment_question": true
+  },
+  "scenes": [
+    {
+      "id": "block-01-quando-voltar-parece-impossivel",
+      "block_id": "01-quando-voltar-parece-impossivel",
+      "start_seconds": 0.0,
+      "end_seconds": 77.993458,
+      "assets": [
+        "video-011/images/v01-porta-e-mala.png",
+        "video-011/images/v07-proximo-passo.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-02-a-partida-comeca-antes-do-caminho",
+      "block_id": "02-a-partida-comeca-antes-do-caminho",
+      "start_seconds": 77.993458,
+      "end_seconds": 169.26729,
+      "assets": [
+        "video-011/images/v02-a-partida.png",
+        "video-011/images/v01-porta-e-mala.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-03-o-momento-em-que-a-pessoa-volta-a-si",
+      "block_id": "03-o-momento-em-que-a-pessoa-volta-a-si",
+      "start_seconds": 169.26729,
+      "end_seconds": 280.33271,
+      "assets": [
+        "video-011/images/v03-tornando-em-si.png",
+        "video-011/images/v07-proximo-passo.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-04-o-abraco-nao-apaga-o-caminho-percorrido",
+      "block_id": "04-o-abraco-nao-apaga-o-caminho-percorrido",
+      "start_seconds": 280.33271,
+      "end_seconds": 391.701869,
+      "assets": [
+        "video-011/images/v04-o-pai-corre.png",
+        "video-011/images/v06-conversa-com-limites.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-05-e-quem-ficou-do-lado-de-fora",
+      "block_id": "05-e-quem-ficou-do-lado-de-fora",
+      "start_seconds": 391.701869,
+      "end_seconds": 465.658879,
+      "assets": [
+        "video-011/images/v05-quem-ficou.png",
+        "video-011/images/v06-conversa-com-limites.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-06-o-pai-tambem-sai-para-conversar",
+      "block_id": "06-o-pai-tambem-sai-para-conversar",
+      "start_seconds": 465.658879,
+      "end_seconds": 552.331776,
+      "assets": [
+        "video-011/images/v06-conversa-com-limites.png",
+        "video-011/images/v05-quem-ficou.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-07-voltar-pode-ser-um-passo-nao-uma-fantasia",
+      "block_id": "07-voltar-pode-ser-um-passo-nao-uma-fantasia",
+      "start_seconds": 552.331776,
+      "end_seconds": 647.164486,
+      "assets": [
+        "video-011/images/v07-proximo-passo.png",
+        "video-011/images/v06-conversa-com-limites.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-08-fechamento-e-convite",
+      "block_id": "08-fechamento-e-convite",
+      "start_seconds": 647.164486,
+      "end_seconds": 716.520561,
+      "assets": [
+        "video-011/images/v01-porta-e-mala.png",
+        "video-011/images/v07-proximo-passo.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    }
+  ],
+  "scripture_cards": [
+    {
+      "id": "scripture-acf-acf-lucas-15-17-20",
+      "reference": "Lucas 15:17-20",
+      "text": "E, tornando em si, disse: Quantos empregados de meu pai têm abundância de pão, e eu aqui pereço de fome! Levantar-me-ei, e irei ter com meu pai, e dir-lhe-ei: Pai, pequei contra o céu e perante ti; Já não sou digno de ser chamado teu filho; faze-me como um dos teus empregados. E, levantando-se, foi para seu pai; e, quando ainda estava longe, viu-o seu pai, e se moveu de íntima compaixão e, correndo, lançou-se-lhe ao pescoço e o beijou.",
+      "source": "04_assets/video-011/scripture_cards/acf-lucas-15-17-20.png",
+      "block_id": "03-o-momento-em-que-a-pessoa-volta-a-si",
+      "start_seconds": 207.569159,
+      "end_seconds": 239.403738,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-acf-lucas-15-22-24",
+      "reference": "Lucas 15:22-24",
+      "text": "Mas o pai disse aos seus servos: Trazei depressa a melhor roupa; e vesti-lho, e ponde-lhe um anel na mão, e sandálias nos pés; E trazei o bezerro cevado, e matai-o; e comamos, e alegremo-nos; Porque este meu filho estava morto, e reviveu, tinha-se perdido, e foi achado. E começaram a alegrar-se.",
+      "source": "04_assets/video-011/scripture_cards/acf-lucas-15-22-24.png",
+      "block_id": "04-o-abraco-nao-apaga-o-caminho-percorrido",
+      "start_seconds": 356.936449,
+      "end_seconds": 378.604673,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-acf-lucas-15-31-32",
+      "reference": "Lucas 15:31-32",
+      "text": "E ele lhe disse: Filho, tu sempre estás comigo, e todas as minhas coisas são tuas; Mas era justo alegrarmo-nos e folgarmos, porque este teu irmão estava morto, e reviveu; e tinha-se perdido, e achou-se.",
+      "source": "04_assets/video-011/scripture_cards/acf-lucas-15-31-32.png",
+      "block_id": "06-o-pai-tambem-sai-para-conversar",
+      "start_seconds": 500.173832,
+      "end_seconds": 515.223364,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    }
+  ],
+  "asset_strategy": "Use only approved video-011 stills. Scripture cards are reserved exclusively for direct verse readings.",
+  "approved_image_assets": [
+    "04_assets/video-011/images/v01-porta-e-mala.png",
+    "04_assets/video-011/images/v02-a-partida.png",
+    "04_assets/video-011/images/v03-tornando-em-si.png",
+    "04_assets/video-011/images/v04-o-pai-corre.png",
+    "04_assets/video-011/images/v05-quem-ficou.png",
+    "04_assets/video-011/images/v06-conversa-com-limites.png",
+    "04_assets/video-011/images/v07-proximo-passo.png"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "dispatch": "timer_youtube_long_2026-07-31_1700_brt",
+  "received_at": "2026-07-31T17:00:00-03:00",
+  "checked_at": "2026-07-31T17:01:07-03:00",
+  "channel": "A Palavra Que Cuida",
+  "slot": "2026-07-31T17:00:00-03:00",
+  "result": "no_new_publication",
+  "published_long_today": {
+    "video_id": "video-003",
+    "published_at": "2026-07-31T12:40:14-03:00",
+    "record": "operations/a-palavra-que-cuida/08_publicacao/video-003-publicacao-execucao-2026-07-31.json"
+  },
+  "decision": "Do not duplicate a long-video publication in the same day.",
+  "render_state": {
+    "video-006": "completed_pending_human_review",
+    "video-007": "completed_pending_human_review",
+    "video-009": "completed_pending_human_review",
+    "video-010": "render_failed"
+  },
+  "blockers": [
+    "No human master review authorization was recorded for video-006, video-007, or video-009.",
+    "video-010 failed its render and has no valid publication master."
+  ],
+  "action_taken": "No upload, visibility change, or duplicate publication was attempted."
+}

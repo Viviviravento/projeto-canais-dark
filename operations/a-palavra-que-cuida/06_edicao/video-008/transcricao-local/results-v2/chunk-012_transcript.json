@@ -1,0 +1,926 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.16,
+      "text": "A pacenta os meus cordeiros.",
+      "words": [
+        {
+          "word": " A",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.334
+        },
+        {
+          "word": " pacenta",
+          "start": 0.28,
+          "end": 0.82,
+          "probability": 0.802
+        },
+        {
+          "word": " os",
+          "start": 0.82,
+          "end": 1.44,
+          "probability": 0.784
+        },
+        {
+          "word": " meus",
+          "start": 1.44,
+          "end": 1.62,
+          "probability": 0.986
+        },
+        {
+          "word": " cordeiros.",
+          "start": 1.62,
+          "end": 2.16,
+          "probability": 0.831
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.18,
+      "end": 7.86,
+      "text": "Jesus faz a pergunta mais importante sem reduzir Pedro ao seu pior momento.",
+      "words": [
+        {
+          "word": " Jesus",
+          "start": 3.18,
+          "end": 3.5,
+          "probability": 0.761
+        },
+        {
+          "word": " faz",
+          "start": 3.5,
+          "end": 3.84,
+          "probability": 0.984
+        },
+        {
+          "word": " a",
+          "start": 3.84,
+          "end": 3.94,
+          "probability": 0.979
+        },
+        {
+          "word": " pergunta",
+          "start": 3.94,
+          "end": 4.2,
+          "probability": 0.999
+        },
+        {
+          "word": " mais",
+          "start": 4.2,
+          "end": 4.54,
+          "probability": 0.991
+        },
+        {
+          "word": " importante",
+          "start": 4.54,
+          "end": 5.14,
+          "probability": 0.997
+        },
+        {
+          "word": " sem",
+          "start": 5.14,
+          "end": 5.38,
+          "probability": 0.809
+        },
+        {
+          "word": " reduzir",
+          "start": 5.38,
+          "end": 5.92,
+          "probability": 0.972
+        },
+        {
+          "word": " Pedro",
+          "start": 5.92,
+          "end": 6.26,
+          "probability": 0.851
+        },
+        {
+          "word": " ao",
+          "start": 6.26,
+          "end": 6.86,
+          "probability": 0.889
+        },
+        {
+          "word": " seu",
+          "start": 6.86,
+          "end": 7.02,
+          "probability": 0.994
+        },
+        {
+          "word": " pior",
+          "start": 7.02,
+          "end": 7.3,
+          "probability": 0.983
+        },
+        {
+          "word": " momento.",
+          "start": 7.3,
+          "end": 7.86,
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.32,
+      "end": 8.82,
+      "text": "Voc\u00ea me ama?",
+      "words": [
+        {
+          "word": " Voc\u00ea",
+          "start": 8.32,
+          "end": 8.48,
+          "probability": 0.943
+        },
+        {
+          "word": " me",
+          "start": 8.48,
+          "end": 8.62,
+          "probability": 0.924
+        },
+        {
+          "word": " ama?",
+          "start": 8.62,
+          "end": 8.82,
+          "probability": 0.935
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 10.0,
+      "end": 14.02,
+      "text": "Pedro responde sem antiga promessa de que faria mais do que todos.",
+      "words": [
+        {
+          "word": " Pedro",
+          "start": 10.0,
+          "end": 10.22,
+          "probability": 0.906
+        },
+        {
+          "word": " responde",
+          "start": 10.22,
+          "end": 11.02,
+          "probability": 0.984
+        },
+        {
+          "word": " sem",
+          "start": 11.02,
+          "end": 11.48,
+          "probability": 0.727
+        },
+        {
+          "word": " antiga",
+          "start": 11.48,
+          "end": 11.96,
+          "probability": 0.938
+        },
+        {
+          "word": " promessa",
+          "start": 11.96,
+          "end": 12.4,
+          "probability": 0.957
+        },
+        {
+          "word": " de",
+          "start": 12.4,
+          "end": 12.6,
+          "probability": 0.915
+        },
+        {
+          "word": " que",
+          "start": 12.6,
+          "end": 12.74,
+          "probability": 0.994
+        },
+        {
+          "word": " faria",
+          "start": 12.74,
+          "end": 13.02,
+          "probability": 0.99
+        },
+        {
+          "word": " mais",
+          "start": 13.02,
+          "end": 13.32,
+          "probability": 0.991
+        },
+        {
+          "word": " do",
+          "start": 13.32,
+          "end": 13.52,
+          "probability": 0.983
+        },
+        {
+          "word": " que",
+          "start": 13.52,
+          "end": 13.64,
+          "probability": 0.999
+        },
+        {
+          "word": " todos.",
+          "start": 13.64,
+          "end": 14.02,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.58,
+      "end": 19.36,
+      "text": "Ele responde, tu sabes que te amo, e Jesus entrega uma responsabilidade.",
+      "words": [
+        {
+          "word": " Ele",
+          "start": 14.58,
+          "end": 14.76,
+          "probability": 0.968
+        },
+        {
+          "word": " responde,",
+          "start": 14.76,
+          "end": 15.4,
+          "probability": 0.999
+        },
+        {
+          "word": " tu",
+          "start": 15.62,
+          "end": 15.82,
+          "probability": 0.586
+        },
+        {
+          "word": " sabes",
+          "start": 15.82,
+          "end": 16.16,
+          "probability": 0.654
+        },
+        {
+          "word": " que",
+          "start": 16.16,
+          "end": 16.36,
+          "probability": 0.962
+        },
+        {
+          "word": " te",
+          "start": 16.36,
+          "end": 16.54,
+          "probability": 0.837
+        },
+        {
+          "word": " amo,",
+          "start": 16.54,
+          "end": 16.78,
+          "probability": 0.985
+        },
+        {
+          "word": " e",
+          "start": 17.28,
+          "end": 17.34,
+          "probability": 0.956
+        },
+        {
+          "word": " Jesus",
+          "start": 17.34,
+          "end": 17.54,
+          "probability": 0.997
+        },
+        {
+          "word": " entrega",
+          "start": 17.54,
+          "end": 18.22,
+          "probability": 0.996
+        },
+        {
+          "word": " uma",
+          "start": 18.22,
+          "end": 18.38,
+          "probability": 0.925
+        },
+        {
+          "word": " responsabilidade.",
+          "start": 18.38,
+          "end": 19.36,
+          "probability": 0.987
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 19.92,
+      "end": 21.52,
+      "text": "A pacenta os meus cordeiros.",
+      "words": [
+        {
+          "word": " A",
+          "start": 19.92,
+          "end": 19.98,
+          "probability": 0.982
+        },
+        {
+          "word": " pacenta",
+          "start": 19.98,
+          "end": 20.56,
+          "probability": 0.992
+        },
+        {
+          "word": " os",
+          "start": 20.56,
+          "end": 20.7,
+          "probability": 0.976
+        },
+        {
+          "word": " meus",
+          "start": 20.7,
+          "end": 20.84,
+          "probability": 0.992
+        },
+        {
+          "word": " cordeiros.",
+          "start": 20.84,
+          "end": 21.52,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 22.1,
+      "end": 26.62,
+      "text": "A restaura\u00e7\u00e3o n\u00e3o \u00e9 voltar a uma vers\u00e3o fantasiosa de n\u00f3s mesmos.",
+      "words": [
+        {
+          "word": " A",
+          "start": 22.1,
+          "end": 22.32,
+          "probability": 0.987
+        },
+        {
+          "word": " restaura\u00e7\u00e3o",
+          "start": 22.32,
+          "end": 22.96,
+          "probability": 0.831
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 22.96,
+          "end": 23.16,
+          "probability": 0.991
+        },
+        {
+          "word": " \u00e9",
+          "start": 23.16,
+          "end": 23.26,
+          "probability": 0.999
+        },
+        {
+          "word": " voltar",
+          "start": 23.26,
+          "end": 23.62,
+          "probability": 0.992
+        },
+        {
+          "word": " a",
+          "start": 23.62,
+          "end": 24.28,
+          "probability": 0.876
+        },
+        {
+          "word": " uma",
+          "start": 24.28,
+          "end": 24.44,
+          "probability": 0.996
+        },
+        {
+          "word": " vers\u00e3o",
+          "start": 24.44,
+          "end": 24.84,
+          "probability": 0.922
+        },
+        {
+          "word": " fantasiosa",
+          "start": 24.84,
+          "end": 25.76,
+          "probability": 0.777
+        },
+        {
+          "word": " de",
+          "start": 25.76,
+          "end": 25.98,
+          "probability": 0.992
+        },
+        {
+          "word": " n\u00f3s",
+          "start": 25.98,
+          "end": 26.12,
+          "probability": 0.999
+        },
+        {
+          "word": " mesmos.",
+          "start": 26.12,
+          "end": 26.62,
+          "probability": 0.978
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 26.62,
+      "end": 30.0,
+      "text": "\u00c9 aprender a amar e a servir com mais...",
+      "words": [
+        {
+          "word": " \u00c9",
+          "start": 26.62,
+          "end": 27.52,
+          "probability": 0.417
+        },
+        {
+          "word": " aprender",
+          "start": 27.52,
+          "end": 27.82,
+          "probability": 0.953
+        },
+        {
+          "word": " a",
+          "start": 27.82,
+          "end": 28.04,
+          "probability": 0.933
+        },
+        {
+          "word": " amar",
+          "start": 28.04,
+          "end": 28.32,
+          "probability": 0.896
+        },
+        {
+          "word": " e",
+          "start": 28.32,
+          "end": 28.98,
+          "probability": 0.961
+        },
+        {
+          "word": " a",
+          "start": 28.98,
+          "end": 29.06,
+          "probability": 0.922
+        },
+        {
+          "word": " servir",
+          "start": 29.06,
+          "end": 29.42,
+          "probability": 0.975
+        },
+        {
+          "word": " com",
+          "start": 29.42,
+          "end": 29.72,
+          "probability": 0.987
+        },
+        {
+          "word": " mais...",
+          "start": 29.72,
+          "end": 30.0,
+          "probability": 0.546
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " A",
+      "start": 0.0,
+      "end": 0.28,
+      "probability": 0.334
+    },
+    {
+      "word": " pacenta",
+      "start": 0.28,
+      "end": 0.82,
+      "probability": 0.802
+    },
+    {
+      "word": " os",
+      "start": 0.82,
+      "end": 1.44,
+      "probability": 0.784
+    },
+    {
+      "word": " meus",
+      "start": 1.44,
+      "end": 1.62,
+      "probability": 0.986
+    },
+    {
+      "word": " cordeiros.",
+      "start": 1.62,
+      "end": 2.16,
+      "probability": 0.831
+    },
+    {
+      "word": " Jesus",
+      "start": 3.18,
+      "end": 3.5,
+      "probability": 0.761
+    },
+    {
+      "word": " faz",
+      "start": 3.5,
+      "end": 3.84,
+      "probability": 0.984
+    },
+    {
+      "word": " a",
+      "start": 3.84,
+      "end": 3.94,
+      "probability": 0.979
+    },
+    {
+      "word": " pergunta",
+      "start": 3.94,
+      "end": 4.2,
+      "probability": 0.999
+    },
+    {
+      "word": " mais",
+      "start": 4.2,
+      "end": 4.54,
+      "probability": 0.991
+    },
+    {
+      "word": " importante",
+      "start": 4.54,
+      "end": 5.14,
+      "probability": 0.997
+    },
+    {
+      "word": " sem",
+      "start": 5.14,
+      "end": 5.38,
+      "probability": 0.809
+    },
+    {
+      "word": " reduzir",
+      "start": 5.38,
+      "end": 5.92,
+      "probability": 0.972
+    },
+    {
+      "word": " Pedro",
+      "start": 5.92,
+      "end": 6.26,
+      "probability": 0.851
+    },
+    {
+      "word": " ao",
+      "start": 6.26,
+      "end": 6.86,
+      "probability": 0.889
+    },
+    {
+      "word": " seu",
+      "start": 6.86,
+      "end": 7.02,
+      "probability": 0.994
+    },
+    {
+      "word": " pior",
+      "start": 7.02,
+      "end": 7.3,
+      "probability": 0.983
+    },
+    {
+      "word": " momento.",
+      "start": 7.3,
+      "end": 7.86,
+      "probability": 0.995
+    },
+    {
+      "word": " Voc\u00ea",
+      "start": 8.32,
+      "end": 8.48,
+      "probability": 0.943
+    },
+    {
+      "word": " me",
+      "start": 8.48,
+      "end": 8.62,
+      "probability": 0.924
+    },
+    {
+      "word": " ama?",
+      "start": 8.62,
+      "end": 8.82,
+      "probability": 0.935
+    },
+    {
+      "word": " Pedro",
+      "start": 10.0,
+      "end": 10.22,
+      "probability": 0.906
+    },
+    {
+      "word": " responde",
+      "start": 10.22,
+      "end": 11.02,
+      "probability": 0.984
+    },
+    {
+      "word": " sem",
+      "start": 11.02,
+      "end": 11.48,
+      "probability": 0.727
+    },
+    {
+      "word": " antiga",
+      "start": 11.48,
+      "end": 11.96,
+      "probability": 0.938
+    },
+    {
+      "word": " promessa",
+      "start": 11.96,
+      "end": 12.4,
+      "probability": 0.957
+    },
+    {
+      "word": " de",
+      "start": 12.4,
+      "end": 12.6,
+      "probability": 0.915
+    },
+    {
+      "word": " que",
+      "start": 12.6,
+      "end": 12.74,
+      "probability": 0.994
+    },
+    {
+      "word": " faria",
+      "start": 12.74,
+      "end": 13.02,
+      "probability": 0.99
+    },
+    {
+      "word": " mais",
+      "start": 13.02,
+      "end": 13.32,
+      "probability": 0.991
+    },
+    {
+      "word": " do",
+      "start": 13.32,
+      "end": 13.52,
+      "probability": 0.983
+    },
+    {
+      "word": " que",
+      "start": 13.52,
+      "end": 13.64,
+      "probability": 0.999
+    },
+    {
+      "word": " todos.",
+      "start": 13.64,
+      "end": 14.02,
+      "probability": 0.997
+    },
+    {
+      "word": " Ele",
+      "start": 14.58,
+      "end": 14.76,
+      "probability": 0.968
+    },
+    {
+      "word": " responde,",
+      "start": 14.76,
+      "end": 15.4,
+      "probability": 0.999
+    },
+    {
+      "word": " tu",
+      "start": 15.62,
+      "end": 15.82,
+      "probability": 0.586
+    },
+    {
+      "word": " sabes",
+      "start": 15.82,
+      "end": 16.16,
+      "probability": 0.654
+    },
+    {
+      "word": " que",
+      "start": 16.16,
+      "end": 16.36,
+      "probability": 0.962
+    },
+    {
+      "word": " te",
+      "start": 16.36,
+      "end": 16.54,
+      "probability": 0.837
+    },
+    {
+      "word": " amo,",
+      "start": 16.54,
+      "end": 16.78,
+      "probability": 0.985
+    },
+    {
+      "word": " e",
+      "start": 17.28,
+      "end": 17.34,
+      "probability": 0.956
+    },
+    {
+      "word": " Jesus",
+      "start": 17.34,
+      "end": 17.54,
+      "probability": 0.997
+    },
+    {
+      "word": " entrega",
+      "start": 17.54,
+      "end": 18.22,
+      "probability": 0.996
+    },
+    {
+      "word": " uma",
+      "start": 18.22,
+      "end": 18.38,
+      "probability": 0.925
+    },
+    {
+      "word": " responsabilidade.",
+      "start": 18.38,
+      "end": 19.36,
+      "probability": 0.987
+    },
+    {
+      "word": " A",
+      "start": 19.92,
+      "end": 19.98,
+      "probability": 0.982
+    },
+    {
+      "word": " pacenta",
+      "start": 19.98,
+      "end": 20.56,
+      "probability": 0.992
+    },
+    {
+      "word": " os",
+      "start": 20.56,
+      "end": 20.7,
+      "probability": 0.976
+    },
+    {
+      "word": " meus",
+      "start": 20.7,
+      "end": 20.84,
+      "probability": 0.992
+    },
+    {
+      "word": " cordeiros.",
+      "start": 20.84,
+      "end": 21.52,
+      "probability": 0.99
+    },
+    {
+      "word": " A",
+      "start": 22.1,
+      "end": 22.32,
+      "probability": 0.987
+    },
+    {
+      "word": " restaura\u00e7\u00e3o",
+      "start": 22.32,
+      "end": 22.96,
+      "probability": 0.831
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 22.96,
+      "end": 23.16,
+      "probability": 0.991
+    },
+    {
+      "word": " \u00e9",
+      "start": 23.16,
+      "end": 23.26,
+      "probability": 0.999
+    },
+    {
+      "word": " voltar",
+      "start": 23.26,
+      "end": 23.62,
+      "probability": 0.992
+    },
+    {
+      "word": " a",
+      "start": 23.62,
+      "end": 24.28,
+      "probability": 0.876
+    },
+    {
+      "word": " uma",
+      "start": 24.28,
+      "end": 24.44,
+      "probability": 0.996
+    },
+    {
+      "word": " vers\u00e3o",
+      "start": 24.44,
+      "end": 24.84,
+      "probability": 0.922
+    },
+    {
+      "word": " fantasiosa",
+      "start": 24.84,
+      "end": 25.76,
+      "probability": 0.777
+    },
+    {
+      "word": " de",
+      "start": 25.76,
+      "end": 25.98,
+      "probability": 0.992
+    },
+    {
+      "word": " n\u00f3s",
+      "start": 25.98,
+      "end": 26.12,
+      "probability": 0.999
+    },
+    {
+      "word": " mesmos.",
+      "start": 26.12,
+      "end": 26.62,
+      "probability": 0.978
+    },
+    {
+      "word": " \u00c9",
+      "start": 26.62,
+      "end": 27.52,
+      "probability": 0.417
+    },
+    {
+      "word": " aprender",
+      "start": 27.52,
+      "end": 27.82,
+      "probability": 0.953
+    },
+    {
+      "word": " a",
+      "start": 27.82,
+      "end": 28.04,
+      "probability": 0.933
+    },
+    {
+      "word": " amar",
+      "start": 28.04,
+      "end": 28.32,
+      "probability": 0.896
+    },
+    {
+      "word": " e",
+      "start": 28.32,
+      "end": 28.98,
+      "probability": 0.961
+    },
+    {
+      "word": " a",
+      "start": 28.98,
+      "end": 29.06,
+      "probability": 0.922
+    },
+    {
+      "word": " servir",
+      "start": 29.06,
+      "end": 29.42,
+      "probability": 0.975
+    },
+    {
+      "word": " com",
+      "start": 29.42,
+      "end": 29.72,
+      "probability": 0.987
+    },
+    {
+      "word": " mais...",
+      "start": 29.72,
+      "end": 30.0,
+      "probability": 0.546
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 30.037,
+  "model_size": "base",
+  "device": "cpu"
+}

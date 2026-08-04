@@ -1,0 +1,738 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.78,
+      "text": "mudando e mudando de caminho. Se a culpa est\u00e1 virando desespero, isolamento ou vontade",
+      "words": [
+        {
+          "word": " mudando",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.495
+        },
+        {
+          "word": " e",
+          "start": 0.24,
+          "end": 0.84,
+          "probability": 0.786
+        },
+        {
+          "word": " mudando",
+          "start": 0.84,
+          "end": 1.26,
+          "probability": 0.99
+        },
+        {
+          "word": " de",
+          "start": 1.26,
+          "end": 1.44,
+          "probability": 0.938
+        },
+        {
+          "word": " caminho.",
+          "start": 1.44,
+          "end": 1.78,
+          "probability": 0.989
+        },
+        {
+          "word": " Se",
+          "start": 2.54,
+          "end": 2.74,
+          "probability": 0.964
+        },
+        {
+          "word": " a",
+          "start": 2.74,
+          "end": 2.84,
+          "probability": 0.969
+        },
+        {
+          "word": " culpa",
+          "start": 2.84,
+          "end": 3.02,
+          "probability": 0.981
+        },
+        {
+          "word": " est\u00e1",
+          "start": 3.02,
+          "end": 3.3,
+          "probability": 0.97
+        },
+        {
+          "word": " virando",
+          "start": 3.3,
+          "end": 3.76,
+          "probability": 0.98
+        },
+        {
+          "word": " desespero,",
+          "start": 3.76,
+          "end": 4.66,
+          "probability": 0.969
+        },
+        {
+          "word": " isolamento",
+          "start": 5.08,
+          "end": 5.58,
+          "probability": 0.995
+        },
+        {
+          "word": " ou",
+          "start": 5.58,
+          "end": 6.38,
+          "probability": 0.65
+        },
+        {
+          "word": " vontade",
+          "start": 6.38,
+          "end": 6.78,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.78,
+      "end": 13.44,
+      "text": "de desaparecer, fale com algu\u00e9m confi\u00e1vel e procure ajuda profissional ou emergencial na sua",
+      "words": [
+        {
+          "word": " de",
+          "start": 6.78,
+          "end": 7.14,
+          "probability": 0.993
+        },
+        {
+          "word": " desaparecer,",
+          "start": 7.14,
+          "end": 8.0,
+          "probability": 0.986
+        },
+        {
+          "word": " fale",
+          "start": 8.52,
+          "end": 8.72,
+          "probability": 0.913
+        },
+        {
+          "word": " com",
+          "start": 8.72,
+          "end": 8.94,
+          "probability": 0.991
+        },
+        {
+          "word": " algu\u00e9m",
+          "start": 8.94,
+          "end": 9.18,
+          "probability": 0.99
+        },
+        {
+          "word": " confi\u00e1vel",
+          "start": 9.18,
+          "end": 9.92,
+          "probability": 0.981
+        },
+        {
+          "word": " e",
+          "start": 9.92,
+          "end": 10.46,
+          "probability": 0.951
+        },
+        {
+          "word": " procure",
+          "start": 10.46,
+          "end": 10.76,
+          "probability": 0.98
+        },
+        {
+          "word": " ajuda",
+          "start": 10.76,
+          "end": 11.2,
+          "probability": 0.821
+        },
+        {
+          "word": " profissional",
+          "start": 11.2,
+          "end": 11.86,
+          "probability": 0.971
+        },
+        {
+          "word": " ou",
+          "start": 11.86,
+          "end": 12.32,
+          "probability": 0.952
+        },
+        {
+          "word": " emergencial",
+          "start": 12.32,
+          "end": 13.02,
+          "probability": 0.697
+        },
+        {
+          "word": " na",
+          "start": 13.02,
+          "end": 13.2,
+          "probability": 0.991
+        },
+        {
+          "word": " sua",
+          "start": 13.2,
+          "end": 13.44,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.44,
+      "end": 21.92,
+      "text": "regi\u00e3o. Cuidar da vida tamb\u00e9m \u00e9 parte da verdade. Voc\u00ea n\u00e3o precisa atravessar esse peso sozinha.",
+      "words": [
+        {
+          "word": " regi\u00e3o.",
+          "start": 13.44,
+          "end": 13.84,
+          "probability": 0.979
+        },
+        {
+          "word": " Cuidar",
+          "start": 14.46,
+          "end": 14.72,
+          "probability": 0.848
+        },
+        {
+          "word": " da",
+          "start": 14.72,
+          "end": 14.9,
+          "probability": 0.978
+        },
+        {
+          "word": " vida",
+          "start": 14.9,
+          "end": 15.12,
+          "probability": 0.995
+        },
+        {
+          "word": " tamb\u00e9m",
+          "start": 15.12,
+          "end": 15.58,
+          "probability": 0.949
+        },
+        {
+          "word": " \u00e9",
+          "start": 15.58,
+          "end": 16.56,
+          "probability": 0.927
+        },
+        {
+          "word": " parte",
+          "start": 16.56,
+          "end": 17.02,
+          "probability": 0.97
+        },
+        {
+          "word": " da",
+          "start": 17.02,
+          "end": 17.18,
+          "probability": 0.989
+        },
+        {
+          "word": " verdade.",
+          "start": 17.18,
+          "end": 17.78,
+          "probability": 0.998
+        },
+        {
+          "word": " Voc\u00ea",
+          "start": 18.5,
+          "end": 18.7,
+          "probability": 0.971
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 18.7,
+          "end": 18.82,
+          "probability": 0.998
+        },
+        {
+          "word": " precisa",
+          "start": 18.82,
+          "end": 19.32,
+          "probability": 0.993
+        },
+        {
+          "word": " atravessar",
+          "start": 19.32,
+          "end": 20.36,
+          "probability": 0.994
+        },
+        {
+          "word": " esse",
+          "start": 20.36,
+          "end": 21.0,
+          "probability": 0.941
+        },
+        {
+          "word": " peso",
+          "start": 21.0,
+          "end": 21.26,
+          "probability": 0.994
+        },
+        {
+          "word": " sozinha.",
+          "start": 21.26,
+          "end": 21.92,
+          "probability": 0.984
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 22.74,
+      "end": 29.1,
+      "text": "Pedro Negou Jesus chorou, foi encontrado e foi chamado a cuidar de outras pessoas.",
+      "words": [
+        {
+          "word": " Pedro",
+          "start": 22.74,
+          "end": 23.5,
+          "probability": 0.384
+        },
+        {
+          "word": " Negou",
+          "start": 23.5,
+          "end": 23.98,
+          "probability": 0.533
+        },
+        {
+          "word": " Jesus",
+          "start": 23.98,
+          "end": 24.3,
+          "probability": 0.68
+        },
+        {
+          "word": " chorou,",
+          "start": 24.3,
+          "end": 25.48,
+          "probability": 0.874
+        },
+        {
+          "word": " foi",
+          "start": 26.0,
+          "end": 26.24,
+          "probability": 0.984
+        },
+        {
+          "word": " encontrado",
+          "start": 26.24,
+          "end": 26.84,
+          "probability": 0.995
+        },
+        {
+          "word": " e",
+          "start": 26.84,
+          "end": 27.46,
+          "probability": 0.708
+        },
+        {
+          "word": " foi",
+          "start": 27.46,
+          "end": 27.58,
+          "probability": 0.981
+        },
+        {
+          "word": " chamado",
+          "start": 27.58,
+          "end": 27.86,
+          "probability": 0.842
+        },
+        {
+          "word": " a",
+          "start": 27.86,
+          "end": 28.02,
+          "probability": 0.865
+        },
+        {
+          "word": " cuidar",
+          "start": 28.02,
+          "end": 28.32,
+          "probability": 0.986
+        },
+        {
+          "word": " de",
+          "start": 28.32,
+          "end": 28.48,
+          "probability": 0.997
+        },
+        {
+          "word": " outras",
+          "start": 28.48,
+          "end": 28.66,
+          "probability": 0.994
+        },
+        {
+          "word": " pessoas.",
+          "start": 28.66,
+          "end": 29.1,
+          "probability": 0.998
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " mudando",
+      "start": 0.0,
+      "end": 0.24,
+      "probability": 0.495
+    },
+    {
+      "word": " e",
+      "start": 0.24,
+      "end": 0.84,
+      "probability": 0.786
+    },
+    {
+      "word": " mudando",
+      "start": 0.84,
+      "end": 1.26,
+      "probability": 0.99
+    },
+    {
+      "word": " de",
+      "start": 1.26,
+      "end": 1.44,
+      "probability": 0.938
+    },
+    {
+      "word": " caminho.",
+      "start": 1.44,
+      "end": 1.78,
+      "probability": 0.989
+    },
+    {
+      "word": " Se",
+      "start": 2.54,
+      "end": 2.74,
+      "probability": 0.964
+    },
+    {
+      "word": " a",
+      "start": 2.74,
+      "end": 2.84,
+      "probability": 0.969
+    },
+    {
+      "word": " culpa",
+      "start": 2.84,
+      "end": 3.02,
+      "probability": 0.981
+    },
+    {
+      "word": " est\u00e1",
+      "start": 3.02,
+      "end": 3.3,
+      "probability": 0.97
+    },
+    {
+      "word": " virando",
+      "start": 3.3,
+      "end": 3.76,
+      "probability": 0.98
+    },
+    {
+      "word": " desespero,",
+      "start": 3.76,
+      "end": 4.66,
+      "probability": 0.969
+    },
+    {
+      "word": " isolamento",
+      "start": 5.08,
+      "end": 5.58,
+      "probability": 0.995
+    },
+    {
+      "word": " ou",
+      "start": 5.58,
+      "end": 6.38,
+      "probability": 0.65
+    },
+    {
+      "word": " vontade",
+      "start": 6.38,
+      "end": 6.78,
+      "probability": 0.997
+    },
+    {
+      "word": " de",
+      "start": 6.78,
+      "end": 7.14,
+      "probability": 0.993
+    },
+    {
+      "word": " desaparecer,",
+      "start": 7.14,
+      "end": 8.0,
+      "probability": 0.986
+    },
+    {
+      "word": " fale",
+      "start": 8.52,
+      "end": 8.72,
+      "probability": 0.913
+    },
+    {
+      "word": " com",
+      "start": 8.72,
+      "end": 8.94,
+      "probability": 0.991
+    },
+    {
+      "word": " algu\u00e9m",
+      "start": 8.94,
+      "end": 9.18,
+      "probability": 0.99
+    },
+    {
+      "word": " confi\u00e1vel",
+      "start": 9.18,
+      "end": 9.92,
+      "probability": 0.981
+    },
+    {
+      "word": " e",
+      "start": 9.92,
+      "end": 10.46,
+      "probability": 0.951
+    },
+    {
+      "word": " procure",
+      "start": 10.46,
+      "end": 10.76,
+      "probability": 0.98
+    },
+    {
+      "word": " ajuda",
+      "start": 10.76,
+      "end": 11.2,
+      "probability": 0.821
+    },
+    {
+      "word": " profissional",
+      "start": 11.2,
+      "end": 11.86,
+      "probability": 0.971
+    },
+    {
+      "word": " ou",
+      "start": 11.86,
+      "end": 12.32,
+      "probability": 0.952
+    },
+    {
+      "word": " emergencial",
+      "start": 12.32,
+      "end": 13.02,
+      "probability": 0.697
+    },
+    {
+      "word": " na",
+      "start": 13.02,
+      "end": 13.2,
+      "probability": 0.991
+    },
+    {
+      "word": " sua",
+      "start": 13.2,
+      "end": 13.44,
+      "probability": 0.998
+    },
+    {
+      "word": " regi\u00e3o.",
+      "start": 13.44,
+      "end": 13.84,
+      "probability": 0.979
+    },
+    {
+      "word": " Cuidar",
+      "start": 14.46,
+      "end": 14.72,
+      "probability": 0.848
+    },
+    {
+      "word": " da",
+      "start": 14.72,
+      "end": 14.9,
+      "probability": 0.978
+    },
+    {
+      "word": " vida",
+      "start": 14.9,
+      "end": 15.12,
+      "probability": 0.995
+    },
+    {
+      "word": " tamb\u00e9m",
+      "start": 15.12,
+      "end": 15.58,
+      "probability": 0.949
+    },
+    {
+      "word": " \u00e9",
+      "start": 15.58,
+      "end": 16.56,
+      "probability": 0.927
+    },
+    {
+      "word": " parte",
+      "start": 16.56,
+      "end": 17.02,
+      "probability": 0.97
+    },
+    {
+      "word": " da",
+      "start": 17.02,
+      "end": 17.18,
+      "probability": 0.989
+    },
+    {
+      "word": " verdade.",
+      "start": 17.18,
+      "end": 17.78,
+      "probability": 0.998
+    },
+    {
+      "word": " Voc\u00ea",
+      "start": 18.5,
+      "end": 18.7,
+      "probability": 0.971
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 18.7,
+      "end": 18.82,
+      "probability": 0.998
+    },
+    {
+      "word": " precisa",
+      "start": 18.82,
+      "end": 19.32,
+      "probability": 0.993
+    },
+    {
+      "word": " atravessar",
+      "start": 19.32,
+      "end": 20.36,
+      "probability": 0.994
+    },
+    {
+      "word": " esse",
+      "start": 20.36,
+      "end": 21.0,
+      "probability": 0.941
+    },
+    {
+      "word": " peso",
+      "start": 21.0,
+      "end": 21.26,
+      "probability": 0.994
+    },
+    {
+      "word": " sozinha.",
+      "start": 21.26,
+      "end": 21.92,
+      "probability": 0.984
+    },
+    {
+      "word": " Pedro",
+      "start": 22.74,
+      "end": 23.5,
+      "probability": 0.384
+    },
+    {
+      "word": " Negou",
+      "start": 23.5,
+      "end": 23.98,
+      "probability": 0.533
+    },
+    {
+      "word": " Jesus",
+      "start": 23.98,
+      "end": 24.3,
+      "probability": 0.68
+    },
+    {
+      "word": " chorou,",
+      "start": 24.3,
+      "end": 25.48,
+      "probability": 0.874
+    },
+    {
+      "word": " foi",
+      "start": 26.0,
+      "end": 26.24,
+      "probability": 0.984
+    },
+    {
+      "word": " encontrado",
+      "start": 26.24,
+      "end": 26.84,
+      "probability": 0.995
+    },
+    {
+      "word": " e",
+      "start": 26.84,
+      "end": 27.46,
+      "probability": 0.708
+    },
+    {
+      "word": " foi",
+      "start": 27.46,
+      "end": 27.58,
+      "probability": 0.981
+    },
+    {
+      "word": " chamado",
+      "start": 27.58,
+      "end": 27.86,
+      "probability": 0.842
+    },
+    {
+      "word": " a",
+      "start": 27.86,
+      "end": 28.02,
+      "probability": 0.865
+    },
+    {
+      "word": " cuidar",
+      "start": 28.02,
+      "end": 28.32,
+      "probability": 0.986
+    },
+    {
+      "word": " de",
+      "start": 28.32,
+      "end": 28.48,
+      "probability": 0.997
+    },
+    {
+      "word": " outras",
+      "start": 28.48,
+      "end": 28.66,
+      "probability": 0.994
+    },
+    {
+      "word": " pessoas.",
+      "start": 28.66,
+      "end": 29.1,
+      "probability": 0.998
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 29.952,
+  "model_size": "base",
+  "device": "cpu"
+}

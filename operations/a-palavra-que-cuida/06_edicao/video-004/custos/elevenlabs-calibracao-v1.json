@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v004-elevenlabs-calibracao-v1-20260726",
+  "provider": "ElevenLabs",
+  "model": "eleven_multilingual_v2",
+  "operation": "three independent oral-performance calibration samples",
+  "unit": "provider credit",
+  "quantity": 2103,
+  "maximum_subscription_credits": 2103,
+  "currency": "USD",
+  "maximum_incremental_cash_charge": 0.0,
+  "price_checked_at": "2026-07-26T00:00:00-03:00",
+  "price_source": "ElevenLabs subscription dashboard, authenticated account",
+  "subscription_snapshot": {
+    "tier": "Starter",
+    "credits_used": 29767,
+    "credits_limit": 40000,
+    "credits_remaining": 10233,
+    "renews_at": "2026-08-10",
+    "extra_text_to_speech_price_usd_per_minute": 0.2
+  },
+  "status": "reconciled",
+  "approval": {
+    "approved_at": "2026-07-26",
+    "user_statement": "ve se tem saldo, se tiver, produza nosso prox video",
+    "scope": "A geração das três amostras está limitada a 2.103 créditos e não pode iniciar cobrança adicional."
+  },
+  "metadata": {
+    "manifest": "operations/a-palavra-que-cuida/02_roteiros/video-004-calibracao-performance-v1.json",
+    "samples": [
+      "01-abertura-curiosidade-e-limite",
+      "02-miolo-identidade-e-familia",
+      "03-fechamento-e-cta"
+    ],
+    "full_generation_forbidden_until_human_approval": true,
+    "automatic_retry": false
+  },
+  "observed_subscription_credits": 0
+}

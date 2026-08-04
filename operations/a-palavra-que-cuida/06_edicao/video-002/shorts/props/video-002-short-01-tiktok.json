@@ -1,0 +1,165 @@
+{
+  "derivativeId": "video-002-short-01",
+  "title": "Ansiedade não é falta de fé",
+  "audioFile": "audio/video-002-short-01-narracao.wav",
+  "spokenDurationSeconds": 69.305,
+  "endCardSeconds": 4.0,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 7.701,
+      "asset": "images/img-v002-cansaco-amanhecer-v1.png",
+      "focus": "70% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 7.701,
+      "end": 15.401,
+      "asset": "images/img-v002-espera-saude-v1.png",
+      "focus": "41% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 15.401,
+      "end": 23.102,
+      "asset": "images/img-s27-ajuda-profissional-v1.png",
+      "focus": "34% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 23.102,
+      "end": 30.802,
+      "asset": "images/img-s24-entrega-v1.png",
+      "focus": "32% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 30.802,
+      "end": 38.503,
+      "asset": "images/img-s32-contato-seguro-v1.png",
+      "focus": "50% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 38.503,
+      "end": 46.203,
+      "asset": "images/img-v002-jesus-ouvinte-mulher-v2.png",
+      "focus": "75% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 46.203,
+      "end": 53.904,
+      "asset": "images/img-s22-conversa-confiavel-v1.png",
+      "focus": "50% 49%",
+      "scale": 1.0
+    },
+    {
+      "start": 53.904,
+      "end": 61.604,
+      "asset": "images/img-v002-amanhecer-presente-v1.png",
+      "focus": "55% 48%",
+      "scale": 1.0
+    },
+    {
+      "start": 61.604,
+      "end": 69.305,
+      "asset": "images/img-v002-cansaco-amanhecer-v1.png",
+      "focus": "70% 48%",
+      "scale": 1.03
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.12,
+      "end": 2.639,
+      "text": "Aqui precisamos fazer uma distinção importante."
+    },
+    {
+      "start": 3.104,
+      "end": 7.179,
+      "text": "Hoje, a palavra ansiedade também descreve condições de saúde"
+    },
+    {
+      "start": 7.214,
+      "end": 11.347,
+      "text": "que podem envolver medo intenso, sintomas físicos,"
+    },
+    {
+      "start": 11.742,
+      "end": 14.737,
+      "text": "sofrimento prolongado e prejuízo na vida familiar,"
+    },
+    {
+      "start": 15.027,
+      "end": 19.241,
+      "text": "social ou profissional. Não é honesto pegar uma palavra"
+    },
+    {
+      "start": 19.3,
+      "end": 20.635,
+      "text": "de um texto antigo,"
+    },
+    {
+      "start": 21.447,
+      "end": 25.209,
+      "text": "ignorar todo o contexto e concluir que quem enfrenta"
+    },
+    {
+      "start": 25.244,
+      "end": 30.259,
+      "text": "um transtorno de ansiedade está simplesmente desobedecendo a Jesus."
+    },
+    {
+      "start": 30.799,
+      "end": 32.645,
+      "text": "Fé e tratamento não são rivais."
+    },
+    {
+      "start": 32.9,
+      "end": 37.556,
+      "text": "Procurar ajuda profissional, fazer psicoterapia ou seguir uma"
+    },
+    {
+      "start": 37.614,
+      "end": 41.19,
+      "text": "orientação médica não significa que a pessoa deixou de"
+    },
+    {
+      "start": 41.236,
+      "end": 45.66,
+      "text": "confiar em Deus. Pode ser justamente uma forma responsável"
+    },
+    {
+      "start": 46.31,
+      "end": 47.355,
+      "text": "de cuidar da vida."
+    },
+    {
+      "start": 48.121,
+      "end": 51.975,
+      "text": "As palavras de Jesus não precisam ser usadas para"
+    },
+    {
+      "start": 52.08,
+      "end": 56.259,
+      "text": "envergonhar quem sofre. Elas podem ser recebidas como um"
+    },
+    {
+      "start": 56.317,
+      "end": 60.23,
+      "text": "convite para que a preocupação não tenha a palavra"
+    },
+    {
+      "start": 60.288,
+      "end": 64.793,
+      "text": "final sobre quem somos, sobre o valor da"
+    },
+    {
+      "start": 64.851,
+      "end": 69.065,
+      "text": "nossa vida e sobre onde colocamos nossa esperança."
+    }
+  ],
+  "platform": "tiktok"
+}

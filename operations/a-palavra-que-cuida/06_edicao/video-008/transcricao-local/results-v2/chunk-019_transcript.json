@@ -1,0 +1,954 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 5.56,
+      "text": "O recome\u00e7o n\u00e3o \u00e9 esquecer o que ouve, \u00e9 deixar que a verdade agra\u00e7a e a responsabilidade",
+      "words": [
+        {
+          "word": " O",
+          "start": 0.0,
+          "end": 0.08,
+          "probability": 0.048
+        },
+        {
+          "word": " recome\u00e7o",
+          "start": 0.08,
+          "end": 0.38,
+          "probability": 0.571
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 0.38,
+          "end": 0.52,
+          "probability": 0.982
+        },
+        {
+          "word": " \u00e9",
+          "start": 0.52,
+          "end": 0.64,
+          "probability": 0.992
+        },
+        {
+          "word": " esquecer",
+          "start": 0.64,
+          "end": 1.14,
+          "probability": 0.86
+        },
+        {
+          "word": " o",
+          "start": 1.14,
+          "end": 1.3,
+          "probability": 0.959
+        },
+        {
+          "word": " que",
+          "start": 1.3,
+          "end": 1.42,
+          "probability": 0.989
+        },
+        {
+          "word": " ouve,",
+          "start": 1.42,
+          "end": 1.7,
+          "probability": 0.842
+        },
+        {
+          "word": " \u00e9",
+          "start": 2.02,
+          "end": 2.3,
+          "probability": 0.986
+        },
+        {
+          "word": " deixar",
+          "start": 2.3,
+          "end": 2.58,
+          "probability": 0.979
+        },
+        {
+          "word": " que",
+          "start": 2.58,
+          "end": 2.8,
+          "probability": 0.995
+        },
+        {
+          "word": " a",
+          "start": 2.8,
+          "end": 2.88,
+          "probability": 0.988
+        },
+        {
+          "word": " verdade",
+          "start": 2.88,
+          "end": 3.22,
+          "probability": 0.991
+        },
+        {
+          "word": " agra\u00e7a",
+          "start": 3.22,
+          "end": 4.24,
+          "probability": 0.867
+        },
+        {
+          "word": " e",
+          "start": 4.24,
+          "end": 4.74,
+          "probability": 0.891
+        },
+        {
+          "word": " a",
+          "start": 4.74,
+          "end": 4.82,
+          "probability": 0.989
+        },
+        {
+          "word": " responsabilidade",
+          "start": 4.82,
+          "end": 5.56,
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 5.56,
+      "end": 7.16,
+      "text": "produzem um caminho novo.",
+      "words": [
+        {
+          "word": " produzem",
+          "start": 5.56,
+          "end": 6.14,
+          "probability": 0.763
+        },
+        {
+          "word": " um",
+          "start": 6.14,
+          "end": 6.44,
+          "probability": 0.987
+        },
+        {
+          "word": " caminho",
+          "start": 6.44,
+          "end": 6.72,
+          "probability": 0.992
+        },
+        {
+          "word": " novo.",
+          "start": 6.72,
+          "end": 7.16,
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.82,
+      "end": 10.24,
+      "text": "Este \u00e9 o canal A Palavra Que Cuida.",
+      "words": [
+        {
+          "word": " Este",
+          "start": 7.82,
+          "end": 8.06,
+          "probability": 0.943
+        },
+        {
+          "word": " \u00e9",
+          "start": 8.06,
+          "end": 8.14,
+          "probability": 0.998
+        },
+        {
+          "word": " o",
+          "start": 8.14,
+          "end": 8.2,
+          "probability": 0.996
+        },
+        {
+          "word": " canal",
+          "start": 8.2,
+          "end": 8.48,
+          "probability": 0.987
+        },
+        {
+          "word": " A",
+          "start": 8.48,
+          "end": 9.28,
+          "probability": 0.179
+        },
+        {
+          "word": " Palavra",
+          "start": 9.28,
+          "end": 9.74,
+          "probability": 0.907
+        },
+        {
+          "word": " Que",
+          "start": 9.74,
+          "end": 9.9,
+          "probability": 0.855
+        },
+        {
+          "word": " Cuida.",
+          "start": 9.9,
+          "end": 10.24,
+          "probability": 0.815
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 11.0,
+      "end": 17.0,
+      "text": "Se esta mensagem falou com voc\u00ea, inscreva-se, curta e compartilhe com algu\u00e9m que precisa",
+      "words": [
+        {
+          "word": " Se",
+          "start": 11.0,
+          "end": 11.16,
+          "probability": 0.93
+        },
+        {
+          "word": " esta",
+          "start": 11.16,
+          "end": 11.28,
+          "probability": 0.754
+        },
+        {
+          "word": " mensagem",
+          "start": 11.28,
+          "end": 11.78,
+          "probability": 0.997
+        },
+        {
+          "word": " falou",
+          "start": 11.78,
+          "end": 12.02,
+          "probability": 0.988
+        },
+        {
+          "word": " com",
+          "start": 12.02,
+          "end": 12.22,
+          "probability": 0.963
+        },
+        {
+          "word": " voc\u00ea,",
+          "start": 12.22,
+          "end": 12.56,
+          "probability": 0.995
+        },
+        {
+          "word": " inscreva",
+          "start": 13.16,
+          "end": 13.66,
+          "probability": 0.951
+        },
+        {
+          "word": "-se,",
+          "start": 13.66,
+          "end": 13.82,
+          "probability": 0.953
+        },
+        {
+          "word": " curta",
+          "start": 14.08,
+          "end": 14.36,
+          "probability": 0.984
+        },
+        {
+          "word": " e",
+          "start": 14.36,
+          "end": 14.88,
+          "probability": 0.719
+        },
+        {
+          "word": " compartilhe",
+          "start": 14.88,
+          "end": 15.46,
+          "probability": 0.981
+        },
+        {
+          "word": " com",
+          "start": 15.46,
+          "end": 15.66,
+          "probability": 0.995
+        },
+        {
+          "word": " algu\u00e9m",
+          "start": 15.66,
+          "end": 15.94,
+          "probability": 0.99
+        },
+        {
+          "word": " que",
+          "start": 15.94,
+          "end": 16.56,
+          "probability": 0.982
+        },
+        {
+          "word": " precisa",
+          "start": 16.56,
+          "end": 17.0,
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 17.0,
+      "end": 18.98,
+      "text": "respirar depois de um erro.",
+      "words": [
+        {
+          "word": " respirar",
+          "start": 17.0,
+          "end": 17.7,
+          "probability": 0.979
+        },
+        {
+          "word": " depois",
+          "start": 17.7,
+          "end": 18.42,
+          "probability": 0.958
+        },
+        {
+          "word": " de",
+          "start": 18.42,
+          "end": 18.66,
+          "probability": 0.994
+        },
+        {
+          "word": " um",
+          "start": 18.66,
+          "end": 18.76,
+          "probability": 0.994
+        },
+        {
+          "word": " erro.",
+          "start": 18.76,
+          "end": 18.98,
+          "probability": 0.991
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 19.6,
+      "end": 23.84,
+      "text": "Quando o v\u00eddeo terminar, escolha um dos v\u00eddeos sugeridos na tela.",
+      "words": [
+        {
+          "word": " Quando",
+          "start": 19.6,
+          "end": 19.86,
+          "probability": 0.972
+        },
+        {
+          "word": " o",
+          "start": 19.86,
+          "end": 20.0,
+          "probability": 0.991
+        },
+        {
+          "word": " v\u00eddeo",
+          "start": 20.0,
+          "end": 20.14,
+          "probability": 0.992
+        },
+        {
+          "word": " terminar,",
+          "start": 20.14,
+          "end": 20.52,
+          "probability": 0.983
+        },
+        {
+          "word": " escolha",
+          "start": 21.12,
+          "end": 21.54,
+          "probability": 0.939
+        },
+        {
+          "word": " um",
+          "start": 21.54,
+          "end": 21.7,
+          "probability": 0.976
+        },
+        {
+          "word": " dos",
+          "start": 21.7,
+          "end": 21.92,
+          "probability": 0.997
+        },
+        {
+          "word": " v\u00eddeos",
+          "start": 21.92,
+          "end": 22.22,
+          "probability": 0.98
+        },
+        {
+          "word": " sugeridos",
+          "start": 22.22,
+          "end": 23.28,
+          "probability": 0.918
+        },
+        {
+          "word": " na",
+          "start": 23.28,
+          "end": 23.5,
+          "probability": 0.996
+        },
+        {
+          "word": " tela.",
+          "start": 23.5,
+          "end": 23.84,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 23.84,
+      "end": 29.88,
+      "text": "Se a ansiedade tem roubado sua paz, continue no v\u00eddeo sobre n\u00e3o andei ansioso.",
+      "words": [
+        {
+          "word": " Se",
+          "start": 23.84,
+          "end": 24.74,
+          "probability": 0.568
+        },
+        {
+          "word": " a",
+          "start": 24.74,
+          "end": 24.82,
+          "probability": 0.977
+        },
+        {
+          "word": " ansiedade",
+          "start": 24.82,
+          "end": 25.24,
+          "probability": 0.965
+        },
+        {
+          "word": " tem",
+          "start": 25.24,
+          "end": 25.54,
+          "probability": 0.893
+        },
+        {
+          "word": " roubado",
+          "start": 25.54,
+          "end": 26.02,
+          "probability": 0.933
+        },
+        {
+          "word": " sua",
+          "start": 26.02,
+          "end": 26.28,
+          "probability": 0.861
+        },
+        {
+          "word": " paz,",
+          "start": 26.28,
+          "end": 26.62,
+          "probability": 0.986
+        },
+        {
+          "word": " continue",
+          "start": 27.24,
+          "end": 27.48,
+          "probability": 0.669
+        },
+        {
+          "word": " no",
+          "start": 27.48,
+          "end": 27.8,
+          "probability": 0.9
+        },
+        {
+          "word": " v\u00eddeo",
+          "start": 27.8,
+          "end": 28.04,
+          "probability": 0.983
+        },
+        {
+          "word": " sobre",
+          "start": 28.04,
+          "end": 28.42,
+          "probability": 0.892
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 28.42,
+          "end": 29.08,
+          "probability": 0.781
+        },
+        {
+          "word": " andei",
+          "start": 29.08,
+          "end": 29.36,
+          "probability": 0.693
+        },
+        {
+          "word": " ansioso.",
+          "start": 29.36,
+          "end": 29.88,
+          "probability": 0.453
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " O",
+      "start": 0.0,
+      "end": 0.08,
+      "probability": 0.048
+    },
+    {
+      "word": " recome\u00e7o",
+      "start": 0.08,
+      "end": 0.38,
+      "probability": 0.571
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 0.38,
+      "end": 0.52,
+      "probability": 0.982
+    },
+    {
+      "word": " \u00e9",
+      "start": 0.52,
+      "end": 0.64,
+      "probability": 0.992
+    },
+    {
+      "word": " esquecer",
+      "start": 0.64,
+      "end": 1.14,
+      "probability": 0.86
+    },
+    {
+      "word": " o",
+      "start": 1.14,
+      "end": 1.3,
+      "probability": 0.959
+    },
+    {
+      "word": " que",
+      "start": 1.3,
+      "end": 1.42,
+      "probability": 0.989
+    },
+    {
+      "word": " ouve,",
+      "start": 1.42,
+      "end": 1.7,
+      "probability": 0.842
+    },
+    {
+      "word": " \u00e9",
+      "start": 2.02,
+      "end": 2.3,
+      "probability": 0.986
+    },
+    {
+      "word": " deixar",
+      "start": 2.3,
+      "end": 2.58,
+      "probability": 0.979
+    },
+    {
+      "word": " que",
+      "start": 2.58,
+      "end": 2.8,
+      "probability": 0.995
+    },
+    {
+      "word": " a",
+      "start": 2.8,
+      "end": 2.88,
+      "probability": 0.988
+    },
+    {
+      "word": " verdade",
+      "start": 2.88,
+      "end": 3.22,
+      "probability": 0.991
+    },
+    {
+      "word": " agra\u00e7a",
+      "start": 3.22,
+      "end": 4.24,
+      "probability": 0.867
+    },
+    {
+      "word": " e",
+      "start": 4.24,
+      "end": 4.74,
+      "probability": 0.891
+    },
+    {
+      "word": " a",
+      "start": 4.74,
+      "end": 4.82,
+      "probability": 0.989
+    },
+    {
+      "word": " responsabilidade",
+      "start": 4.82,
+      "end": 5.56,
+      "probability": 0.995
+    },
+    {
+      "word": " produzem",
+      "start": 5.56,
+      "end": 6.14,
+      "probability": 0.763
+    },
+    {
+      "word": " um",
+      "start": 6.14,
+      "end": 6.44,
+      "probability": 0.987
+    },
+    {
+      "word": " caminho",
+      "start": 6.44,
+      "end": 6.72,
+      "probability": 0.992
+    },
+    {
+      "word": " novo.",
+      "start": 6.72,
+      "end": 7.16,
+      "probability": 0.995
+    },
+    {
+      "word": " Este",
+      "start": 7.82,
+      "end": 8.06,
+      "probability": 0.943
+    },
+    {
+      "word": " \u00e9",
+      "start": 8.06,
+      "end": 8.14,
+      "probability": 0.998
+    },
+    {
+      "word": " o",
+      "start": 8.14,
+      "end": 8.2,
+      "probability": 0.996
+    },
+    {
+      "word": " canal",
+      "start": 8.2,
+      "end": 8.48,
+      "probability": 0.987
+    },
+    {
+      "word": " A",
+      "start": 8.48,
+      "end": 9.28,
+      "probability": 0.179
+    },
+    {
+      "word": " Palavra",
+      "start": 9.28,
+      "end": 9.74,
+      "probability": 0.907
+    },
+    {
+      "word": " Que",
+      "start": 9.74,
+      "end": 9.9,
+      "probability": 0.855
+    },
+    {
+      "word": " Cuida.",
+      "start": 9.9,
+      "end": 10.24,
+      "probability": 0.815
+    },
+    {
+      "word": " Se",
+      "start": 11.0,
+      "end": 11.16,
+      "probability": 0.93
+    },
+    {
+      "word": " esta",
+      "start": 11.16,
+      "end": 11.28,
+      "probability": 0.754
+    },
+    {
+      "word": " mensagem",
+      "start": 11.28,
+      "end": 11.78,
+      "probability": 0.997
+    },
+    {
+      "word": " falou",
+      "start": 11.78,
+      "end": 12.02,
+      "probability": 0.988
+    },
+    {
+      "word": " com",
+      "start": 12.02,
+      "end": 12.22,
+      "probability": 0.963
+    },
+    {
+      "word": " voc\u00ea,",
+      "start": 12.22,
+      "end": 12.56,
+      "probability": 0.995
+    },
+    {
+      "word": " inscreva",
+      "start": 13.16,
+      "end": 13.66,
+      "probability": 0.951
+    },
+    {
+      "word": "-se,",
+      "start": 13.66,
+      "end": 13.82,
+      "probability": 0.953
+    },
+    {
+      "word": " curta",
+      "start": 14.08,
+      "end": 14.36,
+      "probability": 0.984
+    },
+    {
+      "word": " e",
+      "start": 14.36,
+      "end": 14.88,
+      "probability": 0.719
+    },
+    {
+      "word": " compartilhe",
+      "start": 14.88,
+      "end": 15.46,
+      "probability": 0.981
+    },
+    {
+      "word": " com",
+      "start": 15.46,
+      "end": 15.66,
+      "probability": 0.995
+    },
+    {
+      "word": " algu\u00e9m",
+      "start": 15.66,
+      "end": 15.94,
+      "probability": 0.99
+    },
+    {
+      "word": " que",
+      "start": 15.94,
+      "end": 16.56,
+      "probability": 0.982
+    },
+    {
+      "word": " precisa",
+      "start": 16.56,
+      "end": 17.0,
+      "probability": 0.994
+    },
+    {
+      "word": " respirar",
+      "start": 17.0,
+      "end": 17.7,
+      "probability": 0.979
+    },
+    {
+      "word": " depois",
+      "start": 17.7,
+      "end": 18.42,
+      "probability": 0.958
+    },
+    {
+      "word": " de",
+      "start": 18.42,
+      "end": 18.66,
+      "probability": 0.994
+    },
+    {
+      "word": " um",
+      "start": 18.66,
+      "end": 18.76,
+      "probability": 0.994
+    },
+    {
+      "word": " erro.",
+      "start": 18.76,
+      "end": 18.98,
+      "probability": 0.991
+    },
+    {
+      "word": " Quando",
+      "start": 19.6,
+      "end": 19.86,
+      "probability": 0.972
+    },
+    {
+      "word": " o",
+      "start": 19.86,
+      "end": 20.0,
+      "probability": 0.991
+    },
+    {
+      "word": " v\u00eddeo",
+      "start": 20.0,
+      "end": 20.14,
+      "probability": 0.992
+    },
+    {
+      "word": " terminar,",
+      "start": 20.14,
+      "end": 20.52,
+      "probability": 0.983
+    },
+    {
+      "word": " escolha",
+      "start": 21.12,
+      "end": 21.54,
+      "probability": 0.939
+    },
+    {
+      "word": " um",
+      "start": 21.54,
+      "end": 21.7,
+      "probability": 0.976
+    },
+    {
+      "word": " dos",
+      "start": 21.7,
+      "end": 21.92,
+      "probability": 0.997
+    },
+    {
+      "word": " v\u00eddeos",
+      "start": 21.92,
+      "end": 22.22,
+      "probability": 0.98
+    },
+    {
+      "word": " sugeridos",
+      "start": 22.22,
+      "end": 23.28,
+      "probability": 0.918
+    },
+    {
+      "word": " na",
+      "start": 23.28,
+      "end": 23.5,
+      "probability": 0.996
+    },
+    {
+      "word": " tela.",
+      "start": 23.5,
+      "end": 23.84,
+      "probability": 0.997
+    },
+    {
+      "word": " Se",
+      "start": 23.84,
+      "end": 24.74,
+      "probability": 0.568
+    },
+    {
+      "word": " a",
+      "start": 24.74,
+      "end": 24.82,
+      "probability": 0.977
+    },
+    {
+      "word": " ansiedade",
+      "start": 24.82,
+      "end": 25.24,
+      "probability": 0.965
+    },
+    {
+      "word": " tem",
+      "start": 25.24,
+      "end": 25.54,
+      "probability": 0.893
+    },
+    {
+      "word": " roubado",
+      "start": 25.54,
+      "end": 26.02,
+      "probability": 0.933
+    },
+    {
+      "word": " sua",
+      "start": 26.02,
+      "end": 26.28,
+      "probability": 0.861
+    },
+    {
+      "word": " paz,",
+      "start": 26.28,
+      "end": 26.62,
+      "probability": 0.986
+    },
+    {
+      "word": " continue",
+      "start": 27.24,
+      "end": 27.48,
+      "probability": 0.669
+    },
+    {
+      "word": " no",
+      "start": 27.48,
+      "end": 27.8,
+      "probability": 0.9
+    },
+    {
+      "word": " v\u00eddeo",
+      "start": 27.8,
+      "end": 28.04,
+      "probability": 0.983
+    },
+    {
+      "word": " sobre",
+      "start": 28.04,
+      "end": 28.42,
+      "probability": 0.892
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 28.42,
+      "end": 29.08,
+      "probability": 0.781
+    },
+    {
+      "word": " andei",
+      "start": 29.08,
+      "end": 29.36,
+      "probability": 0.693
+    },
+    {
+      "word": " ansioso.",
+      "start": 29.36,
+      "end": 29.88,
+      "probability": 0.453
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 30.037,
+  "model_size": "base",
+  "device": "cpu"
+}

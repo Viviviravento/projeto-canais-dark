@@ -1,0 +1,930 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 8.74,
+      "text": "hist\u00f3ria. Pedro era intenso. Ele falava com coragem, se colocava a frente, dizia que iria at\u00e9 o fim.",
+      "words": [
+        {
+          "word": " hist\u00f3ria.",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.247
+        },
+        {
+          "word": " Pedro",
+          "start": 1.44,
+          "end": 1.74,
+          "probability": 0.919
+        },
+        {
+          "word": " era",
+          "start": 1.74,
+          "end": 2.1,
+          "probability": 0.994
+        },
+        {
+          "word": " intenso.",
+          "start": 2.1,
+          "end": 2.76,
+          "probability": 0.97
+        },
+        {
+          "word": " Ele",
+          "start": 3.58,
+          "end": 3.92,
+          "probability": 0.985
+        },
+        {
+          "word": " falava",
+          "start": 3.92,
+          "end": 4.2,
+          "probability": 0.991
+        },
+        {
+          "word": " com",
+          "start": 4.2,
+          "end": 4.38,
+          "probability": 0.992
+        },
+        {
+          "word": " coragem,",
+          "start": 4.38,
+          "end": 4.94,
+          "probability": 0.74
+        },
+        {
+          "word": " se",
+          "start": 5.54,
+          "end": 5.58,
+          "probability": 0.914
+        },
+        {
+          "word": " colocava",
+          "start": 5.58,
+          "end": 6.08,
+          "probability": 0.89
+        },
+        {
+          "word": " a",
+          "start": 6.08,
+          "end": 6.18,
+          "probability": 0.323
+        },
+        {
+          "word": " frente,",
+          "start": 6.18,
+          "end": 6.42,
+          "probability": 0.994
+        },
+        {
+          "word": " dizia",
+          "start": 7.1,
+          "end": 7.42,
+          "probability": 0.94
+        },
+        {
+          "word": " que",
+          "start": 7.42,
+          "end": 7.58,
+          "probability": 0.954
+        },
+        {
+          "word": " iria",
+          "start": 7.58,
+          "end": 7.94,
+          "probability": 0.971
+        },
+        {
+          "word": " at\u00e9",
+          "start": 7.94,
+          "end": 8.4,
+          "probability": 0.989
+        },
+        {
+          "word": " o",
+          "start": 8.4,
+          "end": 8.52,
+          "probability": 0.997
+        },
+        {
+          "word": " fim.",
+          "start": 8.52,
+          "end": 8.74,
+          "probability": 0.992
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 9.5,
+      "end": 16.3,
+      "text": "Na noite em que Jesus seria preso, ele afirmou que estava pronto para ir com ele at\u00e9 a pris\u00e3o e at\u00e9 a",
+      "words": [
+        {
+          "word": " Na",
+          "start": 9.5,
+          "end": 9.6,
+          "probability": 0.98
+        },
+        {
+          "word": " noite",
+          "start": 9.6,
+          "end": 9.82,
+          "probability": 0.988
+        },
+        {
+          "word": " em",
+          "start": 9.82,
+          "end": 9.96,
+          "probability": 0.975
+        },
+        {
+          "word": " que",
+          "start": 9.96,
+          "end": 10.1,
+          "probability": 0.998
+        },
+        {
+          "word": " Jesus",
+          "start": 10.1,
+          "end": 10.4,
+          "probability": 0.977
+        },
+        {
+          "word": " seria",
+          "start": 10.4,
+          "end": 10.76,
+          "probability": 0.897
+        },
+        {
+          "word": " preso,",
+          "start": 10.76,
+          "end": 11.24,
+          "probability": 0.985
+        },
+        {
+          "word": " ele",
+          "start": 11.72,
+          "end": 11.84,
+          "probability": 0.922
+        },
+        {
+          "word": " afirmou",
+          "start": 11.84,
+          "end": 12.18,
+          "probability": 0.97
+        },
+        {
+          "word": " que",
+          "start": 12.18,
+          "end": 12.36,
+          "probability": 0.987
+        },
+        {
+          "word": " estava",
+          "start": 12.36,
+          "end": 12.54,
+          "probability": 0.988
+        },
+        {
+          "word": " pronto",
+          "start": 12.54,
+          "end": 13.0,
+          "probability": 0.743
+        },
+        {
+          "word": " para",
+          "start": 13.0,
+          "end": 13.6,
+          "probability": 0.937
+        },
+        {
+          "word": " ir",
+          "start": 13.6,
+          "end": 13.76,
+          "probability": 0.992
+        },
+        {
+          "word": " com",
+          "start": 13.76,
+          "end": 13.94,
+          "probability": 0.991
+        },
+        {
+          "word": " ele",
+          "start": 13.94,
+          "end": 14.2,
+          "probability": 0.914
+        },
+        {
+          "word": " at\u00e9",
+          "start": 14.2,
+          "end": 14.9,
+          "probability": 0.476
+        },
+        {
+          "word": " a",
+          "start": 14.9,
+          "end": 15.04,
+          "probability": 0.799
+        },
+        {
+          "word": " pris\u00e3o",
+          "start": 15.04,
+          "end": 15.32,
+          "probability": 0.99
+        },
+        {
+          "word": " e",
+          "start": 15.32,
+          "end": 15.96,
+          "probability": 0.771
+        },
+        {
+          "word": " at\u00e9",
+          "start": 15.96,
+          "end": 16.2,
+          "probability": 0.983
+        },
+        {
+          "word": " a",
+          "start": 16.2,
+          "end": 16.3,
+          "probability": 0.976
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 16.3,
+      "end": 23.18,
+      "text": "morte. N\u00e3o era preciso usar um bar de Pedro para perceber o contraste entre o que ele imaginava de",
+      "words": [
+        {
+          "word": " morte.",
+          "start": 16.3,
+          "end": 16.66,
+          "probability": 0.998
+        },
+        {
+          "word": " N\u00e3o",
+          "start": 17.32,
+          "end": 17.5,
+          "probability": 0.975
+        },
+        {
+          "word": " era",
+          "start": 17.5,
+          "end": 17.62,
+          "probability": 0.999
+        },
+        {
+          "word": " preciso",
+          "start": 17.62,
+          "end": 18.04,
+          "probability": 0.964
+        },
+        {
+          "word": " usar",
+          "start": 18.04,
+          "end": 18.36,
+          "probability": 0.702
+        },
+        {
+          "word": " um",
+          "start": 18.36,
+          "end": 18.5,
+          "probability": 0.95
+        },
+        {
+          "word": " bar",
+          "start": 18.5,
+          "end": 18.64,
+          "probability": 0.925
+        },
+        {
+          "word": " de",
+          "start": 18.64,
+          "end": 18.84,
+          "probability": 0.993
+        },
+        {
+          "word": " Pedro",
+          "start": 18.84,
+          "end": 19.18,
+          "probability": 0.746
+        },
+        {
+          "word": " para",
+          "start": 19.18,
+          "end": 19.9,
+          "probability": 0.958
+        },
+        {
+          "word": " perceber",
+          "start": 19.9,
+          "end": 20.26,
+          "probability": 0.98
+        },
+        {
+          "word": " o",
+          "start": 20.26,
+          "end": 20.48,
+          "probability": 0.997
+        },
+        {
+          "word": " contraste",
+          "start": 20.48,
+          "end": 21.48,
+          "probability": 0.993
+        },
+        {
+          "word": " entre",
+          "start": 21.48,
+          "end": 21.86,
+          "probability": 0.98
+        },
+        {
+          "word": " o",
+          "start": 21.86,
+          "end": 22.0,
+          "probability": 0.957
+        },
+        {
+          "word": " que",
+          "start": 22.0,
+          "end": 22.12,
+          "probability": 0.992
+        },
+        {
+          "word": " ele",
+          "start": 22.12,
+          "end": 22.32,
+          "probability": 0.982
+        },
+        {
+          "word": " imaginava",
+          "start": 22.32,
+          "end": 23.0,
+          "probability": 0.993
+        },
+        {
+          "word": " de",
+          "start": 23.0,
+          "end": 23.18,
+          "probability": 0.853
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 23.18,
+      "end": 29.6,
+      "text": "esse mesmo e o que aconteceria poucas horas depois. Jesus conhecia a fragilidade de Pedro",
+      "words": [
+        {
+          "word": " esse",
+          "start": 23.18,
+          "end": 23.3,
+          "probability": 0.072
+        },
+        {
+          "word": " mesmo",
+          "start": 23.3,
+          "end": 23.62,
+          "probability": 0.976
+        },
+        {
+          "word": " e",
+          "start": 23.62,
+          "end": 24.4,
+          "probability": 0.632
+        },
+        {
+          "word": " o",
+          "start": 24.4,
+          "end": 24.48,
+          "probability": 0.994
+        },
+        {
+          "word": " que",
+          "start": 24.48,
+          "end": 24.6,
+          "probability": 0.993
+        },
+        {
+          "word": " aconteceria",
+          "start": 24.6,
+          "end": 25.34,
+          "probability": 0.991
+        },
+        {
+          "word": " poucas",
+          "start": 25.34,
+          "end": 25.72,
+          "probability": 0.947
+        },
+        {
+          "word": " horas",
+          "start": 25.72,
+          "end": 25.94,
+          "probability": 0.997
+        },
+        {
+          "word": " depois.",
+          "start": 25.94,
+          "end": 26.34,
+          "probability": 0.993
+        },
+        {
+          "word": " Jesus",
+          "start": 27.24,
+          "end": 27.56,
+          "probability": 0.946
+        },
+        {
+          "word": " conhecia",
+          "start": 27.56,
+          "end": 28.22,
+          "probability": 0.985
+        },
+        {
+          "word": " a",
+          "start": 28.22,
+          "end": 28.5,
+          "probability": 0.984
+        },
+        {
+          "word": " fragilidade",
+          "start": 28.5,
+          "end": 29.04,
+          "probability": 0.987
+        },
+        {
+          "word": " de",
+          "start": 29.04,
+          "end": 29.3,
+          "probability": 0.967
+        },
+        {
+          "word": " Pedro",
+          "start": 29.3,
+          "end": 29.6,
+          "probability": 0.959
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " hist\u00f3ria.",
+      "start": 0.0,
+      "end": 0.36,
+      "probability": 0.247
+    },
+    {
+      "word": " Pedro",
+      "start": 1.44,
+      "end": 1.74,
+      "probability": 0.919
+    },
+    {
+      "word": " era",
+      "start": 1.74,
+      "end": 2.1,
+      "probability": 0.994
+    },
+    {
+      "word": " intenso.",
+      "start": 2.1,
+      "end": 2.76,
+      "probability": 0.97
+    },
+    {
+      "word": " Ele",
+      "start": 3.58,
+      "end": 3.92,
+      "probability": 0.985
+    },
+    {
+      "word": " falava",
+      "start": 3.92,
+      "end": 4.2,
+      "probability": 0.991
+    },
+    {
+      "word": " com",
+      "start": 4.2,
+      "end": 4.38,
+      "probability": 0.992
+    },
+    {
+      "word": " coragem,",
+      "start": 4.38,
+      "end": 4.94,
+      "probability": 0.74
+    },
+    {
+      "word": " se",
+      "start": 5.54,
+      "end": 5.58,
+      "probability": 0.914
+    },
+    {
+      "word": " colocava",
+      "start": 5.58,
+      "end": 6.08,
+      "probability": 0.89
+    },
+    {
+      "word": " a",
+      "start": 6.08,
+      "end": 6.18,
+      "probability": 0.323
+    },
+    {
+      "word": " frente,",
+      "start": 6.18,
+      "end": 6.42,
+      "probability": 0.994
+    },
+    {
+      "word": " dizia",
+      "start": 7.1,
+      "end": 7.42,
+      "probability": 0.94
+    },
+    {
+      "word": " que",
+      "start": 7.42,
+      "end": 7.58,
+      "probability": 0.954
+    },
+    {
+      "word": " iria",
+      "start": 7.58,
+      "end": 7.94,
+      "probability": 0.971
+    },
+    {
+      "word": " at\u00e9",
+      "start": 7.94,
+      "end": 8.4,
+      "probability": 0.989
+    },
+    {
+      "word": " o",
+      "start": 8.4,
+      "end": 8.52,
+      "probability": 0.997
+    },
+    {
+      "word": " fim.",
+      "start": 8.52,
+      "end": 8.74,
+      "probability": 0.992
+    },
+    {
+      "word": " Na",
+      "start": 9.5,
+      "end": 9.6,
+      "probability": 0.98
+    },
+    {
+      "word": " noite",
+      "start": 9.6,
+      "end": 9.82,
+      "probability": 0.988
+    },
+    {
+      "word": " em",
+      "start": 9.82,
+      "end": 9.96,
+      "probability": 0.975
+    },
+    {
+      "word": " que",
+      "start": 9.96,
+      "end": 10.1,
+      "probability": 0.998
+    },
+    {
+      "word": " Jesus",
+      "start": 10.1,
+      "end": 10.4,
+      "probability": 0.977
+    },
+    {
+      "word": " seria",
+      "start": 10.4,
+      "end": 10.76,
+      "probability": 0.897
+    },
+    {
+      "word": " preso,",
+      "start": 10.76,
+      "end": 11.24,
+      "probability": 0.985
+    },
+    {
+      "word": " ele",
+      "start": 11.72,
+      "end": 11.84,
+      "probability": 0.922
+    },
+    {
+      "word": " afirmou",
+      "start": 11.84,
+      "end": 12.18,
+      "probability": 0.97
+    },
+    {
+      "word": " que",
+      "start": 12.18,
+      "end": 12.36,
+      "probability": 0.987
+    },
+    {
+      "word": " estava",
+      "start": 12.36,
+      "end": 12.54,
+      "probability": 0.988
+    },
+    {
+      "word": " pronto",
+      "start": 12.54,
+      "end": 13.0,
+      "probability": 0.743
+    },
+    {
+      "word": " para",
+      "start": 13.0,
+      "end": 13.6,
+      "probability": 0.937
+    },
+    {
+      "word": " ir",
+      "start": 13.6,
+      "end": 13.76,
+      "probability": 0.992
+    },
+    {
+      "word": " com",
+      "start": 13.76,
+      "end": 13.94,
+      "probability": 0.991
+    },
+    {
+      "word": " ele",
+      "start": 13.94,
+      "end": 14.2,
+      "probability": 0.914
+    },
+    {
+      "word": " at\u00e9",
+      "start": 14.2,
+      "end": 14.9,
+      "probability": 0.476
+    },
+    {
+      "word": " a",
+      "start": 14.9,
+      "end": 15.04,
+      "probability": 0.799
+    },
+    {
+      "word": " pris\u00e3o",
+      "start": 15.04,
+      "end": 15.32,
+      "probability": 0.99
+    },
+    {
+      "word": " e",
+      "start": 15.32,
+      "end": 15.96,
+      "probability": 0.771
+    },
+    {
+      "word": " at\u00e9",
+      "start": 15.96,
+      "end": 16.2,
+      "probability": 0.983
+    },
+    {
+      "word": " a",
+      "start": 16.2,
+      "end": 16.3,
+      "probability": 0.976
+    },
+    {
+      "word": " morte.",
+      "start": 16.3,
+      "end": 16.66,
+      "probability": 0.998
+    },
+    {
+      "word": " N\u00e3o",
+      "start": 17.32,
+      "end": 17.5,
+      "probability": 0.975
+    },
+    {
+      "word": " era",
+      "start": 17.5,
+      "end": 17.62,
+      "probability": 0.999
+    },
+    {
+      "word": " preciso",
+      "start": 17.62,
+      "end": 18.04,
+      "probability": 0.964
+    },
+    {
+      "word": " usar",
+      "start": 18.04,
+      "end": 18.36,
+      "probability": 0.702
+    },
+    {
+      "word": " um",
+      "start": 18.36,
+      "end": 18.5,
+      "probability": 0.95
+    },
+    {
+      "word": " bar",
+      "start": 18.5,
+      "end": 18.64,
+      "probability": 0.925
+    },
+    {
+      "word": " de",
+      "start": 18.64,
+      "end": 18.84,
+      "probability": 0.993
+    },
+    {
+      "word": " Pedro",
+      "start": 18.84,
+      "end": 19.18,
+      "probability": 0.746
+    },
+    {
+      "word": " para",
+      "start": 19.18,
+      "end": 19.9,
+      "probability": 0.958
+    },
+    {
+      "word": " perceber",
+      "start": 19.9,
+      "end": 20.26,
+      "probability": 0.98
+    },
+    {
+      "word": " o",
+      "start": 20.26,
+      "end": 20.48,
+      "probability": 0.997
+    },
+    {
+      "word": " contraste",
+      "start": 20.48,
+      "end": 21.48,
+      "probability": 0.993
+    },
+    {
+      "word": " entre",
+      "start": 21.48,
+      "end": 21.86,
+      "probability": 0.98
+    },
+    {
+      "word": " o",
+      "start": 21.86,
+      "end": 22.0,
+      "probability": 0.957
+    },
+    {
+      "word": " que",
+      "start": 22.0,
+      "end": 22.12,
+      "probability": 0.992
+    },
+    {
+      "word": " ele",
+      "start": 22.12,
+      "end": 22.32,
+      "probability": 0.982
+    },
+    {
+      "word": " imaginava",
+      "start": 22.32,
+      "end": 23.0,
+      "probability": 0.993
+    },
+    {
+      "word": " de",
+      "start": 23.0,
+      "end": 23.18,
+      "probability": 0.853
+    },
+    {
+      "word": " esse",
+      "start": 23.18,
+      "end": 23.3,
+      "probability": 0.072
+    },
+    {
+      "word": " mesmo",
+      "start": 23.3,
+      "end": 23.62,
+      "probability": 0.976
+    },
+    {
+      "word": " e",
+      "start": 23.62,
+      "end": 24.4,
+      "probability": 0.632
+    },
+    {
+      "word": " o",
+      "start": 24.4,
+      "end": 24.48,
+      "probability": 0.994
+    },
+    {
+      "word": " que",
+      "start": 24.48,
+      "end": 24.6,
+      "probability": 0.993
+    },
+    {
+      "word": " aconteceria",
+      "start": 24.6,
+      "end": 25.34,
+      "probability": 0.991
+    },
+    {
+      "word": " poucas",
+      "start": 25.34,
+      "end": 25.72,
+      "probability": 0.947
+    },
+    {
+      "word": " horas",
+      "start": 25.72,
+      "end": 25.94,
+      "probability": 0.997
+    },
+    {
+      "word": " depois.",
+      "start": 25.94,
+      "end": 26.34,
+      "probability": 0.993
+    },
+    {
+      "word": " Jesus",
+      "start": 27.24,
+      "end": 27.56,
+      "probability": 0.946
+    },
+    {
+      "word": " conhecia",
+      "start": 27.56,
+      "end": 28.22,
+      "probability": 0.985
+    },
+    {
+      "word": " a",
+      "start": 28.22,
+      "end": 28.5,
+      "probability": 0.984
+    },
+    {
+      "word": " fragilidade",
+      "start": 28.5,
+      "end": 29.04,
+      "probability": 0.987
+    },
+    {
+      "word": " de",
+      "start": 29.04,
+      "end": 29.3,
+      "probability": 0.967
+    },
+    {
+      "word": " Pedro",
+      "start": 29.3,
+      "end": 29.6,
+      "probability": 0.959
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 29.952,
+  "model_size": "base",
+  "device": "cpu"
+}

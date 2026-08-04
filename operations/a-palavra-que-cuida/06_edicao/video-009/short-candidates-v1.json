@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-009",
+  "status": "planned_from_long_script_before_audio",
+  "target_platforms": ["YouTube Shorts", "TikTok"],
+  "target_duration_seconds": {"min": 65, "max": 80},
+  "candidates": [
+    {
+      "id": "conversa-antes-do-julgamento",
+      "source_sections": ["01", "02"],
+      "working_hook": "Jesus não começou perguntando pelo passado dela. Pediu água.",
+      "editorial_promise": "O encontro no poço mostra uma conversa que atravessa barreiras sem reduzir alguém a uma etiqueta.",
+      "autonomous_arc": "medo de ser definida pela história -> pedido simples de Jesus -> ser vista como pessoa inteira",
+      "estimated_duration_seconds": 72,
+      "ending_or_bridge": "Ser visto por Jesus não é ser colocado numa vitrine.",
+      "context_risk": "Não afirmar que a mulher era rejeitada pela cidade; o corte deve ficar no que João 4 efetivamente mostra."
+    },
+    {
+      "id": "verdade-nao-e-humilhacao",
+      "source_sections": ["04"],
+      "working_hook": "Deus conhece a verdade da sua história — e isso não precisa virar humilhação.",
+      "editorial_promise": "A fala de Jesus sobre os relacionamentos da samaritana não autoriza julgamento público nem invasão de privacidade.",
+      "autonomous_arc": "o texto conhece uma verdade -> o evangelho não acrescenta especulações -> dignidade, limites e ajuda segura",
+      "estimated_duration_seconds": 78,
+      "ending_or_bridge": "Transparência não é entregar sua história a quem não sabe cuidar dela.",
+      "context_risk": "Preservar a ressalva de que João não explica as causas dos relacionamentos; não moralizar ou sexualizar o episódio."
+    },
+    {
+      "id": "sua-historia-nao-e-ultima-palavra",
+      "source_sections": ["06", "07", "08"],
+      "working_hook": "Ela não voltou para a cidade com a vida resolvida. Voltou apontando para Jesus.",
+      "editorial_promise": "O testemunho da samaritana mostra que uma história real pode se tornar ponte sem precisar ser apagada.",
+      "autonomous_arc": "ela faz uma pergunta, não um discurso perfeito -> outros se aproximam -> o pior capítulo não recebe a última palavra",
+      "estimated_duration_seconds": 75,
+      "ending_or_bridge": "Você não é apenas o seu pior capítulo.",
+      "context_risk": "Evitar prometer transformação instantânea ou usar o testemunho como obrigação de exposição pessoal."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0.0",
+  "execution_id": "v007-elevenlabs-v1-a0c1a049793c",
+  "quote_id": "v008-elevenlabs-v1-20260729",
+  "manifest_sha256": "a0c1a049793ce6a25cf2785e89fd2b95018c8df3e7b4d6c0ab3184bed7dab77f",
+  "state": "partial_generation_verified_no_duplicate_text",
+  "reserved_at": "2026-07-29T21:07:01.262125+00:00",
+  "approved_maximum_credits": 9000,
+  "request_stitching": false,
+  "automatic_retry": false,
+  "stopped_at": "2026-07-29T18:08:00-03:00",
+  "observed_subscription_credit_delta_before_stop": 1234,
+  "verified_unique_blocks": [
+    "01-quando-a-vergonha-chama-seu-nome",
+    "02-jesus-viu-pedro-antes-da-queda",
+    "03-o-medo-no-patio",
+    "04-o-olhar-o-choro-e-a-verdade"
+  ],
+  "recovered_history_audio": {
+    "block_id": "07-como-comecar-a-recomecar",
+    "history_item_id": "6kJFpDQoRJswkRzf1kUB",
+    "local_audio_recovered_without_new_generation": true
+  },
+  "incident": "Two local process trees were detected and stopped before completion. A subsequent provider-history audit found seven unique video-008 texts, each generated exactly once; no duplicate text generation was charged. The per-run reconciliation report was not produced. Generating the missing closing block still requires explicit human authorization."
+}

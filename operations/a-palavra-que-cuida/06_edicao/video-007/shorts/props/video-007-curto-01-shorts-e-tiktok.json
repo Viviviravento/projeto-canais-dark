@@ -1,0 +1,219 @@
+{
+  "derivativeId": "video-007-curto-01",
+  "title": "Jesus não despreza a sua fraqueza",
+  "platform": "universal",
+  "audioFile": "video-007-curtos/audio/video-007-curto-01-narracao.wav",
+  "spokenDurationSeconds": 80.546,
+  "endCardSeconds": 4.0,
+  "hook": "Jesus não despreza a sua fraqueza",
+  "hookEndSeconds": 4.2,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "asset": "video-007/assets/video-007/images/v02-jesus-no-deserto-v1.png",
+      "focus": "20% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 9.0,
+      "end": 18.0,
+      "asset": "video-007/assets/video-007/images/v05-acolhimento-na-sala-v1.png",
+      "focus": "40% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 18.0,
+      "end": 27.0,
+      "asset": "video-007/assets/video-007/images/v01-pausa-na-cozinha-com-croche-v1.png",
+      "focus": "61% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 27.0,
+      "end": 36.0,
+      "asset": "video-007/assets/video-007/images/v03-pausa-diante-da-pressao-v1.png",
+      "focus": "20% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 36.0,
+      "end": 45.0,
+      "asset": "video-007/assets/video-007/images/v04-pausa-no-corredor-v1.png",
+      "focus": "22% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 45.0,
+      "end": 54.0,
+      "asset": "video-007/assets/video-007/images/v06-caminho-sem-pressa-v1.png",
+      "focus": "50% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 54.0,
+      "end": 63.0,
+      "asset": "video-007/assets/video-007/images/v05-acolhimento-na-sala-v1.png",
+      "focus": "40% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 63.0,
+      "end": 72.0,
+      "asset": "video-007/assets/video-007/images/v01-pausa-na-cozinha-com-croche-v1.png",
+      "focus": "61% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 72.0,
+      "end": 80.546,
+      "asset": "video-007/assets/video-007/images/v02-jesus-no-deserto-v1.png",
+      "focus": "50% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.08,
+      "end": 3.097,
+      "text": "Talvez a parte mais acolhedora dessa história seja esta:"
+    },
+    {
+      "start": 3.857,
+      "end": 6.894,
+      "text": "Jesus não conhece a tentação apenas de longe."
+    },
+    {
+      "start": 7.459,
+      "end": 8.934,
+      "text": "Ele passou pelo deserto."
+    },
+    {
+      "start": 9.346,
+      "end": 11.842,
+      "text": "Ele sentiu fome. Ele recebeu pressão."
+    },
+    {
+      "start": 12.201,
+      "end": 14.479,
+      "text": "Ele foi chamado a provar quem era e a"
+    },
+    {
+      "start": 14.533,
+      "end": 18.656,
+      "text": "tomar atalhos. Por isso, a Bíblia não apresenta Jesus"
+    },
+    {
+      "start": 18.732,
+      "end": 21.249,
+      "text": "como alguém impaciente com quem está fraco."
+    },
+    {
+      "start": 21.802,
+      "end": 24.743,
+      "text": "Hebreus, capítulo quatro, versículo quinze, diz:"
+    },
+    {
+      "start": 25.09,
+      "end": 28.193,
+      "text": "\"Porque não temos um sumo sacerdote que não possa"
+    },
+    {
+      "start": 28.247,
+      "end": 32.544,
+      "text": "compadecer-se das nossas fraquezas; porém, um que,"
+    },
+    {
+      "start": 32.761,
+      "end": 36.32,
+      "text": "como nós, em tudo foi tentado, mas sem pecado.\""
+    },
+    {
+      "start": 36.906,
+      "end": 40.455,
+      "text": "Isso não transforma toda escolha em algo sem importância."
+    },
+    {
+      "start": 40.954,
+      "end": 43.515,
+      "text": "Mas muda o lugar de onde a gente enfrenta"
+    },
+    {
+      "start": 43.525,
+      "end": 46.476,
+      "text": "a luta. Você não precisa esconder de Deus a"
+    },
+    {
+      "start": 46.542,
+      "end": 50.535,
+      "text": "vontade de desistir, de voltar para uma relação que"
+    },
+    {
+      "start": 50.578,
+      "end": 54.593,
+      "text": "fazia mal, de responder com raiva, de se anestesiar"
+    },
+    {
+      "start": 55.005,
+      "end": 58.206,
+      "text": "ou de conseguir qualquer coisa a qualquer preço."
+    },
+    {
+      "start": 58.846,
+      "end": 60.767,
+      "text": "Ele já conhece a fraqueza humana."
+    },
+    {
+      "start": 61.169,
+      "end": 64.011,
+      "text": "A oração honesta não assusta Jesus."
+    },
+    {
+      "start": 64.413,
+      "end": 66.973,
+      "text": "Às vezes o primeiro passo não é prometer que"
+    },
+    {
+      "start": 67.039,
+      "end": 68.829,
+      "text": "nunca mais vai sentir vontade."
+    },
+    {
+      "start": 69.23,
+      "end": 70.337,
+      "text": "É dizer a verdade:"
+    },
+    {
+      "start": 70.815,
+      "end": 73.104,
+      "text": "Senhor, eu estou vulnerável."
+    },
+    {
+      "start": 73.994,
+      "end": 76.869,
+      "text": "Esta proposta parece alívio para mim."
+    },
+    {
+      "start": 77.52,
+      "end": 80.396,
+      "text": "Mostra o que eu não estou conseguindo enxergar."
+    }
+  ],
+  "scriptures": [
+    {
+      "start": 25.09,
+      "end": 36.32,
+      "text": "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém, um que, como nós, em tudo foi tentado, mas sem pecado.",
+      "reference": "Hebreus 4:15 — ACF"
+    }
+  ]
+}
