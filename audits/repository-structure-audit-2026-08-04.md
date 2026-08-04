@@ -131,7 +131,7 @@ A detecção de invalidação compara apenas variáveis declaradas em `invalidat
 
 ## Validação executada
 
-- 47 testes da fábrica: aprovados.
+- 49 testes da fábrica: aprovados.
 - 14 schemas públicos: válidos.
 - Dois manifests de operação: carregados e validados pelo CLI.
 - Parse estático: 103 arquivos Python, 423 JSON, 6 JSONL e 14 YAML sem erro.
