@@ -1,0 +1,15 @@
+{
+  "schema": "VisualQASamples.v1",
+  "artifact": "CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V5.mp4",
+  "sampling_method": "frames rendered from final MP4 and inspected after the documentary extension",
+  "samples": [
+    {"episode_second": 3, "finding": "câmera da porta na abertura; sem card excessivo"},
+    {"episode_second": 16, "finding": "bodycam com áudio original e card de legenda PT-BR legível"},
+    {"episode_second": 58, "finding": "entrevista original com legenda sincronizada"},
+    {"episode_second": 146, "finding": "TV do vizinho visível, sem blur ou delogo genérico"},
+    {"episode_second": 165, "finding": "evidência na TV ainda legível; legenda não cobre a tela"},
+    {"episode_second": 420, "finding": "entrevista documental adicional com legenda PT-BR"},
+    {"episode_second": 610, "finding": "câmera da porta apenas no encerramento"}
+  ],
+  "result": "passed_for_internal_human_review"
+}

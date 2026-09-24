@@ -1,0 +1,24 @@
+{
+  "schema": "TestemunhaDoTempoQA.v1",
+  "artifact": "output/concept-previews/brasil-registrado/chris-watts-v1/full-v5/CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V5.mp4",
+  "duration_seconds": 622.853,
+  "video": {"width": 1280, "height": 720, "container": "mp4"},
+  "status": "pending_human_review_and_rights_clearance",
+  "applied_rule_ids": ["BRG-NARRATIVE-CONTINUITY-001@2", "BRG-DOCUMENTARY-PRIORITY-001@1", "BRG-EVIDENCE-VISIBILITY-001@1", "BRG-DOORBELL-FRAMING-001@1", "BRG-FOREIGN-DIALOGUE-CAPTIONS-001@2", "BRG-CONTENT-META-ISOLATION-001@1"],
+  "checks": {
+    "minimum_duration_10_minutes": {"passed": true, "actual_seconds": 622.853},
+    "documentary_dialogue_blocks": {"passed": true, "actual": 10},
+    "pt_br_caption_turns": {"passed": true, "actual": 50},
+    "narration_over_important_dialogue": {"passed": true, "actual": false},
+    "doorbell_only_open_and_close": {"passed": true, "intermediate_uses": 0},
+    "neighbor_tv_generic_blur_or_delogo": {"passed": true, "actual": false},
+    "narration_whitelist_only": {"passed": true, "source": "full-v3/narration-whitelist-full-v3.json"},
+    "source_audio_in_documentary_blocks": {"passed": true, "actual": "audible"},
+    "foreign_dialogue_translation": {"passed": true, "actual": "PT-BR, speaker-turn caption cards"}
+  },
+  "audit_notes": [
+    "O áudio original é prioritário nos dez blocos de diálogo; a locução entra antes ou depois.",
+    "Blocos longos sem locução são aceitos somente quando há registro documental audível, compreensível e legendado.",
+    "O episódio não está autorizado para publicação até revisão humana e liberação de direitos das fontes."
+  ]
+}

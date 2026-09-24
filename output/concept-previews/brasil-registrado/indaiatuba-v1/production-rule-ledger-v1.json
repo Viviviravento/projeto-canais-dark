@@ -2,8 +2,8 @@
   "schema_version": "1.0.0",
   "ledger_id": "brasil-registrado-concept-preview-rules",
   "operation_id": "brasil-registrado-concept-preview",
-  "ledger_version": 32,
-  "updated_at": "2026-09-22T00:00:00-03:00",
+  "ledger_version": 33,
+  "updated_at": "2026-09-24T00:00:00-03:00",
   "rules": [
     {
       "rule_id": "BRG-PREVIEW-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
@@ -947,7 +947,7 @@
     {
       "rule_id": "BRG-NARRATIVE-CONTINUITY-001",
       "version": 1,
-      "status": "active",
+      "status": "superseded",
       "authority": "explicit_user_decision",
       "directive": "Princípio de Testemunha do Tempo: quando a imagem sozinha não transmite a informação necessária ao espectador, a narração não pode simplesmente desaparecer. Todo intervalo de arquivo com mais de três segundos deve conter, de modo verificável, ao menos uma destas funções: narração que orienta a progressão, fala original audível e relevante acompanhada de legenda PT-BR quando estrangeira, ação visual que comunica por si só, ou pausa curta com função de tensão, assimilação, impacto ou transição. Pessoas aparentando conversar com áudio silenciado, sem legenda e sem condução narrativa são proibidas. Em bloco narrado, a cauda entre o fim da TTS e o corte deve ser no máximo 1,25 segundos, salvo exceção documentada e aprovada em QA.",
       "rationale": "A usuária identificou no episódio Chris Watts V3, entre aproximadamente 02:15 e 02:52, uma sequência longa de homens aparentemente conversando sem narração, áudio, legenda ou informação. Ela determinou auditoria integral e estabeleceu explicitamente o princípio editorial.",
@@ -988,6 +988,48 @@
       "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/production/build_full_episode_internal_v1.py"],
       "supersedes": "BRG-WATTS-FULL-RECOVERY-001@1 somente quanto à proibição absoluta do pacote -iJ3Pq4TW0E; seus trechos limpos voltam a ser elegíveis sob inspeção por segmento.",
       "locked": true
+    },
+    {
+      "rule_id": "BRG-NARRATIVE-CONTINUITY-001",
+      "version": 2,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "No Testemunha do Tempo, ausência de narrador não é falha por si só. Um registro documental relevante pode permanecer por vinte, trinta, quarenta segundos ou mais quando sua fala, ação, reação ou evidência faz a história avançar. O que é proibido é intervalo longo sem informação: fala original silenciada ou inaudível sem legenda, pessoas aparentando conversar sem condução, ou imagem usada apenas para preencher duração. Em bloco narrado, a cauda muda ou silenciosa só pode persistir quando tiver função explicitamente registrada; não existe máximo global de segundos sem narrador.",
+      "rationale": "A usuária corrigiu explicitamente a interpretação aplicada no episódio Chris Watts V4: o problema não era ficar sem narrador, e sim retirar diálogo, áudio e legenda de registros relevantes.",
+      "scope": {"always": true, "stages": ["script", "audio", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-24-watts-documentary-first-v5"],
+      "recorded_at": "2026-09-24T00:00:00-03:00",
+      "acceptance_checks": ["A timeline declara a função narrativa de cada intervalo documental prolongado.", "Não há métrica que limite arbitrariamente a ausência de narrador quando o áudio original, a legenda e a evidência informativa estão ativos.", "Nenhum intervalo longo contém pessoas falando com áudio silenciado e sem legenda."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/full-v4/CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V4.mp4"],
+      "supersedes": "BRG-NARRATIVE-CONTINUITY-001@1", "locked": true
+    },
+    {
+      "rule_id": "BRG-DOCUMENTARY-PRIORITY-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Prioridade documental: diálogo original relevante nunca deve ser coberto pelo narrador; registros reais devem ser utilizados como parte ativa da narrativa, e não apenas como B-roll. O narrador prepara, conecta, contextualiza e interpreta fatos objetivos antes ou depois do registro. Quando diálogo original relevante permanece no corte, seu áudio assume prioridade e recebe legenda PT-BR sincronizada por turno. Quando não tiver valor suficiente para ser ouvido, um registro pode ser B-roll, mas não pode aparentar uma entrevista importante sob narração que a torne incompreensível.",
+      "rationale": "A usuária definiu que o diferencial do canal vem de testemunhar acontecimentos através dos registros do próprio tempo, não de ouvir narração substituindo uma conversa disponível.",
+      "scope": {"always": true, "stages": ["source_acquisition", "script", "audio", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-24-watts-documentary-first-v5"],
+      "recorded_at": "2026-09-24T00:00:00-03:00",
+      "acceptance_checks": ["Cada bloco recebe papel explícito: narração, diálogo documental, observação documental ou transição.", "Todo diálogo documental relevante tem áudio original audível, legenda PT-BR por turno e narracao_sobre_dialogo=false.", "O renderer falha se um bloco de diálogo estiver sem legendas ou tiver narração sobreposta.", "O QA lista os blocos documentais e confirma que a narração não descreve o que o espectador pode assistir diretamente."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/full-v4/CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V4.mp4"],
+      "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-EVIDENCE-VISIBILITY-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Evidência registrada precisa permanecer visível conforme a fonte permitir. É proibido aplicar blur, delogo ou ocultação genérica a tela, câmera, documento ou outro elemento que sustente a narrativa. Recorte, aproximação, congelamento ou destaque só são permitidos quando ajudam a leitura sem distorcer o registro. Qualquer ocultação exige uma razão concreta, delimitada e documentada; não pode ser aplicada por padrão.",
+      "rationale": "Na sequência do vizinho, a televisão contém a gravação que os presentes analisam. A usuária ordenou remover o blur artificial e permitir que o público acompanhe a evidência.",
+      "scope": {"always": true, "stages": ["editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-24-watts-documentary-first-v5"],
+      "recorded_at": "2026-09-24T00:00:00-03:00",
+      "acceptance_checks": ["A timeline registra quando tela ou evidência é assunto do bloco.", "QA confirma ausência de filtro de blur ou delogo genérico em evidência relevante.", "A imagem preserva a nitidez nativa disponível sem prometer reconstrução ou nitidez artificial."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/full-v4/CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V4.mp4"],
+      "supersedes": null, "locked": true
     }
   ]
 }

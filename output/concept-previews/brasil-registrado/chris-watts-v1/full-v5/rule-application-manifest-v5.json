@@ -1,0 +1,173 @@
+{
+  "schema": "RuleApplicationManifest.v1",
+  "operation_id": "brasil-registrado-concept-preview",
+  "ledger_version": 33,
+  "stage": "master_render",
+  "format": "video_16_9",
+  "artifact": "CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V5-BASE-8M39.mp4",
+  "applied_rules": [
+    {
+      "rule_id": "UNIVERSAL-AUDIO-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-GROWTH-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-SOURCE-SUFFICIENCY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-VISUAL-001",
+      "rule_version": 2,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-PILOT-BASELINE-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-NARRATIVE-IMMERSION-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-DOORBELL-FRAMING-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-DIALOGUE-PRIORITY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-FOREIGN-DIALOGUE-CAPTIONS-001",
+      "rule_version": 2,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-CONTENT-META-ISOLATION-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-CARD-DURATION-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-TRANSLATION-IDENTITY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-NAME-001",
+      "rule_version": 3,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-AUDIO-SPEED-001",
+      "rule_version": 2,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-NARRATION-MIX-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-WATTS-FULL-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-WATTS-RECOVERY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-ORIGINAL-AUDIO-INTELLIGIBILITY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-NARRATION-CADENCE-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-WATTS-FULL-RECOVERY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-DEAD-AIR-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-NARRATION-PROSODY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-VISUAL-SEMANTIC-SYNC-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-WATTS-CLEAN-BODYCAM-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-NARRATIVE-CONTINUITY-001",
+      "rule_version": 2,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-DOCUMENTARY-PRIORITY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    },
+    {
+      "rule_id": "BRG-EVIDENCE-VISIBILITY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "V5 documentary plan and QA"
+    }
+  ],
+  "deviations": []
+}
