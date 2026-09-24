@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "source_video": "video-002",
+  "mapped_candidates": [
+    {
+      "candidate_id": "video-002-short-01",
+      "promise": "Ansiedade não é falta de fé; procurar tratamento pode ser cuidado responsável.",
+      "source_block": "05-nao-e-uma-condenacao-medica",
+      "priority": "render"
+    },
+    {
+      "candidate_id": "video-002-short-02",
+      "promise": "Três perguntas práticas para separar fato, ação possível e o peso de amanhã.",
+      "source_block": "07-o-tamanho-de-um-dia",
+      "priority": "render"
+    },
+    {
+      "candidate_id": "video-002-candidate-03",
+      "promise": "Cuidado responsável não é o mesmo que tentar controlar o futuro.",
+      "source_block": "03-necessidades-reais",
+      "priority": "mapped_not_rendered"
+    },
+    {
+      "candidate_id": "video-002-candidate-04",
+      "promise": "Confiar não é cruzar os braços, mas agir sem se tornar soberana.",
+      "source_block": "04-aves-flores-e-limite-do-controle",
+      "priority": "mapped_not_rendered"
+    }
+  ],
+  "rendered_editorial_derivatives": [
+    {
+      "derivative_id": "video-002-short-01",
+      "title": "Ansiedade não é falta de fé",
+      "source_windows": [
+        {
+          "block_id": "05-nao-e-uma-condenacao-medica",
+          "start": 332.762,
+          "end": 363.261
+        },
+        {
+          "block_id": "05-nao-e-uma-condenacao-medica",
+          "start": 393.39,
+          "end": 432.016
+        }
+      ],
+      "spoken_duration_seconds": 69.305,
+      "total_duration_seconds": 73.305,
+      "audio": "tools/OpenMontage/projects/a-palavra-que-cuida-video-002/public/audio/video-002-short-01-narracao.wav",
+      "props": {
+        "tiktok": "operations/a-palavra-que-cuida/06_edicao/video-002/shorts/props/video-002-short-01-tiktok.json",
+        "youtube_shorts": "operations/a-palavra-que-cuida/06_edicao/video-002/shorts/props/video-002-short-01-youtube_shorts.json"
+      },
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "video-002-short-02",
+      "title": "Três perguntas para quando a preocupação crescer",
+      "source_windows": [
+        {
+          "block_id": "07-o-tamanho-de-um-dia",
+          "start": 528.216,
+          "end": 600.952
+        }
+      ],
+      "spoken_duration_seconds": 72.736,
+      "total_duration_seconds": 76.736,
+      "audio": "tools/OpenMontage/projects/a-palavra-que-cuida-video-002/public/audio/video-002-short-02-narracao.wav",
+      "props": {
+        "tiktok": "operations/a-palavra-que-cuida/06_edicao/video-002/shorts/props/video-002-short-02-tiktok.json",
+        "youtube_shorts": "operations/a-palavra-que-cuida/06_edicao/video-002/shorts/props/video-002-short-02-youtube_shorts.json"
+      },
+      "paid_api_cost_usd": 0
+    }
+  ],
+  "editorial_derivative_count": 2,
+  "platform_output_count": 4,
+  "paid_api_cost_usd": 0,
+  "method": "Trechos dedicados da narração aprovada, alinhamentos canônicos da ElevenLabs, recomposição vertical com assets originais e render local."
+}

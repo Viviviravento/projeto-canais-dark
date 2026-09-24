@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-009",
+  "status": "passed_pending_paid_audio_approval",
+  "checks": {
+    "blocks": 8,
+    "total_characters": 7851,
+    "break_tags_found": false,
+    "missing_direct_citations": [],
+    "cta_contains_next_video_direction": true,
+    "cta_contains_comment_prompt": true
+  }
+}

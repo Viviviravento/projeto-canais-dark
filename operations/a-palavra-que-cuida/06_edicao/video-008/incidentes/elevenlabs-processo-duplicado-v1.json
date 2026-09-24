@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-008",
+  "provider": "ElevenLabs",
+  "detected_at": "2026-07-29T18:08:00-03:00",
+  "severity": "resolved_no_duplicate_text",
+  "facts": {
+    "duplicate_process_trees_detected": 2,
+    "action_taken": "all detected generation processes were stopped before the full narration completed",
+    "provider_history_unique_texts": 7,
+    "provider_history_duplicate_texts": 0,
+    "verified_unique_blocks_present": 7,
+    "subscription_credits_before": 192098,
+    "subscription_credits_after": 190864,
+    "observed_credit_delta": 1234,
+    "reconciliation_report_present": false
+  },
+  "conclusion": "The process duplication signal did not result in duplicate provider text generations. Seven unique blocks are reusable; the seventh audio was recovered from provider history without a new paid request.",
+  "decision_required": "A human must explicitly authorize the one missing closing block. No automatic retry is permitted."
+}

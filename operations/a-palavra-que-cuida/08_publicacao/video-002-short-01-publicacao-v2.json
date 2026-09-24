@@ -1,0 +1,26 @@
+{
+  "video_longo": "video-002",
+  "tipo": "short",
+  "ordem": 1,
+  "plataforma": "youtube_shorts",
+  "arquivo": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/video-002-curto-01-shorts-e-tiktok-v2.mp4",
+  "titulo": "Ansiedade não é falta de fé",
+  "status": "publicado_publico",
+  "publicado_em": "2026-07-28T12:25:11.8573153-03:00",
+  "youtube_id": "O51vHMvduAM",
+  "url": "https://youtube.com/shorts/O51vHMvduAM",
+  "video_longo_relacionado_id": "GE1pGyJogqk",
+  "video_longo_relacionado_url": "https://youtu.be/GE1pGyJogqk",
+  "vinculo_nativo": {
+    "status": "pendente",
+    "motivo": "Recurso avançado do canal ainda exige verificação única do YouTube.",
+    "contorno_temporario": "URL do vídeo longo incluída na descrição com autorização expressa do usuário."
+  },
+  "verificacao_direitos_autorais": "concluida_sem_problemas",
+  "declaracao_uso_ia": true,
+  "destinado_a_criancas": false,
+  "observacoes": [
+    "Esta é a versão corrigida sem a imagem do caderno em branco.",
+    "A versão anterior muMXfx8Kw6o permanece privada como rascunho obsoleto e nunca foi publicada."
+  ]
+}

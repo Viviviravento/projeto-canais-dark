@@ -1,0 +1,194 @@
+{
+  "derivativeId": "video-005-curto-02",
+  "title": "Descansar não é falhar",
+  "platform": "universal",
+  "audioFile": "video-005-curtos/audio/video-005-curto-02-narracao.wav",
+  "spokenDurationSeconds": 70.763,
+  "endCardSeconds": 4.0,
+  "hook": "Descansar não é falhar",
+  "hookEndSeconds": 4.2,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "asset": "video-005/assets/library/objetos_cenarios/p001-maos-em-pausa-v1.png",
+      "focus": "50% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 9.0,
+      "end": 18.0,
+      "asset": "video-005/assets/library/cotidiano_brasileiro/p001-pausa-v1.png",
+      "focus": "52% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 18.0,
+      "end": 27.0,
+      "asset": "video-005/assets/library/cotidiano_brasileiro/p001-chegar-cansada-v1.png",
+      "focus": "50% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 27.0,
+      "end": 36.0,
+      "asset": "video-005/assets/video004/brazil/b08-tempo-de-ouvir-v1.png",
+      "focus": "38% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 36.0,
+      "end": 45.0,
+      "asset": "video-005/assets/library/cotidiano_brasileiro/v002-amanhecer-presente-v1.png",
+      "focus": "72% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 45.0,
+      "end": 54.0,
+      "asset": "video-005/assets/library/cotidiano_brasileiro/p001-reflexo-v1.png",
+      "focus": "70% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 54.0,
+      "end": 63.0,
+      "asset": "video-005/assets/library/cotidiano_brasileiro/p001-pausa-v1.png",
+      "focus": "52% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 63.0,
+      "end": 70.763,
+      "asset": "video-005/assets/video004/brazil/b08-tempo-de-ouvir-v1.png",
+      "focus": "38% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.08,
+      "end": 4.404,
+      "text": "Mesmo lendo apenas alguns versículos, percebemos um movimento"
+    },
+    {
+      "start": 4.436,
+      "end": 7.112,
+      "text": "importante no conjunto da criação:"
+    },
+    {
+      "start": 7.455,
+      "end": 10.85,
+      "text": "Deus estabelece ritmos. Há tarde e manhã."
+    },
+    {
+      "start": 11.137,
+      "end": 13.526,
+      "text": "Há dias. E depois há descanso."
+    },
+    {
+      "start": 13.979,
+      "end": 16.51,
+      "text": "O mundo não foi criado para funcionar como uma"
+    },
+    {
+      "start": 16.577,
+      "end": 20.436,
+      "text": "máquina sem pausa. Muita gente vive como se descansar"
+    },
+    {
+      "start": 20.513,
+      "end": 24.13,
+      "text": "fosse falhar. Como se parar fosse perder valor."
+    },
+    {
+      "start": 24.615,
+      "end": 27.723,
+      "text": "Como se a vida inteira precisasse provar alguma coisa"
+    },
+    {
+      "start": 27.767,
+      "end": 28.375,
+      "text": "para alguém."
+    },
+    {
+      "start": 29.038,
+      "end": 32.002,
+      "text": "Mas, desde o começo da Bíblia, a vida não"
+    },
+    {
+      "start": 32.046,
+      "end": 36.47,
+      "text": "é apenas produção. Existe bondade antes da produtividade humana."
+    },
+    {
+      "start": 36.834,
+      "end": 39.311,
+      "text": "Existe dignidade antes do desempenho."
+    },
+    {
+      "start": 39.797,
+      "end": 42.341,
+      "text": "Existe limite antes da queda do corpo."
+    },
+    {
+      "start": 42.827,
+      "end": 46.011,
+      "text": "É claro que há fases em que a necessidade"
+    },
+    {
+      "start": 46.045,
+      "end": 46.786,
+      "text": "aperta,"
+    },
+    {
+      "start": 47.449,
+      "end": 51.274,
+      "text": "e nem todo mundo pode simplesmente escolher descansar como"
+    },
+    {
+      "start": 51.319,
+      "end": 52.06,
+      "text": "gostaria."
+    },
+    {
+      "start": 52.833,
+      "end": 55.189,
+      "text": "A Bíblia não deve ser usada para culpar quem"
+    },
+    {
+      "start": 55.233,
+      "end": 58.815,
+      "text": "está sobrevivendo. Mas ela também não nos deixa chamar"
+    },
+    {
+      "start": 58.981,
+      "end": 61.779,
+      "text": "exaustão de virtude espiritual."
+    },
+    {
+      "start": 62.266,
+      "end": 65.229,
+      "text": "O descanso não é fuga da responsabilidade."
+    },
+    {
+      "start": 65.804,
+      "end": 68.988,
+      "text": "Às vezes, ele é o modo humilde de reconhecer"
+    },
+    {
+      "start": 69.054,
+      "end": 70.613,
+      "text": "que nós não somos o Criador."
+    }
+  ],
+  "scriptures": []
+}

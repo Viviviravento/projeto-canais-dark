@@ -1,0 +1,98 @@
+{
+  "version": "video-005-performance-v1",
+  "source_script": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\02_roteiros\\video-005-roteiro-v1.md",
+  "performance_contract": {
+    "relationship": "Falar com uma pessoa que tem perguntas grandes, mas vive pressões muito concretas, com calma e respeito.",
+    "authority": "Autoridade pelo cuidado com o texto bíblico, sem tom de debate técnico, disputa científica ou superioridade religiosa.",
+    "interpretation": "Distinguir criação, ordem, bondade, dignidade humana, trabalho, descanso e aplicação cotidiana.",
+    "intensity": "Sereno, firme e contemplativo, com senso de começo e fundamento, sem tom épico exagerado ou aula fria.",
+    "scripture": "Anunciar livro, capítulo e versículo; concluir a referência; ler o texto completo com reverência; somente então explicar.",
+    "pause_policy": "Sem break tags e sem pontuação artificial. Usar ideias completas, conectores, parágrafos semânticos e contexto anterior e posterior entre blocos.",
+    "cta": "Concluir a mensagem antes do convite; manter calor humano e abrir pergunta de comentário ligada ao texto."
+  },
+  "api": {
+    "provider": "ElevenLabs",
+    "voice_name": "Bruno Cardoso",
+    "voice_id": "iF2QszmZhlyFLleUoFxy",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 271828,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    },
+    "postprocess": {
+      "speed_factor": 1.05,
+      "preserve_pitch": true
+    }
+  },
+  "blocks": [
+    {
+      "id": "01-antes-da-discussao-o-comeco",
+      "source_section": "01",
+      "title": "Antes da discussão, o começo",
+      "function": "Abrir sem polêmica técnica e apresentar Gênesis 1:1 como fundamento da visão bíblica da vida.",
+      "text": "Quando alguém fala sobre a criação do mundo, muita gente já espera uma briga. Ciência contra fé, datas, teorias, idade da terra, discussões que parecem não terminar.\n\nMas Gênesis não começa tentando alimentar uma disputa. Ele começa colocando a vida diante de Deus.\n\nAntes de responder todas as curiosidades, o texto abre uma pergunta maior: de onde vem o mundo, por que existe ordem onde poderia haver confusão, e por que a vida não pode ser tratada como descartável.\n\nGênesis, capítulo um, versículo um, diz:\n\n“No princípio criou Deus os céus e a terra.”\n\nEssa frase é curta, mas muda o chão de tudo. O mundo não começa, na narrativa bíblica, como material sem sentido. Ele começa por Deus. Antes da pressa humana, antes do medo e antes da culpa, existe um Deus que cria.\n\nSe Deus cria os céus e a terra, o mundo não é uma coisa sem dono. Ele é recebido."
+    },
+    {
+      "id": "02-deus-comeca-onde-ha-vazio",
+      "source_section": "02",
+      "title": "Deus começa onde nós só veríamos vazio",
+      "function": "Ler Gênesis 1:2 e aplicar a presença de Deus em cenários ainda sem forma.",
+      "text": "Depois dessa primeira frase, o texto não mostra um mundo pronto. Ele mostra uma realidade que ainda precisa receber forma, luz, separação e ordem.\n\nGênesis, capítulo um, versículo dois, diz:\n\n“E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas.”\n\nSem forma e vazia. Trevas sobre a face do abismo. Essas palavras descrevem um cenário em que nós talvez só veríamos impossibilidade.\n\nMas o texto não para no vazio. Ele diz que o Espírito de Deus se movia sobre a face das águas. Antes de existir beleza organizada, Deus já está presente.\n\nIsso fala com a vida real. Há fases em que a pessoa olha para dentro de si e encontra desordem: luto, medo, cansaço, confusão, uma rotina que perdeu eixo.\n\nGênesis não autoriza a gente a chamar qualquer crise pessoal de criação do mundo. Mas ele lembra uma verdade: Deus não precisa encontrar tudo pronto para começar a agir.\n\nTalvez você olhe para uma parte da sua história e só veja o que ainda está sem forma. Deus não se assusta com isso."
+    },
+    {
+      "id": "03-a-palavra-que-ilumina",
+      "source_section": "03",
+      "title": "A palavra que ilumina e separa",
+      "function": "Ler Gênesis 1:3 e conectar luz, ordem e limite com cuidado cotidiano.",
+      "text": "O primeiro ato destacado depois desse cenário é a palavra de Deus. O mundo começa a ser ordenado porque Deus fala.\n\nGênesis, capítulo um, versículo três, diz:\n\n“E disse Deus: Haja luz; e houve luz.”\n\nDeus fala, e a luz aparece. Ao longo do capítulo, esse movimento continua. Deus separa luz e trevas, águas e águas, mares e terra seca. Deus dá nome, estabelece ritmos e vê que é bom.\n\nOrdem, na Bíblia, não é apenas organização. É uma vida recebendo lugar. Luz e trevas não são a mesma coisa. Dia e noite têm ritmos diferentes.\n\nNós vivemos numa época em que limite muitas vezes parece inimigo da liberdade. Mas Gênesis mostra que alguns limites são cuidado. Descanso precisa de limite. Trabalho precisa de limite. Família precisa de limite. Até o cuidado, quando não tem limite, pode virar controle.\n\nQuando Deus diz “haja luz”, ele começa a desfazer a confusão. E muita cura começa assim: não com tudo resolvido, mas com uma primeira luz suficiente para distinguir o próximo passo."
+    },
+    {
+      "id": "04-o-mundo-nao-e-descartavel",
+      "source_section": "04",
+      "title": "O mundo criado não é descartável",
+      "function": "Explicar a bondade da criação sem idolatrar o mundo nem desprezar o concreto.",
+      "text": "Uma frase aparece várias vezes em Gênesis um: Deus vê que aquilo é bom. A luz é boa. A terra produz. Os seres vivos aparecem. Há abundância, diferença, beleza e repetição.\n\nIsso importa porque a Bíblia não começa dizendo que o mundo material é uma prisão sem valor. Ela começa dizendo que Deus cria e chama bom.\n\nÉ claro que a Bíblia depois falará sobre pecado, queda, dor e morte. Mas essas feridas não apagam a primeira afirmação: a criação é obra de Deus.\n\nMuita gente espiritualiza a vida de um modo que despreza o corpo, a casa, a comida, o sono, o trabalho e a terra. Como se fé verdadeira fosse viver desligado de tudo que é concreto.\n\nGênesis corrige isso. Deus cria um mundo concreto. A vida com Deus não começa fugindo da criação, mas recebendo a criação como boa.\n\nIsso não significa adorar o mundo no lugar do Criador. Também não significa maltratar o mundo como se não tivesse valor. Entre idolatrar e desprezar, Gênesis ensina outro caminho: receber com gratidão e cuidar com responsabilidade."
+    },
+    {
+      "id": "05-valor-antes-da-performance",
+      "source_section": "05",
+      "title": "Valor antes da performance",
+      "function": "Ler Gênesis 1:27 e aplicar imagem de Deus à dignidade antes da performance.",
+      "text": "No meio da criação, Gênesis faz uma pausa especial ao falar do ser humano. O texto não apresenta homem e mulher como acidente, sobra ou ferramenta.\n\nGênesis, capítulo um, versículo vinte e sete, diz:\n\n“E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou.”\n\nAntes de currículo, cargo, casamento, maternidade, dinheiro na conta ou aprovação dos outros, o ser humano é apresentado como imagem de Deus.\n\nIsso não quer dizer que a pessoa seja Deus. Também não quer dizer que todas as escolhas humanas sejam boas. Significa que há uma dignidade recebida antes da performance.\n\nVocê não começa a ter valor quando produz muito. Você não começa a ter valor quando alguém te escolhe. Você não começa a ter valor quando consegue dar conta de tudo. Segundo Gênesis, a dignidade humana vem do Criador.\n\nEssa verdade muda o espelho e muda o olhar para o outro. Culpa, fracasso e exaustão podem distorcer a forma como você se vê, mas não apagam aquilo que Deus estabeleceu na criação. E se o outro também carrega dignidade diante de Deus, ele não pode ser reduzido a utilidade, aparência, produtividade, erro, classe social, idade ou ferida.\n\nGênesis dá base para cuidado, justiça, respeito e misericórdia. Não porque as pessoas sejam sempre fáceis, mas porque a vida humana não é descartável."
+    },
+    {
+      "id": "06-muito-bom-e-responsavel",
+      "source_section": "06",
+      "title": "Muito bom não significa sem responsabilidade",
+      "function": "Ler Gênesis 1:31 e conectar bondade original com gratidão e reverência.",
+      "text": "Ao final do sexto dia, o texto faz uma avaliação ampla de tudo que foi criado.\n\nGênesis, capítulo um, versículo trinta e um, diz:\n\n“E viu Deus tudo quanto tinha feito, e eis que era muito bom; e foi a tarde e a manhã, o dia sexto.”\n\nNão apenas bom. Muito bom.\n\nEssa expressão impede que a gente comece a teologia pelo desprezo. Antes da queda, existe bondade. Antes da culpa, existe criação. Antes da ruptura, existe um mundo chamado muito bom por Deus.\n\nIsso não nega o pecado. A Bíblia não passa pano para o mal. Mas Gênesis não começa dizendo que você é apenas uma coleção de falhas. Ele começa com Deus criando e chamando bom.\n\nAo mesmo tempo, muito bom não significa sem responsabilidade. O fato de a criação ser boa não autoriza consumo sem limite, domínio violento, negligência com o corpo ou exploração do outro.\n\nQuando algo é bom, deve ser recebido com gratidão. Quando algo é muito bom, deve ser tratado com reverência.\n\nUma doença do nosso tempo é transformar tudo em produto. Gênesis resiste a isso. O mundo não nasce como mercadoria. Ele nasce como criação."
+    },
+    {
+      "id": "07-trabalhar-e-guardar",
+      "source_section": "07",
+      "title": "Trabalhar e guardar",
+      "function": "Ler Gênesis 2:15 e explicar trabalho, cuidado e limite sem idolatria de produção.",
+      "text": "No capítulo dois, Gênesis se aproxima da cena do jardim e mostra o ser humano recebendo uma tarefa.\n\nGênesis, capítulo dois, versículo quinze, diz:\n\n“E tomou o Senhor Deus o homem, e o pôs no jardim do Éden para o lavrar e o guardar.”\n\nLavrar e guardar. Trabalhar e cuidar. Produzir e proteger.\n\nAntes de o trabalho aparecer como peso depois da queda, ele aparece como vocação dentro do jardim. O trabalho, em si, não é maldição. Pode ser participação responsável no cuidado da criação.\n\nMas Gênesis também impede que trabalho vire idolatria. O ser humano não é colocado no jardim para possuir tudo sem limite. Ele é colocado para lavrar e guardar. Existe ação e existe preservação.\n\nNós conhecemos o desequilíbrio: trabalhar sem guardar a saúde, servir sem guardar a família, cuidar de todos sem guardar o próprio coração.\n\nGênesis oferece uma sabedoria anterior à nossa pressa: Deus nos chama a participar, mas não a devorar. A vida não foi entregue para ser espremida até sobrar apenas cansaço."
+    },
+    {
+      "id": "08-o-comeco-ensina-descanso",
+      "source_section": "08",
+      "title": "O começo também ensina descanso",
+      "function": "Aplicar ritmo e descanso sem culpar quem está sobrevivendo.",
+      "text": "Mesmo lendo apenas alguns versículos, percebemos um movimento importante no conjunto da criação: Deus estabelece ritmos. Há tarde e manhã. Há dias. E depois há descanso.\n\nO mundo não foi criado para funcionar como uma máquina sem pausa.\n\nMuita gente vive como se descansar fosse falhar. Como se parar fosse perder valor. Como se a vida inteira precisasse provar alguma coisa para alguém.\n\nMas, desde o começo da Bíblia, a vida não é apenas produção. Existe bondade antes da produtividade humana. Existe dignidade antes do desempenho. Existe limite antes da queda do corpo.\n\nÉ claro que há fases em que a necessidade aperta, e nem todo mundo pode simplesmente escolher descansar como gostaria. A Bíblia não deve ser usada para culpar quem está sobrevivendo.\n\nMas ela também não nos deixa chamar exaustão de virtude espiritual.\n\nO descanso não é fuga da responsabilidade. Às vezes, ele é o modo humilde de reconhecer que nós não somos o Criador."
+    },
+    {
+      "id": "09-fechamento-e-convite",
+      "source_section": "09",
+      "title": "Fechamento e convite",
+      "function": "Concluir a tese, identificar o canal e provocar comentário ligado ao texto.",
+      "text": "Gênesis não entrega todas as respostas que a curiosidade moderna gostaria de colocar em uma tabela. Mas entrega algo fundamental: Deus é Criador, o mundo é criação, a vida humana tem dignidade e o cuidado faz parte da vocação.\n\nTalvez você tenha chegado buscando uma explicação sobre o começo do mundo. E talvez saia com uma pergunta mais pessoal: se tudo começa com Deus criando, ordenando e chamando bom, que parte da minha vida precisa voltar a ser recebida como presente, e não apenas carregada como peso?\n\nHá áreas sem forma? Há confusão? Há cansaço de produzir sem guardar? Há dificuldade de enxergar valor em si mesma ou no outro?\n\nO começo da Bíblia nos chama de volta ao Criador. E quando voltamos ao Criador, aprendemos a olhar de novo para a criação, o corpo, o trabalho, os limites e as pessoas.\n\nEste é o canal A Palavra Que Cuida. Se esta reflexão te ajudou, inscreva-se, curta e compartilhe com alguém que também precisa lembrar que a vida não começa no caos, mas em Deus.\n\nE me conta nos comentários: quando você lê Gênesis, o que mais fala com você hoje: a luz, a ordem, a dignidade humana, o descanso ou o chamado para cuidar?"
+    }
+  ]
+}

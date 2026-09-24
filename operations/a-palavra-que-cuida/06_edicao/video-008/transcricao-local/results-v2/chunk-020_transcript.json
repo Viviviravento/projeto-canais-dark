@@ -1,0 +1,454 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.72,
+      "text": "Se voc\u00ea est\u00e1 cansada de carregar tudo sozinha, assista ao v\u00eddeo sobre Marta e Maria.",
+      "words": [
+        {
+          "word": " Se",
+          "start": 0.0,
+          "end": 0.54,
+          "probability": 0.277
+        },
+        {
+          "word": " voc\u00ea",
+          "start": 0.54,
+          "end": 1.46,
+          "probability": 0.912
+        },
+        {
+          "word": " est\u00e1",
+          "start": 1.46,
+          "end": 1.66,
+          "probability": 0.944
+        },
+        {
+          "word": " cansada",
+          "start": 1.66,
+          "end": 2.14,
+          "probability": 0.944
+        },
+        {
+          "word": " de",
+          "start": 2.14,
+          "end": 2.42,
+          "probability": 0.998
+        },
+        {
+          "word": " carregar",
+          "start": 2.42,
+          "end": 2.76,
+          "probability": 0.961
+        },
+        {
+          "word": " tudo",
+          "start": 2.76,
+          "end": 3.08,
+          "probability": 0.973
+        },
+        {
+          "word": " sozinha,",
+          "start": 3.08,
+          "end": 3.74,
+          "probability": 0.933
+        },
+        {
+          "word": " assista",
+          "start": 4.34,
+          "end": 4.86,
+          "probability": 0.947
+        },
+        {
+          "word": " ao",
+          "start": 4.86,
+          "end": 4.98,
+          "probability": 0.852
+        },
+        {
+          "word": " v\u00eddeo",
+          "start": 4.98,
+          "end": 5.24,
+          "probability": 0.988
+        },
+        {
+          "word": " sobre",
+          "start": 5.24,
+          "end": 5.58,
+          "probability": 0.989
+        },
+        {
+          "word": " Marta",
+          "start": 5.58,
+          "end": 6.12,
+          "probability": 0.797
+        },
+        {
+          "word": " e",
+          "start": 6.12,
+          "end": 6.44,
+          "probability": 0.987
+        },
+        {
+          "word": " Maria.",
+          "start": 6.44,
+          "end": 6.72,
+          "probability": 0.954
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.76,
+      "end": 14.92,
+      "text": "E me conta nos coment\u00e1rios, qual \u00e9 a diferen\u00e7a entre culpa, que paralisa e verdade que ajuda",
+      "words": [
+        {
+          "word": " E",
+          "start": 7.76,
+          "end": 8.04,
+          "probability": 0.876
+        },
+        {
+          "word": " me",
+          "start": 8.04,
+          "end": 8.12,
+          "probability": 0.99
+        },
+        {
+          "word": " conta",
+          "start": 8.12,
+          "end": 8.36,
+          "probability": 0.993
+        },
+        {
+          "word": " nos",
+          "start": 8.36,
+          "end": 8.56,
+          "probability": 0.987
+        },
+        {
+          "word": " coment\u00e1rios,",
+          "start": 8.56,
+          "end": 9.06,
+          "probability": 0.996
+        },
+        {
+          "word": " qual",
+          "start": 9.96,
+          "end": 10.22,
+          "probability": 0.97
+        },
+        {
+          "word": " \u00e9",
+          "start": 10.22,
+          "end": 10.36,
+          "probability": 0.988
+        },
+        {
+          "word": " a",
+          "start": 10.36,
+          "end": 10.44,
+          "probability": 0.998
+        },
+        {
+          "word": " diferen\u00e7a",
+          "start": 10.44,
+          "end": 10.8,
+          "probability": 0.985
+        },
+        {
+          "word": " entre",
+          "start": 10.8,
+          "end": 11.4,
+          "probability": 0.997
+        },
+        {
+          "word": " culpa,",
+          "start": 11.4,
+          "end": 11.88,
+          "probability": 0.986
+        },
+        {
+          "word": " que",
+          "start": 12.44,
+          "end": 12.52,
+          "probability": 0.974
+        },
+        {
+          "word": " paralisa",
+          "start": 12.52,
+          "end": 13.14,
+          "probability": 0.953
+        },
+        {
+          "word": " e",
+          "start": 13.14,
+          "end": 13.94,
+          "probability": 0.683
+        },
+        {
+          "word": " verdade",
+          "start": 13.94,
+          "end": 14.3,
+          "probability": 0.976
+        },
+        {
+          "word": " que",
+          "start": 14.3,
+          "end": 14.64,
+          "probability": 0.926
+        },
+        {
+          "word": " ajuda",
+          "start": 14.64,
+          "end": 14.92,
+          "probability": 0.968
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 14.92,
+      "end": 16.02,
+      "text": "voc\u00ea a recome\u00e7ar?",
+      "words": [
+        {
+          "word": " voc\u00ea",
+          "start": 14.92,
+          "end": 15.34,
+          "probability": 0.947
+        },
+        {
+          "word": " a",
+          "start": 15.34,
+          "end": 15.48,
+          "probability": 0.994
+        },
+        {
+          "word": " recome\u00e7ar?",
+          "start": 15.48,
+          "end": 16.02,
+          "probability": 0.63
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " Se",
+      "start": 0.0,
+      "end": 0.54,
+      "probability": 0.277
+    },
+    {
+      "word": " voc\u00ea",
+      "start": 0.54,
+      "end": 1.46,
+      "probability": 0.912
+    },
+    {
+      "word": " est\u00e1",
+      "start": 1.46,
+      "end": 1.66,
+      "probability": 0.944
+    },
+    {
+      "word": " cansada",
+      "start": 1.66,
+      "end": 2.14,
+      "probability": 0.944
+    },
+    {
+      "word": " de",
+      "start": 2.14,
+      "end": 2.42,
+      "probability": 0.998
+    },
+    {
+      "word": " carregar",
+      "start": 2.42,
+      "end": 2.76,
+      "probability": 0.961
+    },
+    {
+      "word": " tudo",
+      "start": 2.76,
+      "end": 3.08,
+      "probability": 0.973
+    },
+    {
+      "word": " sozinha,",
+      "start": 3.08,
+      "end": 3.74,
+      "probability": 0.933
+    },
+    {
+      "word": " assista",
+      "start": 4.34,
+      "end": 4.86,
+      "probability": 0.947
+    },
+    {
+      "word": " ao",
+      "start": 4.86,
+      "end": 4.98,
+      "probability": 0.852
+    },
+    {
+      "word": " v\u00eddeo",
+      "start": 4.98,
+      "end": 5.24,
+      "probability": 0.988
+    },
+    {
+      "word": " sobre",
+      "start": 5.24,
+      "end": 5.58,
+      "probability": 0.989
+    },
+    {
+      "word": " Marta",
+      "start": 5.58,
+      "end": 6.12,
+      "probability": 0.797
+    },
+    {
+      "word": " e",
+      "start": 6.12,
+      "end": 6.44,
+      "probability": 0.987
+    },
+    {
+      "word": " Maria.",
+      "start": 6.44,
+      "end": 6.72,
+      "probability": 0.954
+    },
+    {
+      "word": " E",
+      "start": 7.76,
+      "end": 8.04,
+      "probability": 0.876
+    },
+    {
+      "word": " me",
+      "start": 8.04,
+      "end": 8.12,
+      "probability": 0.99
+    },
+    {
+      "word": " conta",
+      "start": 8.12,
+      "end": 8.36,
+      "probability": 0.993
+    },
+    {
+      "word": " nos",
+      "start": 8.36,
+      "end": 8.56,
+      "probability": 0.987
+    },
+    {
+      "word": " coment\u00e1rios,",
+      "start": 8.56,
+      "end": 9.06,
+      "probability": 0.996
+    },
+    {
+      "word": " qual",
+      "start": 9.96,
+      "end": 10.22,
+      "probability": 0.97
+    },
+    {
+      "word": " \u00e9",
+      "start": 10.22,
+      "end": 10.36,
+      "probability": 0.988
+    },
+    {
+      "word": " a",
+      "start": 10.36,
+      "end": 10.44,
+      "probability": 0.998
+    },
+    {
+      "word": " diferen\u00e7a",
+      "start": 10.44,
+      "end": 10.8,
+      "probability": 0.985
+    },
+    {
+      "word": " entre",
+      "start": 10.8,
+      "end": 11.4,
+      "probability": 0.997
+    },
+    {
+      "word": " culpa,",
+      "start": 11.4,
+      "end": 11.88,
+      "probability": 0.986
+    },
+    {
+      "word": " que",
+      "start": 12.44,
+      "end": 12.52,
+      "probability": 0.974
+    },
+    {
+      "word": " paralisa",
+      "start": 12.52,
+      "end": 13.14,
+      "probability": 0.953
+    },
+    {
+      "word": " e",
+      "start": 13.14,
+      "end": 13.94,
+      "probability": 0.683
+    },
+    {
+      "word": " verdade",
+      "start": 13.94,
+      "end": 14.3,
+      "probability": 0.976
+    },
+    {
+      "word": " que",
+      "start": 14.3,
+      "end": 14.64,
+      "probability": 0.926
+    },
+    {
+      "word": " ajuda",
+      "start": 14.64,
+      "end": 14.92,
+      "probability": 0.968
+    },
+    {
+      "word": " voc\u00ea",
+      "start": 14.92,
+      "end": 15.34,
+      "probability": 0.947
+    },
+    {
+      "word": " a",
+      "start": 15.34,
+      "end": 15.48,
+      "probability": 0.994
+    },
+    {
+      "word": " recome\u00e7ar?",
+      "start": 15.48,
+      "end": 16.02,
+      "probability": 0.63
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 16.449,
+  "model_size": "base",
+  "device": "cpu"
+}

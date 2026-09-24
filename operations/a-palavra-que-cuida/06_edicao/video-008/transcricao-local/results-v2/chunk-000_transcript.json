@@ -1,0 +1,922 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 2.44,
+      "text": "Nem toda dor vem de algo que fizeram com a gente.",
+      "words": [
+        {
+          "word": " Nem",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.086
+        },
+        {
+          "word": " toda",
+          "start": 0.16,
+          "end": 0.34,
+          "probability": 0.473
+        },
+        {
+          "word": " dor",
+          "start": 0.34,
+          "end": 0.66,
+          "probability": 0.959
+        },
+        {
+          "word": " vem",
+          "start": 0.66,
+          "end": 0.84,
+          "probability": 0.456
+        },
+        {
+          "word": " de",
+          "start": 0.84,
+          "end": 1.02,
+          "probability": 0.998
+        },
+        {
+          "word": " algo",
+          "start": 1.02,
+          "end": 1.24,
+          "probability": 0.998
+        },
+        {
+          "word": " que",
+          "start": 1.24,
+          "end": 1.4,
+          "probability": 0.982
+        },
+        {
+          "word": " fizeram",
+          "start": 1.4,
+          "end": 1.88,
+          "probability": 0.992
+        },
+        {
+          "word": " com",
+          "start": 1.88,
+          "end": 2.02,
+          "probability": 0.996
+        },
+        {
+          "word": " a",
+          "start": 2.02,
+          "end": 2.1,
+          "probability": 0.966
+        },
+        {
+          "word": " gente.",
+          "start": 2.1,
+          "end": 2.44,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 3.12,
+      "end": 6.34,
+      "text": "Algumas dors nascem quando lembramos do que n\u00f3s fizemos.",
+      "words": [
+        {
+          "word": " Algumas",
+          "start": 3.12,
+          "end": 3.44,
+          "probability": 0.952
+        },
+        {
+          "word": " dors",
+          "start": 3.44,
+          "end": 3.66,
+          "probability": 0.455
+        },
+        {
+          "word": " nascem",
+          "start": 3.66,
+          "end": 4.1,
+          "probability": 0.732
+        },
+        {
+          "word": " quando",
+          "start": 4.1,
+          "end": 4.36,
+          "probability": 0.983
+        },
+        {
+          "word": " lembramos",
+          "start": 4.36,
+          "end": 4.94,
+          "probability": 0.798
+        },
+        {
+          "word": " do",
+          "start": 4.94,
+          "end": 5.56,
+          "probability": 0.944
+        },
+        {
+          "word": " que",
+          "start": 5.56,
+          "end": 5.68,
+          "probability": 0.998
+        },
+        {
+          "word": " n\u00f3s",
+          "start": 5.68,
+          "end": 5.88,
+          "probability": 0.918
+        },
+        {
+          "word": " fizemos.",
+          "start": 5.88,
+          "end": 6.34,
+          "probability": 0.973
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.42,
+      "end": 14.94,
+      "text": "Uma frase dita no impulso, uma verdade escondida, uma pessoa que precisava de n\u00f3s e recebeu sil\u00eancio.",
+      "words": [
+        {
+          "word": " Uma",
+          "start": 7.42,
+          "end": 7.52,
+          "probability": 0.963
+        },
+        {
+          "word": " frase",
+          "start": 7.52,
+          "end": 7.84,
+          "probability": 0.995
+        },
+        {
+          "word": " dita",
+          "start": 7.84,
+          "end": 8.3,
+          "probability": 0.987
+        },
+        {
+          "word": " no",
+          "start": 8.3,
+          "end": 8.64,
+          "probability": 0.806
+        },
+        {
+          "word": " impulso,",
+          "start": 8.64,
+          "end": 9.26,
+          "probability": 0.759
+        },
+        {
+          "word": " uma",
+          "start": 9.84,
+          "end": 10.0,
+          "probability": 0.942
+        },
+        {
+          "word": " verdade",
+          "start": 10.0,
+          "end": 10.32,
+          "probability": 0.984
+        },
+        {
+          "word": " escondida,",
+          "start": 10.32,
+          "end": 11.06,
+          "probability": 0.994
+        },
+        {
+          "word": " uma",
+          "start": 11.72,
+          "end": 11.86,
+          "probability": 0.973
+        },
+        {
+          "word": " pessoa",
+          "start": 11.86,
+          "end": 12.18,
+          "probability": 0.998
+        },
+        {
+          "word": " que",
+          "start": 12.18,
+          "end": 12.34,
+          "probability": 0.999
+        },
+        {
+          "word": " precisava",
+          "start": 12.34,
+          "end": 12.88,
+          "probability": 0.997
+        },
+        {
+          "word": " de",
+          "start": 12.88,
+          "end": 13.0,
+          "probability": 0.997
+        },
+        {
+          "word": " n\u00f3s",
+          "start": 13.0,
+          "end": 13.26,
+          "probability": 0.996
+        },
+        {
+          "word": " e",
+          "start": 13.26,
+          "end": 13.96,
+          "probability": 0.829
+        },
+        {
+          "word": " recebeu",
+          "start": 13.96,
+          "end": 14.36,
+          "probability": 0.977
+        },
+        {
+          "word": " sil\u00eancio.",
+          "start": 14.36,
+          "end": 14.94,
+          "probability": 0.92
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.46,
+      "end": 23.98,
+      "text": "Uma escolha que, depois, parece t\u00e3o distante de quem gostar\u00edamos de ser que a vontade \u00e9 voltar no tempo e apagar tudo.",
+      "words": [
+        {
+          "word": " Uma",
+          "start": 15.46,
+          "end": 15.78,
+          "probability": 0.99
+        },
+        {
+          "word": " escolha",
+          "start": 15.78,
+          "end": 16.22,
+          "probability": 0.996
+        },
+        {
+          "word": " que,",
+          "start": 16.22,
+          "end": 16.44,
+          "probability": 0.505
+        },
+        {
+          "word": " depois,",
+          "start": 16.84,
+          "end": 17.42,
+          "probability": 0.992
+        },
+        {
+          "word": " parece",
+          "start": 18.06,
+          "end": 18.38,
+          "probability": 0.992
+        },
+        {
+          "word": " t\u00e3o",
+          "start": 18.38,
+          "end": 18.68,
+          "probability": 0.99
+        },
+        {
+          "word": " distante",
+          "start": 18.68,
+          "end": 19.1,
+          "probability": 0.993
+        },
+        {
+          "word": " de",
+          "start": 19.1,
+          "end": 19.34,
+          "probability": 0.977
+        },
+        {
+          "word": " quem",
+          "start": 19.34,
+          "end": 19.5,
+          "probability": 0.976
+        },
+        {
+          "word": " gostar\u00edamos",
+          "start": 19.5,
+          "end": 20.12,
+          "probability": 0.945
+        },
+        {
+          "word": " de",
+          "start": 20.12,
+          "end": 20.3,
+          "probability": 0.99
+        },
+        {
+          "word": " ser",
+          "start": 20.3,
+          "end": 20.6,
+          "probability": 0.997
+        },
+        {
+          "word": " que",
+          "start": 20.6,
+          "end": 21.08,
+          "probability": 0.87
+        },
+        {
+          "word": " a",
+          "start": 21.08,
+          "end": 21.12,
+          "probability": 0.986
+        },
+        {
+          "word": " vontade",
+          "start": 21.12,
+          "end": 21.44,
+          "probability": 0.995
+        },
+        {
+          "word": " \u00e9",
+          "start": 21.44,
+          "end": 21.62,
+          "probability": 0.165
+        },
+        {
+          "word": " voltar",
+          "start": 21.62,
+          "end": 21.8,
+          "probability": 0.978
+        },
+        {
+          "word": " no",
+          "start": 21.8,
+          "end": 22.16,
+          "probability": 0.987
+        },
+        {
+          "word": " tempo",
+          "start": 22.16,
+          "end": 22.56,
+          "probability": 0.992
+        },
+        {
+          "word": " e",
+          "start": 22.56,
+          "end": 23.26,
+          "probability": 0.932
+        },
+        {
+          "word": " apagar",
+          "start": 23.26,
+          "end": 23.5,
+          "probability": 0.936
+        },
+        {
+          "word": " tudo.",
+          "start": 23.5,
+          "end": 23.98,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 24.54,
+      "end": 27.42,
+      "text": "Quando isso acontece a vergonha costuma falar alto.",
+      "words": [
+        {
+          "word": " Quando",
+          "start": 24.54,
+          "end": 24.78,
+          "probability": 0.992
+        },
+        {
+          "word": " isso",
+          "start": 24.78,
+          "end": 24.96,
+          "probability": 0.992
+        },
+        {
+          "word": " acontece",
+          "start": 24.96,
+          "end": 25.32,
+          "probability": 0.97
+        },
+        {
+          "word": " a",
+          "start": 25.32,
+          "end": 25.6,
+          "probability": 0.769
+        },
+        {
+          "word": " vergonha",
+          "start": 25.6,
+          "end": 26.14,
+          "probability": 0.894
+        },
+        {
+          "word": " costuma",
+          "start": 26.14,
+          "end": 26.8,
+          "probability": 0.883
+        },
+        {
+          "word": " falar",
+          "start": 26.8,
+          "end": 27.06,
+          "probability": 0.98
+        },
+        {
+          "word": " alto.",
+          "start": 27.06,
+          "end": 27.42,
+          "probability": 0.989
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 27.42,
+      "end": 30.0,
+      "text": "Ela diz, agora voc\u00ea mostrou.",
+      "words": [
+        {
+          "word": " Ela",
+          "start": 27.42,
+          "end": 28.34,
+          "probability": 0.36
+        },
+        {
+          "word": " diz,",
+          "start": 28.34,
+          "end": 28.52,
+          "probability": 0.924
+        },
+        {
+          "word": " agora",
+          "start": 29.06,
+          "end": 29.36,
+          "probability": 0.634
+        },
+        {
+          "word": " voc\u00ea",
+          "start": 29.36,
+          "end": 29.66,
+          "probability": 0.983
+        },
+        {
+          "word": " mostrou.",
+          "start": 29.66,
+          "end": 30.0,
+          "probability": 0.671
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " Nem",
+      "start": 0.0,
+      "end": 0.16,
+      "probability": 0.086
+    },
+    {
+      "word": " toda",
+      "start": 0.16,
+      "end": 0.34,
+      "probability": 0.473
+    },
+    {
+      "word": " dor",
+      "start": 0.34,
+      "end": 0.66,
+      "probability": 0.959
+    },
+    {
+      "word": " vem",
+      "start": 0.66,
+      "end": 0.84,
+      "probability": 0.456
+    },
+    {
+      "word": " de",
+      "start": 0.84,
+      "end": 1.02,
+      "probability": 0.998
+    },
+    {
+      "word": " algo",
+      "start": 1.02,
+      "end": 1.24,
+      "probability": 0.998
+    },
+    {
+      "word": " que",
+      "start": 1.24,
+      "end": 1.4,
+      "probability": 0.982
+    },
+    {
+      "word": " fizeram",
+      "start": 1.4,
+      "end": 1.88,
+      "probability": 0.992
+    },
+    {
+      "word": " com",
+      "start": 1.88,
+      "end": 2.02,
+      "probability": 0.996
+    },
+    {
+      "word": " a",
+      "start": 2.02,
+      "end": 2.1,
+      "probability": 0.966
+    },
+    {
+      "word": " gente.",
+      "start": 2.1,
+      "end": 2.44,
+      "probability": 0.999
+    },
+    {
+      "word": " Algumas",
+      "start": 3.12,
+      "end": 3.44,
+      "probability": 0.952
+    },
+    {
+      "word": " dors",
+      "start": 3.44,
+      "end": 3.66,
+      "probability": 0.455
+    },
+    {
+      "word": " nascem",
+      "start": 3.66,
+      "end": 4.1,
+      "probability": 0.732
+    },
+    {
+      "word": " quando",
+      "start": 4.1,
+      "end": 4.36,
+      "probability": 0.983
+    },
+    {
+      "word": " lembramos",
+      "start": 4.36,
+      "end": 4.94,
+      "probability": 0.798
+    },
+    {
+      "word": " do",
+      "start": 4.94,
+      "end": 5.56,
+      "probability": 0.944
+    },
+    {
+      "word": " que",
+      "start": 5.56,
+      "end": 5.68,
+      "probability": 0.998
+    },
+    {
+      "word": " n\u00f3s",
+      "start": 5.68,
+      "end": 5.88,
+      "probability": 0.918
+    },
+    {
+      "word": " fizemos.",
+      "start": 5.88,
+      "end": 6.34,
+      "probability": 0.973
+    },
+    {
+      "word": " Uma",
+      "start": 7.42,
+      "end": 7.52,
+      "probability": 0.963
+    },
+    {
+      "word": " frase",
+      "start": 7.52,
+      "end": 7.84,
+      "probability": 0.995
+    },
+    {
+      "word": " dita",
+      "start": 7.84,
+      "end": 8.3,
+      "probability": 0.987
+    },
+    {
+      "word": " no",
+      "start": 8.3,
+      "end": 8.64,
+      "probability": 0.806
+    },
+    {
+      "word": " impulso,",
+      "start": 8.64,
+      "end": 9.26,
+      "probability": 0.759
+    },
+    {
+      "word": " uma",
+      "start": 9.84,
+      "end": 10.0,
+      "probability": 0.942
+    },
+    {
+      "word": " verdade",
+      "start": 10.0,
+      "end": 10.32,
+      "probability": 0.984
+    },
+    {
+      "word": " escondida,",
+      "start": 10.32,
+      "end": 11.06,
+      "probability": 0.994
+    },
+    {
+      "word": " uma",
+      "start": 11.72,
+      "end": 11.86,
+      "probability": 0.973
+    },
+    {
+      "word": " pessoa",
+      "start": 11.86,
+      "end": 12.18,
+      "probability": 0.998
+    },
+    {
+      "word": " que",
+      "start": 12.18,
+      "end": 12.34,
+      "probability": 0.999
+    },
+    {
+      "word": " precisava",
+      "start": 12.34,
+      "end": 12.88,
+      "probability": 0.997
+    },
+    {
+      "word": " de",
+      "start": 12.88,
+      "end": 13.0,
+      "probability": 0.997
+    },
+    {
+      "word": " n\u00f3s",
+      "start": 13.0,
+      "end": 13.26,
+      "probability": 0.996
+    },
+    {
+      "word": " e",
+      "start": 13.26,
+      "end": 13.96,
+      "probability": 0.829
+    },
+    {
+      "word": " recebeu",
+      "start": 13.96,
+      "end": 14.36,
+      "probability": 0.977
+    },
+    {
+      "word": " sil\u00eancio.",
+      "start": 14.36,
+      "end": 14.94,
+      "probability": 0.92
+    },
+    {
+      "word": " Uma",
+      "start": 15.46,
+      "end": 15.78,
+      "probability": 0.99
+    },
+    {
+      "word": " escolha",
+      "start": 15.78,
+      "end": 16.22,
+      "probability": 0.996
+    },
+    {
+      "word": " que,",
+      "start": 16.22,
+      "end": 16.44,
+      "probability": 0.505
+    },
+    {
+      "word": " depois,",
+      "start": 16.84,
+      "end": 17.42,
+      "probability": 0.992
+    },
+    {
+      "word": " parece",
+      "start": 18.06,
+      "end": 18.38,
+      "probability": 0.992
+    },
+    {
+      "word": " t\u00e3o",
+      "start": 18.38,
+      "end": 18.68,
+      "probability": 0.99
+    },
+    {
+      "word": " distante",
+      "start": 18.68,
+      "end": 19.1,
+      "probability": 0.993
+    },
+    {
+      "word": " de",
+      "start": 19.1,
+      "end": 19.34,
+      "probability": 0.977
+    },
+    {
+      "word": " quem",
+      "start": 19.34,
+      "end": 19.5,
+      "probability": 0.976
+    },
+    {
+      "word": " gostar\u00edamos",
+      "start": 19.5,
+      "end": 20.12,
+      "probability": 0.945
+    },
+    {
+      "word": " de",
+      "start": 20.12,
+      "end": 20.3,
+      "probability": 0.99
+    },
+    {
+      "word": " ser",
+      "start": 20.3,
+      "end": 20.6,
+      "probability": 0.997
+    },
+    {
+      "word": " que",
+      "start": 20.6,
+      "end": 21.08,
+      "probability": 0.87
+    },
+    {
+      "word": " a",
+      "start": 21.08,
+      "end": 21.12,
+      "probability": 0.986
+    },
+    {
+      "word": " vontade",
+      "start": 21.12,
+      "end": 21.44,
+      "probability": 0.995
+    },
+    {
+      "word": " \u00e9",
+      "start": 21.44,
+      "end": 21.62,
+      "probability": 0.165
+    },
+    {
+      "word": " voltar",
+      "start": 21.62,
+      "end": 21.8,
+      "probability": 0.978
+    },
+    {
+      "word": " no",
+      "start": 21.8,
+      "end": 22.16,
+      "probability": 0.987
+    },
+    {
+      "word": " tempo",
+      "start": 22.16,
+      "end": 22.56,
+      "probability": 0.992
+    },
+    {
+      "word": " e",
+      "start": 22.56,
+      "end": 23.26,
+      "probability": 0.932
+    },
+    {
+      "word": " apagar",
+      "start": 23.26,
+      "end": 23.5,
+      "probability": 0.936
+    },
+    {
+      "word": " tudo.",
+      "start": 23.5,
+      "end": 23.98,
+      "probability": 0.998
+    },
+    {
+      "word": " Quando",
+      "start": 24.54,
+      "end": 24.78,
+      "probability": 0.992
+    },
+    {
+      "word": " isso",
+      "start": 24.78,
+      "end": 24.96,
+      "probability": 0.992
+    },
+    {
+      "word": " acontece",
+      "start": 24.96,
+      "end": 25.32,
+      "probability": 0.97
+    },
+    {
+      "word": " a",
+      "start": 25.32,
+      "end": 25.6,
+      "probability": 0.769
+    },
+    {
+      "word": " vergonha",
+      "start": 25.6,
+      "end": 26.14,
+      "probability": 0.894
+    },
+    {
+      "word": " costuma",
+      "start": 26.14,
+      "end": 26.8,
+      "probability": 0.883
+    },
+    {
+      "word": " falar",
+      "start": 26.8,
+      "end": 27.06,
+      "probability": 0.98
+    },
+    {
+      "word": " alto.",
+      "start": 27.06,
+      "end": 27.42,
+      "probability": 0.989
+    },
+    {
+      "word": " Ela",
+      "start": 27.42,
+      "end": 28.34,
+      "probability": 0.36
+    },
+    {
+      "word": " diz,",
+      "start": 28.34,
+      "end": 28.52,
+      "probability": 0.924
+    },
+    {
+      "word": " agora",
+      "start": 29.06,
+      "end": 29.36,
+      "probability": 0.634
+    },
+    {
+      "word": " voc\u00ea",
+      "start": 29.36,
+      "end": 29.66,
+      "probability": 0.983
+    },
+    {
+      "word": " mostrou.",
+      "start": 29.66,
+      "end": 30.0,
+      "probability": 0.671
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 30.037,
+  "model_size": "base",
+  "device": "cpu"
+}

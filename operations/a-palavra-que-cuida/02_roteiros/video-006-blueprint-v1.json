@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-006",
+  "title": "Marta e Maria: quando servir vira ansiedade",
+  "primary_text": "Lucas 10:38-42",
+  "supporting_text": "João 11:5",
+  "promise": "Mostrar que Jesus não despreza o serviço de Marta, mas confronta a ansiedade que sequestra a presença.",
+  "audience_moment": "Pessoas que cuidam de tudo, carregam a casa, trabalham demais e sentem culpa quando param.",
+  "visual_direction": {
+    "core": "Casa brasileira, mesa, Bíblia, cozinha, cansaço, escuta e presença.",
+    "human_preference": "Mais mulheres brasileiras/latinas, com presença real e natural.",
+    "crochet_detail": "Incluir uma peça de crochê sutil uma vez, como trilho de mesa ou apoio de xícara.",
+    "avoid": [
+      "Marta caricata como vilã",
+      "Maria como pessoa preguiçosa",
+      "texto editorial fora de citações bíblicas",
+      "anjos ou sobrenatural não narrado"
+    ]
+  },
+  "short_candidates": [
+    {
+      "id": "v006-short-01",
+      "hook": "Servir pode virar ansiedade?",
+      "source_blocks": [
+        "03-quando-o-servico-perde-o-centro",
+        "04-jesus-chama-pelo-nome"
+      ],
+      "angle": "Quando fazer algo bom começa a adoecer o coração."
+    },
+    {
+      "id": "v006-short-02",
+      "hook": "Jesus não descartou Marta",
+      "source_blocks": [
+        "06-jesus-amava-marta"
+      ],
+      "angle": "Correção de Jesus sem vergonha destrutiva."
+    }
+  ],
+  "publication_bridge": {
+    "end_screen_targets": [
+      "video-002",
+      "video-004"
+    ],
+    "comment_prompt": "Hoje você se identifica mais com Marta, com Maria, ou com a tentativa difícil de servir sem perder a presença de Jesus?"
+  }
+}

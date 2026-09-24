@@ -1,0 +1,40 @@
+{
+  "version": "video-004-performance-v1",
+  "source_script": "video-004-roteiro-v1.md",
+  "performance_contract": {
+    "relationship": "Falar com uma pessoa, com proximidade e respeito, sem locução publicitária.",
+    "authority": "Autoridade pelo cuidado com o texto bíblico, sem tom professoral, especulativo ou superior.",
+    "interpretation": "Distinguir fato narrado, silêncio do Evangelho, contexto familiar, identidade de Jesus, aplicação e conclusão.",
+    "intensity": "Sereno, atento e reverente, sem melodrama religioso, tom de trailer ou curiosidade sensacionalista.",
+    "scripture": "Anunciar livro, capítulo e versículo; concluir a referência; ler o texto completo com reverência; somente então explicar.",
+    "pause_policy": "Sem break tags e sem pontuação artificial. Usar ideias completas, conectores, parágrafos semânticos e contexto anterior e posterior entre blocos.",
+    "cta": "Concluir a mensagem antes do convite; manter calor humano e abrir espaço para dois vídeos recomendados."
+  },
+  "api": {
+    "provider": "ElevenLabs",
+    "voice_name": "Bruno Cardoso",
+    "voice_id": "iF2QszmZhlyFLleUoFxy",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 271828,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    }
+  },
+  "blocks": [
+    {"id":"01-a-pergunta-que-existe-entre-duas-cenas","source_section":"01","function":"Abrir a curiosidade sobre a infância de Jesus e afirmar o compromisso com o que o Evangelho registra."},
+    {"id":"02-o-que-o-evangelho-mostra","source_section":"02","function":"Distinguir o relato de Lucas e Mateus de imaginações posteriores e apresentar Lucas 2:40."},
+    {"id":"03-uma-familia-que-volta-todos-os-anos","source_section":"03","function":"Mostrar a prática familiar de fé e conduzir à viagem dos doze anos."},
+    {"id":"04-o-menino-no-templo","source_section":"04","function":"Narrar a busca e interpretar Jesus ouvindo e perguntando no templo."},
+    {"id":"05-uma-resposta-que-abre-o-centro","source_section":"05","function":"Ler Lucas 2:49 e explicar a identidade e a missão de Jesus sem opor missão e família."},
+    {"id":"06-o-versiculo-que-impede-dois-erros","source_section":"06","function":"Ler Lucas 2:51 e manter juntas a missão única de Jesus e sua submissão concreta em Nazaré."},
+    {"id":"07-crescer-tambem-e-parte-da-historia","source_section":"07","function":"Ler Lucas 2:52 e aplicar o valor do amadurecimento sem igualar a audiência a Jesus."},
+    {"id":"08-o-silencio-dos-anos","source_section":"08","function":"Respeitar o que o Evangelho não narra e resumir o que a infância revelada afirma."},
+    {"id":"09-fechamento-e-convite","source_section":"09","function":"Concluir a tese, identificar o canal, oferecer dois próximos vídeos e provocar comentário editorial."}
+  ]
+}

@@ -1,0 +1,998 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 0.94,
+      "text": "que precisam ser feitas,",
+      "words": [
+        {
+          "word": " que",
+          "start": 0.0,
+          "end": 0.0,
+          "probability": 0.016
+        },
+        {
+          "word": " precisam",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.824
+        },
+        {
+          "word": " ser",
+          "start": 0.28,
+          "end": 0.5,
+          "probability": 0.972
+        },
+        {
+          "word": " feitas,",
+          "start": 0.5,
+          "end": 0.94,
+          "probability": 0.967
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 1.4,
+      "end": 3.92,
+      "text": "alimentos que precisam ser respeitados,",
+      "words": [
+        {
+          "word": " alimentos",
+          "start": 1.4,
+          "end": 1.7,
+          "probability": 0.1
+        },
+        {
+          "word": " que",
+          "start": 1.7,
+          "end": 2.1,
+          "probability": 0.993
+        },
+        {
+          "word": " precisam",
+          "start": 2.1,
+          "end": 2.56,
+          "probability": 0.999
+        },
+        {
+          "word": " ser",
+          "start": 2.56,
+          "end": 2.82,
+          "probability": 0.997
+        },
+        {
+          "word": " respeitados,",
+          "start": 2.82,
+          "end": 3.92,
+          "probability": 0.987
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 4.6,
+      "end": 6.74,
+      "text": "as rela\u00e7\u00f5es que talvez precisem de tempo",
+      "words": [
+        {
+          "word": " as",
+          "start": 4.6,
+          "end": 4.86,
+          "probability": 0.582
+        },
+        {
+          "word": " rela\u00e7\u00f5es",
+          "start": 4.86,
+          "end": 5.24,
+          "probability": 0.987
+        },
+        {
+          "word": " que",
+          "start": 5.24,
+          "end": 5.44,
+          "probability": 0.984
+        },
+        {
+          "word": " talvez",
+          "start": 5.44,
+          "end": 5.7,
+          "probability": 0.989
+        },
+        {
+          "word": " precisem",
+          "start": 5.7,
+          "end": 6.26,
+          "probability": 0.803
+        },
+        {
+          "word": " de",
+          "start": 6.26,
+          "end": 6.4,
+          "probability": 0.995
+        },
+        {
+          "word": " tempo",
+          "start": 6.4,
+          "end": 6.74,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 6.74,
+      "end": 10.62,
+      "text": "e outras que n\u00e3o podem ser retomadas sem seguran\u00e7a.",
+      "words": [
+        {
+          "word": " e",
+          "start": 6.74,
+          "end": 7.38,
+          "probability": 0.683
+        },
+        {
+          "word": " outras",
+          "start": 7.38,
+          "end": 7.62,
+          "probability": 0.985
+        },
+        {
+          "word": " que",
+          "start": 7.62,
+          "end": 7.86,
+          "probability": 0.983
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 7.86,
+          "end": 7.98,
+          "probability": 0.993
+        },
+        {
+          "word": " podem",
+          "start": 7.98,
+          "end": 8.32,
+          "probability": 0.992
+        },
+        {
+          "word": " ser",
+          "start": 8.32,
+          "end": 8.66,
+          "probability": 0.997
+        },
+        {
+          "word": " retomadas",
+          "start": 8.66,
+          "end": 9.56,
+          "probability": 0.984
+        },
+        {
+          "word": " sem",
+          "start": 9.56,
+          "end": 10.06,
+          "probability": 0.951
+        },
+        {
+          "word": " seguran\u00e7a.",
+          "start": 10.06,
+          "end": 10.62,
+          "probability": 0.991
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 11.46,
+      "end": 14.88,
+      "text": "A gra\u00e7a n\u00e3o \u00e9 uma desculpa para escapar da verdade,",
+      "words": [
+        {
+          "word": " A",
+          "start": 11.46,
+          "end": 11.88,
+          "probability": 0.907
+        },
+        {
+          "word": " gra\u00e7a",
+          "start": 11.88,
+          "end": 12.2,
+          "probability": 0.925
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 12.2,
+          "end": 12.32,
+          "probability": 0.993
+        },
+        {
+          "word": " \u00e9",
+          "start": 12.32,
+          "end": 12.46,
+          "probability": 0.996
+        },
+        {
+          "word": " uma",
+          "start": 12.46,
+          "end": 12.58,
+          "probability": 0.992
+        },
+        {
+          "word": " desculpa",
+          "start": 12.58,
+          "end": 13.12,
+          "probability": 0.961
+        },
+        {
+          "word": " para",
+          "start": 13.12,
+          "end": 13.78,
+          "probability": 0.44
+        },
+        {
+          "word": " escapar",
+          "start": 13.78,
+          "end": 14.2,
+          "probability": 0.98
+        },
+        {
+          "word": " da",
+          "start": 14.2,
+          "end": 14.36,
+          "probability": 0.981
+        },
+        {
+          "word": " verdade,",
+          "start": 14.36,
+          "end": 14.88,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 15.22,
+      "end": 17.28,
+      "text": "\u00e9 o lugar seguro para come\u00e7ar a encarar.",
+      "words": [
+        {
+          "word": " \u00e9",
+          "start": 15.22,
+          "end": 15.42,
+          "probability": 0.982
+        },
+        {
+          "word": " o",
+          "start": 15.42,
+          "end": 15.48,
+          "probability": 0.978
+        },
+        {
+          "word": " lugar",
+          "start": 15.48,
+          "end": 15.66,
+          "probability": 0.995
+        },
+        {
+          "word": " seguro",
+          "start": 15.66,
+          "end": 16.04,
+          "probability": 0.981
+        },
+        {
+          "word": " para",
+          "start": 16.04,
+          "end": 16.32,
+          "probability": 0.977
+        },
+        {
+          "word": " come\u00e7ar",
+          "start": 16.32,
+          "end": 16.8,
+          "probability": 0.969
+        },
+        {
+          "word": " a",
+          "start": 16.8,
+          "end": 16.98,
+          "probability": 0.924
+        },
+        {
+          "word": " encarar.",
+          "start": 16.98,
+          "end": 17.28,
+          "probability": 0.787
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 17.7,
+      "end": 21.68,
+      "text": "Pedro seguiu Jesus de longe at\u00e9 o p\u00e1tio da casa do sumo sacerdote,",
+      "words": [
+        {
+          "word": " Pedro",
+          "start": 17.7,
+          "end": 18.2,
+          "probability": 0.857
+        },
+        {
+          "word": " seguiu",
+          "start": 18.2,
+          "end": 18.52,
+          "probability": 0.983
+        },
+        {
+          "word": " Jesus",
+          "start": 18.52,
+          "end": 18.86,
+          "probability": 0.451
+        },
+        {
+          "word": " de",
+          "start": 18.86,
+          "end": 19.18,
+          "probability": 0.918
+        },
+        {
+          "word": " longe",
+          "start": 19.18,
+          "end": 19.4,
+          "probability": 0.974
+        },
+        {
+          "word": " at\u00e9",
+          "start": 19.4,
+          "end": 19.74,
+          "probability": 0.993
+        },
+        {
+          "word": " o",
+          "start": 19.74,
+          "end": 19.84,
+          "probability": 0.992
+        },
+        {
+          "word": " p\u00e1tio",
+          "start": 19.84,
+          "end": 20.24,
+          "probability": 0.762
+        },
+        {
+          "word": " da",
+          "start": 20.24,
+          "end": 20.32,
+          "probability": 0.991
+        },
+        {
+          "word": " casa",
+          "start": 20.32,
+          "end": 20.58,
+          "probability": 0.973
+        },
+        {
+          "word": " do",
+          "start": 20.58,
+          "end": 20.82,
+          "probability": 0.798
+        },
+        {
+          "word": " sumo",
+          "start": 20.82,
+          "end": 21.1,
+          "probability": 0.622
+        },
+        {
+          "word": " sacerdote,",
+          "start": 21.1,
+          "end": 21.68,
+          "probability": 0.964
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 22.2,
+      "end": 23.86,
+      "text": "ali perto de um fogo,",
+      "words": [
+        {
+          "word": " ali",
+          "start": 22.2,
+          "end": 22.42,
+          "probability": 0.992
+        },
+        {
+          "word": " perto",
+          "start": 22.42,
+          "end": 23.16,
+          "probability": 0.961
+        },
+        {
+          "word": " de",
+          "start": 23.16,
+          "end": 23.34,
+          "probability": 0.995
+        },
+        {
+          "word": " um",
+          "start": 23.34,
+          "end": 23.42,
+          "probability": 0.997
+        },
+        {
+          "word": " fogo,",
+          "start": 23.42,
+          "end": 23.86,
+          "probability": 0.983
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 24.18,
+      "end": 25.16,
+      "text": "ele foi reconhecido.",
+      "words": [
+        {
+          "word": " ele",
+          "start": 24.18,
+          "end": 24.24,
+          "probability": 0.794
+        },
+        {
+          "word": " foi",
+          "start": 24.24,
+          "end": 24.46,
+          "probability": 0.998
+        },
+        {
+          "word": " reconhecido.",
+          "start": 24.46,
+          "end": 25.16,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 25.82,
+      "end": 27.7,
+      "text": "Uma pessoa disse que ele estava com Jesus,",
+      "words": [
+        {
+          "word": " Uma",
+          "start": 25.82,
+          "end": 26.06,
+          "probability": 0.979
+        },
+        {
+          "word": " pessoa",
+          "start": 26.06,
+          "end": 26.36,
+          "probability": 0.999
+        },
+        {
+          "word": " disse",
+          "start": 26.36,
+          "end": 26.6,
+          "probability": 0.983
+        },
+        {
+          "word": " que",
+          "start": 26.6,
+          "end": 26.86,
+          "probability": 0.997
+        },
+        {
+          "word": " ele",
+          "start": 26.86,
+          "end": 27.0,
+          "probability": 0.787
+        },
+        {
+          "word": " estava",
+          "start": 27.0,
+          "end": 27.24,
+          "probability": 0.991
+        },
+        {
+          "word": " com",
+          "start": 27.24,
+          "end": 27.42,
+          "probability": 0.996
+        },
+        {
+          "word": " Jesus,",
+          "start": 27.42,
+          "end": 27.7,
+          "probability": 0.977
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 27.7,
+      "end": 30.0,
+      "text": "Pedro negou, depois...",
+      "words": [
+        {
+          "word": " Pedro",
+          "start": 27.7,
+          "end": 28.92,
+          "probability": 0.394
+        },
+        {
+          "word": " negou,",
+          "start": 28.92,
+          "end": 29.32,
+          "probability": 0.544
+        },
+        {
+          "word": " depois...",
+          "start": 29.78,
+          "end": 30.0,
+          "probability": 0.616
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " que",
+      "start": 0.0,
+      "end": 0.0,
+      "probability": 0.016
+    },
+    {
+      "word": " precisam",
+      "start": 0.0,
+      "end": 0.28,
+      "probability": 0.824
+    },
+    {
+      "word": " ser",
+      "start": 0.28,
+      "end": 0.5,
+      "probability": 0.972
+    },
+    {
+      "word": " feitas,",
+      "start": 0.5,
+      "end": 0.94,
+      "probability": 0.967
+    },
+    {
+      "word": " alimentos",
+      "start": 1.4,
+      "end": 1.7,
+      "probability": 0.1
+    },
+    {
+      "word": " que",
+      "start": 1.7,
+      "end": 2.1,
+      "probability": 0.993
+    },
+    {
+      "word": " precisam",
+      "start": 2.1,
+      "end": 2.56,
+      "probability": 0.999
+    },
+    {
+      "word": " ser",
+      "start": 2.56,
+      "end": 2.82,
+      "probability": 0.997
+    },
+    {
+      "word": " respeitados,",
+      "start": 2.82,
+      "end": 3.92,
+      "probability": 0.987
+    },
+    {
+      "word": " as",
+      "start": 4.6,
+      "end": 4.86,
+      "probability": 0.582
+    },
+    {
+      "word": " rela\u00e7\u00f5es",
+      "start": 4.86,
+      "end": 5.24,
+      "probability": 0.987
+    },
+    {
+      "word": " que",
+      "start": 5.24,
+      "end": 5.44,
+      "probability": 0.984
+    },
+    {
+      "word": " talvez",
+      "start": 5.44,
+      "end": 5.7,
+      "probability": 0.989
+    },
+    {
+      "word": " precisem",
+      "start": 5.7,
+      "end": 6.26,
+      "probability": 0.803
+    },
+    {
+      "word": " de",
+      "start": 6.26,
+      "end": 6.4,
+      "probability": 0.995
+    },
+    {
+      "word": " tempo",
+      "start": 6.4,
+      "end": 6.74,
+      "probability": 0.996
+    },
+    {
+      "word": " e",
+      "start": 6.74,
+      "end": 7.38,
+      "probability": 0.683
+    },
+    {
+      "word": " outras",
+      "start": 7.38,
+      "end": 7.62,
+      "probability": 0.985
+    },
+    {
+      "word": " que",
+      "start": 7.62,
+      "end": 7.86,
+      "probability": 0.983
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 7.86,
+      "end": 7.98,
+      "probability": 0.993
+    },
+    {
+      "word": " podem",
+      "start": 7.98,
+      "end": 8.32,
+      "probability": 0.992
+    },
+    {
+      "word": " ser",
+      "start": 8.32,
+      "end": 8.66,
+      "probability": 0.997
+    },
+    {
+      "word": " retomadas",
+      "start": 8.66,
+      "end": 9.56,
+      "probability": 0.984
+    },
+    {
+      "word": " sem",
+      "start": 9.56,
+      "end": 10.06,
+      "probability": 0.951
+    },
+    {
+      "word": " seguran\u00e7a.",
+      "start": 10.06,
+      "end": 10.62,
+      "probability": 0.991
+    },
+    {
+      "word": " A",
+      "start": 11.46,
+      "end": 11.88,
+      "probability": 0.907
+    },
+    {
+      "word": " gra\u00e7a",
+      "start": 11.88,
+      "end": 12.2,
+      "probability": 0.925
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 12.2,
+      "end": 12.32,
+      "probability": 0.993
+    },
+    {
+      "word": " \u00e9",
+      "start": 12.32,
+      "end": 12.46,
+      "probability": 0.996
+    },
+    {
+      "word": " uma",
+      "start": 12.46,
+      "end": 12.58,
+      "probability": 0.992
+    },
+    {
+      "word": " desculpa",
+      "start": 12.58,
+      "end": 13.12,
+      "probability": 0.961
+    },
+    {
+      "word": " para",
+      "start": 13.12,
+      "end": 13.78,
+      "probability": 0.44
+    },
+    {
+      "word": " escapar",
+      "start": 13.78,
+      "end": 14.2,
+      "probability": 0.98
+    },
+    {
+      "word": " da",
+      "start": 14.2,
+      "end": 14.36,
+      "probability": 0.981
+    },
+    {
+      "word": " verdade,",
+      "start": 14.36,
+      "end": 14.88,
+      "probability": 0.997
+    },
+    {
+      "word": " \u00e9",
+      "start": 15.22,
+      "end": 15.42,
+      "probability": 0.982
+    },
+    {
+      "word": " o",
+      "start": 15.42,
+      "end": 15.48,
+      "probability": 0.978
+    },
+    {
+      "word": " lugar",
+      "start": 15.48,
+      "end": 15.66,
+      "probability": 0.995
+    },
+    {
+      "word": " seguro",
+      "start": 15.66,
+      "end": 16.04,
+      "probability": 0.981
+    },
+    {
+      "word": " para",
+      "start": 16.04,
+      "end": 16.32,
+      "probability": 0.977
+    },
+    {
+      "word": " come\u00e7ar",
+      "start": 16.32,
+      "end": 16.8,
+      "probability": 0.969
+    },
+    {
+      "word": " a",
+      "start": 16.8,
+      "end": 16.98,
+      "probability": 0.924
+    },
+    {
+      "word": " encarar.",
+      "start": 16.98,
+      "end": 17.28,
+      "probability": 0.787
+    },
+    {
+      "word": " Pedro",
+      "start": 17.7,
+      "end": 18.2,
+      "probability": 0.857
+    },
+    {
+      "word": " seguiu",
+      "start": 18.2,
+      "end": 18.52,
+      "probability": 0.983
+    },
+    {
+      "word": " Jesus",
+      "start": 18.52,
+      "end": 18.86,
+      "probability": 0.451
+    },
+    {
+      "word": " de",
+      "start": 18.86,
+      "end": 19.18,
+      "probability": 0.918
+    },
+    {
+      "word": " longe",
+      "start": 19.18,
+      "end": 19.4,
+      "probability": 0.974
+    },
+    {
+      "word": " at\u00e9",
+      "start": 19.4,
+      "end": 19.74,
+      "probability": 0.993
+    },
+    {
+      "word": " o",
+      "start": 19.74,
+      "end": 19.84,
+      "probability": 0.992
+    },
+    {
+      "word": " p\u00e1tio",
+      "start": 19.84,
+      "end": 20.24,
+      "probability": 0.762
+    },
+    {
+      "word": " da",
+      "start": 20.24,
+      "end": 20.32,
+      "probability": 0.991
+    },
+    {
+      "word": " casa",
+      "start": 20.32,
+      "end": 20.58,
+      "probability": 0.973
+    },
+    {
+      "word": " do",
+      "start": 20.58,
+      "end": 20.82,
+      "probability": 0.798
+    },
+    {
+      "word": " sumo",
+      "start": 20.82,
+      "end": 21.1,
+      "probability": 0.622
+    },
+    {
+      "word": " sacerdote,",
+      "start": 21.1,
+      "end": 21.68,
+      "probability": 0.964
+    },
+    {
+      "word": " ali",
+      "start": 22.2,
+      "end": 22.42,
+      "probability": 0.992
+    },
+    {
+      "word": " perto",
+      "start": 22.42,
+      "end": 23.16,
+      "probability": 0.961
+    },
+    {
+      "word": " de",
+      "start": 23.16,
+      "end": 23.34,
+      "probability": 0.995
+    },
+    {
+      "word": " um",
+      "start": 23.34,
+      "end": 23.42,
+      "probability": 0.997
+    },
+    {
+      "word": " fogo,",
+      "start": 23.42,
+      "end": 23.86,
+      "probability": 0.983
+    },
+    {
+      "word": " ele",
+      "start": 24.18,
+      "end": 24.24,
+      "probability": 0.794
+    },
+    {
+      "word": " foi",
+      "start": 24.24,
+      "end": 24.46,
+      "probability": 0.998
+    },
+    {
+      "word": " reconhecido.",
+      "start": 24.46,
+      "end": 25.16,
+      "probability": 0.99
+    },
+    {
+      "word": " Uma",
+      "start": 25.82,
+      "end": 26.06,
+      "probability": 0.979
+    },
+    {
+      "word": " pessoa",
+      "start": 26.06,
+      "end": 26.36,
+      "probability": 0.999
+    },
+    {
+      "word": " disse",
+      "start": 26.36,
+      "end": 26.6,
+      "probability": 0.983
+    },
+    {
+      "word": " que",
+      "start": 26.6,
+      "end": 26.86,
+      "probability": 0.997
+    },
+    {
+      "word": " ele",
+      "start": 26.86,
+      "end": 27.0,
+      "probability": 0.787
+    },
+    {
+      "word": " estava",
+      "start": 27.0,
+      "end": 27.24,
+      "probability": 0.991
+    },
+    {
+      "word": " com",
+      "start": 27.24,
+      "end": 27.42,
+      "probability": 0.996
+    },
+    {
+      "word": " Jesus,",
+      "start": 27.42,
+      "end": 27.7,
+      "probability": 0.977
+    },
+    {
+      "word": " Pedro",
+      "start": 27.7,
+      "end": 28.92,
+      "probability": 0.394
+    },
+    {
+      "word": " negou,",
+      "start": 28.92,
+      "end": 29.32,
+      "probability": 0.544
+    },
+    {
+      "word": " depois...",
+      "start": 29.78,
+      "end": 30.0,
+      "probability": 0.616
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 30.037,
+  "model_size": "base",
+  "device": "cpu"
+}

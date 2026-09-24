@@ -1,0 +1,1970 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.18,
+      "text": "O convite \u00e9 parar de somar ao peso de hoje todos os pesos imaginados de amanh\u00e3.",
+      "words": [
+        {
+          "word": " O",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.573
+        },
+        {
+          "word": " convite",
+          "start": 0.3,
+          "end": 0.72,
+          "probability": 0.991
+        },
+        {
+          "word": " \u00e9",
+          "start": 0.72,
+          "end": 0.84,
+          "probability": 0.994
+        },
+        {
+          "word": " parar",
+          "start": 0.84,
+          "end": 1.12,
+          "probability": 0.991
+        },
+        {
+          "word": " de",
+          "start": 1.12,
+          "end": 1.48,
+          "probability": 0.995
+        },
+        {
+          "word": " somar",
+          "start": 1.48,
+          "end": 2.32,
+          "probability": 0.998
+        },
+        {
+          "word": " ao",
+          "start": 2.32,
+          "end": 2.58,
+          "probability": 0.752
+        },
+        {
+          "word": " peso",
+          "start": 2.58,
+          "end": 2.98,
+          "probability": 0.958
+        },
+        {
+          "word": " de",
+          "start": 2.98,
+          "end": 3.18,
+          "probability": 0.999
+        },
+        {
+          "word": " hoje",
+          "start": 3.18,
+          "end": 3.46,
+          "probability": 0.999
+        },
+        {
+          "word": " todos",
+          "start": 3.46,
+          "end": 4.08,
+          "probability": 0.906
+        },
+        {
+          "word": " os",
+          "start": 4.08,
+          "end": 4.36,
+          "probability": 0.998
+        },
+        {
+          "word": " pesos",
+          "start": 4.36,
+          "end": 4.66,
+          "probability": 0.964
+        },
+        {
+          "word": " imaginados",
+          "start": 4.66,
+          "end": 5.68,
+          "probability": 0.992
+        },
+        {
+          "word": " de",
+          "start": 5.68,
+          "end": 5.84,
+          "probability": 0.965
+        },
+        {
+          "word": " amanh\u00e3.",
+          "start": 5.84,
+          "end": 6.18,
+          "probability": 0.993
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.96,
+      "end": 11.32,
+      "text": "Quando a preocupa\u00e7\u00e3o crescer, talvez voc\u00ea possa distinguir tr\u00eas coisas.",
+      "words": [
+        {
+          "word": " Quando",
+          "start": 6.96,
+          "end": 7.26,
+          "probability": 0.975
+        },
+        {
+          "word": " a",
+          "start": 7.26,
+          "end": 7.42,
+          "probability": 0.995
+        },
+        {
+          "word": " preocupa\u00e7\u00e3o",
+          "start": 7.42,
+          "end": 7.98,
+          "probability": 0.999
+        },
+        {
+          "word": " crescer,",
+          "start": 7.98,
+          "end": 8.58,
+          "probability": 0.993
+        },
+        {
+          "word": " talvez",
+          "start": 9.08,
+          "end": 9.38,
+          "probability": 0.992
+        },
+        {
+          "word": " voc\u00ea",
+          "start": 9.38,
+          "end": 9.64,
+          "probability": 0.994
+        },
+        {
+          "word": " possa",
+          "start": 9.64,
+          "end": 9.96,
+          "probability": 0.999
+        },
+        {
+          "word": " distinguir",
+          "start": 9.96,
+          "end": 10.58,
+          "probability": 0.934
+        },
+        {
+          "word": " tr\u00eas",
+          "start": 10.58,
+          "end": 10.88,
+          "probability": 0.719
+        },
+        {
+          "word": " coisas.",
+          "start": 10.88,
+          "end": 11.32,
+          "probability": 0.999
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 11.96,
+      "end": 14.78,
+      "text": "Primeiro, o que \u00e9 fato e o que \u00e9 previs\u00e3o?",
+      "words": [
+        {
+          "word": " Primeiro,",
+          "start": 11.96,
+          "end": 12.36,
+          "probability": 0.948
+        },
+        {
+          "word": " o",
+          "start": 12.68,
+          "end": 12.74,
+          "probability": 0.974
+        },
+        {
+          "word": " que",
+          "start": 12.74,
+          "end": 12.86,
+          "probability": 0.997
+        },
+        {
+          "word": " \u00e9",
+          "start": 12.86,
+          "end": 12.92,
+          "probability": 0.996
+        },
+        {
+          "word": " fato",
+          "start": 12.92,
+          "end": 13.28,
+          "probability": 0.987
+        },
+        {
+          "word": " e",
+          "start": 13.28,
+          "end": 14.02,
+          "probability": 0.882
+        },
+        {
+          "word": " o",
+          "start": 14.02,
+          "end": 14.08,
+          "probability": 0.977
+        },
+        {
+          "word": " que",
+          "start": 14.08,
+          "end": 14.2,
+          "probability": 0.997
+        },
+        {
+          "word": " \u00e9",
+          "start": 14.2,
+          "end": 14.3,
+          "probability": 0.995
+        },
+        {
+          "word": " previs\u00e3o?",
+          "start": 14.3,
+          "end": 14.78,
+          "probability": 0.879
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 15.76,
+      "end": 22.22,
+      "text": "Existe uma conta, uma conversa, um exame ou uma decis\u00e3o real, mas tamb\u00e9m podem existir",
+      "words": [
+        {
+          "word": " Existe",
+          "start": 15.76,
+          "end": 16.18,
+          "probability": 0.992
+        },
+        {
+          "word": " uma",
+          "start": 16.18,
+          "end": 16.34,
+          "probability": 0.998
+        },
+        {
+          "word": " conta,",
+          "start": 16.34,
+          "end": 16.74,
+          "probability": 0.998
+        },
+        {
+          "word": " uma",
+          "start": 17.22,
+          "end": 17.26,
+          "probability": 0.989
+        },
+        {
+          "word": " conversa,",
+          "start": 17.26,
+          "end": 17.88,
+          "probability": 0.999
+        },
+        {
+          "word": " um",
+          "start": 18.28,
+          "end": 18.4,
+          "probability": 0.995
+        },
+        {
+          "word": " exame",
+          "start": 18.4,
+          "end": 18.82,
+          "probability": 0.995
+        },
+        {
+          "word": " ou",
+          "start": 18.82,
+          "end": 19.62,
+          "probability": 0.95
+        },
+        {
+          "word": " uma",
+          "start": 19.62,
+          "end": 19.76,
+          "probability": 0.998
+        },
+        {
+          "word": " decis\u00e3o",
+          "start": 19.76,
+          "end": 20.16,
+          "probability": 0.999
+        },
+        {
+          "word": " real,",
+          "start": 20.16,
+          "end": 20.42,
+          "probability": 0.998
+        },
+        {
+          "word": " mas",
+          "start": 20.98,
+          "end": 21.2,
+          "probability": 0.995
+        },
+        {
+          "word": " tamb\u00e9m",
+          "start": 21.2,
+          "end": 21.46,
+          "probability": 0.989
+        },
+        {
+          "word": " podem",
+          "start": 21.46,
+          "end": 21.74,
+          "probability": 0.996
+        },
+        {
+          "word": " existir",
+          "start": 21.74,
+          "end": 22.22,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 22.22,
+      "end": 28.28,
+      "text": "dez finais diferentes que a sua mente escreveu sem ainda possuir todas as informa\u00e7\u00f5es.",
+      "words": [
+        {
+          "word": " dez",
+          "start": 22.22,
+          "end": 22.46,
+          "probability": 0.82
+        },
+        {
+          "word": " finais",
+          "start": 22.46,
+          "end": 22.8,
+          "probability": 0.976
+        },
+        {
+          "word": " diferentes",
+          "start": 22.8,
+          "end": 23.2,
+          "probability": 0.994
+        },
+        {
+          "word": " que",
+          "start": 23.2,
+          "end": 23.6,
+          "probability": 0.942
+        },
+        {
+          "word": " a",
+          "start": 23.6,
+          "end": 23.7,
+          "probability": 0.942
+        },
+        {
+          "word": " sua",
+          "start": 23.7,
+          "end": 23.84,
+          "probability": 0.976
+        },
+        {
+          "word": " mente",
+          "start": 23.84,
+          "end": 24.12,
+          "probability": 0.995
+        },
+        {
+          "word": " escreveu",
+          "start": 24.12,
+          "end": 25.04,
+          "probability": 0.995
+        },
+        {
+          "word": " sem",
+          "start": 25.04,
+          "end": 25.38,
+          "probability": 0.905
+        },
+        {
+          "word": " ainda",
+          "start": 25.38,
+          "end": 25.74,
+          "probability": 0.996
+        },
+        {
+          "word": " possuir",
+          "start": 25.74,
+          "end": 26.34,
+          "probability": 0.995
+        },
+        {
+          "word": " todas",
+          "start": 26.34,
+          "end": 27.12,
+          "probability": 0.98
+        },
+        {
+          "word": " as",
+          "start": 27.12,
+          "end": 27.72,
+          "probability": 0.999
+        },
+        {
+          "word": " informa\u00e7\u00f5es.",
+          "start": 27.72,
+          "end": 28.28,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 28.28,
+      "end": 33.54,
+      "text": "Segundo, qual a\u00e7\u00e3o est\u00e1 o seu alcance e qual resultado n\u00e3o est\u00e1?",
+      "words": [
+        {
+          "word": " Segundo,",
+          "start": 28.28,
+          "end": 29.6,
+          "probability": 0.499
+        },
+        {
+          "word": " qual",
+          "start": 30.14,
+          "end": 30.44,
+          "probability": 0.871
+        },
+        {
+          "word": " a\u00e7\u00e3o",
+          "start": 30.44,
+          "end": 30.86,
+          "probability": 0.957
+        },
+        {
+          "word": " est\u00e1",
+          "start": 30.86,
+          "end": 31.06,
+          "probability": 0.99
+        },
+        {
+          "word": " o",
+          "start": 31.06,
+          "end": 31.22,
+          "probability": 0.384
+        },
+        {
+          "word": " seu",
+          "start": 31.22,
+          "end": 31.3,
+          "probability": 0.999
+        },
+        {
+          "word": " alcance",
+          "start": 31.3,
+          "end": 31.84,
+          "probability": 0.998
+        },
+        {
+          "word": " e",
+          "start": 31.84,
+          "end": 32.4,
+          "probability": 0.791
+        },
+        {
+          "word": " qual",
+          "start": 32.4,
+          "end": 32.56,
+          "probability": 0.97
+        },
+        {
+          "word": " resultado",
+          "start": 32.56,
+          "end": 33.04,
+          "probability": 0.919
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 33.04,
+          "end": 33.26,
+          "probability": 0.992
+        },
+        {
+          "word": " est\u00e1?",
+          "start": 33.26,
+          "end": 33.54,
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 34.66,
+      "end": 39.28,
+      "text": "Voc\u00ea pode fazer uma liga\u00e7\u00e3o, organizar documentos, pedir orienta\u00e7\u00e3o,",
+      "words": [
+        {
+          "word": " Voc\u00ea",
+          "start": 34.66,
+          "end": 34.82,
+          "probability": 0.968
+        },
+        {
+          "word": " pode",
+          "start": 34.82,
+          "end": 35.0,
+          "probability": 0.997
+        },
+        {
+          "word": " fazer",
+          "start": 35.0,
+          "end": 35.26,
+          "probability": 0.997
+        },
+        {
+          "word": " uma",
+          "start": 35.26,
+          "end": 35.4,
+          "probability": 0.992
+        },
+        {
+          "word": " liga\u00e7\u00e3o,",
+          "start": 35.4,
+          "end": 35.96,
+          "probability": 0.993
+        },
+        {
+          "word": " organizar",
+          "start": 36.48,
+          "end": 37.0,
+          "probability": 0.998
+        },
+        {
+          "word": " documentos,",
+          "start": 37.0,
+          "end": 37.8,
+          "probability": 0.998
+        },
+        {
+          "word": " pedir",
+          "start": 38.24,
+          "end": 38.46,
+          "probability": 0.994
+        },
+        {
+          "word": " orienta\u00e7\u00e3o,",
+          "start": 38.46,
+          "end": 39.28,
+          "probability": 0.987
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 39.8,
+      "end": 42.24,
+      "text": "procurar atendimento ou conversar com algu\u00e9m.",
+      "words": [
+        {
+          "word": " procurar",
+          "start": 39.8,
+          "end": 40.26,
+          "probability": 0.995
+        },
+        {
+          "word": " atendimento",
+          "start": 40.26,
+          "end": 40.88,
+          "probability": 0.996
+        },
+        {
+          "word": " ou",
+          "start": 40.88,
+          "end": 41.16,
+          "probability": 0.948
+        },
+        {
+          "word": " conversar",
+          "start": 41.16,
+          "end": 41.76,
+          "probability": 0.999
+        },
+        {
+          "word": " com",
+          "start": 41.76,
+          "end": 41.9,
+          "probability": 0.998
+        },
+        {
+          "word": " algu\u00e9m.",
+          "start": 41.9,
+          "end": 42.24,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 43.28,
+      "end": 49.26,
+      "text": "Mas n\u00e3o pode comandar a resposta de todas as pessoas nem garantir cada consequ\u00eancia.",
+      "words": [
+        {
+          "word": " Mas",
+          "start": 43.28,
+          "end": 43.78,
+          "probability": 0.991
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 43.78,
+          "end": 43.9,
+          "probability": 0.926
+        },
+        {
+          "word": " pode",
+          "start": 43.9,
+          "end": 44.2,
+          "probability": 0.996
+        },
+        {
+          "word": " comandar",
+          "start": 44.2,
+          "end": 44.78,
+          "probability": 0.949
+        },
+        {
+          "word": " a",
+          "start": 44.78,
+          "end": 45.54,
+          "probability": 0.973
+        },
+        {
+          "word": " resposta",
+          "start": 45.54,
+          "end": 46.0,
+          "probability": 0.984
+        },
+        {
+          "word": " de",
+          "start": 46.0,
+          "end": 46.3,
+          "probability": 0.995
+        },
+        {
+          "word": " todas",
+          "start": 46.3,
+          "end": 46.58,
+          "probability": 0.989
+        },
+        {
+          "word": " as",
+          "start": 46.58,
+          "end": 46.86,
+          "probability": 0.987
+        },
+        {
+          "word": " pessoas",
+          "start": 46.86,
+          "end": 47.32,
+          "probability": 0.999
+        },
+        {
+          "word": " nem",
+          "start": 47.32,
+          "end": 47.62,
+          "probability": 0.856
+        },
+        {
+          "word": " garantir",
+          "start": 47.62,
+          "end": 48.18,
+          "probability": 0.999
+        },
+        {
+          "word": " cada",
+          "start": 48.18,
+          "end": 48.42,
+          "probability": 0.992
+        },
+        {
+          "word": " consequ\u00eancia.",
+          "start": 48.42,
+          "end": 49.26,
+          "probability": 0.988
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 50.06,
+      "end": 52.9,
+      "text": "Terceiro, o que pertence a este dia?",
+      "words": [
+        {
+          "word": " Terceiro,",
+          "start": 50.06,
+          "end": 50.76,
+          "probability": 0.981
+        },
+        {
+          "word": " o",
+          "start": 51.58,
+          "end": 51.64,
+          "probability": 0.939
+        },
+        {
+          "word": " que",
+          "start": 51.64,
+          "end": 51.72,
+          "probability": 0.999
+        },
+        {
+          "word": " pertence",
+          "start": 51.72,
+          "end": 52.2,
+          "probability": 0.965
+        },
+        {
+          "word": " a",
+          "start": 52.2,
+          "end": 52.38,
+          "probability": 0.981
+        },
+        {
+          "word": " este",
+          "start": 52.38,
+          "end": 52.56,
+          "probability": 0.965
+        },
+        {
+          "word": " dia?",
+          "start": 52.56,
+          "end": 52.9,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 53.9,
+      "end": 59.22,
+      "text": "Talvez a vida n\u00e3o esteja pedindo que voc\u00ea resolva o m\u00eas inteiro nesta noite.",
+      "words": [
+        {
+          "word": " Talvez",
+          "start": 53.9,
+          "end": 54.46,
+          "probability": 0.96
+        },
+        {
+          "word": " a",
+          "start": 54.46,
+          "end": 54.58,
+          "probability": 0.964
+        },
+        {
+          "word": " vida",
+          "start": 54.58,
+          "end": 54.84,
+          "probability": 0.992
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 54.84,
+          "end": 55.46,
+          "probability": 0.985
+        },
+        {
+          "word": " esteja",
+          "start": 55.46,
+          "end": 55.8,
+          "probability": 0.995
+        },
+        {
+          "word": " pedindo",
+          "start": 55.8,
+          "end": 56.26,
+          "probability": 0.999
+        },
+        {
+          "word": " que",
+          "start": 56.26,
+          "end": 56.42,
+          "probability": 0.977
+        },
+        {
+          "word": " voc\u00ea",
+          "start": 56.42,
+          "end": 56.7,
+          "probability": 0.963
+        },
+        {
+          "word": " resolva",
+          "start": 56.7,
+          "end": 57.38,
+          "probability": 0.97
+        },
+        {
+          "word": " o",
+          "start": 57.38,
+          "end": 57.86,
+          "probability": 0.969
+        },
+        {
+          "word": " m\u00eas",
+          "start": 57.86,
+          "end": 58.18,
+          "probability": 0.996
+        },
+        {
+          "word": " inteiro",
+          "start": 58.18,
+          "end": 58.6,
+          "probability": 0.989
+        },
+        {
+          "word": " nesta",
+          "start": 58.6,
+          "end": 58.92,
+          "probability": 0.92
+        },
+        {
+          "word": " noite.",
+          "start": 58.92,
+          "end": 59.22,
+          "probability": 0.993
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 59.94,
+      "end": 63.04,
+      "text": "Talvez esteja pedindo apenas o pr\u00f3ximo passo honesto.",
+      "words": [
+        {
+          "word": " Talvez",
+          "start": 59.94,
+          "end": 60.28,
+          "probability": 0.997
+        },
+        {
+          "word": " esteja",
+          "start": 60.28,
+          "end": 60.58,
+          "probability": 0.984
+        },
+        {
+          "word": " pedindo",
+          "start": 60.58,
+          "end": 60.92,
+          "probability": 0.999
+        },
+        {
+          "word": " apenas",
+          "start": 60.92,
+          "end": 61.14,
+          "probability": 0.967
+        },
+        {
+          "word": " o",
+          "start": 61.14,
+          "end": 61.48,
+          "probability": 0.994
+        },
+        {
+          "word": " pr\u00f3ximo",
+          "start": 61.48,
+          "end": 61.84,
+          "probability": 0.998
+        },
+        {
+          "word": " passo",
+          "start": 61.84,
+          "end": 62.3,
+          "probability": 0.994
+        },
+        {
+          "word": " honesto.",
+          "start": 62.3,
+          "end": 63.04,
+          "probability": 0.897
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "start": 63.82,
+      "end": 65.92,
+      "text": "Confiar em Deus n\u00e3o apaga o futuro.",
+      "words": [
+        {
+          "word": " Confiar",
+          "start": 63.82,
+          "end": 64.3,
+          "probability": 0.988
+        },
+        {
+          "word": " em",
+          "start": 64.3,
+          "end": 64.44,
+          "probability": 0.996
+        },
+        {
+          "word": " Deus",
+          "start": 64.44,
+          "end": 64.68,
+          "probability": 0.995
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 64.68,
+          "end": 64.84,
+          "probability": 0.982
+        },
+        {
+          "word": " apaga",
+          "start": 64.84,
+          "end": 65.34,
+          "probability": 0.997
+        },
+        {
+          "word": " o",
+          "start": 65.34,
+          "end": 65.44,
+          "probability": 0.996
+        },
+        {
+          "word": " futuro.",
+          "start": 65.44,
+          "end": 65.92,
+          "probability": 0.997
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "start": 66.58,
+      "end": 72.12,
+      "text": "Apenas impede que o futuro ocupe antecipadamente todo o espa\u00e7o do presente.",
+      "words": [
+        {
+          "word": " Apenas",
+          "start": 66.58,
+          "end": 66.98,
+          "probability": 0.99
+        },
+        {
+          "word": " impede",
+          "start": 66.98,
+          "end": 67.42,
+          "probability": 0.986
+        },
+        {
+          "word": " que",
+          "start": 67.42,
+          "end": 67.58,
+          "probability": 0.993
+        },
+        {
+          "word": " o",
+          "start": 67.58,
+          "end": 67.68,
+          "probability": 0.997
+        },
+        {
+          "word": " futuro",
+          "start": 67.68,
+          "end": 68.12,
+          "probability": 0.997
+        },
+        {
+          "word": " ocupe",
+          "start": 68.12,
+          "end": 69.02,
+          "probability": 0.919
+        },
+        {
+          "word": " antecipadamente",
+          "start": 69.02,
+          "end": 70.06,
+          "probability": 0.933
+        },
+        {
+          "word": " todo",
+          "start": 70.06,
+          "end": 70.6,
+          "probability": 0.994
+        },
+        {
+          "word": " o",
+          "start": 70.6,
+          "end": 70.82,
+          "probability": 0.988
+        },
+        {
+          "word": " espa\u00e7o",
+          "start": 70.82,
+          "end": 71.32,
+          "probability": 0.99
+        },
+        {
+          "word": " do",
+          "start": 71.32,
+          "end": 71.8,
+          "probability": 0.994
+        },
+        {
+          "word": " presente.",
+          "start": 71.8,
+          "end": 72.12,
+          "probability": 0.997
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " O",
+      "start": 0.0,
+      "end": 0.3,
+      "probability": 0.573
+    },
+    {
+      "word": " convite",
+      "start": 0.3,
+      "end": 0.72,
+      "probability": 0.991
+    },
+    {
+      "word": " \u00e9",
+      "start": 0.72,
+      "end": 0.84,
+      "probability": 0.994
+    },
+    {
+      "word": " parar",
+      "start": 0.84,
+      "end": 1.12,
+      "probability": 0.991
+    },
+    {
+      "word": " de",
+      "start": 1.12,
+      "end": 1.48,
+      "probability": 0.995
+    },
+    {
+      "word": " somar",
+      "start": 1.48,
+      "end": 2.32,
+      "probability": 0.998
+    },
+    {
+      "word": " ao",
+      "start": 2.32,
+      "end": 2.58,
+      "probability": 0.752
+    },
+    {
+      "word": " peso",
+      "start": 2.58,
+      "end": 2.98,
+      "probability": 0.958
+    },
+    {
+      "word": " de",
+      "start": 2.98,
+      "end": 3.18,
+      "probability": 0.999
+    },
+    {
+      "word": " hoje",
+      "start": 3.18,
+      "end": 3.46,
+      "probability": 0.999
+    },
+    {
+      "word": " todos",
+      "start": 3.46,
+      "end": 4.08,
+      "probability": 0.906
+    },
+    {
+      "word": " os",
+      "start": 4.08,
+      "end": 4.36,
+      "probability": 0.998
+    },
+    {
+      "word": " pesos",
+      "start": 4.36,
+      "end": 4.66,
+      "probability": 0.964
+    },
+    {
+      "word": " imaginados",
+      "start": 4.66,
+      "end": 5.68,
+      "probability": 0.992
+    },
+    {
+      "word": " de",
+      "start": 5.68,
+      "end": 5.84,
+      "probability": 0.965
+    },
+    {
+      "word": " amanh\u00e3.",
+      "start": 5.84,
+      "end": 6.18,
+      "probability": 0.993
+    },
+    {
+      "word": " Quando",
+      "start": 6.96,
+      "end": 7.26,
+      "probability": 0.975
+    },
+    {
+      "word": " a",
+      "start": 7.26,
+      "end": 7.42,
+      "probability": 0.995
+    },
+    {
+      "word": " preocupa\u00e7\u00e3o",
+      "start": 7.42,
+      "end": 7.98,
+      "probability": 0.999
+    },
+    {
+      "word": " crescer,",
+      "start": 7.98,
+      "end": 8.58,
+      "probability": 0.993
+    },
+    {
+      "word": " talvez",
+      "start": 9.08,
+      "end": 9.38,
+      "probability": 0.992
+    },
+    {
+      "word": " voc\u00ea",
+      "start": 9.38,
+      "end": 9.64,
+      "probability": 0.994
+    },
+    {
+      "word": " possa",
+      "start": 9.64,
+      "end": 9.96,
+      "probability": 0.999
+    },
+    {
+      "word": " distinguir",
+      "start": 9.96,
+      "end": 10.58,
+      "probability": 0.934
+    },
+    {
+      "word": " tr\u00eas",
+      "start": 10.58,
+      "end": 10.88,
+      "probability": 0.719
+    },
+    {
+      "word": " coisas.",
+      "start": 10.88,
+      "end": 11.32,
+      "probability": 0.999
+    },
+    {
+      "word": " Primeiro,",
+      "start": 11.96,
+      "end": 12.36,
+      "probability": 0.948
+    },
+    {
+      "word": " o",
+      "start": 12.68,
+      "end": 12.74,
+      "probability": 0.974
+    },
+    {
+      "word": " que",
+      "start": 12.74,
+      "end": 12.86,
+      "probability": 0.997
+    },
+    {
+      "word": " \u00e9",
+      "start": 12.86,
+      "end": 12.92,
+      "probability": 0.996
+    },
+    {
+      "word": " fato",
+      "start": 12.92,
+      "end": 13.28,
+      "probability": 0.987
+    },
+    {
+      "word": " e",
+      "start": 13.28,
+      "end": 14.02,
+      "probability": 0.882
+    },
+    {
+      "word": " o",
+      "start": 14.02,
+      "end": 14.08,
+      "probability": 0.977
+    },
+    {
+      "word": " que",
+      "start": 14.08,
+      "end": 14.2,
+      "probability": 0.997
+    },
+    {
+      "word": " \u00e9",
+      "start": 14.2,
+      "end": 14.3,
+      "probability": 0.995
+    },
+    {
+      "word": " previs\u00e3o?",
+      "start": 14.3,
+      "end": 14.78,
+      "probability": 0.879
+    },
+    {
+      "word": " Existe",
+      "start": 15.76,
+      "end": 16.18,
+      "probability": 0.992
+    },
+    {
+      "word": " uma",
+      "start": 16.18,
+      "end": 16.34,
+      "probability": 0.998
+    },
+    {
+      "word": " conta,",
+      "start": 16.34,
+      "end": 16.74,
+      "probability": 0.998
+    },
+    {
+      "word": " uma",
+      "start": 17.22,
+      "end": 17.26,
+      "probability": 0.989
+    },
+    {
+      "word": " conversa,",
+      "start": 17.26,
+      "end": 17.88,
+      "probability": 0.999
+    },
+    {
+      "word": " um",
+      "start": 18.28,
+      "end": 18.4,
+      "probability": 0.995
+    },
+    {
+      "word": " exame",
+      "start": 18.4,
+      "end": 18.82,
+      "probability": 0.995
+    },
+    {
+      "word": " ou",
+      "start": 18.82,
+      "end": 19.62,
+      "probability": 0.95
+    },
+    {
+      "word": " uma",
+      "start": 19.62,
+      "end": 19.76,
+      "probability": 0.998
+    },
+    {
+      "word": " decis\u00e3o",
+      "start": 19.76,
+      "end": 20.16,
+      "probability": 0.999
+    },
+    {
+      "word": " real,",
+      "start": 20.16,
+      "end": 20.42,
+      "probability": 0.998
+    },
+    {
+      "word": " mas",
+      "start": 20.98,
+      "end": 21.2,
+      "probability": 0.995
+    },
+    {
+      "word": " tamb\u00e9m",
+      "start": 21.2,
+      "end": 21.46,
+      "probability": 0.989
+    },
+    {
+      "word": " podem",
+      "start": 21.46,
+      "end": 21.74,
+      "probability": 0.996
+    },
+    {
+      "word": " existir",
+      "start": 21.74,
+      "end": 22.22,
+      "probability": 0.99
+    },
+    {
+      "word": " dez",
+      "start": 22.22,
+      "end": 22.46,
+      "probability": 0.82
+    },
+    {
+      "word": " finais",
+      "start": 22.46,
+      "end": 22.8,
+      "probability": 0.976
+    },
+    {
+      "word": " diferentes",
+      "start": 22.8,
+      "end": 23.2,
+      "probability": 0.994
+    },
+    {
+      "word": " que",
+      "start": 23.2,
+      "end": 23.6,
+      "probability": 0.942
+    },
+    {
+      "word": " a",
+      "start": 23.6,
+      "end": 23.7,
+      "probability": 0.942
+    },
+    {
+      "word": " sua",
+      "start": 23.7,
+      "end": 23.84,
+      "probability": 0.976
+    },
+    {
+      "word": " mente",
+      "start": 23.84,
+      "end": 24.12,
+      "probability": 0.995
+    },
+    {
+      "word": " escreveu",
+      "start": 24.12,
+      "end": 25.04,
+      "probability": 0.995
+    },
+    {
+      "word": " sem",
+      "start": 25.04,
+      "end": 25.38,
+      "probability": 0.905
+    },
+    {
+      "word": " ainda",
+      "start": 25.38,
+      "end": 25.74,
+      "probability": 0.996
+    },
+    {
+      "word": " possuir",
+      "start": 25.74,
+      "end": 26.34,
+      "probability": 0.995
+    },
+    {
+      "word": " todas",
+      "start": 26.34,
+      "end": 27.12,
+      "probability": 0.98
+    },
+    {
+      "word": " as",
+      "start": 27.12,
+      "end": 27.72,
+      "probability": 0.999
+    },
+    {
+      "word": " informa\u00e7\u00f5es.",
+      "start": 27.72,
+      "end": 28.28,
+      "probability": 0.997
+    },
+    {
+      "word": " Segundo,",
+      "start": 28.28,
+      "end": 29.6,
+      "probability": 0.499
+    },
+    {
+      "word": " qual",
+      "start": 30.14,
+      "end": 30.44,
+      "probability": 0.871
+    },
+    {
+      "word": " a\u00e7\u00e3o",
+      "start": 30.44,
+      "end": 30.86,
+      "probability": 0.957
+    },
+    {
+      "word": " est\u00e1",
+      "start": 30.86,
+      "end": 31.06,
+      "probability": 0.99
+    },
+    {
+      "word": " o",
+      "start": 31.06,
+      "end": 31.22,
+      "probability": 0.384
+    },
+    {
+      "word": " seu",
+      "start": 31.22,
+      "end": 31.3,
+      "probability": 0.999
+    },
+    {
+      "word": " alcance",
+      "start": 31.3,
+      "end": 31.84,
+      "probability": 0.998
+    },
+    {
+      "word": " e",
+      "start": 31.84,
+      "end": 32.4,
+      "probability": 0.791
+    },
+    {
+      "word": " qual",
+      "start": 32.4,
+      "end": 32.56,
+      "probability": 0.97
+    },
+    {
+      "word": " resultado",
+      "start": 32.56,
+      "end": 33.04,
+      "probability": 0.919
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 33.04,
+      "end": 33.26,
+      "probability": 0.992
+    },
+    {
+      "word": " est\u00e1?",
+      "start": 33.26,
+      "end": 33.54,
+      "probability": 0.995
+    },
+    {
+      "word": " Voc\u00ea",
+      "start": 34.66,
+      "end": 34.82,
+      "probability": 0.968
+    },
+    {
+      "word": " pode",
+      "start": 34.82,
+      "end": 35.0,
+      "probability": 0.997
+    },
+    {
+      "word": " fazer",
+      "start": 35.0,
+      "end": 35.26,
+      "probability": 0.997
+    },
+    {
+      "word": " uma",
+      "start": 35.26,
+      "end": 35.4,
+      "probability": 0.992
+    },
+    {
+      "word": " liga\u00e7\u00e3o,",
+      "start": 35.4,
+      "end": 35.96,
+      "probability": 0.993
+    },
+    {
+      "word": " organizar",
+      "start": 36.48,
+      "end": 37.0,
+      "probability": 0.998
+    },
+    {
+      "word": " documentos,",
+      "start": 37.0,
+      "end": 37.8,
+      "probability": 0.998
+    },
+    {
+      "word": " pedir",
+      "start": 38.24,
+      "end": 38.46,
+      "probability": 0.994
+    },
+    {
+      "word": " orienta\u00e7\u00e3o,",
+      "start": 38.46,
+      "end": 39.28,
+      "probability": 0.987
+    },
+    {
+      "word": " procurar",
+      "start": 39.8,
+      "end": 40.26,
+      "probability": 0.995
+    },
+    {
+      "word": " atendimento",
+      "start": 40.26,
+      "end": 40.88,
+      "probability": 0.996
+    },
+    {
+      "word": " ou",
+      "start": 40.88,
+      "end": 41.16,
+      "probability": 0.948
+    },
+    {
+      "word": " conversar",
+      "start": 41.16,
+      "end": 41.76,
+      "probability": 0.999
+    },
+    {
+      "word": " com",
+      "start": 41.76,
+      "end": 41.9,
+      "probability": 0.998
+    },
+    {
+      "word": " algu\u00e9m.",
+      "start": 41.9,
+      "end": 42.24,
+      "probability": 0.997
+    },
+    {
+      "word": " Mas",
+      "start": 43.28,
+      "end": 43.78,
+      "probability": 0.991
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 43.78,
+      "end": 43.9,
+      "probability": 0.926
+    },
+    {
+      "word": " pode",
+      "start": 43.9,
+      "end": 44.2,
+      "probability": 0.996
+    },
+    {
+      "word": " comandar",
+      "start": 44.2,
+      "end": 44.78,
+      "probability": 0.949
+    },
+    {
+      "word": " a",
+      "start": 44.78,
+      "end": 45.54,
+      "probability": 0.973
+    },
+    {
+      "word": " resposta",
+      "start": 45.54,
+      "end": 46.0,
+      "probability": 0.984
+    },
+    {
+      "word": " de",
+      "start": 46.0,
+      "end": 46.3,
+      "probability": 0.995
+    },
+    {
+      "word": " todas",
+      "start": 46.3,
+      "end": 46.58,
+      "probability": 0.989
+    },
+    {
+      "word": " as",
+      "start": 46.58,
+      "end": 46.86,
+      "probability": 0.987
+    },
+    {
+      "word": " pessoas",
+      "start": 46.86,
+      "end": 47.32,
+      "probability": 0.999
+    },
+    {
+      "word": " nem",
+      "start": 47.32,
+      "end": 47.62,
+      "probability": 0.856
+    },
+    {
+      "word": " garantir",
+      "start": 47.62,
+      "end": 48.18,
+      "probability": 0.999
+    },
+    {
+      "word": " cada",
+      "start": 48.18,
+      "end": 48.42,
+      "probability": 0.992
+    },
+    {
+      "word": " consequ\u00eancia.",
+      "start": 48.42,
+      "end": 49.26,
+      "probability": 0.988
+    },
+    {
+      "word": " Terceiro,",
+      "start": 50.06,
+      "end": 50.76,
+      "probability": 0.981
+    },
+    {
+      "word": " o",
+      "start": 51.58,
+      "end": 51.64,
+      "probability": 0.939
+    },
+    {
+      "word": " que",
+      "start": 51.64,
+      "end": 51.72,
+      "probability": 0.999
+    },
+    {
+      "word": " pertence",
+      "start": 51.72,
+      "end": 52.2,
+      "probability": 0.965
+    },
+    {
+      "word": " a",
+      "start": 52.2,
+      "end": 52.38,
+      "probability": 0.981
+    },
+    {
+      "word": " este",
+      "start": 52.38,
+      "end": 52.56,
+      "probability": 0.965
+    },
+    {
+      "word": " dia?",
+      "start": 52.56,
+      "end": 52.9,
+      "probability": 0.996
+    },
+    {
+      "word": " Talvez",
+      "start": 53.9,
+      "end": 54.46,
+      "probability": 0.96
+    },
+    {
+      "word": " a",
+      "start": 54.46,
+      "end": 54.58,
+      "probability": 0.964
+    },
+    {
+      "word": " vida",
+      "start": 54.58,
+      "end": 54.84,
+      "probability": 0.992
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 54.84,
+      "end": 55.46,
+      "probability": 0.985
+    },
+    {
+      "word": " esteja",
+      "start": 55.46,
+      "end": 55.8,
+      "probability": 0.995
+    },
+    {
+      "word": " pedindo",
+      "start": 55.8,
+      "end": 56.26,
+      "probability": 0.999
+    },
+    {
+      "word": " que",
+      "start": 56.26,
+      "end": 56.42,
+      "probability": 0.977
+    },
+    {
+      "word": " voc\u00ea",
+      "start": 56.42,
+      "end": 56.7,
+      "probability": 0.963
+    },
+    {
+      "word": " resolva",
+      "start": 56.7,
+      "end": 57.38,
+      "probability": 0.97
+    },
+    {
+      "word": " o",
+      "start": 57.38,
+      "end": 57.86,
+      "probability": 0.969
+    },
+    {
+      "word": " m\u00eas",
+      "start": 57.86,
+      "end": 58.18,
+      "probability": 0.996
+    },
+    {
+      "word": " inteiro",
+      "start": 58.18,
+      "end": 58.6,
+      "probability": 0.989
+    },
+    {
+      "word": " nesta",
+      "start": 58.6,
+      "end": 58.92,
+      "probability": 0.92
+    },
+    {
+      "word": " noite.",
+      "start": 58.92,
+      "end": 59.22,
+      "probability": 0.993
+    },
+    {
+      "word": " Talvez",
+      "start": 59.94,
+      "end": 60.28,
+      "probability": 0.997
+    },
+    {
+      "word": " esteja",
+      "start": 60.28,
+      "end": 60.58,
+      "probability": 0.984
+    },
+    {
+      "word": " pedindo",
+      "start": 60.58,
+      "end": 60.92,
+      "probability": 0.999
+    },
+    {
+      "word": " apenas",
+      "start": 60.92,
+      "end": 61.14,
+      "probability": 0.967
+    },
+    {
+      "word": " o",
+      "start": 61.14,
+      "end": 61.48,
+      "probability": 0.994
+    },
+    {
+      "word": " pr\u00f3ximo",
+      "start": 61.48,
+      "end": 61.84,
+      "probability": 0.998
+    },
+    {
+      "word": " passo",
+      "start": 61.84,
+      "end": 62.3,
+      "probability": 0.994
+    },
+    {
+      "word": " honesto.",
+      "start": 62.3,
+      "end": 63.04,
+      "probability": 0.897
+    },
+    {
+      "word": " Confiar",
+      "start": 63.82,
+      "end": 64.3,
+      "probability": 0.988
+    },
+    {
+      "word": " em",
+      "start": 64.3,
+      "end": 64.44,
+      "probability": 0.996
+    },
+    {
+      "word": " Deus",
+      "start": 64.44,
+      "end": 64.68,
+      "probability": 0.995
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 64.68,
+      "end": 64.84,
+      "probability": 0.982
+    },
+    {
+      "word": " apaga",
+      "start": 64.84,
+      "end": 65.34,
+      "probability": 0.997
+    },
+    {
+      "word": " o",
+      "start": 65.34,
+      "end": 65.44,
+      "probability": 0.996
+    },
+    {
+      "word": " futuro.",
+      "start": 65.44,
+      "end": 65.92,
+      "probability": 0.997
+    },
+    {
+      "word": " Apenas",
+      "start": 66.58,
+      "end": 66.98,
+      "probability": 0.99
+    },
+    {
+      "word": " impede",
+      "start": 66.98,
+      "end": 67.42,
+      "probability": 0.986
+    },
+    {
+      "word": " que",
+      "start": 67.42,
+      "end": 67.58,
+      "probability": 0.993
+    },
+    {
+      "word": " o",
+      "start": 67.58,
+      "end": 67.68,
+      "probability": 0.997
+    },
+    {
+      "word": " futuro",
+      "start": 67.68,
+      "end": 68.12,
+      "probability": 0.997
+    },
+    {
+      "word": " ocupe",
+      "start": 68.12,
+      "end": 69.02,
+      "probability": 0.919
+    },
+    {
+      "word": " antecipadamente",
+      "start": 69.02,
+      "end": 70.06,
+      "probability": 0.933
+    },
+    {
+      "word": " todo",
+      "start": 70.06,
+      "end": 70.6,
+      "probability": 0.994
+    },
+    {
+      "word": " o",
+      "start": 70.6,
+      "end": 70.82,
+      "probability": 0.988
+    },
+    {
+      "word": " espa\u00e7o",
+      "start": 70.82,
+      "end": 71.32,
+      "probability": 0.99
+    },
+    {
+      "word": " do",
+      "start": 71.32,
+      "end": 71.8,
+      "probability": 0.994
+    },
+    {
+      "word": " presente.",
+      "start": 71.8,
+      "end": 72.12,
+      "probability": 0.997
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 72.789,
+  "model_size": "small",
+  "device": "cpu"
+}

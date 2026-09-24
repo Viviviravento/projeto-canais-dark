@@ -1,0 +1,359 @@
+{
+  "schema": "NarrationVisualScript.v1",
+  "sources": {
+    "doorbell": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\output\\concept-previews\\brasil-registrado\\chris-watts-v1\\sources\\raw\\btM4jzYzOjE.mp4",
+    "bodycam": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\output\\concept-previews\\brasil-registrado\\chris-watts-v1\\sources\\raw\\-iJ3Pq4TW0E.mp4",
+    "neighbor_tv": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\output\\concept-previews\\brasil-registrado\\chris-watts-v1\\sources\\raw\\u11A4FQlDMo.mp4",
+    "interview": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\output\\concept-previews\\brasil-registrado\\chris-watts-v1\\sources\\raw\\denver7-raw-interview-2018-08-14.mp4"
+  },
+  "blocks": [
+    {
+      "id": "CW5-OPEN",
+      "narrative_focus": "última chegada",
+      "visual_reason": "registro de campainha",
+      "source_dialogue": false,
+      "units": [
+        [
+          "doorbell",
+          0,
+          13
+        ]
+      ]
+    },
+    {
+      "id": "CW5-BODYCAM-CONSENT",
+      "narrative_focus": "a primeira busca",
+      "visual_reason": "A bodycam registra o pedido de consentimento, não uma reconstituição.",
+      "source_dialogue": true,
+      "units": [
+        [
+          "bodycam",
+          30.83,
+          14.170000000000002
+        ]
+      ]
+    },
+    {
+      "id": "CW5-ALERT",
+      "narrative_focus": "a amiga percebe a ausência",
+      "visual_reason": "exterior da casa e policiais",
+      "source_dialogue": false,
+      "units": [
+        [
+          "bodycam",
+          88,
+          10
+        ],
+        [
+          "bodycam",
+          108,
+          10
+        ],
+        [
+          "bodycam",
+          135,
+          8
+        ]
+      ]
+    },
+    {
+      "id": "CW5-INTERVIEW-TIMELINE",
+      "narrative_focus": "versão inicial e Nicole",
+      "visual_reason": "A entrevista fixa a linha do tempo pública que seria comparada a outros registros.",
+      "source_dialogue": true,
+      "units": [
+        [
+          "interview",
+          30.98,
+          46.44
+        ]
+      ]
+    },
+    {
+      "id": "CW5-COMPARE",
+      "narrative_focus": "horários passam a ser comparáveis",
+      "visual_reason": "bodycam na residência",
+      "source_dialogue": false,
+      "units": [
+        [
+          "bodycam",
+          135,
+          12
+        ],
+        [
+          "bodycam",
+          160,
+          12
+        ],
+        [
+          "bodycam",
+          180,
+          12
+        ],
+        [
+          "bodycam",
+          218,
+          12
+        ]
+      ]
+    },
+    {
+      "id": "CW5-NEIGHBOR-CONTEXT",
+      "narrative_focus": "agentes vão ao vizinho",
+      "visual_reason": "agentes diante da TV",
+      "source_dialogue": false,
+      "units": [
+        [
+          "neighbor_tv",
+          170,
+          14
+        ],
+        [
+          "neighbor_tv",
+          176,
+          12
+        ]
+      ]
+    },
+    {
+      "id": "CW5-NEIGHBOR-TV",
+      "narrative_focus": "alcance da câmera do vizinho",
+      "visual_reason": "A televisão é a evidência que todos observam; V5 não aplica blur nem delogo.",
+      "source_dialogue": true,
+      "units": [
+        [
+          "neighbor_tv",
+          180.0,
+          40.25
+        ]
+      ]
+    },
+    {
+      "id": "CW5-EVIDENCE",
+      "narrative_focus": "limites e valor da câmera",
+      "visual_reason": "registro da TV sem blur",
+      "source_dialogue": false,
+      "units": [
+        [
+          "neighbor_tv",
+          220.5,
+          12
+        ],
+        [
+          "neighbor_tv",
+          238,
+          12
+        ],
+        [
+          "neighbor_tv",
+          260,
+          12
+        ]
+      ]
+    },
+    {
+      "id": "CW5-INTERVIEW-APPEAL",
+      "narrative_focus": "apelo público",
+      "visual_reason": "A fala pública deve ser ouvida, não narrada por cima.",
+      "source_dialogue": true,
+      "units": [
+        [
+          "interview",
+          124.73,
+          39.27999999999999
+        ]
+      ]
+    },
+    {
+      "id": "CW5-SEARCH",
+      "narrative_focus": "busca e confronto de versões",
+      "visual_reason": "bodycam limpa da busca",
+      "source_dialogue": false,
+      "units": [
+        [
+          "bodycam",
+          218,
+          12
+        ],
+        [
+          "bodycam",
+          236,
+          12
+        ],
+        [
+          "bodycam",
+          248,
+          12
+        ],
+        [
+          "bodycam",
+          264,
+          12
+        ],
+        [
+          "bodycam",
+          280,
+          12
+        ],
+        [
+          "bodycam",
+          306,
+          12
+        ]
+      ]
+    },
+    {
+      "id": "CW5-INTERVIEW-ARGUMENT",
+      "narrative_focus": "conversa emocional",
+      "visual_reason": "A pergunta registra o que ele disse antes do desfecho judicial.",
+      "source_dialogue": true,
+      "units": [
+        [
+          "interview",
+          286.01,
+          29.5
+        ]
+      ]
+    },
+    {
+      "id": "CW5-CHRONOLOGY",
+      "narrative_focus": "cronologia e ampliação",
+      "visual_reason": "bodycam da investigação",
+      "source_dialogue": false,
+      "units": [
+        [
+          "bodycam",
+          280,
+          12
+        ],
+        [
+          "bodycam",
+          306,
+          12
+        ],
+        [
+          "bodycam",
+          338,
+          12
+        ],
+        [
+          "bodycam",
+          370,
+          12
+        ],
+        [
+          "bodycam",
+          390,
+          12
+        ],
+        [
+          "bodycam",
+          410,
+          12
+        ]
+      ]
+    },
+    {
+      "id": "CW5-INTERVIEW-CAMERAS",
+      "narrative_focus": "polícia, vizinhos e câmeras",
+      "visual_reason": "A entrevista faz a ponte direta entre porta a porta e as câmeras que vimos.",
+      "source_dialogue": true,
+      "units": [
+        [
+          "interview",
+          353.97,
+          51.02999999999997
+        ]
+      ]
+    },
+    {
+      "id": "CW5-OUTCOME",
+      "narrative_focus": "desfecho e método",
+      "visual_reason": "bodycam do cenário",
+      "source_dialogue": false,
+      "units": [
+        [
+          "bodycam",
+          390,
+          12
+        ],
+        [
+          "bodycam",
+          410,
+          12
+        ],
+        [
+          "bodycam",
+          150,
+          12
+        ],
+        [
+          "bodycam",
+          122,
+          12
+        ],
+        [
+          "bodycam",
+          135,
+          12
+        ],
+        [
+          "bodycam",
+          160,
+          12
+        ]
+      ]
+    },
+    {
+      "id": "CW5-EPILOGUE",
+      "narrative_focus": "o que os registros preservaram",
+      "visual_reason": "TV e pessoas no local",
+      "source_dialogue": false,
+      "units": [
+        [
+          "neighbor_tv",
+          240,
+          12
+        ],
+        [
+          "neighbor_tv",
+          260,
+          12
+        ],
+        [
+          "neighbor_tv",
+          280,
+          12
+        ],
+        [
+          "neighbor_tv",
+          300,
+          12
+        ],
+        [
+          "neighbor_tv",
+          320,
+          12
+        ],
+        [
+          "neighbor_tv",
+          340,
+          12
+        ]
+      ]
+    },
+    {
+      "id": "CW5-OUTRO",
+      "narrative_focus": "fechamento",
+      "visual_reason": "registro de campainha",
+      "source_dialogue": false,
+      "units": [
+        [
+          "doorbell",
+          0,
+          18
+        ]
+      ]
+    }
+  ]
+}

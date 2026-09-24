@@ -1,0 +1,239 @@
+{
+  "derivativeId": "video-006-curto-01",
+  "title": "Jesus chama você pelo nome na ansiedade",
+  "platform": "universal",
+  "audioFile": "video-006-curtos/audio/video-006-curto-01-narracao.wav",
+  "spokenDurationSeconds": 84.53,
+  "endCardSeconds": 4.0,
+  "hook": "Jesus chama você pelo nome",
+  "hookEndSeconds": 4.2,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 9.0,
+      "asset": "video-006/assets/video-006/images/h02-marta-servindo-v1.png",
+      "focus": "54% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 9.0,
+      "end": 18.0,
+      "asset": "video-006/assets/video-006/images/b02-responsabilidades-a-noite-v1.png",
+      "focus": "58% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 18.0,
+      "end": 27.0,
+      "asset": "video-006/assets/video-006/images/h01-maria-em-escuta-v1.png",
+      "focus": "30% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 27.0,
+      "end": 36.0,
+      "asset": "video-006/assets/library/cotidiano_brasileiro/p001-peso-mental-v1.png",
+      "focus": "62% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 36.0,
+      "end": 45.0,
+      "asset": "video-006/assets/video-006/images/b01-pausa-na-cozinha-com-croche-v1.png",
+      "focus": "62% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 45.0,
+      "end": 54.0,
+      "asset": "video-006/assets/library/cotidiano_brasileiro/p001-reflexo-v1.png",
+      "focus": "69% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 54.0,
+      "end": 63.0,
+      "asset": "video-006/assets/library/apoio_relacoes/p001-escuta-v1.png",
+      "focus": "28% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 63.0,
+      "end": 72.0,
+      "asset": "video-006/assets/library/objetos_cenarios/p001-maos-em-pausa-v1.png",
+      "focus": "50% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    },
+    {
+      "start": 72.0,
+      "end": 84.53,
+      "asset": "video-006/assets/video-006/images/h02-marta-servindo-v1.png",
+      "focus": "54% 50%",
+      "scale": 1.08,
+      "fit": "cover"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.08,
+      "end": 2.845,
+      "text": "A resposta de Jesus não começa com desprezo."
+    },
+    {
+      "start": 3.044,
+      "end": 3.984,
+      "text": "Começa com o nome."
+    },
+    {
+      "start": 4.415,
+      "end": 7.08,
+      "text": "Lucas, capítulo dez, versículo quarenta e um,"
+    },
+    {
+      "start": 7.356,
+      "end": 9.999,
+      "text": "diz: \"E respondendo Jesus, disse-lhe:"
+    },
+    {
+      "start": 10.319,
+      "end": 15.03,
+      "text": "Marta, Marta, estás ansiosa e afadigada com muitas coisas,\""
+    },
+    {
+      "start": 15.306,
+      "end": 18.967,
+      "text": "Marta, Marta. Há ternura nessa repetição."
+    },
+    {
+      "start": 19.397,
+      "end": 20.591,
+      "text": "Jesus não diz apenas:"
+    },
+    {
+      "start": 20.846,
+      "end": 23.411,
+      "text": "você está errada. Ele chama Marta para voltar a"
+    },
+    {
+      "start": 23.5,
+      "end": 26.309,
+      "text": "si. Ele nomeia o estado dela:"
+    },
+    {
+      "start": 26.607,
+      "end": 29.581,
+      "text": "ansiosa e afadigada. Ansiosa."
+    },
+    {
+      "start": 29.935,
+      "end": 34.612,
+      "text": "Afadigada. Muitas coisas. Essa frase atravessa séculos porque"
+    },
+    {
+      "start": 34.668,
+      "end": 38.559,
+      "text": "continua atual. Muita gente vive por dentro exatamente assim."
+    },
+    {
+      "start": 38.87,
+      "end": 42.209,
+      "text": "A mente corre, o corpo pesa, a lista cresce"
+    },
+    {
+      "start": 42.441,
+      "end": 44.442,
+      "text": "e o coração perde descanso."
+    },
+    {
+      "start": 44.862,
+      "end": 48.179,
+      "text": "E repare: Jesus não diz que Marta está possuída"
+    },
+    {
+      "start": 48.489,
+      "end": 51.153,
+      "text": "por vaidade. Não diz que ela não ama."
+    },
+    {
+      "start": 51.463,
+      "end": 53.697,
+      "text": "Não diz que o que ela faz não presta."
+    },
+    {
+      "start": 54.007,
+      "end": 55.544,
+      "text": "Ele aponta a dispersão."
+    },
+    {
+      "start": 56.108,
+      "end": 58.938,
+      "text": "O problema é quando muitas coisas tomam o lugar"
+    },
+    {
+      "start": 58.971,
+      "end": 63.085,
+      "text": "da coisa necessária. Existe serviço que nasce do amor."
+    },
+    {
+      "start": 63.493,
+      "end": 65.506,
+      "text": "Existe serviço que nasce do medo."
+    },
+    {
+      "start": 65.915,
+      "end": 69.321,
+      "text": "Medo de desagradar. Medo de ser criticada."
+    },
+    {
+      "start": 69.73,
+      "end": 71.51,
+      "text": "Medo de não ser suficiente."
+    },
+    {
+      "start": 71.93,
+      "end": 73.323,
+      "text": "Medo de parecer fraca."
+    },
+    {
+      "start": 73.688,
+      "end": 76.153,
+      "text": "Medo de alguém perceber que você também precisa de"
+    },
+    {
+      "start": 76.187,
+      "end": 76.695,
+      "text": "ajuda."
+    },
+    {
+      "start": 77.359,
+      "end": 79.748,
+      "text": "Jesus não ignora a mesa."
+    },
+    {
+      "start": 80.41,
+      "end": 83.164,
+      "text": "Mas ele não deixa a mesa se tornar maior"
+    },
+    {
+      "start": 83.308,
+      "end": 84.38,
+      "text": "que a presença dele."
+    }
+  ],
+  "scriptures": [
+    {
+      "start": 8.218,
+      "end": 15.03,
+      "text": "E respondendo Jesus, disse-lhe: Marta, Marta, estás ansiosa e afadigada com muitas coisas,",
+      "reference": "Lucas 10:41 — ACF"
+    }
+  ]
+}

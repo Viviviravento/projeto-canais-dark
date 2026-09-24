@@ -1,0 +1,28 @@
+{
+  "video_id": "video-005",
+  "youtube_video_id": "iNo6atIbKf4",
+  "url": "https://youtu.be/iNo6atIbKf4",
+  "result": "published_public",
+  "published_at": "2026-07-29T17:13:38-03:00",
+  "verified": {
+    "privacy_status": "public",
+    "upload_status": "processed",
+    "definition": "hd",
+    "duration": "PT12M1S",
+    "custom_thumbnail": true,
+    "default_language": "pt-BR",
+    "default_audio_language": "pt-BR",
+    "caption_status": "serving",
+    "caption_language": "pt-BR",
+    "caption_track_kind": "standard",
+    "comment_posted": true,
+    "comment_id": "UgzwIzuPGTSs4vUF0eB4AaABAg",
+    "metadata_tags_restored": 11
+  },
+  "manual_studio_followups": [
+    "Verify copyright checks in YouTube Studio; the Data API does not expose the Studio copyright-check result.",
+    "Pin the channel comment; the API cannot pin comments.",
+    "End-screen recommendations configured and verified manually in YouTube Studio."
+  ],
+  "tooling_note": "yutu uploaded the unlisted master and posted the comment. Its caption insert returned invalidMetadata and its visibility update reset audio language/tags; the official YouTube Data API then attached the caption and restored pt-BR metadata and tags."
+}

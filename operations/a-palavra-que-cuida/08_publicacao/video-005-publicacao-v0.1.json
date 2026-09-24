@@ -1,0 +1,210 @@
+{
+  "schema_version": 2,
+  "video_id": "video-005",
+  "channel": "A Palavra Que Cuida",
+  "status": "published_public_end_screen_verified",
+  "published_video": {
+    "youtube_video_id": "iNo6atIbKf4",
+    "url": "https://youtu.be/iNo6atIbKf4",
+    "published_at": "2026-07-29T17:13:38-03:00",
+    "visibility": "public",
+    "publication_authorization": "User instruction to prepare and publish after the scheduled slot had arrived."
+  },
+  "title": "Gênesis e a criação: o começo não é caos",
+  "thumbnail_phrase": "O COMEÇO NÃO É CAOS",
+  "description_file": "operations/a-palavra-que-cuida/08_publicacao/video-005-descricao-v1.txt",
+  "description": "Gênesis e a criação: o começo não é caos. Nesta reflexão bíblica sobre Gênesis 1 e 2, a pergunta não é entrar numa briga de ciência contra fé, mas entender o que o começo da Bíblia revela sobre Deus, o mundo, a dignidade humana, o trabalho, o cuidado e o descanso.\n\nGênesis não entrega todas as respostas que a curiosidade moderna gostaria de colocar em uma tabela. Mas entrega algo fundamental: Deus é Criador, o mundo é criação, a vida humana tem dignidade e o cuidado faz parte da vocação.\n\nNeste vídeo, lemos e comentamos trechos de Gênesis para pensar sobre caos, luz, bondade da criação, imagem de Deus, responsabilidade e limites. O objetivo é olhar para o começo da Bíblia sem transformar o texto em disputa rasa, mas também sem esvaziar sua força espiritual para a vida real.\n\nCAPÍTULOS\n00:00 Antes da discussão, o começo\n01:04 Deus começa onde há vazio\n02:24 A palavra que ilumina\n03:39 A criação não é descartável\n04:57 Valor antes da performance\n06:37 Muito bom também é responsabilidade\n07:58 Trabalhar e guardar\n09:14 O começo ensina descanso\n10:25 Conclusão e próximos vídeos\n\nTEXTOS BÍBLICOS LIDOS\n- Gênesis 1:1\n- Gênesis 1:2\n- Gênesis 1:3\n- Gênesis 1:27\n- Gênesis 1:31\n- Gênesis 2:15\n\nContinue assistindo:\n- Se você quer pensar sobre descanso, controle e ansiedade, assista também: Não andeis ansiosos: o que Jesus realmente quis dizer.\n- Se você quer seguir por histórias bíblicas comentadas, assista também ao próximo vídeo sugerido na tela final.\n\nEste é o canal A Palavra Que Cuida. Inscreva-se para acompanhar reflexões bíblicas aplicadas à vida cotidiana. Curta e compartilhe esta mensagem com alguém que também precise lembrar que a vida não começa no caos, mas em Deus.\n\nComente: quando você lê Gênesis, o que mais fala com você hoje — a luz, a ordem, a dignidade humana, o descanso ou o chamado para cuidar?\n\nCitações bíblicas extraídas de A Bíblia Sagrada - Almeida Corrigida Fiel (ACF), © 1994, 1995, 2007, 2011 Sociedade Bíblica Trinitariana do Brasil, Trinitarian Bible Society.\n\nImagens narrativas criadas para este projeto com inteligência artificial. Vídeos adicionais via Pexels, sob a Pexels License:\nhttps://www.pexels.com/video/the-rock-formation-in-the-desert-is-very-tall-16582633/\nhttps://www.pexels.com/video/aerial-view-of-rocky-coastline-with-crashing-waves-35212139/\nhttps://www.pexels.com/video/dramatic-ocean-waves-crashing-on-rocky-shoreline-36466439/\nhttps://www.pexels.com/video/dramatic-storm-clouds-over-mountain-landscape-29839774/\nhttps://www.pexels.com/video/ibex-fighting-italian-alps-26612570/\n\nMúsica: Classical 6, de Jonny S. - Mixkit Free License.\n\n#Gênesis #Criação #Fé",
+  "hashtags": [
+    "#Gênesis",
+    "#Criação",
+    "#Fé"
+  ],
+  "tags": [
+    "Gênesis e a criação",
+    "criação do mundo na Bíblia",
+    "Gênesis 1 explicado",
+    "o começo não é caos",
+    "imagem de Deus",
+    "Gênesis 1 1",
+    "Gênesis 1 27",
+    "descanso na Bíblia",
+    "trabalho e cuidado",
+    "reflexão bíblica sobre criação",
+    "A Palavra Que Cuida"
+  ],
+  "chapters": [
+    {
+      "start_seconds": 0,
+      "timestamp": "00:00",
+      "label": "Antes da discussão, o começo",
+      "block_id": "01-antes-da-discussao-o-comeco"
+    },
+    {
+      "start_seconds": 64,
+      "timestamp": "01:04",
+      "label": "Deus começa onde há vazio",
+      "block_id": "02-deus-comeca-onde-ha-vazio"
+    },
+    {
+      "start_seconds": 144,
+      "timestamp": "02:24",
+      "label": "A palavra que ilumina",
+      "block_id": "03-a-palavra-que-ilumina"
+    },
+    {
+      "start_seconds": 219,
+      "timestamp": "03:39",
+      "label": "A criação não é descartável",
+      "block_id": "04-o-mundo-nao-e-descartavel"
+    },
+    {
+      "start_seconds": 297,
+      "timestamp": "04:57",
+      "label": "Valor antes da performance",
+      "block_id": "05-valor-antes-da-performance"
+    },
+    {
+      "start_seconds": 397,
+      "timestamp": "06:37",
+      "label": "Muito bom também é responsabilidade",
+      "block_id": "06-muito-bom-e-responsavel"
+    },
+    {
+      "start_seconds": 478,
+      "timestamp": "07:58",
+      "label": "Trabalhar e guardar",
+      "block_id": "07-trabalhar-e-guardar"
+    },
+    {
+      "start_seconds": 554,
+      "timestamp": "09:14",
+      "label": "O começo ensina descanso",
+      "block_id": "08-o-comeco-ensina-descanso"
+    },
+    {
+      "start_seconds": 625,
+      "timestamp": "10:25",
+      "label": "Conclusão e próximos vídeos",
+      "block_id": "09-fechamento-e-convite"
+    }
+  ],
+  "description_chapters_block": "00:00 Antes da discussão, o começo\n01:04 Deus começa onde há vazio\n02:24 A palavra que ilumina\n03:39 A criação não é descartável\n04:57 Valor antes da performance\n06:37 Muito bom também é responsabilidade\n07:58 Trabalhar e guardar\n09:14 O começo ensina descanso\n10:25 Conclusão e próximos vídeos",
+  "pinned_comment": "Quando você lê Gênesis, o que mais fala com você hoje: a luz, a ordem, a dignidade humana, o descanso ou o chamado para cuidar? E, se quiser continuar, veja um dos vídeos sugeridos na tela final.",
+  "youtube_settings": {
+    "visibility_for_first_upload": "unlisted",
+    "made_for_kids": false,
+    "age_restricted": false,
+    "video_language": "pt-BR",
+    "title_and_description_language": "pt-BR",
+    "caption_language": "pt-BR",
+    "altered_or_synthetic_content": true,
+    "allow_comments": true,
+    "show_like_count": true,
+    "license": "youtube",
+    "category_id": "27",
+    "category_label": "Education",
+    "notify_subscribers_during_unlisted_review": false,
+    "youtube_auto_levels": false,
+    "youtube_stabilization": false
+  },
+  "files": {
+    "planned_publication_master": "operations/a-palavra-que-cuida/07_exports/video-005/genesis-e-a-criacao-o-que-o-comeco-revela-v1.mp4",
+    "captions_source_alignment": "operations/a-palavra-que-cuida/05_audio/video-005/v1/master-alignment-1.05x.json",
+    "captions": "operations/a-palavra-que-cuida/07_exports/video-005/genesis-e-a-criacao-legendas-pt-BR-v1.srt",
+    "youtube_caption_id": "AUieDaZskO8W7C8FAXMkVAarQ88zc4jkReqbxzuGqNiWa7pI2oifyeqqZnlxvjh4q9QWtV6HfNln",
+    "thumbnail": "operations/a-palavra-que-cuida/08_publicacao/video-005-thumbnail-v3.png",
+    "thumbnail_source": "operations/a-palavra-que-cuida/04_assets/video-005/thumbnail/video-005-thumbnail-v3.png",
+    "description": "operations/a-palavra-que-cuida/08_publicacao/video-005-descricao-v1.txt",
+    "scene_plan": "operations/a-palavra-que-cuida/06_edicao/video-005/scene-plan-v1.json"
+  },
+  "technical_identity_pending_master": {
+    "planned_duration_seconds": 720.620208,
+    "planned_resolution": "1920x1080",
+    "planned_frame_rate": 30,
+    "master_duration_seconds": 720.682667,
+    "master_size_bytes": 937817285,
+    "master_sha256": "dc4687d277280ffa930446546108b72e4e77a1ea1a39d4a39f491560cc3518f6",
+    "thumbnail_dimensions": "1280x720",
+    "thumbnail_size_bytes": 726544,
+    "thumbnail_sha256": "742daa39214805c92111ed4782e2b1388e9b6f0edf6ce255cdb98e94b8a65add"
+  },
+  "end_screen": {
+    "verified_in_studio": true,
+    "verified_duration_seconds": 20,
+    "verified_time_range": "11:40-12:00",
+    "verified_targets": [
+      "video-002",
+      "piloto-001"
+    ],
+    "reserved_start_seconds": 700.620208,
+    "reserved_end_seconds": 720.620208,
+    "visual_layout": "clean_center_handle_no_fixed_boxes",
+    "native_youtube_elements": [
+      {
+        "type": "video",
+        "target_video": "video-004",
+        "target_title": "A infância de Jesus: o que a Bíblia diz",
+        "priority": 1,
+        "reason": "Continuação natural para quem quer seguir por narrativa bíblica comentada."
+      },
+      {
+        "type": "video",
+        "target_video": "video-002",
+        "target_title": "Não andeis ansiosos: o que Jesus realmente quis dizer",
+        "priority": 2,
+        "reason": "Conecta com descanso, limite, controle e cuidado na vida real."
+      },
+      {
+        "type": "subscribe"
+      }
+    ],
+    "fallback_if_primary_target_not_public": [
+      "video-003",
+      "piloto-001"
+    ],
+    "manual_studio_gate": "Verificar que os dois elementos nativos de vídeo foram adicionados e que o comentário fixado foi publicado antes de tornar público."
+  },
+  "acf": {
+    "manifest": "operations/a-palavra-que-cuida/02_roteiros/video-005-citacoes-acf-v1.json",
+    "direct_verse_units": 6,
+    "references": [
+      "Gênesis 1:1",
+      "Gênesis 1:2",
+      "Gênesis 1:3",
+      "Gênesis 1:27",
+      "Gênesis 1:31",
+      "Gênesis 2:15"
+    ],
+    "record_as_published_only_after_public_visibility": true
+  },
+  "music": {
+    "track": "Classical 6",
+    "creator": "Jonny S.",
+    "source": "Mixkit",
+    "license": "Mixkit Stock Music Free License",
+    "attribution_required": false,
+    "optional_credit_in_description": true,
+    "provenance": "operations/a-palavra-que-cuida/06_edicao/video-003/music-provenance-v1.json"
+  },
+  "visual_sources": {
+    "ai_generated_assets": "Imagens narrativas do acervo próprio do canal e de vídeos anteriores.",
+    "pexels_clips_used": [
+      "https://www.pexels.com/video/the-rock-formation-in-the-desert-is-very-tall-16582633/",
+      "https://www.pexels.com/video/aerial-view-of-rocky-coastline-with-crashing-waves-35212139/",
+      "https://www.pexels.com/video/dramatic-ocean-waves-crashing-on-rocky-shoreline-36466439/",
+      "https://www.pexels.com/video/dramatic-storm-clouds-over-mountain-landscape-29839774/",
+      "https://www.pexels.com/video/ibex-fighting-italian-alps-26612570/"
+    ]
+  },
+  "pre_publication_checks": {
+    "render_complete": "pass_render_exit_code_0",
+    "master_1080p": "pass_1920x1080_30fps_audio_present",
+    "copyright_check_youtube": "manual_studio_followup_no_api_result",
+    "language_metadata_pt_br": "pass_default_language_and_audio_pt_BR",
+    "captions": "pass_serving_pt_BR_standard_track",
+    "channel_comment": "pass_posted_comment_id_UgzwIzuPGTSs4vUF0eB4AaABAg",
+    "pinned_comment_verified": "manual_studio_followup_api_cannot_pin",
+    "end_screen_two_native_videos_verified": "pass_studio_verified_2026-07-29_20_seconds",
+    "human_master_review": "user_authorized_publication_2026-07-29"
+  }
+}

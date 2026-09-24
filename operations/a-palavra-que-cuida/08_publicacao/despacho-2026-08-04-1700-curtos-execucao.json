@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "dispatch": {
+    "scheduled_at": "2026-08-04T17:00:00-03:00",
+    "executed_at": "2026-08-04T17:14:45-03:00",
+    "channel": "A Palavra Que Cuida"
+  },
+  "youtube_shorts": {
+    "derivative_id": "piloto-001-short-06",
+    "status": "published",
+    "video_id": "gY-f5eGpx5A",
+    "url": "https://youtube.com/shorts/gY-f5eGpx5A",
+    "checks": {
+      "copyright": "pass",
+      "made_for_kids": false,
+      "altered_or_synthetic_content": true,
+      "language": "pt-BR"
+    },
+    "cover": "v2 with non-black Bible-and-hand opening frame",
+    "related_long": {
+      "url_in_description": "https://youtu.be/ZkmCkF6XR_g",
+      "native_feature": "blocked_pending_one_time_advanced_features_verification"
+    }
+  },
+  "tiktok": {
+    "derivative_id": "video-003-curto-01",
+    "status": "under_review",
+    "video_id": "7670272364931812626",
+    "url": "https://www.tiktok.com/@a.palavra.que.cuida/video/7670272364931812626",
+    "checks": {
+      "music_copyright": "pass",
+      "content_eligibility": "pass"
+    },
+    "follow_up": "Aguardar a plataforma trocar Conteúdo sob análise/Somente eu para Todos; não reenviar enquanto este ID existir."
+  },
+  "queue_note": "O TikTok das 11h foi liberado antes deste slot. As plataformas têm filas em posições diferentes; cada uma avançou para o próximo corte ainda inédito nela."
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v004-elevenlabs-v1-20260726",
+  "provider": "ElevenLabs",
+  "model": "eleven_multilingual_v2",
+  "operation": "full nine-block narration with independent requests and next-text context only",
+  "unit": "provider credit",
+  "quantity": 9192,
+  "expected_subscription_credits": 4596,
+  "maximum_subscription_credits": 4596,
+  "currency": "USD",
+  "maximum_incremental_cash_charge": 0.0,
+  "price_checked_at": "2026-07-26T00:00:00-03:00",
+  "price_source": "Authenticated ElevenLabs subscription dashboard plus character-cost headers from the approved video-004 calibration",
+  "subscription_snapshot": {
+    "tier": "Starter",
+    "credits_remaining_before_calibration": 10233,
+    "calibration_character_cost_headers": 1051,
+    "conservative_remaining_after_calibration": 9182,
+    "sufficient_for_full_narration": true
+  },
+  "status": "reconciled",
+  "approval": {
+    "approved_at": "2026-07-26",
+    "user_statement": "ve se tem saldo, se tiver, produza nosso prox video",
+    "scope": "A narração integral está limitada a 4.596 créditos e não pode iniciar cobrança adicional."
+  },
+  "metadata": {
+    "manifest": "operations/a-palavra-que-cuida/02_roteiros/video-004-performance-v1.json",
+    "human_voice_gate": "05_audio/video-004/calibracao-v1/avaliacao-semantica-v1.json",
+    "request_stitching": false,
+    "context_mode": "next_text_only",
+    "automatic_retry": false,
+    "postprocess_after_generation": "1.05x preserving pitch before master alignment"
+  },
+  "observed_subscription_credits": 4594
+}

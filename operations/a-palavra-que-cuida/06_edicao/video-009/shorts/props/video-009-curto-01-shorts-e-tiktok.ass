@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Caption,Arial,54,&H00FFFFFF,&H0000D7FF,&HDD000000,&H99000000,-1,0,0,0,100,100,0,0,3,2.5,1,2,85,85,215,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.08,0:00:03.14,Caption,,0,0,0,,João, capítulo quatro, versículo sete, diz:
+Dialogue: 0,0:00:03.57,0:00:06.26,Caption,,0,0,0,,"Veio uma mulher de Samaria tirar água.
+Dialogue: 0,0:00:06.45,0:00:10.83,Caption,,0,0,0,,Disse-lhe Jesus: Dá-me de beber." Parece uma frase pequena,
+Dialogue: 0,0:00:10.94,0:00:14.97,Caption,,0,0,0,,mas ela abre uma conversa onde existiam distâncias reais.
+Dialogue: 0,0:00:15.49,0:00:19.02,Caption,,0,0,0,,A própria mulher pergunta como um judeu pedia água
+Dialogue: 0,0:00:18.94,0:00:20.83,Caption,,0,0,0,,a ela, uma samaritana.
+Dialogue: 0,0:00:21.55,0:00:25.27,Caption,,0,0,0,,João explica que judeus e samaritanos não se comunicavam.
+Dialogue: 0,0:00:26.30,0:00:30.12,Caption,,0,0,0,,Mais tarde, os discípulos se admiraram de encontrar Jesus
+Dialogue: 0,0:00:30.09,0:00:31.43,Caption,,0,0,0,,falando com uma mulher.
+Dialogue: 0,0:00:32.03,0:00:35.48,Caption,,0,0,0,,O texto não precisa de exagero para mostrar que
+Dialogue: 0,0:00:35.39,0:00:37.58,Caption,,0,0,0,,aquele encontro atravessava barreiras.
+Dialogue: 0,0:00:38.02,0:00:40.28,Caption,,0,0,0,,Jesus não começa definindo a mulher
+Dialogue: 0,0:00:40.81,0:00:42.09,Caption,,0,0,0,,pela sua condição,
+Dialogue: 0,0:00:42.83,0:00:45.72,Caption,,0,0,0,,pela sua origem ou pelo que ele sabe sobre
+Dialogue: 0,0:00:45.64,0:00:46.08,Caption,,0,0,0,,ela.
+Dialogue: 0,0:00:46.84,0:00:50.61,Caption,,0,0,0,,Ele pede água. Trata-a como alguém com quem vale
+Dialogue: 0,0:00:50.53,0:00:54.04,Caption,,0,0,0,,a pena conversar. Há um cuidado nisso para quem
+Dialogue: 0,0:00:54.00,0:00:57.40,Caption,,0,0,0,,se acostumou a entrar nos lugares já esperando ser
+Dialogue: 0,0:00:57.64,0:00:59.67,Caption,,0,0,0,,reduzida a uma etiqueta.
+Dialogue: 0,0:01:00.44,0:01:02.94,Caption,,0,0,0,,Ser visto por Jesus não é ser colocado numa
+Dialogue: 0,0:01:02.88,0:01:06.23,Caption,,0,0,0,,vitrine. É ser encontrado como pessoa inteira.
+Dialogue: 0,0:01:06.53,0:01:10.82,Caption,,0,0,0,,Com sede, perguntas, defesas, memórias e
+Dialogue: 0,0:01:10.79,0:01:12.31,Caption,,0,0,0,,possibilidade de futuro.

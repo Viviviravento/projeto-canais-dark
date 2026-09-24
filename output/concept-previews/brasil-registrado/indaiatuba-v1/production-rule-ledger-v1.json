@@ -1,0 +1,1035 @@
+{
+  "schema_version": "1.0.0",
+  "ledger_id": "brasil-registrado-concept-preview-rules",
+  "operation_id": "brasil-registrado-concept-preview",
+  "ledger_version": 33,
+  "updated_at": "2026-09-24T00:00:00-03:00",
+  "rules": [
+    {
+      "rule_id": "BRG-PREVIEW-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Produzir uma prévia curta que funda histórias reais extraordinárias com lugares e acontecimentos do Brasil.",
+      "rationale": "A usuária considerou interessantes as duas propostas e decidiu testá-las como um único canal.",
+      "scope": {"always": false, "stages": ["research", "script", "audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-merge-two-channel-concepts"], "recorded_at": "2026-09-08T00:00:00-03:00",
+      "acceptance_checks": ["O caso ocorreu no Brasil.", "A narrativa combina acontecimento real, lugar e compreensão factual."], "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-REAL-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Usar somente imagens e vídeos reais do caso, priorizando gravações de pessoas comuns e câmeras comuns; não gerar nem fabricar imagens para exemplificar.",
+      "rationale": "A usuária quer que a materialidade do acontecimento venha dos registros originais, não de reconstruções visuais.",
+      "scope": {"always": false, "stages": ["source_acquisition", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-real-footage-only"], "recorded_at": "2026-09-08T00:00:00-03:00",
+      "acceptance_checks": ["Nenhuma imagem gerada por IA entra no master.", "O tempo visual é dominado por vídeo real do acontecimento."], "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-SCREEN-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Manter a tela livre de textos, números, descrições, molduras e outros elementos na maior parte do vídeo; inserir somente informações cruciais e garantir momentos de imagem real sem qualquer sobreposição.",
+      "rationale": "A usuária rejeitou a sensação de slides e a presença de informação gráfica em todas as cenas.",
+      "scope": {"always": false, "stages": ["script", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-reduce-on-screen-information"], "recorded_at": "2026-09-08T00:00:00-03:00",
+      "acceptance_checks": ["Mais de 85% da duração não contém texto editorial.", "Há intervalos contínuos de vídeo real sem overlay."], "baseline_refs": ["output/concept-previews/lugares-que-transformaram-o-brasil/fordlandia-v1/fordlandia-preview-v1.mp4"], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-AUDIO-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Alternar inteligentemente narração por IA e áudio original verificável das gravações; preservar momentos estratégicos de silêncio e usar trilha levemente tensa, nunca ensurdecedora.",
+      "rationale": "A usuária quer que as pessoas e câmeras do acontecimento também contem a história, com espaço acústico para suspense.",
+      "scope": {"always": false, "stages": ["audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-original-audio-narration-silence"], "recorded_at": "2026-09-08T00:00:00-03:00",
+      "acceptance_checks": ["Há ao menos um trecho de áudio original sem narração.", "A trilha recua ou some nos momentos definidos.", "Picos não são agressivos."], "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-SUSPENSE-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Priorizar suspense e curiosidade na condução sem ocultar contexto essencial nem inventar perguntas, ameaças ou fatos.",
+      "rationale": "A usuária quer prender o espectador e considerou a prévia anterior excessivamente expositiva.",
+      "scope": {"always": false, "stages": ["script", "audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-suspense-priority"], "recorded_at": "2026-09-08T00:00:00-03:00",
+      "acceptance_checks": ["A abertura começa por uma observação intrigante antes da explicação.", "O roteiro alterna pergunta, evidência e revelação factual."], "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-CHRONO-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Organizar os vídeos originais e a narração em ordem cronológica reconhecível.",
+      "rationale": "A usuária pediu explicitamente que os acontecimentos fossem narrados e mostrados em ordem cronológica.",
+      "scope": {"always": false, "stages": ["script", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-chronological-original-videos"], "recorded_at": "2026-09-08T00:00:00-03:00",
+      "acceptance_checks": ["A sequência temporal do caso é compreensível sem depender de cartões explicativos constantes."], "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "UNIVERSAL-AUDIO-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Todo áudio de vídeo novo recebe pós-processamento em 1.08x com preservação de pitch antes da composição final.",
+      "rationale": "Regra transversal registrada na memória do projeto.",
+      "scope": {"always": true, "stages": ["audio", "editing", "qa", "concept_preview"], "formats": ["video", "video_16_9"]},
+      "source_refs": ["ai/memoria.md#regra-universal-de-velocidade-do-audio"], "recorded_at": "2026-08-05T00:00:00-03:00",
+      "acceptance_checks": ["O manifesto de áudio registra atempo=1.08 e preservação de pitch para narração, áudio original e trilha."], "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-AUDIO-001", "version": 2, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Alternar narração por IA e áudio original somente quando a gravação realmente possuir som verificável e editorialmente útil; quando a fonte for silenciosa, preservar silêncio estratégico em vez de fabricar som. A trilha permanece levemente tensa e nunca ensurdecedora.",
+      "rationale": "A usuária pediu áudio original de vez em quando, não em todo caso. A câmera rodoviária de Indaiatuba não oferece áudio original verificável na fonte acessível.",
+      "scope": {"always": false, "stages": ["audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-original-audio-sometimes", "research:indaiatuba-source-audio-audit"], "recorded_at": "2026-09-08T01:00:00-03:00",
+      "acceptance_checks": ["Nenhum som fabricado é apresentado como som do acontecimento.", "Há pausas reais de narração e a trilha recua ou some nesses pontos.", "Picos não são agressivos."],
+      "baseline_refs": [], "supersedes": "BRG-AUDIO-001@1", "locked": true
+    },
+    {
+      "rule_id": "BRG-MOTION-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Manter as imagens originais em movimento durante a narração; não congelar o vídeo apenas para abrir espaço para a voz e não criar trechos parados sem função factual.",
+      "rationale": "A usuária considerou o V2 parado por tempo demais e explicou que a voz deve ocupar intervalos adequados do registro sem interromper a imagem.",
+      "scope": {"always": false, "stages": ["editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-continuous-original-motion"], "recorded_at": "2026-09-08T02:00:00-03:00",
+      "acceptance_checks": ["A prévia não contém congelamento artificial.", "A imagem continua em movimento sob todos os blocos de narração."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/indaiatuba-v1/indaiatuba-preview-v1.mp4"], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-AUDIO-002", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Quando a gravação possuir áudio verificável e útil, mantê-lo audível abaixo da voz do narrador; não sobrepor a narração a uma pessoa falando. Dar primeiro plano ao áudio original em pausas breves quando ele revelar fala, impacto, explosão, batida ou outro acontecimento relevante.",
+      "rationale": "A usuária quer duas camadas audíveis sem competição e pausas motivadas pelo próprio registro, não silêncios longos ou arbitrários.",
+      "scope": {"always": false, "stages": ["audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-original-audio-under-narration"], "recorded_at": "2026-09-08T02:00:00-03:00",
+      "acceptance_checks": ["O áudio útil do registro permanece audível sob a narração por ducking, salvo quando contém fala concorrente.", "Não há duas pessoas falando ao mesmo tempo.", "Toda pausa acima de dois segundos possui motivação editorial registrada."],
+      "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-HOOK-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Abrir a prévia com a frase: 'Às vezes, um lugar muda a história do Brasil porque alguém estava gravando.'",
+      "rationale": "A usuária identificou essa formulação do encerramento anterior como o gancho capaz de gerar curiosidade e pediu que ela fosse antecipada.",
+      "scope": {"always": false, "stages": ["script", "audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-hook-moved-to-opening"], "recorded_at": "2026-09-08T02:00:00-03:00",
+      "acceptance_checks": ["A frase é a primeira informação narrada.", "O gancho começa nos primeiros dois segundos."],
+      "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-VOICE-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Buscar uma voz masculina levemente rouca, contida e imparcial, usando direção emocional estratégica para tensão, apreensão, sobriedade e reflexão; não usar entusiasmo, felicidade nem terror caricato.",
+      "rationale": "A usuária quer provocar emoções densas e primitivas sem transformar o narrador em personagem melodramático.",
+      "scope": {"always": false, "stages": ["script", "audio", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-slightly-hoarse-strategic-emotion"], "recorded_at": "2026-09-08T02:00:00-03:00",
+      "acceptance_checks": ["O texto de voz registra mudanças funcionais de intenção com tags como [measured], [tense], [somber], [thoughtful] e [restrained].", "A atuação permanece contida.", "A voz usada na prévia é identificada como candidata, não como escolha oficial."],
+      "baseline_refs": ["operations/ruptura-oculta/01_pesquisa-e-briefs/direcao-voz-eleven-v3-v2.md"], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-SCREEN-001", "version": 2, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Concentrar a maior parte do texto editorial na introdução curta, sobre vídeo real chamativo; depois da introdução, manter a tela limpa e usar texto somente para informação crucial.",
+      "rationale": "A usuária aceitou texto na abertura como ferramenta de contextualização, mas quer que o corpo seja conduzido por registros reais, sem aparência de sequência de slides.",
+      "scope": {"always": false, "stages": ["script", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-intro-text-then-clean-body"], "recorded_at": "2026-09-08T03:00:00-03:00",
+      "acceptance_checks": ["A introdução usa vídeo real em movimento como fundo.", "Depois da introdução, mais de 90% do corpo permanece sem texto editorial.", "Nenhum bloco visual se comporta como slide estático."],
+      "baseline_refs": [], "supersedes": "BRG-SCREEN-001@1", "locked": true
+    },
+    {
+      "rule_id": "BRG-MOTION-001", "version": 2, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Não congelar o registro apenas para acomodar a narração. Uma retenção, desaceleração ou pausa visual só pode existir para permitir a leitura de informação crucial sincronizada; na introdução, preferir vídeo real ainda em movimento.",
+      "rationale": "A usuária distinguiu a pausa inútil para a IA falar da sustentação necessária para conseguir ler um dado importante.",
+      "scope": {"always": false, "stages": ["script", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-reading-hold-not-narration-freeze"], "recorded_at": "2026-09-08T03:00:00-03:00",
+      "acceptance_checks": ["Nenhuma pausa visual existe somente porque o narrador fala.", "Toda retenção visual está ligada a um texto crucial e tem tempo de leitura calculado.", "A abertura preserva movimento de fundo sempre que houver material real adequado."],
+      "baseline_refs": [], "supersedes": "BRG-MOTION-001@1", "locked": true
+    },
+    {
+      "rule_id": "BRG-INTRO-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Abrir o episódio com uma introdução de até um minuto que explique o suficiente para situar o tema e deixe perguntas reais estrategicamente abertas, usando como fundo vídeo real chamativo relacionado ao caso e à thumbnail.",
+      "rationale": "A usuária quer que a promessa seja compreendida cedo sem entregar toda a resposta nem depender de uma imagem estática.",
+      "scope": {"always": false, "stages": ["script", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-open-loops-introduction"], "recorded_at": "2026-09-08T03:00:00-03:00",
+      "acceptance_checks": ["A introdução termina em até 60 segundos.", "Local, data, acontecimento e promessa do episódio ficam compreensíveis.", "Ao menos uma pergunta factual permanece aberta para o corpo responder."],
+      "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-SYNC-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Sincronizar toda informação escrita com a fala e com a evidência visual correspondente, mantendo-a na tela por tempo suficiente para leitura confortável; não adiantar nem atrasar números, datas ou conclusões.",
+      "rationale": "A usuária relatou repetidamente informação curta e fora de hora, incluindo o número 1700 e o cartão do tornado.",
+      "scope": {"always": false, "stages": ["script", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-1700-late-overlay", "conversation:2026-09-08-tornado-card-under-one-second"], "recorded_at": "2026-09-08T03:00:00-03:00",
+      "acceptance_checks": ["O primeiro quadro do texto coincide com a frase ou evidência que o apresenta, tolerância máxima de 0,25 s.", "Tempo mínimo de exibição é max(4,5 s, palavras/2,7 + 1,5 s).", "Nenhum texto crucial entra ou sai em menos de 4,5 s."],
+      "baseline_refs": ["conversation-attachment:codex-clipboard-67f3d3ed-7183-4a47-9680-c9290cd409f7.png"], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-NARRATIVE-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Depois da introdução, deixar os vídeos e áudios originais conduzirem a cronologia e usar a IA apenas para orientar, contextualizar, explicar e instigar curiosidade de forma sutil. Cada frase precisa cumprir uma função narrativa consciente; sensacionalismo moderado é permitido quando sustentado pelos fatos.",
+      "rationale": "A usuária quer retenção deliberada sem narração constante, exagero escancarado ou confusão factual.",
+      "scope": {"always": false, "stages": ["script", "audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-purposeful-curiosity-and-moderate-sensationalism"], "recorded_at": "2026-09-08T03:00:00-03:00",
+      "acceptance_checks": ["Cada fala está marcada como orientar, informar, contextualizar, explicar, abrir ou pagar curiosidade.", "O corpo contém intervalos conduzidos por arquivo sem voz da IA.", "Nenhuma frase promete mistério inexistente ou conclusão não sustentada."],
+      "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-OUTRO-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "No encerramento, relembrar o nome do canal, pedir inscrição, like e compartilhamento, e direcionar o espectador a um vídeo recomendado na tela.",
+      "rationale": "A usuária definiu explicitamente a função de continuidade e conversão do final.",
+      "scope": {"always": false, "stages": ["script", "audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-channel-name-and-end-screen-cta"], "recorded_at": "2026-09-08T03:00:00-03:00",
+      "acceptance_checks": ["A fala menciona o nome do canal.", "Inscrição, like e compartilhamento aparecem de forma natural.", "A última frase aponta para o vídeo recomendado na tela."],
+      "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-DISTRIBUTION-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Usar conteúdo curto como porta de entrada para os vídeos longos do canal, preservando uma pergunta que o episódio completo responde.",
+      "rationale": "A usuária propôs explicitamente curtos para atrair público aos longos.",
+      "scope": {"always": false, "stages": ["script", "distribution", "qa", "concept_preview"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-08-shorts-to-long-form"], "recorded_at": "2026-09-08T03:00:00-03:00",
+      "acceptance_checks": ["O longo contém ao menos um momento convertível em curto sem entregar todo o payoff.", "O curto aponta para uma resposta real no episódio completo."],
+      "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-PREVIEW-001", "version": 2, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Ampliar a hipótese editorial para acontecimentos reais registrados em qualquer país; o Brasil permanece uma fonte forte de pautas, mas não limita o território do canal.",
+      "rationale": "A usuária gostou de Brasil Registrado, mas rejeitou a limitação geográfica implícita no nome e pediu espaço para expansão internacional.",
+      "scope": {"always": false, "stages": ["research", "naming", "script", "concept_preview"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-08-expand-beyond-brazil"], "recorded_at": "2026-09-08T15:00:00-03:00",
+      "acceptance_checks": ["A promessa do canal não restringe pautas ao Brasil.", "Casos brasileiros podem preservar seu contexto nacional sem transformar Brasil em limite da marca."],
+      "baseline_refs": [], "supersedes": "BRG-PREVIEW-001@1", "locked": true
+    },
+    {
+      "rule_id": "BRG-NAME-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Não promover Brasil Registrado a nome definitivo; propor nomes geograficamente neutros e manter a escolha final pendente de aprovação humana.",
+      "rationale": "Brasil Registrado foi bem recebido, mas limitaria a expansão editorial desejada.",
+      "scope": {"always": false, "stages": ["naming", "script", "audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-08-broader-channel-name"], "recorded_at": "2026-09-08T15:00:00-03:00",
+      "acceptance_checks": ["Nenhum nome provisório é tratado como aprovado.", "A prévia não grava CTA com Brasil Registrado como marca definitiva."],
+      "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-DURATION-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Todo vídeo longo do canal terá no mínimo 10 minutos e nunca menos; episódios podem alcançar de 20 a 30 minutos quando a densidade da história sustentar a duração, sem redundância ou repetição.",
+      "rationale": "A usuária quer conteúdo denso e bem produzido, com expansão gradual de duração conforme o formato amadurecer.",
+      "scope": {"always": false, "stages": ["research", "script", "editing", "qa"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-minimum-ten-minutes"], "recorded_at": "2026-09-08T15:00:00-03:00",
+      "acceptance_checks": ["A duração projetada do longo é igual ou superior a 10:00.", "Nenhum bloco existe apenas para preencher tempo.", "Duração de 20 a 30 minutos só é adotada quando fontes e história sustentam conteúdo não redundante."],
+      "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-CONTEXT-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Usar contexto factual da cidade — população na época, localização geográfica e história relevante — quando ele ajudar a compreender o acontecimento, sem redundância nem enchimento artificial.",
+      "rationale": "A usuária autorizou ampliar o caso com fatos de Indaiatuba desde que tenham função e não sejam repetitivos.",
+      "scope": {"always": false, "stages": ["research", "script", "qa"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-indaiatuba-context"], "recorded_at": "2026-09-08T15:00:00-03:00",
+      "acceptance_checks": ["Cada fato urbano possui fonte verificável.", "Cada fato se conecta à dimensão, localização ou impacto do acontecimento.", "O contexto não repete informação já paga por imagens ou narração."],
+      "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-VISUAL-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Adotar como candidata a estética profissional da prévia de Fordlândia — Georgia Bold creme, Segoe UI em apoios, acento ferrugem, verde-petróleo escuro, imagem real com tratamento documental — somente na introdução, no encerramento e, raramente, em uma informação de lore indispensável; não usar ao longo de todo o corpo.",
+      "rationale": "A usuária aprovou explicitamente a estética e a fonte das imagens de referência, mas restringiu sua frequência.",
+      "scope": {"always": false, "stages": ["editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation-attachment:codex-clipboard-6c698a62-3cd1-4077-9efb-3c3271c1b3cc.png", "conversation-attachment:codex-clipboard-a57ff4a6-1383-46c4-a989-b80711d49931.png"], "recorded_at": "2026-09-08T15:00:00-03:00",
+      "acceptance_checks": ["A introdução usa vídeo real em movimento, não fundo estático.", "A tipografia principal é Georgia Bold creme e os apoios usam Segoe UI.", "O corpo fica visualmente limpo após a introdução.", "Nenhuma informação gráfica rara aparece sem necessidade narrativa demonstrável."],
+      "baseline_refs": ["output/concept-previews/lugares-que-transformaram-o-brasil/fordlandia-v1/build_preview.py"], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-PREVIEW-VOICE-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Na próxima prévia, usar a voz provisória atual somente se seu custo for inferior ao da voz de Ruptura Oculta; caso contrário, usar a voz de Ruptura. A escolha continua candidata e não define a voz oficial do canal.",
+      "rationale": "A usuária subordinou a escolha da voz da prévia ao custo e informou que a decisão final de voz virá depois.",
+      "scope": {"always": false, "stages": ["audio", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-preview-voice-cost-condition"], "recorded_at": "2026-09-08T15:00:00-03:00",
+      "acceptance_checks": ["O manifesto identifica o provedor e o custo observado da geração.", "A opção mais barata entre as duas é usada na prévia.", "O status da voz permanece temporary_candidate_not_approved."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/indaiatuba-v1/audio-v3/audio-manifest-v3.json", "operations/ruptura-oculta/01_pesquisa-e-briefs/direcao-voz-eleven-v3-v2.md"], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-THIRD-PARTY-GRAPHICS-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Não deixar cartões, caixas de legenda ou outros grafismos editoriais embutidos por jornais parecerem parte da identidade do canal. Cortar para intervalos limpos sempre que a informação não for crucial; quando for indispensável, reapresentá-la com a linguagem aprovada de Georgia Bold creme, Segoe UI, ferrugem e painel verde-petróleo, como na referência de Fordlândia.",
+      "rationale": "A usuária rejeitou o cartão vermelho 'TORNADO' e a caixa cinza 'Cidades das regiões...' do arquivo G1 e pediu que informações necessárias adotem o padrão profissional da segunda referência.",
+      "scope": {"always": false, "stages": ["source_acquisition", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation-attachment:codex-clipboard-2a8a1f3c-90cc-4df1-a21e-155308126a54.png", "conversation-attachment:codex-clipboard-148c343f-84df-4246-af20-bd5aa9a5bcba.png", "conversation-attachment:codex-clipboard-a27f9c2e-b67a-4df0-9730-0e7ab9e591e2.png"],
+      "recorded_at": "2026-09-08T16:00:00-03:00",
+      "acceptance_checks": ["O cartão vermelho e as caixas cinzas do G1 não aparecem na prévia corrigida.", "Informação editorial própria usa somente a identidade visual aprovada.", "O corpo preserva imagens reais limpas em vez de substituir grafismo ruim por grafismo desnecessário."],
+      "baseline_refs": ["output/concept-previews/lugares-que-transformaram-o-brasil/fordlandia-v1/build_preview.py"], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-VOICE-001", "version": 2, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Adotar pt-BR-AntonioNeural como voz do canal nesta fase, preservando uma interpretação contida e permitindo tratamento leve de timbre, dinâmica, pausas e prosódia para tensão, apreensão, sobriedade e reflexão, sem caricatura nem distorção evidente.",
+      "rationale": "A usuária escolheu explicitamente a voz Antônio e perguntou pela continuidade da direção emocional fora da ElevenLabs.",
+      "scope": {"always": false, "stages": ["script", "audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-08-antonio-selected-and-emotional-direction"], "recorded_at": "2026-09-08T17:00:00-03:00",
+      "acceptance_checks": ["A voz sintetizada é identificada como pt-BR-AntonioNeural.", "A direção emocional é convertida em decisões auditáveis de texto, pausa, pitch, dinâmica e pós-produção.", "O processamento não produz voz metálica, grave artificial ou atuação melodramática.", "O provedor e a situação dos direitos de publicação são registrados."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/indaiatuba-v1/audio-v5/preview-v5-audio-manifest.json"], "supersedes": "BRG-VOICE-001@1", "locked": true
+    },
+    {
+      "rule_id": "BRG-AUDIO-SPEED-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Nesta operação, aplicar pós-processamento final de áudio em 1.09x com preservação de pitch, por ora.",
+      "rationale": "A usuária escolheu 1.09x para este canal após ouvir a prévia em 1.08x.",
+      "scope": {"always": false, "stages": ["audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-08-speed-1-09-for-now"], "recorded_at": "2026-09-08T17:00:00-03:00",
+      "acceptance_checks": ["O manifesto de áudio registra atempo=1.09.", "O pitch é preservado.", "A regra é tratada como exceção local posterior ao default transversal de 1.08x, sem alterar os demais canais."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/indaiatuba-v1/audio-v5/preview-v5-audio-manifest.json"], "supersedes": "UNIVERSAL-AUDIO-001@1 within brasil-registrado-concept-preview", "locked": true
+    },
+    {
+      "rule_id": "BRG-NAME-001", "version": 2, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Reservar Brasil Registrado como nome de uma playlist dedicada a casos brasileiros; manter o nome do canal geograficamente neutro e ainda pendente de escolha humana.",
+      "rationale": "A usuária aprovou Brasil Registrado como playlist, mas ainda está comparando as opções para o nome do canal.",
+      "scope": {"always": false, "stages": ["naming", "script", "audio", "editing", "qa", "concept_preview", "distribution"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-08-brasil-registrado-playlist-name-pending-channel"], "recorded_at": "2026-09-08T17:00:00-03:00",
+      "acceptance_checks": ["Brasil Registrado aparece somente como playlist ou série editorial.", "Nenhum CTA apresenta Brasil Registrado como nome do canal.", "O nome definitivo do canal permanece pending_human_choice."],
+      "baseline_refs": [], "supersedes": "BRG-NAME-001@1", "locked": true
+    },
+    {
+      "rule_id": "BRG-VOICE-RIGHTS-001", "version": 1, "status": "active", "authority": "operation_policy",
+      "directive": "Não tratar o acesso sem cobrança à voz Antônio pelo recurso Read Aloud do Edge ou pela biblioteca não oficial edge-tts como licença comercial. Para publicação monetizada, exigir uma rota cuja licença cubra expressamente o uso — atualmente, a cláusula explícita dos Microsoft Product Terms cobre o áudio de vozes neurais prebuilt gerado por clientes do tier pago do Azure TTS.",
+      "rationale": "A prévia consumiu zero crédito por usar a rota do Edge, mas os termos públicos atuais não concedem direito comercial explícito a essa rota; o contrato oficial limita a permissão comercial expressa ao tier pago do Azure TTS.",
+      "scope": {"always": false, "stages": ["audio", "qa", "publication"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["https://www.microsoft.com/licensing/terms/en-US/productoffering/MicrosoftAzure/MCA", "https://azure.microsoft.com/en-us/pricing/details/speech/", "https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support"], "recorded_at": "2026-09-08T17:00:00-03:00",
+      "acceptance_checks": ["Prévia interna identifica a rota Edge como não liberada para publicação.", "Master publicável usa Azure TTS paid tier ou outra autorização comercial explícita vigente.", "A voz permanece pt-BR-AntonioNeural."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/indaiatuba-v1/audio-v5/preview-v5-audio-manifest.json"], "supersedes": null, "locked": false
+    },
+    {
+      "rule_id": "BRG-GROWTH-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Em toda produção futura deste canal, aplicar autonomamente — sem depender de lembrete ou supervisão da usuária — os aprendizados úteis e verificados das aulas de Peter Jordan: promessa conjunta clara em título e thumbnail, confirmação imediata do clique, progressão sem redundância, loops factuais com payoff, identidade recorrente que justifica inscrição e ponte específica para próxima visualização. Antes da produção, preencher o contrato de audiência, tensão, promessa, confirmação, progressão, loops, payoff, identidade, ponte e exclusões; no QA, demonstrar a aplicação por evidência observável.",
+      "rationale": "A usuária determinou explicitamente que o Codex coloque sozinho em prática as informações relevantes que realmente fazem diferença no canal, mesmo quando ela não acompanhar a produção.",
+      "scope": {"always": true, "stages": ["research", "topic_selection", "script", "packaging", "source_acquisition", "audio", "editing", "distribution", "qa", "publication", "concept_preview"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-08-autonomous-peter-application", "factory/policies/autonomous-video-growth-principles-v1.md", "research/channel-genesis/v2/17-dificil-de-explicar-e-peter-aplicacao-registros-reais.md"],
+      "recorded_at": "2026-09-08T18:05:00-03:00",
+      "acceptance_checks": ["O preflight registra audiência/ocasião, tensão, promessa conjunta, confirmação inicial, progressão, loops, payoff, identidade recorrente, ponte e exclusões.", "Título, thumbnail e primeiros segundos prometem e confirmam a mesma experiência.", "Toda pergunta aberta possui plantio, payoff e limite factual auditáveis.", "O encerramento explicita o valor recorrente do canal e aponta para um destino real pertinente.", "O QA cita BRG-GROWTH-001@1 e apresenta timestamps, frames ou campos que comprovam a aplicação.", "Nenhuma alegação de Peter é aplicada quando não estiver verificada, for irrelevante, contrariar o ledger, inflar duração/cadência ou violar autoria e direitos."],
+      "baseline_refs": ["research/channel-genesis/runs/20260811-lucky-br-ptbr-001/pilot/pilot-plan-registros-reais.md"], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-NARRATION-FLOW-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Escrever a narração majoritariamente como prosa contínua em português brasileiro, usando vírgulas, reticências e pontos para conduzir o ritmo natural; não fragmentar rotineiramente as frases em estrofes nem inserir pausas longas artificiais entre uma frase e outra.",
+      "rationale": "A usuária rejeitou repetidamente as pausas excessivas da primeira metade e associou o defeito à escrita fragmentada e à montagem da locução por blocos.",
+      "scope": {"always": false, "stages": ["script", "audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-08-reject-long-narration-pauses-and-use-continuous-prose"], "recorded_at": "2026-09-08T19:10:00-03:00",
+      "acceptance_checks": ["O texto-base é prosa contínua, salvo pausas dramatúrgicas excepcionais e motivadas.", "Nenhuma lacuna entre frases é criada para preencher a duração.", "Toda pausa superior a dois segundos coincide com áudio original relevante, uma revelação visual ou uma transição narrativa registrada.", "A audição integral não apresenta cadência de estrofes isoladas."],
+      "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-EVENT-FOCUS-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Fazer do acontecimento e de sua sequência factual o foco do vídeo. Contexto urbano, história local e explicação científica entram apenas de forma curta quando forem indispensáveis para compreender o que está ocorrendo; nunca servem para completar duração nem transformam o episódio em apresentação escolar.",
+      "rationale": "A usuária esclareceu que a autorização anterior para citar a cidade não a tornava foco e rejeitou o excesso de fatos urbanos e científicos.",
+      "scope": {"always": false, "stages": ["research", "topic_selection", "script", "editing", "qa", "concept_preview"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-08-event-first-city-and-science-minimal"], "recorded_at": "2026-09-08T19:10:00-03:00",
+      "acceptance_checks": ["A maior parte da duração reconstrói diretamente os fatos do acontecimento.", "Cada contexto de cidade ou ciência responde a uma necessidade imediata da história.", "Nenhum bloco de contexto existe para alcançar dez minutos.", "A remoção de um contexto supérfluo não prejudica a compreensão porque ele não entra no roteiro."],
+      "baseline_refs": [], "supersedes": "BRG-CONTEXT-001@1 in emphasis and use", "locked": true
+    },
+    {
+      "rule_id": "BRG-LANGUAGE-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Apresentar em português brasileiro todas as palavras, rótulos e informações editoriais criadas pelo canal. Material estrangeiro indispensável só pode aparecer quando a compreensão em português estiver resolvida de forma limpa e mínima.",
+      "rationale": "A usuária rejeitou mapas e figuras em inglês e determinou que as palavras estejam em PT-BR.",
+      "scope": {"always": false, "stages": ["source_acquisition", "script", "editing", "qa", "concept_preview"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-08-all-words-ptbr"], "recorded_at": "2026-09-08T19:10:00-03:00",
+      "acceptance_checks": ["Todo texto editorial próprio está em PT-BR.", "Nenhum mapa ou quadro técnico em idioma estrangeiro é usado como substituto de imagens do fato.", "Fala estrangeira essencial recebe tradução legível sem poluir continuamente a tela."],
+      "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-SOURCE-SUFFICIENCY-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Antes de selecionar ou produzir um episódio longo, comprovar que o caso possui quantidade e variedade suficientes de vídeos reais do próprio acontecimento, preferencialmente captados por múltiplas câmeras e com áudio original útil, para sustentar pelo menos dez minutos centrados nos fatos sem repetição, imagens estáticas dominantes ou enchimento de cidade e ciência. Se o gate falhar, descartar a pauta.",
+      "rationale": "A usuária determinou que um caso sem material real suficiente para dez minutos não deve ser escolhido nem compensado com apresentação da IA.",
+      "scope": {"always": true, "stages": ["research", "topic_selection", "source_acquisition", "script", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-discard-case-without-enough-real-video-and-original-audio"], "recorded_at": "2026-09-08T19:10:00-03:00",
+      "acceptance_checks": ["Existe inventário temporal de vídeos reais únicos do caso, por câmera e momento.", "Existe mapa de áudio original verificável e sua função narrativa.", "A escaleta demonstra dez minutos ou mais sem repetir o mesmo trecho como preenchimento.", "Imagens estáticas são excepcionais e não dominam nenhum bloco.", "Falha em qualquer requisito central resulta em pauta rejeitada antes do roteiro e da edição."],
+      "baseline_refs": [], "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-SCIENCE-BRIDGE-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Quando a cronologia passar do fenômeno natural para o pós-acontecimento, inserir uma explicação científica breve do fenômeno, preferencialmente nessa transição ou em outro ponto narrativamente adequado. Usar somente poucos dados indispensáveis na tela, com a identidade visual aprovada, e retomar imediatamente a história real.",
+      "rationale": "A usuária aprovou a prévia de Capitólio e identificou a passagem entre a queda e o homem carregando uma criança como o ponto correto para explicar brevemente o fenômeno sem interromper a narrativa por cerca de um minuto.",
+      "scope": {"always": false, "stages": ["research", "script", "audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-08-capitolio-brief-science-transition"],
+      "recorded_at": "2026-09-08T22:55:00-03:00",
+      "acceptance_checks": ["A explicação entra na passagem entre o fenômeno e suas consequências ou em outro ponto explicitamente justificado.", "O bloco científico dura poucos segundos e não se aproxima de um minuto.", "A tela contém somente o nome do fenômeno e uma síntese indispensável em PT-BR.", "O fundo permanece vídeo real em movimento.", "A história cronológica é retomada imediatamente no pós-acontecimento."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/capitolio-v1/capitolio-preview-v1-balanced.mp4"],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-VISUAL-001", "version": 2, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Fixar como identidade visual do canal a composição aprovada na prévia V2 de Capitólio: Georgia Bold em creme, Segoe UI nos apoios, painéis verde-petróleo escuro e acentos laranja/ferrugem. Manter essa paleta e hierarquia tipográfica padronizadas nos próximos vídeos; não trocar a cor de acento ou reinterpretar a identidade sem nova decisão explícita.",
+      "rationale": "A usuária aprovou os detalhes laranja da abertura e do cartão científico e determinou que se tornem padrão permanente da identidade visual.",
+      "scope": {"always": true, "stages": ["packaging", "script", "editing", "qa", "concept_preview", "publication"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-09-orange-visual-identity-locked"],
+      "recorded_at": "2026-09-09T00:10:00-03:00",
+      "acceptance_checks": ["O acento visual usa laranja/ferrugem da baseline aprovada.", "Títulos usam Georgia Bold creme e apoios usam Segoe UI.", "Painéis informativos usam verde-petróleo escuro.", "A paleta não muda entre episódios sem decisão explícita da usuária.", "A identidade continua restrita à abertura, encerramento e raras informações indispensáveis."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/capitolio-v1/capitolio-preview-v2-science-bridge.mp4", "conversation-attachment:codex-clipboard-73530e1b-c409-4670-b1d6-5d7b310c2986.png", "conversation-attachment:codex-clipboard-badb899d-de00-4a15-a467-d34b4428b5dc.png"],
+      "supersedes": "BRG-VISUAL-001@1",
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-SCIENCE-BRIDGE-001", "version": 2, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Quando a cronologia passar do fenômeno natural para o pós-acontecimento, inserir uma explicação científica breve do fenômeno, preferencialmente nessa transição. Usar poucos dados indispensáveis na identidade visual aprovada, manter o fundo em vídeo real e retomar imediatamente a história. Durante essa explicação, reduzir o áudio original mais do que na prévia V2, mas nunca zerá-lo nem torná-lo inaudível.",
+      "rationale": "A usuária aprovou a estrutura do interlúdio científico, mas pediu o áudio original um pouco mais baixo durante a fala da IA, preservando a presença acústica do registro.",
+      "scope": {"always": false, "stages": ["research", "script", "audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-09-science-original-audio-lower-not-zero"],
+      "recorded_at": "2026-09-09T00:10:00-03:00",
+      "acceptance_checks": ["O bloco científico dura poucos segundos e não se aproxima de um minuto.", "O texto visual é mínimo, em PT-BR e usa a identidade padronizada.", "O fundo permanece vídeo real em movimento.", "O áudio original continua perceptível sob a narração, em nível inferior ao usado na V2.", "O áudio original não é silenciado.", "A história cronológica é retomada imediatamente no pós-acontecimento."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/capitolio-v1/capitolio-preview-v2-science-bridge.mp4"],
+      "supersedes": "BRG-SCIENCE-BRIDGE-001@1",
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-PILOT-BASELINE-001", "version": 1, "status": "active", "authority": "human_approved_baseline",
+      "directive": "Usar a prévia V2 de Capitólio como baseline audiovisual aprovada para o primeiro episódio completo e para a gramática dos próximos vídeos: registro real dominante, áudio original preservado, Antônio a 1,09x, suspense factual, texto raro, paleta fixa e ciência breve antes da retomada cronológica.",
+      "rationale": "A usuária declarou que gostou da prévia, sentiu interesse em continuar assistindo e autorizou a versão completa.",
+      "scope": {"always": true, "stages": ["research", "script", "audio", "editing", "qa", "concept_preview"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-09-capitolio-v2-approved-for-full"],
+      "recorded_at": "2026-09-09T00:10:00-03:00",
+      "acceptance_checks": ["A abertura e a gramática visual preservam a baseline.", "O longo expande a história, não substitui o método aprovado.", "Qualquer mudança fora do escopo exige nova aprovação humana.", "O QA compara o longo com a baseline V2."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/capitolio-v1/capitolio-preview-v2-science-bridge.mp4", "output/concept-previews/brasil-registrado/capitolio-v1/qa-report-preview-v2.md"],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-CAPITOLIO-LONG-001", "version": 1, "status": "active", "authority": "explicit_user_decision",
+      "directive": "Produzir a versão completa do episódio de Capitólio a partir da baseline V2 aprovada, respeitando o mínimo de dez minutos, o gate de suficiência audiovisual e todos os bloqueios de direitos antes de qualquer publicação.",
+      "rationale": "Após aprovar a prévia e seus ajustes, a usuária autorizou explicitamente a produção do vídeo completo.",
+      "scope": {"always": false, "stages": ["research", "source_acquisition", "script", "audio", "editing", "qa"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-09-authorize-full-capitolio-video"],
+      "recorded_at": "2026-09-09T00:10:00-03:00",
+      "acceptance_checks": ["O episódio final tem no mínimo 10:00.", "A duração é sustentada por fatos e registros únicos, sem repetição de preenchimento.", "A baseline V2 é preservada como método.", "O artefato permanece interno enquanto fontes e voz não tiverem licença comercial."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/capitolio-v1/capitolio-preview-v2-science-bridge.mp4"],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-NARRATIVE-IMMERSION-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "A narração de Testemunha do Tempo fala exclusivamente dos fatos, das pessoas, dos registros e das inferências justificadas pelo caso. É proibido narrar limitação de captação, edição, prompt, ferramenta, arquivo, roteiro ou qualquer bastidor de produção. Quando uma fonte não trouxer áudio inteligível, o narrador descreve o que é factual e visível ou faz a ponte cronológica sem revelar o mecanismo editorial.",
+      "rationale": "A usuária rejeitou a V6 porque o narrador explicou que a conversa não tinha som aproveitável, quebrando a imersão e transformando bastidor de produção em texto do episódio.",
+      "scope": {"always": true, "stages": ["script", "audio", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-22-watts-reject-backstage-narration"],
+      "recorded_at": "2026-09-22T00:00:00-03:00",
+      "acceptance_checks": ["Nenhuma linha do roteiro contém referência a captação, áudio aproveitável, edição, prompt, ferramenta ou outro processo interno.", "Cada ponte do narrador descreve fato, evidência visual, limite do caso ou passagem cronológica.", "A revisão textual procura explicitamente termos de bastidor antes do TTS."],
+      "baseline_refs": [],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-DOORBELL-FRAMING-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "No episódio Chris Watts, a gravação da câmera da porta da vítima só aparece na primeira cena e na última cena do vídeo completo. Ela funciona como moldura narrativa do episódio e não pode ser reutilizada em transições, capítulos, pontes ou blocos intermediários.",
+      "rationale": "A usuária aprovou a lógica de câmera da porta apenas na abertura e no encerramento e rejeitou seu retorno após o segundo take.",
+      "scope": {"always": false, "stages": ["script", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-22-watts-doorbell-opening-and-ending-only"],
+      "recorded_at": "2026-09-22T00:00:00-03:00",
+      "acceptance_checks": ["O primeiro plano do master é da câmera da porta.", "O último plano do master é da câmera da porta.", "Nenhum plano entre o primeiro e o último usa essa fonte.", "Prévia intermediária que não contém o encerramento não reutiliza a câmera após a abertura."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V2.mp4"],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-DIALOGUE-PRIORITY-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Diálogo documental importante tem prioridade sobre a narração. Em interrogatório, entrevista, depoimento, ligação, discussão, confissão ou explicação de evidência, a narração não pode sobrepor, reduzir a compreensão ou manter timing fixo que sacrifique a conversa. A locução deve ocorrer antes ou depois do bloco; o áudio original permanece audível.",
+      "rationale": "A usuária identificou locução sobre a conversa que explicava a evidência mostrada na TV e determinou que a cronologia da voz ceda ao material original relevante.",
+      "scope": {"always": true, "stages": ["script", "audio", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-22-watts-original-dialogue-priority"],
+      "recorded_at": "2026-09-22T00:00:00-03:00",
+      "acceptance_checks": ["Cada bloco de diálogo importante possui intervalo marcado na timeline.", "Nenhuma faixa de narração cruza esses intervalos.", "O áudio original passa em volume compreensível.", "A ponte do narrador é deslocada para antes ou depois do diálogo quando necessária."],
+      "baseline_refs": [],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-FOREIGN-DIALOGUE-CAPTIONS-001",
+      "version": 2,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Todo diálogo estrangeiro audível em Testemunha do Tempo recebe legenda PT-BR fiel, sincronizada e legível, inclusive diálogos importantes. Cada fala tem painel distinto; uma troca de interlocutor inicia novo painel. A legenda não pode ficar coberta por elemento gráfico e o diálogo original deve permanecer audível.",
+      "rationale": "A usuária reafirmou que nenhuma fala estrangeira relevante pode ficar sem tradução e exigiu fidelidade, mudança clara de falante e tempo suficiente de leitura.",
+      "scope": {"always": true, "stages": ["script", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-22-watts-foreign-dialogue-caption-reaffirmation"],
+      "recorded_at": "2026-09-22T00:00:00-03:00",
+      "acceptance_checks": ["A cue sheet cobre todos os turnos estrangeiros audíveis.", "Cada legenda inicia e encerra no turno correspondente, com tolerância máxima de 200 ms.", "O painel não fica coberto e preserva tempo suficiente de leitura.", "O áudio de origem permanece compreensível."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/recovery-v1/CHRIS-WATTS-RECUPERACAO-AMOSTRA-V4.mp4"],
+      "supersedes": "BRG-FOREIGN-DIALOGUE-CAPTIONS-001@1",
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-CONTENT-META-ISOLATION-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Toda comunicação da usuária sobre edição, estrutura, direção, ritmo, timing, revisão, qualidade, pedido de alteração, ferramenta, prompt ou funcionamento do vídeo é production_notes/meta_instructions e nunca pode entrar na narração, ser parafraseada pelo narrador ou servir como fonte narrativa. A narração só pode usar fatos documentais autorizados, roteiro humano aprovado ou texto explicitamente marcado pela usuária como destinado ao público. Em caso de dúvida, o texto é instrução de produção e fica fora do corpus publicável.",
+      "rationale": "A usuária identificou vazamento repetido de feedback de bastidor para a narração e determinou uma separação absoluta entre conteúdo publicável e meta-instruções.",
+      "scope": {"always": true, "stages": ["research", "script", "audio", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-22-content-versus-production-notes-firewall"],
+      "recorded_at": "2026-09-22T00:00:00-03:00",
+      "acceptance_checks": ["Todo texto de TTS é selecionado por ID de uma whitelist de conteúdo publicável.", "Cada entrada da whitelist declara origem permitida e fonte.", "O pipeline bloqueia produção, feedback, revisão, QA, prompt e instruções como origem de narração.", "A auditoria textual do artefato cita a origem de cada linha narrada."],
+      "baseline_refs": [],
+      "supersedes": null,
+      "locked": true
+    }
+    ,
+{
+  "status": "active",
+  "authority": "explicit_user_decision",
+  "scope": {
+    "always": false,
+    "stages": [
+      "script",
+      "audio",
+      "editing",
+      "qa",
+      "concept_preview"
+    ],
+    "formats": [
+      "video_16_9"
+    ]
+  },
+  "source_refs": [
+    "conversation:2026-09-10-capitolio-source-continuity-and-no-playlist"
+  ],
+  "recorded_at": "2026-09-10T00:00:00-03:00",
+  "baseline_refs": [
+    "output/concept-previews/brasil-registrado/capitolio-v1/capitolio-preview-v2-science-bridge.mp4"
+  ],
+  "locked": true,
+  "rule_id": "BRG-SOURCE-CONTINUITY-001",
+  "version": 1,
+  "directive": "Introduzir fontes humanas pelo nome e função verificados e por contexto pertinente; preservar raciocínio completo, voz original e imagem sincronizada. Corrigir em Capitólio a fonte de 05:25, todas as inserções indevidas do perfil de Bolsonaro e a entrevista de cerca de 07:20. Comparar enquadramento original e retirar zoom desnecessário. A duração pode crescer para acomodar falas completas.",
+  "rationale": "Usuária apontou fala curta da repórter sobre imagem inadequada, perfil político desconexo repetido, entrevistado excessivamente ampliado, não identificado e cortado.",
+  "acceptance_checks": [
+    "Entradas e saídas delimitadas por frases completas verificadas, nunca duração arbitrária de 10 ou 15 segundos.",
+    "Nome e função provêm da fonte ou de referência verificável.",
+    "Cortes de quadro, áudio e vídeo auditados antes/no/depois; áudio original não deslocado de sua imagem.",
+    "Nenhum perfil de Bolsonaro sobrevive nas ocorrências identificadas; extensão não introduz material fora de contexto.",
+    "Enquadramento antes/depois comparado com original; não cortar rosto para remover grafismo.",
+    "Não congelar imagem para acomodar a repórter nem repetir clipe como enchimento."
+  ],
+  "supersedes": null
+},
+{
+  "status": "active",
+  "authority": "explicit_user_decision",
+  "scope": {
+    "always": false,
+    "stages": [
+      "script",
+      "audio",
+      "editing",
+      "qa",
+      "concept_preview"
+    ],
+    "formats": [
+      "video_16_9"
+    ]
+  },
+  "source_refs": [
+    "conversation:2026-09-10-capitolio-source-continuity-and-no-playlist"
+  ],
+  "recorded_at": "2026-09-10T00:00:00-03:00",
+  "baseline_refs": [
+    "output/concept-previews/brasil-registrado/capitolio-v1/capitolio-preview-v2-science-bridge.mp4"
+  ],
+  "locked": true,
+  "rule_id": "BRG-OUTRO-001",
+  "version": 2,
+  "directive": "Não mencionar verbalmente a playlist em que o episódio está. Manter no encerramento pedidos naturais de inscrição, gostei, compartilhamento e escolha de vídeo recomendado; não inventar o nome definitivo do canal.",
+  "rationale": "Usuária dispensou explicitamente a menção da playlist e manteve os demais pedidos finais.",
+  "acceptance_checks": [
+    "Fala do encerramento não contém playlist nem Brasil Registrado como nome do canal.",
+    "Inscrição, gostei, compartilhar e próximo vídeo permanecem sem atropelar o payoff.",
+    "Remoção feita em limite de frase, sem corte audível abrupto."
+  ],
+  "supersedes": "BRG-OUTRO-001@1"
+},
+{
+  "status": "active",
+  "authority": "explicit_user_decision",
+  "scope": {
+    "always": false,
+    "stages": ["source_acquisition", "editing", "qa", "concept_preview"],
+    "formats": ["video_16_9"]
+  },
+  "source_refs": [
+    "conversation:2026-09-10-reporter-must-finish-word-and-full-video-authorized"
+  ],
+  "recorded_at": "2026-09-10T01:00:00-03:00",
+  "baseline_refs": [
+    "output/concept-previews/brasil-registrado/capitolio-v1/correction-v3/PARA APROVACAO/01-REPORTER-SINCRONIZADA-E-AMPLIADA.mp4"
+  ],
+  "locked": true,
+  "rule_id": "BRG-SOURCE-CONTINUITY-001",
+  "version": 2,
+  "directive": "Preservar falas humanas até a conclusão acústica integral da última palavra e acrescentar margem limpa de saída; nunca cortar fonema final para evitar uma mudança de assunto. Em Capitólio, a reportagem deve concluir claramente a palavra 'acidente' e sair ainda no último quadro pertinente, antes do perfil político.",
+  "rationale": "A usuária ouviu 'aciden' na prévia e determinou a inclusão da frase completa no vídeo integral.",
+  "acceptance_checks": [
+    "A audição humana e a transcrição local reconhecem a palavra final completa.",
+    "A saída ocorre depois do fim acústico medido e antes do primeiro quadro político.",
+    "Áudio e vídeo compartilham o mesmo ponto de saída.",
+    "O episódio integral recebe a correção e é entregue em diretório separado."
+  ],
+  "supersedes": "BRG-SOURCE-CONTINUITY-001@1"
+},
+{
+  "rule_id": "BRG-NEXT-LONG-001",
+  "version": 1,
+  "status": "active",
+  "authority": "explicit_user_decision",
+  "directive": "Para o próximo vídeo longo, buscar um caso brasileiro mais pesado, envolvendo mortes, capaz de sustentar aproximadamente 20 minutos com registros reais, suspense mais intenso e sensacionalismo controlado. A intensidade deve vir de fatos, gravações, depoimentos, som e progressão; não de imagens gráficas, invenção, desrespeito às vítimas ou repetição para preencher duração.",
+  "rationale": "A usuária aprovou o mínimo de dez minutos em Capitólio, mas pediu que o episódio seguinte seja mais longo, pesado e tenso, com apelo sensacionalista maior.",
+  "scope": {
+    "always": false,
+    "stages": ["research", "topic_selection", "source_acquisition", "script", "audio", "editing", "qa", "concept_preview"],
+    "formats": ["video_16_9"]
+  },
+  "source_refs": [
+    "conversation:2026-09-10-next-long-heavier-twenty-minutes"
+  ],
+  "recorded_at": "2026-09-10T21:18:42-03:00",
+  "acceptance_checks": [
+    "A escaleta projetada fica próxima de vinte minutos e cada bloco acrescenta registro ou informação nova.",
+    "O acontecimento envolve mortes e possui tensão factual inerente.",
+    "A pauta passa pelo inventário de vídeos reais, câmeras distintas, áudio original e direitos antes da produção.",
+    "A abertura e a progressão usam linguagem mais intensa sem fabricar ameaça, culpa, fala ou certeza.",
+    "Não entram corpos, sofrimento gráfico ou intimidade das vítimas como espetáculo."
+  ],
+  "baseline_refs": [
+    "output/concept-previews/brasil-registrado/capitolio-v1/correction-v3/VIDEO COMPLETO CORRIGIDO V4/CAPITOLIO - VIDEO COMPLETO CORRIGIDO V4.mp4"
+  ],
+  "supersedes": null,
+  "locked": true
+}
+    ,
+{
+  "rule_id": "BRG-NEXT-LONG-001",
+  "version": 2,
+  "status": "active",
+  "authority": "explicit_user_decision",
+  "directive": "Para o próximo vídeo longo, priorizar um caso ocorrido fora do Brasil, extraordinário, fatal e de tensão muito alta, idealmente documentado por câmera de campainha, vigilância residencial, câmera corporal policial ou registro cotidiano equivalente. A pauta deve sustentar aproximadamente vinte minutos com vídeo e áudio reais; a intensidade deve vir da evidência, das contradições e da progressão cronológica, sem imagens gráficas, invenção, desrespeito às vítimas ou repetição para preencher duração.",
+  "rationale": "A usuária substituiu Brumadinho por uma pauta internacional e pediu um caso ainda mais pesado, com sensação de nervos à flor da pele e registros de câmera doméstica ou semelhante.",
+  "scope": {
+    "always": false,
+    "stages": ["research", "topic_selection", "source_acquisition", "script", "audio", "editing", "qa", "concept_preview"],
+    "formats": ["video_16_9"]
+  },
+  "source_refs": [
+    "conversation:2026-09-10-next-long-international-doorbell-camera-case"
+  ],
+  "recorded_at": "2026-09-10T22:10:00-03:00",
+  "acceptance_checks": [
+    "O caso ocorreu fora do Brasil e envolve mortes confirmadas por fonte oficial.",
+    "Câmeras domésticas, de segurança ou corporais participam da própria descoberta dos fatos, e não apenas da decoração visual.",
+    "O inventário preliminar contém material real único suficiente para uma escaleta de aproximadamente vinte minutos.",
+    "A abertura produz tensão com um registro verificável e paga a promessa ao longo da cronologia.",
+    "Não entram corpos, sofrimento gráfico, especulação psicológica apresentada como fato ou exposição gratuita de vítimas menores de idade."
+  ],
+  "baseline_refs": [
+    "output/concept-previews/brasil-registrado/capitolio-v1/correction-v3/VIDEO COMPLETO CORRIGIDO V4/CAPITOLIO - VIDEO COMPLETO CORRIGIDO V4.mp4"
+  ],
+  "supersedes": "BRG-NEXT-LONG-001@1",
+  "locked": true
+}
+    ,
+{
+  "rule_id": "BRG-WATTS-PREVIEW-001",
+  "version": 1,
+  "status": "active",
+  "authority": "explicit_user_decision",
+  "directive": "Produzir uma prévia audiovisual curta do caso Watts para avaliação humana, antes de qualquer episódio completo. A amostra deve demonstrar a câmera da campainha, a câmera corporal e a gravação do vizinho dentro da gramática já aprovada do canal.",
+  "rationale": "Depois de receber a recomendação da pauta internacional, a usuária pediu explicitamente um trecho para assistir.",
+  "scope": {
+    "always": false,
+    "stages": ["source_acquisition", "script", "audio", "editing", "qa", "concept_preview"],
+    "formats": ["video_16_9"]
+  },
+  "source_refs": [
+    "conversation:2026-09-10-request-watts-preview"
+  ],
+  "recorded_at": "2026-09-10T22:35:00-03:00",
+  "acceptance_checks": [
+    "A duração da prévia não ultrapassa três minutos.",
+    "A abertura confirma imediatamente a presença de uma gravação real de campainha.",
+    "A progressão passa da última chegada à busca policial e à câmera do vizinho sem inversão cronológica apresentada como fato.",
+    "Ao menos uma fala humana original recebe espaço sem narração e tradução legível em PT-BR.",
+    "Não há vídeo ou imagem gerados por IA, corpo, descrição gráfica, zoom artificial ou texto editorial constante.",
+    "O artefato permanece como prévia interna não liberada para publicação."
+  ],
+  "baseline_refs": [
+    "output/concept-previews/brasil-registrado/capitolio-v1/capitolio-preview-v2-science-bridge.mp4"
+  ],
+  "supersedes": null,
+  "locked": true
+}
+    ,
+{
+  "rule_id": "BRG-CARD-DURATION-001",
+  "version": 1,
+  "status": "active",
+  "authority": "explicit_user_decision",
+  "directive": "Manter cards editoriais e blocos informativos autônomos na tela por aproximadamente seis segundos, tanto neste caso quanto nos próximos vídeos da operação. O tempo deve ser suficiente para leitura confortável, sem prolongar a informação depois que ela já foi compreendida. Legendas de falas originais seguem a duração acústica da fala e não são tratadas como cards autônomos.",
+  "rationale": "A usuária considerou prolongada a permanência do card 'A última chegada' na prévia de Chris Watts e determinou cerca de seis segundos como padrão futuro.",
+  "scope": {
+    "always": true,
+    "stages": ["packaging", "editing", "qa", "concept_preview"],
+    "formats": ["video_16_9", "short_vertical"]
+  },
+  "source_refs": [
+    "conversation:2026-09-15-watts-card-six-seconds-and-continue-production"
+  ],
+  "recorded_at": "2026-09-15T19:20:00-03:00",
+  "acceptance_checks": [
+    "O card corrigido permanece aproximadamente seis segundos, com tolerância editorial de meio segundo.",
+    "Cards futuros respeitam o mesmo intervalo salvo nova decisão explícita ou necessidade de acessibilidade documentada.",
+    "Texto continua sincronizado com a evidência e legível durante toda a permanência.",
+    "Legendas de diálogo acompanham a fala original e não são artificialmente limitadas a seis segundos."
+  ],
+  "baseline_refs": [
+    "output/concept-previews/brasil-registrado/chris-watts-v1/CHRIS-WATTS-PREVIA-INTERNA-V2.mp4"
+  ],
+  "supersedes": null,
+  "locked": true
+}
+    ,
+{
+  "rule_id": "BRG-TRANSLATION-IDENTITY-001",
+  "version": 1,
+  "status": "active",
+  "authority": "explicit_user_decision",
+  "directive": "Padronizar as traduções e legendas indispensáveis de fala original na identidade visual do canal: painel verde-petróleo escuro, filete/acento laranja-ferrugem, texto creme em Segoe UI Semibold e borda verde-petróleo discreta. Elas devem ser apresentadas como camada editorial própria, não como legenda nativa de player, reportagem ou emissora. A linguagem visual permanece sóbria, legível e discreta, sem ocupar a tela fora da fala correspondente.",
+  "rationale": "A usuária identificou que as legendas da continuação de Chris Watts pareciam nativas do vídeo-fonte e determinou padronização fiel à estética já aprovada do canal.",
+  "scope": {
+    "always": true,
+    "stages": ["script", "editing", "qa", "concept_preview", "master_render"],
+    "formats": ["video_16_9", "short_vertical"]
+  },
+  "source_refs": [
+    "conversation:2026-09-15-standardize-translations-and-complete-watts"
+  ],
+  "recorded_at": "2026-09-15T20:05:00-03:00",
+  "acceptance_checks": [
+    "Toda tradução criada pelo canal usa a paleta, a tipografia e a borda aprovadas da operação.",
+    "Nenhuma tradução usa aparência de legenda nativa, caixa de emissora ou player genérico.",
+    "A tradução aparece somente durante a fala original correspondente e conserva tempo de leitura confortável.",
+    "O painel não ocupa a tela quando não existe fala estrangeira indispensável."
+  ],
+  "baseline_refs": [
+    "output/concept-previews/brasil-registrado/chris-watts-v1/CHRIS-WATTS-PREVIA-INTERNA-V2.mp4",
+    "output/concept-previews/brasil-registrado/capitolio-v1/capitolio-preview-v2-science-bridge.mp4"
+  ],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-NAME-001",
+      "version": 3,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "O nome definitivo do canal é Testemunha do Tempo. Brasil Registrado permanece exclusivamente como nome da playlist ou série editorial de casos brasileiros; o canal mantém escopo geograficamente neutro.",
+      "rationale": "A usuária escolheu explicitamente Testemunha do Tempo como nome do canal.",
+      "scope": {
+        "always": true,
+        "stages": ["naming", "script", "audio", "editing", "qa", "concept_preview", "master_render", "distribution"],
+        "formats": ["video_16_9", "short_vertical"]
+      },
+      "source_refs": ["conversation:2026-09-15-channel-name-testemunha-do-tempo"],
+      "recorded_at": "2026-09-15T20:15:00-03:00",
+      "acceptance_checks": [
+        "Aberturas, encerramentos, telas finais e metadados futuros identificam o canal como Testemunha do Tempo.",
+        "Brasil Registrado só é usado para identificar a playlist/série de casos brasileiros.",
+        "A marca não apresenta o Brasil como limite geográfico da pauta."
+      ],
+      "baseline_refs": [],
+      "supersedes": "BRG-NAME-001@2",
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-AUDIO-SPEED-001",
+      "version": 2,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Nesta operação, aplicar à narração do canal a velocidade final de 1,11x, com preservação de pitch. Áudio humano original, ruídos de registro e música mantêm velocidade natural, salvo decisão específica posterior.",
+      "rationale": "A usuária considerou a locução em 1,09x ainda lenta e determinou 1,11x para os vídeos seguintes.",
+      "scope": {
+        "always": true,
+        "stages": ["audio", "editing", "qa", "concept_preview", "master_render"],
+        "formats": ["video_16_9", "short_vertical"]
+      },
+      "source_refs": ["conversation:2026-09-15-narration-speed-1-11"],
+      "recorded_at": "2026-09-15T20:25:00-03:00",
+      "acceptance_checks": [
+        "Todo áudio de narração novo registra atempo=1.11 e preservação de pitch.",
+        "Fala humana do arquivo permanece em velocidade natural e não é acelerada junto com a locução.",
+        "A prévia compara a nova cadência sem alterar imagens, cronologia ou estilo visual aprovados."
+      ],
+      "baseline_refs": [
+        "output/concept-previews/brasil-registrado/chris-watts-v1/CHRIS-WATTS-CONTINUACAO-INTERNA-V2-PADRONIZADA.mp4"
+      ],
+      "supersedes": "BRG-AUDIO-SPEED-001@1",
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-NARRATION-MIX-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "A narração de Testemunha do Tempo deve permanecer perceptivelmente acima do áudio do registro e da trilha, porém integrada ao conjunto; evitar uma locução excessivamente alta ou com aparência de camada separada. Para a referência atual, aplicar ganho de narração 0,72 (-2,85 dB) em relação ao teste de 1,11x, preservando a mixagem natural das falas humanas originais.",
+      "rationale": "A usuária aprovou a velocidade de 1,11x, mas considerou a voz do narrador excessivamente alta e pediu uma relação mais linear como padrão do canal.",
+      "scope": {
+        "always": true,
+        "stages": ["audio", "editing", "qa", "concept_preview", "master_render"],
+        "formats": ["video_16_9", "short_vertical"]
+      },
+      "source_refs": ["conversation:2026-09-15-narrator-mix-more-linear"],
+      "recorded_at": "2026-09-15T20:35:00-03:00",
+      "acceptance_checks": [
+        "A narração nova usa ganho relativo de 0,72 antes da normalização final, salvo ajuste posterior explicitamente aprovado.",
+        "O áudio humano original não é rebaixado ou acelerado para compensar a locução.",
+        "A revisão de escuta confirma narração compreensível e em primeiro plano, sem parecer desproporcional aos blocos adjacentes de arquivo."
+      ],
+      "baseline_refs": [
+        "output/concept-previews/brasil-registrado/chris-watts-v1/CHRIS-WATTS-TESTE-VELOCIDADE-1-11X-INTERNO.mp4"
+      ],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-WATTS-FULL-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Produzir uma versão interna completa do episódio Chris Watts para avaliação humana, usando registros reais disponíveis em cronologia reconhecível, a narração em 1,11x e a mixagem integrada da operação. O episódio deve buscar aproximadamente vinte minutos de progressão factual, sem repetição para preencher duração e sem ser promovido ou publicado antes de auditoria de direitos, rota de voz licenciada e aprovação humana.",
+      "rationale": "Após aprovar a cadência de 1,11x, a usuária autorizou a produção do vídeo completo para assistir.",
+      "scope": {
+        "always": false,
+        "stages": ["source_acquisition", "script", "audio", "editing", "qa", "concept_preview", "master_render"],
+        "formats": ["video_16_9"]
+      },
+      "source_refs": ["conversation:2026-09-15-authorize-complete-watts-video"],
+      "recorded_at": "2026-09-15T21:00:00-03:00",
+      "acceptance_checks": [
+        "A versão interna dura aproximadamente vinte minutos e cada bloco acrescenta registro, evidência ou contexto necessário.",
+        "A cronologia vai da última chegada registrada à resposta pública, explicitando o limite do que os arquivos mostram.",
+        "Falas humanas preservam a conclusão acústica e recebem tradução editorial somente quando necessária.",
+        "O master mantém publication_clearance=blocked até direitos, voz e aprovação humana serem resolvidos."
+      ],
+      "baseline_refs": [
+        "output/concept-previews/brasil-registrado/chris-watts-v1/CHRIS-WATTS-PREVIA-INTERNA-V2.mp4",
+        "output/concept-previews/brasil-registrado/chris-watts-v1/CHRIS-WATTS-CONTINUACAO-INTERNA-V2-PADRONIZADA.mp4"
+      ],
+      "supersedes": "BRG-WATTS-PREVIEW-001@1 within the full-episode scope",
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-WATTS-RECOVERY-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "No episódio Chris Watts, excluir do corte todo trecho de fonte que contenha cartelas, legendas ou textos editoriais incorporados em inglês. Não substituir esses textos por cartelas traduzidas. A abertura entra em registro real imediatamente, sem tempo morto: todo plano deve trazer ação, fala original compreensível, narração que orienta ou uma pausa sonora relevante. As falas essenciais em inglês recebem tradução PT-BR na camada editorial aprovada, sincronizada à fala; entre blocos de fala, o narrador apresenta a situação, a transição e o que o espectador deve observar.",
+      "rationale": "A usuária rejeitou o episódio completo por conter textos editoriais em inglês da fonte, 30 segundos iniciais pouco informativos, diálogos sem tradução e ausência de condução narrativa.",
+      "scope": {
+        "always": false,
+        "stages": ["source_acquisition", "script", "audio", "editing", "qa", "concept_preview", "master_render"],
+        "formats": ["video_16_9"]
+      },
+      "source_refs": ["conversation:2026-09-16-reject-watts-full-english-overlays-dead-air-untranslated-dialogue"],
+      "recorded_at": "2026-09-16T00:20:00-03:00",
+      "acceptance_checks": [
+        "Nenhum frame do artefato contém cartela, legenda ou texto editorial em inglês incorporado pela fonte; overlays técnicos indispensáveis de câmera são o único caso tolerado.",
+        "Os primeiros trinta segundos contêm ação relevante, orientação em PT-BR ou fala original traduzida; nenhum plano é mantido só para preencher duração.",
+        "Toda fala original essencial usada para fazer a história avançar recebe tradução PT-BR na identidade visual aprovada e somente durante sua duração acústica.",
+        "O roteiro marca a função de cada intervenção do narrador e não há sequência longa de arquivo sem que o espectador saiba o que está acontecendo.",
+        "Antes de novo master completo, uma amostra curta de recuperação passa por inspeção visual manual para ausência de textos editoriais em inglês e por revisão humana."
+      ],
+      "baseline_refs": [
+        "output/concept-previews/brasil-registrado/chris-watts-v1/CHRIS-WATTS-CONTINUACAO-INTERNA-V2-PADRONIZADA.mp4"
+      ],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-ORIGINAL-AUDIO-INTELLIGIBILITY-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Quando uma fala original relevante estiver no corte, o áudio do registro deve ser tratado para ficar compreensível por si só, sem depender exclusivamente da tradução. A narração não pode cobrir uma pessoa falando. Se a gravação permanecer objetivamente ininteligível após tratamento moderado, o narrador explica seu sentido imediatamente antes ou depois, e a tradução editorial permanece sincronizada à fala.",
+      "rationale": "A usuária identificou que a fala original da amostra de recuperação era inaudível apesar da tradução e pediu que o canal preserve melhor a inteligibilidade do registro.",
+      "scope": {
+        "always": true,
+        "stages": ["audio", "editing", "qa", "concept_preview", "master_render"],
+        "formats": ["video_16_9", "short_vertical"]
+      },
+      "source_refs": ["conversation:2026-09-16-watts-original-audio-intelligibility"],
+      "recorded_at": "2026-09-16T00:45:00-03:00",
+      "acceptance_checks": [
+        "Fala original relevante é audível e compreensível em escuta normal, sem rebaixamento para favorecer a locução.",
+        "A locução não se sobrepõe a uma pessoa falando no registro.",
+        "Se houver limitação intrínseca da fonte, a tradução e uma ponte narrativa explicam o sentido sem fingir que o áudio é claro."
+      ],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/recovery-v1/CHRIS-WATTS-RECUPERACAO-AMOSTRA-V3.mp4"],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-NARRATION-CADENCE-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Depois de uma fala original relevante, o narrador retoma em uma janela curta e sem sobreposição para amarrar o que aquela fala demonstra, explicitar seu limite ou conduzir a próxima etapa cronológica. Cada intervenção deve ter função definida no roteiro; arquivo silencioso ou pouco informativo não pode ocupar tempo sem essa orientação, ação ou pausa sonora relevante.",
+      "rationale": "A usuária considerou vaga a condução da amostra e pediu intervenções mais frequentes do narrador, especialmente ao fim dos takes de fala original.",
+      "scope": {
+        "always": true,
+        "stages": ["script", "audio", "editing", "qa", "concept_preview", "master_render"],
+        "formats": ["video_16_9", "short_vertical"]
+      },
+      "source_refs": ["conversation:2026-09-16-watts-narrator-bridge-after-source-take"],
+      "recorded_at": "2026-09-16T00:45:00-03:00",
+      "acceptance_checks": [
+        "Toda fala de arquivo usada como evidência recebe uma ponte narrativa posterior, salvo quando a fala seguinte do arquivo já cumpre explicitamente essa função.",
+        "A ponte explica relevância, limite ou transição; não repete apenas a legenda.",
+        "O vídeo não conserva planos sem ação, fala compreensível, orientação narrativa ou silêncio comprovadamente relevante."
+      ],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/recovery-v1/CHRIS-WATTS-RECUPERACAO-AMOSTRA-V3.mp4"],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-WATTS-FULL-RECOVERY-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Reconstruir a versão interna completa do episódio Chris Watts a partir da cadência aprovada para a amostra V4: fonte real limpa, fala original audível e traduzida quando relevante, narrador em PT-BR com função marcada depois de cada bloco de evidência, sem cobrir fala humana. Não reutilizar o master V1 rejeitado nem seus trechos contaminados por cartelas, legendas ou textos editoriais em inglês. Ao finalizar, entregar a pasta local da nova versão para avaliação humana.",
+      "rationale": "Após avaliar a V4 como uma direção melhor e promissora, a usuária autorizou explicitamente a produção do vídeo completo e pediu o diretório final.",
+      "scope": {
+        "always": false,
+        "stages": ["source_acquisition", "script", "audio", "editing", "qa", "concept_preview", "master_render"],
+        "formats": ["video_16_9"]
+      },
+      "source_refs": ["conversation:2026-09-16-authorize-full-watts-from-v4-cadence"],
+      "recorded_at": "2026-09-16T01:10:00-03:00",
+      "acceptance_checks": [
+        "O novo master não reutiliza o arquivo V1 rejeitado nem o pacote -iJ3Pq4TW0E.mp4.",
+        "Toda fala humana essencial mantida recebe tradução PT-BR na camada editorial aprovada ou é seguida de ponte que explica seu sentido e limite.",
+        "Nenhum quadro contém cartela, legenda ou texto editorial inglês da fonte; marca técnica inevitável precisa ser removida por seleção ou recorte." ,
+        "A narração fica em 1,11x, integrada na mixagem, e só entra em janela sem fala humana concorrente.",
+        "A versão completa mantém publication_clearance=blocked até direitos, rota de voz licenciada e aprovação humana final."
+      ],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/recovery-v1/CHRIS-WATTS-RECUPERACAO-AMOSTRA-V4.mp4"],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-FOREIGN-DIALOGUE-CAPTIONS-001",
+      "version": 1,
+      "status": "superseded",
+      "authority": "explicit_user_decision",
+      "directive": "Em todo vídeo de Testemunha do Tempo, toda fala usada em idioma diferente do PT-BR recebe tradução sincronizada em PT-BR. A tradução usa um único padrão editorial da operação: painel verde-petróleo, acento laranja-ferrugem, texto creme em Segoe UI Semibold. Cada turno de fala é uma legenda distinta; a legenda encerra junto com o interlocutor e a fala seguinte inicia novo painel, mesmo quando os dois turnos são contíguos.",
+      "rationale": "A usuária determinou que o canal é brasileiro e que nenhuma fala estrangeira pode permanecer sem legenda, além de rejeitar a fusão de pergunta e resposta no mesmo painel.",
+      "scope": {"always": true, "stages": ["script", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-22-watts-foreign-dialogue-full-translation-and-turn-sync"],
+      "recorded_at": "2026-09-22T00:00:00-03:00",
+      "acceptance_checks": ["Todo intervalo com fala estrangeira possui um painel PT-BR correspondente.", "Nenhum painel abrange fala de dois interlocutores diferentes.", "O início e o fim de cada painel ficam dentro de uma tolerância de 200 ms em relação à fala que traduz.", "Os painéis usam exclusivamente a identidade visual aprovada do canal."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/recovery-v1/CHRIS-WATTS-RECUPERACAO-AMOSTRA-V4.mp4"],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-DEAD-AIR-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Depois que uma ação relevante se encerra, o corte pode conservar no máximo cerca de três segundos de respiro visual se houver função sonora, transicional ou de consequência. Sem essa função, deve avançar imediatamente para o próximo registro ou para uma ponte do narrador. Plano sem ação, fala, orientação ou silêncio relevante não entra para preencher duração.",
+      "rationale": "A usuária apontou um plano externo sem áudio ou informação entre os segundos 00:20 e 00:29 e determinou que o corte avance poucos segundos após o carro sair de cena.",
+      "scope": {"always": true, "stages": ["script", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-22-watts-cut-dead-air-after-car"],
+      "recorded_at": "2026-09-22T00:00:00-03:00",
+      "acceptance_checks": ["A auditoria de edição lista todos os planos sem fala e confirma ação, informação ou função sonora.", "Nenhum intervalo sem função ultrapassa três segundos.", "A abertura e as transições não usam tempo morto como preenchimento."],
+      "baseline_refs": [],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-NARRATION-PROSODY-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "A narração de Testemunha do Tempo deve ser escrita e gerada por movimentos semânticos completos, com pontuação gramatical natural, conectivos explícitos e frases de extensão variada. São proibidos por padrão reticências mecânicas, travessões repetidos, tags de pausa e segmentação em microfrases para induzir dramaticidade. O texto de cada bloco precisa passar no preflight local de fala contínua antes de TTS.",
+      "rationale": "A usuária identificou pausas e pontuação ruins e determinou que este canal incorpore o aprendizado documentado de A Palavra Que Cuida sobre fala contínua.",
+      "scope": {"always": true, "stages": ["script", "audio", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-22-watts-prosody-use-a-palavra-que-cuida-learning", "operations/a-palavra-que-cuida/01_briefs/pesquisa-pratica-prosodia-tts-2026-v1.md"],
+      "recorded_at": "2026-09-22T00:00:00-03:00",
+      "acceptance_checks": ["Nenhum bloco de TTS usa tags de pausa, reticências mecânicas, travessões repetidos ou caixa alta para dirigir prosódia.", "O preflight acusa se mais de 15% das frases tiverem até quatro palavras ou se existirem três frases consecutivas de até sete palavras.", "Cada bloco de narração é escutado como parágrafo e não como coleção de frases isoladas."],
+      "baseline_refs": ["operations/a-palavra-que-cuida/02_roteiros/video-003-calibracao-performance-v3.json"],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-NARRATIVE-CONTINUITY-001",
+      "version": 1,
+      "status": "superseded",
+      "authority": "explicit_user_decision",
+      "directive": "Princípio de Testemunha do Tempo: quando a imagem sozinha não transmite a informação necessária ao espectador, a narração não pode simplesmente desaparecer. Todo intervalo de arquivo com mais de três segundos deve conter, de modo verificável, ao menos uma destas funções: narração que orienta a progressão, fala original audível e relevante acompanhada de legenda PT-BR quando estrangeira, ação visual que comunica por si só, ou pausa curta com função de tensão, assimilação, impacto ou transição. Pessoas aparentando conversar com áudio silenciado, sem legenda e sem condução narrativa são proibidas. Em bloco narrado, a cauda entre o fim da TTS e o corte deve ser no máximo 1,25 segundos, salvo exceção documentada e aprovada em QA.",
+      "rationale": "A usuária identificou no episódio Chris Watts V3, entre aproximadamente 02:15 e 02:52, uma sequência longa de homens aparentemente conversando sem narração, áudio, legenda ou informação. Ela determinou auditoria integral e estabeleceu explicitamente o princípio editorial.",
+      "scope": {"always": true, "stages": ["script", "audio", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-23-watts-v3-narrative-continuity-audit"],
+      "recorded_at": "2026-09-23T18:20:00-03:00",
+      "acceptance_checks": ["O roteiro/timeline aponta a função narrativa de cada intervalo maior que três segundos.", "O renderer falha se a cauda silenciosa de um bloco narrado exceder 1,25 segundos.", "Todo diálogo estrangeiro audível recebe legenda PT-BR por turno.", "O QA mede e lista intervalos de fala, diálogo documentado e pausas justificadas; nenhum intervalo visual longo pode existir apenas para preencher duração."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/full-v3/CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V3.mp4"],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-VISUAL-SEMANTIC-SYNC-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Todo bloco narrativo de Testemunha do Tempo deve possuir um bloco visual semanticamente correspondente. Antes da edição, o plano registra o que a fala conta e a melhor evidência visual disponível para aquele exato personagem, local, momento temporal, evidência, acontecimento ou etapa da investigação. Uma fonte pode permanecer enquanto seu assunto continuar pertinente; quando a fala evolui para outro assunto, a direção visual deve ser reavaliada e normalmente avançar junto. É proibido sustentar um vídeo como narração/podcast sobre um asset de conveniência que pertence a acontecimento anterior. Blocos de voz podem ser subdivididos em múltiplos planos visuais quando o assunto evoluir dentro deles.",
+      "rationale": "A usuária observou que a correção de silêncio do episódio Chris Watts V3 manteve, por conveniência, homens diante da televisão enquanto a narração já descrevia a amiga, a residência e outras etapas da investigação. Ela determinou auditoria de alinhamento áudio-visual para todo o canal.",
+      "scope": {"always": true, "stages": ["source_acquisition", "script", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-23-watts-visual-semantic-sync"],
+      "recorded_at": "2026-09-23T18:40:00-03:00",
+      "acceptance_checks": ["Todo roteiro de produção contém uma coluna ou estrutura equivalente NARRAÇÃO | VISUAL | vínculo semântico.", "Cada troca relevante de personagem, local, tempo, evidência ou etapa declara se exige troca visual e registra a decisão.", "O QA revisa cada bloco para confirmar que o asset visual ilustra o assunto atual, não apenas o caso geral.", "Nenhum asset visual é estendido automaticamente apenas porque a faixa de narração continua.", "O relatório de QA aponta fonte alternativa considerada quando a correspondência visual for fraca."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/recovery-v1/CHRIS-WATTS-RECUPERACAO-AMOSTRA-V9.mp4"],
+      "supersedes": null,
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-WATTS-CLEAN-BODYCAM-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Para reparar a direção visual do episódio Chris Watts, podem ser recuperados somente trechos limpos da bodycam já existente no projeto, incluindo exterior da residência, chegada, entrada e busca, quando corresponderem exatamente à narração. Cartelas editoriais, legendas em inglês e chamadas externas presentes em outras partes da mesma fonte continuam proibidas; o asset não é autorização ampla. Cada intervalo selecionado passa por inspeção visual documentada. Sob narração PT-BR, o áudio estrangeiro não legendado desse material fica silenciado; diálogos mantidos audíveis seguem a regra de legenda por turno.",
+      "rationale": "A usuária autorizou comparar versões anteriores e recuperar as boas escolhas visuais, solicitando especificamente bodycams, chegada policial, residência e investigação quando pertinentes ao ponto narrado.",
+      "scope": {"always": false, "stages": ["source_acquisition", "editing", "qa", "master_render"], "formats": ["video_16_9"]},
+      "source_refs": ["conversation:2026-09-23-watts-visual-semantic-sync", "output/concept-previews/brasil-registrado/chris-watts-v1/production/source-ledger-preview-v1.json"],
+      "recorded_at": "2026-09-23T18:40:00-03:00",
+      "acceptance_checks": ["A timeline lista início, fim e função de cada trecho de bodycam recuperado.", "Nenhum frame selecionado contém cartela, legenda ou chamada editorial em inglês.", "O uso da bodycam corresponde ao acontecimento narrado, não funciona como preenchimento genérico.", "O master continua internal-only e publication_clearance=blocked."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/production/build_full_episode_internal_v1.py"],
+      "supersedes": "BRG-WATTS-FULL-RECOVERY-001@1 somente quanto à proibição absoluta do pacote -iJ3Pq4TW0E; seus trechos limpos voltam a ser elegíveis sob inspeção por segmento.",
+      "locked": true
+    },
+    {
+      "rule_id": "BRG-NARRATIVE-CONTINUITY-001",
+      "version": 2,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "No Testemunha do Tempo, ausência de narrador não é falha por si só. Um registro documental relevante pode permanecer por vinte, trinta, quarenta segundos ou mais quando sua fala, ação, reação ou evidência faz a história avançar. O que é proibido é intervalo longo sem informação: fala original silenciada ou inaudível sem legenda, pessoas aparentando conversar sem condução, ou imagem usada apenas para preencher duração. Em bloco narrado, a cauda muda ou silenciosa só pode persistir quando tiver função explicitamente registrada; não existe máximo global de segundos sem narrador.",
+      "rationale": "A usuária corrigiu explicitamente a interpretação aplicada no episódio Chris Watts V4: o problema não era ficar sem narrador, e sim retirar diálogo, áudio e legenda de registros relevantes.",
+      "scope": {"always": true, "stages": ["script", "audio", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-24-watts-documentary-first-v5"],
+      "recorded_at": "2026-09-24T00:00:00-03:00",
+      "acceptance_checks": ["A timeline declara a função narrativa de cada intervalo documental prolongado.", "Não há métrica que limite arbitrariamente a ausência de narrador quando o áudio original, a legenda e a evidência informativa estão ativos.", "Nenhum intervalo longo contém pessoas falando com áudio silenciado e sem legenda."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/full-v4/CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V4.mp4"],
+      "supersedes": "BRG-NARRATIVE-CONTINUITY-001@1", "locked": true
+    },
+    {
+      "rule_id": "BRG-DOCUMENTARY-PRIORITY-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Prioridade documental: diálogo original relevante nunca deve ser coberto pelo narrador; registros reais devem ser utilizados como parte ativa da narrativa, e não apenas como B-roll. O narrador prepara, conecta, contextualiza e interpreta fatos objetivos antes ou depois do registro. Quando diálogo original relevante permanece no corte, seu áudio assume prioridade e recebe legenda PT-BR sincronizada por turno. Quando não tiver valor suficiente para ser ouvido, um registro pode ser B-roll, mas não pode aparentar uma entrevista importante sob narração que a torne incompreensível.",
+      "rationale": "A usuária definiu que o diferencial do canal vem de testemunhar acontecimentos através dos registros do próprio tempo, não de ouvir narração substituindo uma conversa disponível.",
+      "scope": {"always": true, "stages": ["source_acquisition", "script", "audio", "editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-24-watts-documentary-first-v5"],
+      "recorded_at": "2026-09-24T00:00:00-03:00",
+      "acceptance_checks": ["Cada bloco recebe papel explícito: narração, diálogo documental, observação documental ou transição.", "Todo diálogo documental relevante tem áudio original audível, legenda PT-BR por turno e narracao_sobre_dialogo=false.", "O renderer falha se um bloco de diálogo estiver sem legendas ou tiver narração sobreposta.", "O QA lista os blocos documentais e confirma que a narração não descreve o que o espectador pode assistir diretamente."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/full-v4/CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V4.mp4"],
+      "supersedes": null, "locked": true
+    },
+    {
+      "rule_id": "BRG-EVIDENCE-VISIBILITY-001",
+      "version": 1,
+      "status": "active",
+      "authority": "explicit_user_decision",
+      "directive": "Evidência registrada precisa permanecer visível conforme a fonte permitir. É proibido aplicar blur, delogo ou ocultação genérica a tela, câmera, documento ou outro elemento que sustente a narrativa. Recorte, aproximação, congelamento ou destaque só são permitidos quando ajudam a leitura sem distorcer o registro. Qualquer ocultação exige uma razão concreta, delimitada e documentada; não pode ser aplicada por padrão.",
+      "rationale": "Na sequência do vizinho, a televisão contém a gravação que os presentes analisam. A usuária ordenou remover o blur artificial e permitir que o público acompanhe a evidência.",
+      "scope": {"always": true, "stages": ["editing", "qa", "concept_preview", "master_render"], "formats": ["video_16_9", "short_vertical"]},
+      "source_refs": ["conversation:2026-09-24-watts-documentary-first-v5"],
+      "recorded_at": "2026-09-24T00:00:00-03:00",
+      "acceptance_checks": ["A timeline registra quando tela ou evidência é assunto do bloco.", "QA confirma ausência de filtro de blur ou delogo genérico em evidência relevante.", "A imagem preserva a nitidez nativa disponível sem prometer reconstrução ou nitidez artificial."],
+      "baseline_refs": ["output/concept-previews/brasil-registrado/chris-watts-v1/full-v4/CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V4.mp4"],
+      "supersedes": null, "locked": true
+    }
+  ]
+}

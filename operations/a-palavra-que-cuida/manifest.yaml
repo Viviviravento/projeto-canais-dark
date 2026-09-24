@@ -1,0 +1,101 @@
+schema_version: 1.0.0
+operation_id: palavra-que-cuida
+display_name: A Palavra que Cuida
+lifecycle: stabilizing
+purpose: Produzir reflexoes biblicas aplicadas e distribui-las nas superficies declaradas pela operacao.
+audience:
+  definition: Mulheres cristas brasileiras de 25 a 49 anos, com preferencia estrategica inicial por 35 a 49 anos.
+  evidence_refs:
+    - evidencias/claims-v1.jsonl#cr-audience-decision
+    - evidencias/claims-v1.jsonl#cr-audience-ibge
+promise: Reflexoes biblicas para cuidar da fe no meio da vida real.
+positioning: Devocional, ensaio biblico aplicado e cuidado espiritual cotidiano, sem autoridade eclesiastica inventada.
+surfaces:
+  - youtube
+  - tiktok
+formats:
+  - id: youtube-main
+    description: Video horizontal com reflexao aprofundada e derivados planejados desde o roteiro.
+  - id: tiktok-vertical
+    description: Recorte vertical autocontido que conduz ao episodio correspondente no YouTube.
+capabilities:
+  longform_voice:
+    state: regression_detected
+    baseline: null
+    evidence_refs:
+      - ../../audits/repository-structure-audit-2026-08-04.md
+      - politicas/subesteira-v1.yaml
+    notes: Houve regressao sem causa completamente provada; QA tecnico nao equivale a aprovacao semantica e nova investigacao controlada e necessaria.
+  script_integrity:
+    state: validating
+    baseline: null
+    evidence_refs:
+      - 02_roteiros/
+    notes: A capacidade foi exercitada, mas ainda nao possui baseline reproduzivel aprovada.
+  avatar_composition:
+    state: validating
+    baseline: null
+    evidence_refs:
+      - 06_edicao/video-003/incidentes/avatar-composite-physics-v1.json
+    notes: Existem criterios e correcoes observadas, ainda sob validacao humana.
+  vertical_sync:
+    state: exercised
+    baseline: null
+    evidence_refs:
+      - 09_qa/
+    notes: Ha execucoes e QA preservados, mas nenhum contrato de baseline aprovado.
+  publication:
+    state: exercised
+    baseline: null
+    evidence_refs:
+      - 08_publicacao/
+    notes: Publicacao foi exercitada; a governanca ainda nao sustenta estado stable.
+economics:
+  objective: Otimizar custo total para a qualidade e o resultado exigidos; no piloto, maximizar aprendizado util por recurso e, depois, margem esperada e crescimento sustentavel.
+  currency: USD
+parameters:
+  language: pt-BR
+  youtube_duration_seconds:
+    minimum: 600
+    target: 660
+    maximum: 720
+  tiktok_duration_seconds:
+    minimum: 65
+  audience_strategy:
+    implicit_in_script: true
+    demographic_report_language_forbidden: true
+  performance:
+    voice_identity: elevenlabs-bruno-cardoso
+    voice_separate_from_visual_presenter: true
+    narration_postprocess_tempo: 1.05
+    narration_postprocess_pitch: preserved
+    narration_tempo_applied_before_alignment: true
+    presenter_asset: 04_assets/avatar/avatar-base-v1.png
+    presenter_usage: strategic_spoken_appearances
+  visual:
+    setting: sober_brazilian_home
+    generated_and_stock_mix: true
+    generated_motion_only_when_communicative_gain_justifies_cost: true
+  scripture:
+    edition: Almeida Corrigida Fiel
+    direct_quote_internal_cap: 1000
+    complete_reference_required: true
+    displayed_text_must_match_spoken_quote: true
+  accessibility:
+    captions_required: true
+    youtube_caption_language: pt-BR
+    vertical_burned_in_captions: true
+  ending:
+    recommendation_slots: 2
+    end_screen_minimum_seconds: 5
+    end_screen_maximum_seconds: 20
+policies:
+  identity: 01_briefs/identidade-canal-v1.md
+  channel_pipeline: politicas/subesteira-v1.yaml
+  citations: 01_briefs/politica-citacoes-acf-v1.md
+  monetization: 01_briefs/politica-monetizacao-youtube-v1.md
+  captions_and_tiktok: 01_briefs/politica-legendas-e-tiktok-v1.md
+  youtube_distribution: 01_briefs/estrategia-distribuicao-youtube-v0.1.md
+  tiktok_acquisition: 01_briefs/estrategia-aquisicao-tiktok-youtube-v1.md
+  music: 01_briefs/pesquisa-musica-distribuicao-tiktok-v1.md
+  editorial_catalog: 01_briefs/politica-catalogo-playlists-v0.1.md

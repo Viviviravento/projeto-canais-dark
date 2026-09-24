@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-003",
+  "operation": "local_tempo_retime_and_remux",
+  "provider": "local_ffmpeg",
+  "tempo": 1.05,
+  "expected_cost_usd": 0.0,
+  "maximum_cost_usd": 0.0,
+  "observed_cost_usd": 0.0,
+  "paid_api_calls": 0,
+  "outputs": [
+    "operations/a-palavra-que-cuida/07_exports/video-003/o-que-jo-ensina-quando-a-vida-parece-injusta-v2.mp4",
+    "operations/a-palavra-que-cuida/07_exports/video-003/o-que-jo-ensina-legendas-v2.srt",
+    "operations/a-palavra-que-cuida/07_exports/video-003/o-que-jo-ensina-audio-v2.mp3"
+  ]
+}

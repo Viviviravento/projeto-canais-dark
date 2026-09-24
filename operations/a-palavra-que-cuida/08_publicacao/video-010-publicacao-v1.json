@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "video_id": "video-010",
+  "channel": "A Palavra Que Cuida",
+  "status": "ready_after_render",
+  "title": "Jesus acalma a tempestade: fé não é ausência de medo",
+  "thumbnail_phrase": "FÉ NÃO É AUSÊNCIA DE MEDO",
+  "description": "O que a tempestade no mar revela sobre o medo, a fé e aquilo que não está sob o nosso controle? Em Marcos 4, os discípulos enfrentam uma situação real, Jesus está presente e a pergunta continua aberta para quem também está tentando atravessar dias difíceis.\n\nEsta reflexão não transforma toda crise em falta de fé nem promete que toda tempestade termina imediatamente. Fé não elimina prudência, ajuda, cuidado médico, psicológico, material ou emergencial. Confiar também pode significar reconhecer limites, buscar companhia e dar o próximo passo possível.\n\nCAPÍTULOS\n00:00 Quando o barco começa a encher\n01:08 A travessia não foi um erro\n02:34 Jesus dormia\n04:01 O silêncio do mar não é a única resposta\n05:30 Por que o medo aparece\n06:49 Entre confiança e controle\n08:28 O que fica depois da bonança\n10:01 Fechamento e convite\n\nTEXTOS BÍBLICOS COMENTADOS\nCitações diretas:\n- Marcos 4:38\n- Marcos 4:39\n- Marcos 4:40\n- Marcos 4:41\n\nEste é o canal A Palavra Que Cuida. Inscreva-se para acompanhar novas reflexões bíblicas aplicadas à vida cotidiana. Curta e compartilhe esta mensagem com alguém que esteja atravessando uma fase difícil. Ao final, escolha um dos vídeos exibidos na tela.\n\nComente: quando o medo chega, o que ajuda você a dar o próximo passo sem fingir que está tudo bem?\n\nCitações bíblicas extraídas de A Bíblia Sagrada - Almeida Corrigida Fiel (ACF), © 1994, 1995, 2007, 2011 Sociedade Bíblica Trinitariana do Brasil, Trinitarian Bible Society.\n\nMúsica: Classical 6, de Jonny S. - Mixkit Free License.\n\n#Jesus #Medo #Fé",
+  "hashtags": [
+    "#Jesus",
+    "#Medo",
+    "#Fé"
+  ],
+  "tags": [
+    "Jesus acalma a tempestade",
+    "fé não é ausência de medo",
+    "medo na Bíblia",
+    "Marcos 4",
+    "tempestade na Bíblia",
+    "como confiar em Deus",
+    "ansiedade e fé",
+    "reflexão bíblica para dias difíceis",
+    "A Palavra Que Cuida"
+  ],
+  "chapters": [
+    {"start_seconds": 0, "timestamp": "00:00", "label": "Quando o barco começa a encher"},
+    {"start_seconds": 68, "timestamp": "01:08", "label": "A travessia não foi um erro"},
+    {"start_seconds": 154, "timestamp": "02:34", "label": "Jesus dormia"},
+    {"start_seconds": 241, "timestamp": "04:01", "label": "O silêncio do mar não é a única resposta"},
+    {"start_seconds": 330, "timestamp": "05:30", "label": "Por que o medo aparece"},
+    {"start_seconds": 409, "timestamp": "06:49", "label": "Entre confiança e controle"},
+    {"start_seconds": 508, "timestamp": "08:28", "label": "O que fica depois da bonança"},
+    {"start_seconds": 601, "timestamp": "10:01", "label": "Fechamento e convite"}
+  ],
+  "pinned_comment": "Quando o medo chega, o que ajuda você a dar o próximo passo sem fingir que está tudo bem? Você pode responder de forma simples, sem contar nada que não queira expor.",
+  "youtube_settings": {
+    "visibility_for_first_upload": "unlisted",
+    "made_for_kids": false,
+    "age_restricted": false,
+    "video_language": "pt-BR",
+    "title_and_description_language": "pt-BR",
+    "caption_language": "pt-BR",
+    "altered_or_synthetic_content": true,
+    "allow_comments": true,
+    "show_like_count": true,
+    "license": "youtube",
+    "category_id": "27",
+    "category_label": "Education",
+    "notify_subscribers_during_unlisted_review": false
+  },
+  "files": {
+    "publication_master": "operations/a-palavra-que-cuida/07_exports/video-010/jesus-acalma-a-tempestade-fe-nao-e-ausencia-de-medo-v1.mp4",
+    "thumbnail": "operations/a-palavra-que-cuida/08_publicacao/video-010-thumbnail-v1.png"
+  },
+  "end_screen": {
+    "reserved_start_seconds": 653.952438,
+    "reserved_end_seconds": 668.952438,
+    "visual_layout": "two_native_video_recommendations_dynamic",
+    "youtube_elements": [
+      {"type": "video", "target_rule": "immediately_previous_episode_at_publication"},
+      {"type": "video", "target_rule": "most_recently_published_video_at_publication"}
+    ],
+    "spoken_cta": "generic_choice_without_titles",
+    "note": "Resolver os dois destinos na interface do YouTube no momento da publicação; não citar títulos na narração."
+  },
+  "acf": {
+    "manifest": "operations/a-palavra-que-cuida/02_roteiros/video-010-citacoes-acf-v1.json",
+    "direct_verse_units": 4,
+    "display_policy": "cards only during direct verse reading",
+    "validation_result": "pass_pending_master_render"
+  },
+  "pre_publication_checks": {
+    "master_1080p": "pending_render",
+    "minimum_duration_10_minutes": "pass_11m09s_audio",
+    "thumbnail_dimensions_and_size": "pass_1280x720_1.3mb",
+    "captions_master": "pass_alignment_1.07x",
+    "chapters_from_approved_audio_blocks": "pass",
+    "acf_validation": "pass_pending_render",
+    "native_end_screen_targets": "pending_youtube_studio",
+    "comment_and_pin": "pending_publication"
+  }
+}

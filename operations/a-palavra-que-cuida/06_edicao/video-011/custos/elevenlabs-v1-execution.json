@@ -1,0 +1,18 @@
+{
+  "schema_version": "1.0.0",
+  "execution_id": "v011-elevenlabs-v1-c8e6e32d4f76",
+  "quote_id": "v011-elevenlabs-v1-20260729",
+  "manifest_sha256": "c8e6e32d4f7657d0407076d90bf47909119cfe0484b8cc7f5db5c9f3a336fc26",
+  "state": "reconciled_pending_master_qa",
+  "reserved_at": "2026-07-31T20:58:16.945824+00:00",
+  "approved_maximum_credits": 10000,
+  "request_stitching": false,
+  "automatic_retry": false,
+  "failed_at": "2026-07-31T20:59:47.224775+00:00",
+  "error_type": "CalledProcessError",
+  "recovery_at": "2026-07-31T21:00:51.590568+00:00",
+  "recovery_reason": "Missing requests dependency prevented execution before any provider request.",
+  "reconciled_at": "2026-07-31T21:04:27.384975+00:00",
+  "observed_subscription_credits": 5219,
+  "report": "operations/a-palavra-que-cuida/05_audio/video-011/v1/resultado-geracao.json"
+}

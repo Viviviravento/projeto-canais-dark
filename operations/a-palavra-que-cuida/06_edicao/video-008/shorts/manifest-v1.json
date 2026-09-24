@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "source_video": "video-008",
+  "method": "Narracao canonica e imagens aprovadas; recomposicao vertical manual em cover, legendas sincronizadas e render local.",
+  "rendered_editorial_derivatives": [
+    {
+      "derivative_id": "video-008-curto-01",
+      "title": "Uma queda não precisa ser o fim da história",
+      "hook": "Jesus não confundiu a queda de Pedro com o fim da história.",
+      "source_windows": [
+        {
+          "start": 47.857,
+          "end": 133.296
+        }
+      ],
+      "spoken_duration_seconds": 85.439,
+      "total_duration_seconds": 88.439,
+      "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/video-008-short-01-shorts-e-tiktok-v1.mp4",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-008/shorts/props/video-008-curto-01-shorts-e-tiktok.json",
+      "qa": {
+        "dimensions": "1080x1920",
+        "video_codec": "h264",
+        "duration": 88.4
+      },
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "video-008-curto-02",
+      "title": "Pedir perdão não compra reconciliação",
+      "hook": "Pedir perdão não compra reconciliação. É um passo de verdade.",
+      "source_windows": [
+        {
+          "start": 477.58,
+          "end": 542.01
+        }
+      ],
+      "spoken_duration_seconds": 64.43,
+      "total_duration_seconds": 67.43,
+      "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/video-008-short-02-shorts-e-tiktok-v1.mp4",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-008/shorts/props/video-008-curto-02-shorts-e-tiktok.json",
+      "qa": {
+        "dimensions": "1080x1920",
+        "video_codec": "h264",
+        "duration": 67.4
+      },
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    }
+  ],
+  "editorial_derivative_count": 2,
+  "physical_mp4_target_count": 2,
+  "paid_api_cost_usd": 0
+}

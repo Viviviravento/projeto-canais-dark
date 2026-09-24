@@ -1,0 +1,31 @@
+[Script Info]
+Title: Quase Celestial — Short 001 — Descansar também faz parte
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Legenda,Gadugi,52,&H00F8F5FF,&H00F8F5FF,&H001C0710,&H96000000,0,0,0,0,100,100,0,0,1,2.2,0.8,2,110,110,260,1
+Style: Cabecalho,Gadugi,44,&H00F8F5FF,&H00F8F5FF,&H001C0710,&H96000000,0,0,0,0,100,100,0,0,1,1.6,0.8,7,76,76,160,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 1,0:01:02.80,0:01:05.76,Cabecalho,,0,0,0,,Quase Celestial
+Dialogue: 0,0:00:00.00,0:00:06.26,Legenda,,0,0,0,,Para a minha saúde, para a minha paz,\Npara aquilo que eu quero construir com calma.
+Dialogue: 0,0:00:06.26,0:00:09.14,Legenda,,0,0,0,,Eu não preciso me punir\Npara ser produtiva.
+Dialogue: 0,0:00:09.14,0:00:12.12,Legenda,,0,0,0,,Não preciso transformar\Ndescanso em culpa.
+Dialogue: 0,0:00:12.12,0:00:16.78,Legenda,,0,0,0,,Nem chamar de preguiça o momento\Nem que o meu corpo pede cuidado.
+Dialogue: 0,0:00:16.78,0:00:21.26,Legenda,,0,0,0,,Descansar também faz parte da pessoa\Nque estou tentando me tornar.
+Dialogue: 0,0:00:21.26,0:00:26.34,Legenda,,0,0,0,,Uma mente em paz enxerga portas\Nque o desespero não consegue ver.
+Dialogue: 0,0:00:26.36,0:00:30.66,Legenda,,0,0,0,,Então, eu escolho desacelerar\No suficiente para me reconhecer.
+Dialogue: 0,0:00:30.66,0:00:33.98,Legenda,,0,0,0,,Escolho não me abandonar\Nem dias difíceis.
+Dialogue: 0,0:00:33.98,0:00:38.50,Legenda,,0,0,0,,Escolho falar comigo de um jeito\Nque eu falaria com alguém que amo.
+Dialogue: 0,0:00:38.50,0:00:41.74,Legenda,,0,0,0,,Com firmeza,\Nquando for preciso.
+Dialogue: 0,0:00:41.74,0:00:44.30,Legenda,,0,0,0,,Com paciência,\Nquase sempre.
+Dialogue: 0,0:00:44.30,0:00:48.66,Legenda,,0,0,0,,Quando eu erro, não preciso transformar\Num momento numa sentença.
+Dialogue: 0,0:00:48.66,0:00:52.44,Legenda,,0,0,0,,Posso corrigir o caminho\Nsem me humilhar no processo.
+Dialogue: 0,0:00:52.44,0:00:58.82,Legenda,,0,0,0,,Posso tentar de novo sem fazer da segunda tentativa\Numa prova de que falhei na primeira.
+Dialogue: 0,0:00:58.82,0:01:03.12,Legenda,,0,0,0,,Eu me ofereço uma nova chance\Nde existir com menos dureza.
+Dialogue: 0,0:01:03.12,0:01:05.76,Legenda,,0,0,0,,E essa chance começa agora.

@@ -1,0 +1,212 @@
+{
+  "derivativeId": "video-003-curto-02",
+  "title": "Nem toda dor é castigo",
+  "platform": "universal",
+  "audioFile": "video-003-curtos/audio/video-003-curto-02-narracao.wav",
+  "spokenDurationSeconds": 80.019,
+  "endCardSeconds": 4.0,
+  "hook": "Nem toda dor é castigo",
+  "hookEndSeconds": 4.2,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "asset": "video-003-curtos/images/historical/j02-job-after-loss-v1.png",
+      "focus": "78% 48%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 7.0,
+      "end": 14.0,
+      "asset": "video-003-curtos/images/brazil/b13-job-dismissal-support-v1.png",
+      "focus": "22% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 14.0,
+      "end": 20.0,
+      "asset": "video-003-curtos/images/historical/j01-job-before-loss-v1.png",
+      "focus": "54% 48%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 20.0,
+      "end": 33.2,
+      "asset": "video-003-curtos/images/historical/j01-job-before-loss-v1.png",
+      "focus": "54% 48%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 33.2,
+      "end": 42.2,
+      "asset": "video-003-curtos/images/historical/j03-messengers-v1.png",
+      "focus": "31% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 42.2,
+      "end": 53.3,
+      "asset": "video-003-curtos/images/historical/j06-friend-speaks-v1.png",
+      "focus": "41% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 53.3,
+      "end": 72.0,
+      "asset": "video-003-curtos/images/historical/j06-friend-speaks-v1.png",
+      "focus": "41% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 72.0,
+      "end": 80.019,
+      "asset": "video-003-curtos/images/historical/j10-reconciliation-v1.png",
+      "focus": "88% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.08,
+      "end": 3.518,
+      "text": "Há escolhas que produzem consequências, é claro,"
+    },
+    {
+      "start": 4.126,
+      "end": 6.935,
+      "text": "mas nem toda doença é castigo, nem todo luto"
+    },
+    {
+      "start": 7.045,
+      "end": 9.444,
+      "text": "é cobrança e nem toda injustiça"
+    },
+    {
+      "start": 10.219,
+      "end": 13.558,
+      "text": "sofrida prova uma culpa escondida."
+    },
+    {
+      "start": 13.968,
+      "end": 16.511,
+      "text": "O livro começa com um fato, antes de apresentar"
+    },
+    {
+      "start": 16.578,
+      "end": 21.144,
+      "text": "qualquer calamidade. Jó, capítulo um, versículo um,"
+    },
+    {
+      "start": 21.243,
+      "end": 24.174,
+      "text": "diz: \"Havia um homem na terra de Uz,"
+    },
+    {
+      "start": 24.45,
+      "end": 27.536,
+      "text": "cujo nome era Jó; e era este homem íntegro,"
+    },
+    {
+      "start": 27.745,
+      "end": 31.063,
+      "text": "reto e temente a Deus e desviava-se do mal.\""
+    },
+    {
+      "start": 32.014,
+      "end": 35.784,
+      "text": "Essa informação governa a leitura, porque o narrador não"
+    },
+    {
+      "start": 35.84,
+      "end": 40.163,
+      "text": "deixa espaço para os amigos inventarem uma culpa secreta"
+    },
+    {
+      "start": 40.351,
+      "end": 42.164,
+      "text": "a fim de proteger uma fórmula."
+    },
+    {
+      "start": 42.574,
+      "end": 45.493,
+      "text": "Mesmo assim, o final impede que os amigos sejam"
+    },
+    {
+      "start": 45.714,
+      "end": 48.588,
+      "text": "tratados como os vencedores da discussão."
+    },
+    {
+      "start": 49.142,
+      "end": 52.282,
+      "text": "Jó, capítulo quarenta e dois, versículo sete,"
+    },
+    {
+      "start": 52.889,
+      "end": 56.892,
+      "text": "diz: \"Sucedeu que, acabando o Senhor de falar a"
+    },
+    {
+      "start": 56.991,
+      "end": 60.53,
+      "text": "Jó aquelas palavras, o Senhor disse a Elifaz,"
+    },
+    {
+      "start": 60.917,
+      "end": 63.824,
+      "text": "o temanita: A minha ira se acendeu contra ti,"
+    },
+    {
+      "start": 64.267,
+      "end": 67.087,
+      "text": "e contra os teus dois amigos, porque não falastes"
+    },
+    {
+      "start": 67.131,
+      "end": 69.254,
+      "text": "de mim o que era reto, como o meu"
+    },
+    {
+      "start": 69.354,
+      "end": 70.205,
+      "text": "servo Jó.\""
+    },
+    {
+      "start": 71.223,
+      "end": 73.909,
+      "text": "Esse versículo muda a leitura de tudo o que"
+    },
+    {
+      "start": 73.964,
+      "end": 77.149,
+      "text": "veio antes. Os amigos falaram muito sobre Deus,"
+    },
+    {
+      "start": 77.37,
+      "end": 79.869,
+      "text": "mas isso não garantiu que falassem corretamente."
+    }
+  ],
+  "scriptures": [
+    {
+      "start": 22.339,
+      "end": 31.063,
+      "text": "Havia um homem na terra de Uz, cujo nome era Jó; e era este homem íntegro, reto e temente a Deus e desviava-se do mal.",
+      "reference": "Jó 1:1 — ACF"
+    },
+    {
+      "start": 53.675,
+      "end": 70.205,
+      "text": "Sucedeu que, acabando o Senhor de falar a Jó aquelas palavras, o Senhor disse a Elifaz, o temanita: A minha ira se acendeu contra ti, e contra os teus dois amigos, porque não falastes de mim o que era reto, como o meu servo Jó.",
+      "reference": "Jó 42:7 — ACF"
+    }
+  ]
+}

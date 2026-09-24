@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-004",
+  "version_under_review": "v4-citations-only",
+  "review_file": "07_exports/video-004/a-infancia-de-jesus-o-que-a-biblia-diz-v4-review-citations-only.mp4",
+  "supersedes": [
+    "v1",
+    "v2",
+    "v3-refined-sync"
+  ],
+  "reviewer_checks": [
+    "As placas com versículos aparecem somente durante a leitura direta da citação bíblica.",
+    "Não há títulos, frases editoriais ou imagens de texto como B-roll.",
+    "As legendas normais acompanham a narração e não competem com as citações.",
+    "O áudio, as imagens e o encerramento estão adequados para publicação."
+  ],
+  "approval_instruction": "Responder APROVADO para liberar a etapa de publicação; pedidos de ajuste mantêm o vídeo sem publicação.",
+  "publication_status": "review_only_human_approval_required"
+}

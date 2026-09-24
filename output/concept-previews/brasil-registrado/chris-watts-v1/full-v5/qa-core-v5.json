@@ -1,0 +1,14 @@
+{
+  "artifact": "output/concept-previews/brasil-registrado/chris-watts-v1/full-v5/CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V5-BASE-8M39.mp4",
+  "duration_seconds": 519.181,
+  "status": "internal_core_requires_documentary_extension",
+  "checks": {
+    "documentary_dialogue_blocks": 6,
+    "pt_br_caption_turns": 36,
+    "narration_over_important_dialogue": false,
+    "doorbell_intermediate_uses": 0,
+    "tv_artificial_blur": false,
+    "narration_speed": "1.11x_pitch_preserved",
+    "narrator_gain": "0.72"
+  }
+}

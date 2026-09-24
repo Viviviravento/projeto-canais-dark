@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v007-elevenlabs-v1-20260728",
+  "provider": "ElevenLabs",
+  "model": "eleven_multilingual_v2",
+  "operation": "full eight-block narration for video-007 using independent requests and 1.05x local postprocess",
+  "unit": "provider credit",
+  "quantity": 8989,
+  "expected_subscription_credits": 8989,
+  "maximum_subscription_credits": 9000,
+  "currency": "USD",
+  "expected_incremental_cash_charge": 0.0,
+  "maximum_incremental_cash_charge": 0.0,
+  "price_checked_at": "2026-07-28T16:08:45.285941+00:00",
+  "price_source": "Authenticated ElevenLabs subscription API read-only check in this Codex session; no paid generation started.",
+  "subscription_snapshot": {
+    "ok": true,
+    "tier": "creator",
+    "character_count": 31163,
+    "character_limit": 231154,
+    "credits_remaining_observed": 199991,
+    "checked_at": "2026-07-28T16:08:45.285941+00:00"
+  },
+  "status": "reconciled",
+  "approval": {
+    "approved_at": "2026-07-28T16:27:06.974548+00:00",
+    "user_statement": "continua",
+    "scope": "Generate only the full narration for video-007 up to 9000 subscription credits. No automatic retry and no incremental cash charge."
+  },
+  "metadata": {
+    "manifest": "operations/a-palavra-que-cuida/02_roteiros/video-007-performance-v1.json",
+    "citation_manifest": "operations/a-palavra-que-cuida/02_roteiros/video-007-citacoes-acf-v1.json",
+    "request_stitching": false,
+    "context_mode": "independent_blocks",
+    "automatic_retry": false,
+    "postprocess_after_generation": "1.07x preserving pitch before master alignment"
+  },
+  "observed_subscription_credits": 4942
+}

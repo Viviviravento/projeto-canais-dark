@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Caption,Arial,54,&H00FFFFFF,&H0000D7FF,&HDD000000,&H99000000,-1,0,0,0,100,100,0,0,3,2.5,1,2,85,85,215,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.08,0:00:02.76,Caption,,0,0,0,,Essa frase pode ser usada como acusação,
+Dialogue: 0,0:00:02.94,0:00:06.19,Caption,,0,0,0,,mas dentro da história ela é uma pergunta para
+Dialogue: 0,0:00:06.14,0:00:09.17,Caption,,0,0,0,,pessoas que acabaram de ver o vento obedecer.
+Dialogue: 0,0:00:09.79,0:00:12.65,Caption,,0,0,0,,Jesus não está dizendo que perigos não existem.
+Dialogue: 0,0:00:12.99,0:00:14.65,Caption,,0,0,0,,O temporal existia.
+Dialogue: 0,0:00:15.27,0:00:16.96,Caption,,0,0,0,,As ondas enchiam o barco.
+Dialogue: 0,0:00:17.39,0:00:18.94,Caption,,0,0,0,,O risco não era imaginário.
+Dialogue: 0,0:00:19.45,0:00:21.04,Caption,,0,0,0,,Talvez a pergunta não seja:
+Dialogue: 0,0:00:21.55,0:00:23.01,Caption,,0,0,0,,por que você sentiu medo?
+Dialogue: 0,0:00:23.25,0:00:25.65,Caption,,0,0,0,,Talvez seja: o que o medo está dizendo sobre
+Dialogue: 0,0:00:25.61,0:00:28.59,Caption,,0,0,0,,Deus, sobre você e sobre o futuro?
+Dialogue: 0,0:00:29.09,0:00:31.47,Caption,,0,0,0,,O medo pode dizer que você está sozinha,
+Dialogue: 0,0:00:31.83,0:00:35.23,Caption,,0,0,0,,que precisa controlar cada detalhe, que pedir ajuda é
+Dialogue: 0,0:00:35.20,0:00:38.95,Caption,,0,0,0,,fracasso ou que uma notícia difícil já decidiu toda
+Dialogue: 0,0:00:38.87,0:00:42.63,Caption,,0,0,0,,a sua história. Fé não é nunca sentir medo.
+Dialogue: 0,0:00:42.96,0:00:46.08,Caption,,0,0,0,,Fé pode ser não entregar ao medo o direito
+Dialogue: 0,0:00:46.03,0:00:49.59,Caption,,0,0,0,,de interpretar tudo. Você pode sentir medo e ainda
+Dialogue: 0,0:00:49.54,0:00:52.63,Caption,,0,0,0,,ligar para alguém. Pode chorar e ainda tomar uma
+Dialogue: 0,0:00:52.57,0:00:56.62,Caption,,0,0,0,,decisão prudente. Pode admitir que não sabe e ainda
+Dialogue: 0,0:00:56.58,0:00:58.38,Caption,,0,0,0,,dar o próximo passo possível.
+Dialogue: 0,0:00:58.69,0:01:00.74,Caption,,0,0,0,,O medo pode estar no barco sem ser o
+Dialogue: 0,0:01:00.68,0:01:04.21,Caption,,0,0,0,,capitão. Ele pode ser ouvido sem receber o comando.
+Dialogue: 0,0:01:04.52,0:01:06.89,Caption,,0,0,0,,E a fé pode existir de modo pequeno,
+Dialogue: 0,0:01:06.93,0:01:10.35,Caption,,0,0,0,,cansado e tremendo, como uma mão que ainda consegue
+Dialogue: 0,0:01:10.28,0:01:11.65,Caption,,0,0,0,,chamar por Jesus.

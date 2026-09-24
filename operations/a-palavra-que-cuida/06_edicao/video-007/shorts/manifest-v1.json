@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "source_video": "video-007",
+  "source_state": "canonical_audio_alignment_and_approved_images_before_long_master_export",
+  "rendered_editorial_derivatives": [
+    {
+      "derivative_id": "video-007-curto-01",
+      "title": "Jesus não despreza a sua fraqueza",
+      "source_windows": [
+        {
+          "start": 386.705,
+          "end": 467.251
+        }
+      ],
+      "spoken_duration_seconds": 80.546,
+      "total_duration_seconds": 84.546,
+      "audio": "tools/OpenMontage/remotion-composer/public/video-007-curtos/audio/video-007-curto-01-narracao.wav",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-007/shorts/props/video-007-curto-01-shorts-e-tiktok.json",
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "video-007-curto-02",
+      "title": "Três perguntas antes de uma escolha urgente",
+      "source_windows": [
+        {
+          "start": 467.77,
+          "end": 555.92
+        }
+      ],
+      "spoken_duration_seconds": 88.151,
+      "total_duration_seconds": 92.151,
+      "audio": "tools/OpenMontage/remotion-composer/public/video-007-curtos/audio/video-007-curto-02-narracao.wav",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-007/shorts/props/video-007-curto-02-shorts-e-tiktok.json",
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    }
+  ],
+  "editorial_derivative_count": 2,
+  "physical_mp4_target_count": 2,
+  "paid_api_cost_usd": 0,
+  "method": "Narração 1.07x aprovada, imagens canônicas e recomposição vertical manual em cover."
+}

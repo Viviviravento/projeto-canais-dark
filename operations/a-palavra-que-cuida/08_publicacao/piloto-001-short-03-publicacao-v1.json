@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "derivative_id": "piloto-001-short-03",
+  "source_video_id": "piloto-001",
+  "slot": {
+    "scheduled_at": "2026-07-30T11:00:00-03:00",
+    "executed_at": "2026-07-30T12:14:37-03:00",
+    "cadence": "terça, quinta e sábado; 11h e 17h"
+  },
+  "youtube_shorts": {
+    "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001-short-03-youtube-short-v2.mp4",
+    "sha256": "0b2025390e81f63790147da6923ff4b676e3fc048c437da7d57585c9813e9157",
+    "title": "Responsabilidade não é tentar controlar tudo",
+    "publication": {
+      "status": "published",
+      "visibility": "public",
+      "video_id": "Ct2OufqfY-Q",
+      "url": "https://youtube.com/shorts/Ct2OufqfY-Q",
+      "public_visibility_saved_at": "2026-08-01T11:04:00-03:00",
+      "recovery_note": "O Studio listava o Short como privado apesar do manifesto indicar publico; a visibilidade publica foi salva e verificada no slot de 01/08/2026 as 11h."
+    },
+    "settings": {
+      "made_for_kids": false,
+      "altered_or_synthetic_content": true,
+      "video_language": "pt-BR",
+      "category": "Educação",
+      "copyright_check": "pass",
+      "related_long_video_id": "ZkmCkF6XR_g",
+      "related_long_video_url_in_description": true,
+      "native_related_video": "blocked_pending_one_time_advanced_features_verification"
+    },
+    "qa": {
+      "dimensions": "1080x1920",
+      "duration_seconds": 63.966667,
+      "first_frame": "pass_bible_image_non_black",
+      "blank_notebook_image": "not_present",
+      "sd_processing": "complete",
+      "hd_processing": "complete",
+      "copyright": "pass"
+    }
+  },
+  "tiktok": {
+    "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001-short-03-tiktok-v2.mp4",
+    "sha256": "68bd520393cafb571bc3fb2e5428af4af8c1a260fbcb4b13216d6e7d9b82bd26",
+    "caption": "Ser responsável não é tentar controlar tudo. Algumas coisas pedem ação, outras pedem ajuda e outras precisam ser entregues a Deus. 🙏 #CansaçoEmocional #FéCristã #ReflexãoBíblica #DeusCuidaDeVocê",
+    "cover": "primeiro frame com a Bíblia aberta",
+    "location": null,
+    "publication": {
+      "status": "published",
+      "published": true,
+      "visibility": "public",
+      "video_id": "7668759311748746503",
+      "url": "https://www.tiktok.com/@a.palavra.que.cuida/video/7668759311748746503",
+      "published_at": "2026-07-31T15:23:00-03:00",
+      "copyright_check": "pass",
+      "content_eligibility_check": "pass"
+    },
+    "transfer_to_tablet": {
+      "status": "sent",
+      "target": "btkr-w09",
+      "sent_at": "2026-07-31T01:27:37-03:00",
+      "tailscale": "active_direct",
+      "previous_attempt": "failed_device_offline_502_bad_gateway"
+    }
+  },
+  "correction": {
+    "reason": "O arquivo aprovado v1 começava com um frame escuro, contrariando a regra de capa do canal.",
+    "change": "Os primeiros 0,5 segundo foram substituídos por um frame do próprio vídeo com Bíblia; áudio, duração e restante da edição foram preservados.",
+    "source_versions_preserved": true
+  }
+}

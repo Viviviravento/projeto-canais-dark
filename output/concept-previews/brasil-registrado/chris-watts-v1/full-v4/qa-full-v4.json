@@ -1,0 +1,26 @@
+{
+  "artifact": "output/concept-previews/brasil-registrado/chris-watts-v1/full-v4/CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V4.mp4",
+  "duration_seconds": 605.554,
+  "status": "pending_human_review_and_rights_clearance",
+  "checks": {
+    "visual_semantic_script_validated": true,
+    "doorbell_positions": [
+      "first",
+      "last"
+    ],
+    "intermediate_doorbell_uses": 0,
+    "foreign_dialogue_turns_captioned": 15,
+    "narration_over_source_dialogue": false,
+    "narration_speed": "1.11x_pitch_preserved",
+    "narration_source": "firewall_whitelist_only",
+    "narrator_gain": "0.72 after loudness processing",
+    "source_audio_under_narration": "muted where foreign speech is uncaptioned",
+    "narrated_tail_max_seconds": 1.2,
+    "minimum_duration_seconds": 600,
+    "publication_clearance": "blocked_pending_human_review_and_rights_clearance",
+    "blocked_bodycam_card_ranges_rejected": [
+      "0-24s",
+      "204-216s"
+    ]
+  }
+}

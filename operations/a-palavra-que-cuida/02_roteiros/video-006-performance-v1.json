@@ -1,0 +1,98 @@
+{
+  "version": "video-006-performance-v1",
+  "source_script": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\02_roteiros\\video-006-roteiro-v1.md",
+  "performance_contract": {
+    "relationship": "Falar com uma pessoa cansada de servir, mas que não quer abandonar o cuidado.",
+    "authority": "Autoridade pelo cuidado com Lucas 10, sem transformar Marta em vilã nem Maria em álibi para irresponsabilidade.",
+    "interpretation": "Distinguir serviço, ansiedade, escuta, sobrecarga real, presença de Jesus e limites saudáveis.",
+    "intensity": "Íntimo, doméstico, acolhedor e firme. Evitar tom acusatório com quem está sobrecarregado.",
+    "scripture": "Anunciar livro, capítulo e versículo; ler somente quando a citação direta começar; cards bíblicos apenas durante a leitura real.",
+    "pause_policy": "Sem break tags e sem pontuação artificial para induzir pausas. Frases mais curtas para reduzir vírgulas faladas de modo estranho.",
+    "cta": "Concluir a mensagem, pedir inscrição/curtida/compartilhamento, apontar para dois próximos vídeos e terminar com pergunta de comentário."
+  },
+  "api": {
+    "provider": "ElevenLabs",
+    "voice_name": "Bruno Cardoso",
+    "voice_id": "iF2QszmZhlyFLleUoFxy",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 314159,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    },
+    "postprocess": {
+      "speed_factor": 1.05,
+      "preserve_pitch": true
+    }
+  },
+  "blocks": [
+    {
+      "id": "01-uma-casa-que-parece-conhecida",
+      "source_section": "01",
+      "title": "Uma casa que parece conhecida",
+      "function": "Abrir a cena domestica e proteger Marta de uma leitura caricata.",
+      "text": "Tem cenas da Bíblia que parecem acontecer longe da nossa rotina. Reis, desertos, montanhas, multidões, milagres.\n\nMas a cena de Marta e Maria começa dentro de uma casa.\n\nE talvez por isso ela seja tão próxima. Porque muita gente conhece esse lugar. A casa onde alguém precisa receber. A comida que precisa sair. A mesa que precisa estar pronta. A louça que aparece. A visita que chegou. A responsabilidade que cai sempre sobre a mesma pessoa.\n\nMarta não aparece como uma mulher fria. Ela recebe Jesus em sua casa.\n\nLucas, capítulo dez, versículo trinta e oito, diz:\n\n“E aconteceu que, indo eles de caminho, entrou Jesus numa aldeia; e certa mulher, por nome Marta, o recebeu em sua casa;”\n\nAntes de qualquer correção, existe acolhimento. Marta abre a casa. Marta serve. Marta se movimenta para receber Jesus.\n\nIsso importa porque muitas leituras apressadas transformam Marta em símbolo de erro e Maria em símbolo de acerto. Como se a mensagem fosse simples: Marta é ruim porque trabalha, Maria é boa porque fica sentada.\n\nMas o texto é mais cuidadoso do que isso.\n\nJesus entrou numa casa que Marta abriu. O serviço dela não é descartável. O problema não começa porque Marta faz coisas. O problema aparece quando o fazer toma o coração inteiro.\n\nE talvez essa seja a porta do vídeo de hoje: quando servir deixa de ser expressão de amor e começa a virar ansiedade."
+    },
+    {
+      "id": "02-maria-nao-esta-fugindo",
+      "source_section": "02",
+      "title": "Maria não está fugindo",
+      "function": "Ler Lucas 10:39 e explicar Maria como discípula em escuta.",
+      "text": "Na mesma casa, Lucas apresenta Maria.\n\nLucas, capítulo dez, versículo trinta e nove, continua:\n\n“E tinha esta uma irmã chamada Maria, a qual, assentando-se também aos pés de Jesus, ouvia a sua palavra.”\n\nMaria está assentada aos pés de Jesus. Essa imagem não é preguiça. É postura de discípula. Ela está ouvindo a palavra.\n\nO texto não diz que Maria está distraída. Não diz que ela está evitando responsabilidade por desprezo. O destaque é que ela está presente para ouvir.\n\nE isso já confronta uma culpa muito comum. Muita gente sente que parar para ouvir Deus é perda de tempo. Como se oração fosse luxo. Como se abrir a Bíblia fosse uma pausa permitida apenas depois que tudo está resolvido.\n\nSó que a vida nunca fica totalmente resolvida.\n\nSempre haverá algo para lavar, responder, organizar, pagar, decidir, limpar, resolver, cuidar. Se a presença de Deus só puder entrar depois que a lista acabar, talvez ela nunca entre.\n\nMaria nos lembra que escuta não é fuga. Existem momentos em que sentar para ouvir é justamente o ato de fé que impede a alma de ser engolida pela pressa.\n\nIsso não cancela responsabilidades. Mas recoloca a responsabilidade no lugar certo. A pessoa não foi criada para funcionar como máquina. Nem toda urgência merece o trono do coração."
+    },
+    {
+      "id": "03-quando-o-servico-perde-o-centro",
+      "source_section": "03",
+      "title": "Quando o serviço perde o centro",
+      "function": "Ler Lucas 10:40 e mostrar quando serviço vira ansiedade e ressentimento.",
+      "text": "A tensão aparece quando Lucas volta para Marta.\n\nLucas, capítulo dez, versículo quarenta, diz:\n\n“Marta, porém, andava distraída em muitos serviços; e, aproximando-se, disse: Senhor, não se te dá de que minha irmã me deixe servir só? Dize-lhe que me ajude.”\n\nO texto não diz apenas que Marta servia. Diz que ela andava distraída em muitos serviços.\n\nExiste uma diferença entre servir e ser tomada pelo serviço. Existe uma diferença entre cuidar da casa e perder a si mesma dentro do cuidado da casa.\n\nMarta está fazendo algo bom. Mas o bem que ela faz começa a se misturar com irritação, solidão e cobrança.\n\nEla não fala primeiro com Maria. Ela leva a reclamação a Jesus: Senhor, não se te dá? Em outras palavras: o Senhor não se importa?\n\nEssa frase é muito humana.\n\nQuem vive sobrecarregada conhece esse caminho. Primeiro a pessoa faz. Depois faz mais. Depois percebe que está só. Depois começa a olhar para quem está sentado. E então a dor vira acusação.\n\nNão é apenas sobre louça ou comida. É sobre a sensação de carregar tudo sem ser vista.\n\nPor isso esta passagem precisa ser lida com cuidado. Jesus não está rindo da fadiga de Marta. Ele está vendo o que o serviço fez com o coração dela.\n\nQuando o serviço perde o centro, até Jesus pode ser percebido como alguém que não se importa."
+    },
+    {
+      "id": "04-jesus-chama-pelo-nome",
+      "source_section": "04",
+      "title": "Jesus chama pelo nome",
+      "function": "Ler Lucas 10:41 e destacar a ternura da repetição do nome de Marta.",
+      "text": "A resposta de Jesus não começa com desprezo. Começa com o nome.\n\nLucas, capítulo dez, versículo quarenta e um, diz:\n\n“E respondendo Jesus, disse-lhe: Marta, Marta, estás ansiosa e afadigada com muitas coisas,”\n\nMarta, Marta.\n\nHá ternura nessa repetição. Jesus não diz apenas: você está errada. Ele chama Marta para voltar a si. Ele nomeia o estado dela: ansiosa e afadigada.\n\nAnsiosa. Afadigada. Muitas coisas.\n\nEssa frase atravessa séculos porque continua atual. Muita gente vive por dentro exatamente assim. A mente corre, o corpo pesa, a lista cresce e o coração perde descanso.\n\nE repare: Jesus não diz que Marta está possuída por vaidade. Não diz que ela não ama. Não diz que o que ela faz não presta. Ele aponta a dispersão.\n\nO problema é quando muitas coisas tomam o lugar da coisa necessária.\n\nExiste serviço que nasce do amor. Existe serviço que nasce do medo. Medo de desagradar. Medo de ser criticada. Medo de não ser suficiente. Medo de parecer fraca. Medo de alguém perceber que você também precisa de ajuda.\n\nJesus não ignora a mesa. Mas ele não deixa a mesa se tornar maior que a presença dele."
+    },
+    {
+      "id": "05-a-boa-parte-nao-sera-tirada",
+      "source_section": "05",
+      "title": "A boa parte não será tirada",
+      "function": "Ler Lucas 10:42 e explicar a boa parte sem negar responsabilidades concretas.",
+      "text": "Jesus conclui a resposta olhando para a escolha de Maria.\n\nLucas, capítulo dez, versículo quarenta e dois, conclui:\n\n“Mas uma só é necessária; E Maria escolheu a boa parte, a qual não lhe será tirada.”\n\nUma só é necessária.\n\nIsso não significa que só existe uma tarefa na vida. Não significa que comida, trabalho, filhos, contas, casa, cuidado e compromissos não importam.\n\nSignifica que existe um centro sem o qual até as tarefas importantes adoecem.\n\nMaria escolheu a boa parte porque recebeu a palavra de Jesus como prioridade. Ela não escolheu uma desculpa para nunca ajudar. Ela escolheu não perder Jesus dentro da própria casa onde Jesus estava.\n\nEssa é uma pergunta forte para a vida real: é possível receber Jesus em casa e, mesmo assim, não estar presente para ele?\n\nMarta recebeu Jesus. Mas a ansiedade começou a sequestrar a atenção dela.\n\nIsso pode acontecer conosco. A pessoa trabalha para Deus, fala de Deus, ajuda gente por causa de Deus, organiza coisas boas, serve a família, serve a igreja, serve a comunidade, e no meio de tudo isso perde a escuta.\n\nO texto não diminui o serviço. Ele salva o serviço do lugar errado.\n\nPorque quando a boa parte permanece, o serviço pode voltar a ser amor. Sem ela, o serviço vira peso, comparação e cobrança."
+    },
+    {
+      "id": "06-jesus-amava-marta",
+      "source_section": "06",
+      "title": "Jesus amava Marta",
+      "function": "Ler João 11:5 para mostrar que Jesus amava Marta e não a descartou.",
+      "text": "Há um detalhe importante para não sermos injustos com Marta.\n\nEm outro momento do Evangelho, quando Lázaro adoece, João menciona essa família de novo.\n\nJoão, capítulo onze, versículo cinco, diz:\n\n“Ora Jesus amava a Marta, e a sua irmã, e a Lázaro.”\n\nJesus amava Marta.\n\nEssa frase impede uma leitura cruel. Marta não é descartada por Jesus. Marta não é reduzida ao pior momento dela. Marta é amada.\n\nE talvez isso seja uma palavra para quem se reconhece mais em Marta do que em Maria.\n\nTalvez você seja a pessoa que levanta primeiro. A que percebe o que falta. A que segura a rotina. A que cuida de detalhes que ninguém agradece. A que tem dificuldade de parar porque, se parar, muita coisa parece cair.\n\nO texto não diz que Jesus deixa de amar você por estar cansada. O texto mostra Jesus chamando você de volta antes que o cansaço engula tudo.\n\nO amor de Jesus por Marta nos ajuda a ouvir a correção sem vergonha destrutiva.\n\nEle não chama Marta pelo nome para humilhar. Ele chama para libertar. Porque servir com ansiedade pode parecer virtude por fora, mas por dentro vai roubando alegria, presença e paz.\n\nJesus amava Marta. E justamente por amar, ele não deixa Marta ser governada por muitas coisas."
+    },
+    {
+      "id": "07-a-casa-a-fe-e-a-sobrecarga",
+      "source_section": "07",
+      "title": "A casa, a fé e a sobrecarga",
+      "function": "Aplicar a passagem à sobrecarga doméstica com responsabilidade prática.",
+      "text": "É importante trazer essa passagem para a vida de hoje com responsabilidade.\n\nMuitas pessoas usam Marta e Maria para dizer apenas: pare de reclamar e vá orar. Mas isso pode ser injusto quando alguém está realmente sobrecarregado.\n\nÀs vezes, a pessoa não precisa só de uma frase espiritual. Precisa de divisão de tarefas. Precisa de descanso. Precisa de conversa honesta. Precisa que outras pessoas assumam responsabilidades reais.\n\nJesus não está ensinando que uma pessoa deve aceitar exploração em silêncio.\n\nAo mesmo tempo, o texto também não permite que a sobrecarga mande no coração sem ser confrontada.\n\nExistem duas perguntas que podem caminhar juntas.\n\nPrimeira: o que precisa ser dividido de modo mais justo?\n\nSegunda: o que, dentro de mim, está sendo governado por ansiedade?\n\nUma pergunta olha para a estrutura da casa, do trabalho, da família, da igreja. A outra olha para o coração.\n\nAs duas importam.\n\nFé madura não chama injustiça de serviço. E também não chama ansiedade de zelo espiritual.\n\nMarta e Maria nos ajudam a procurar um caminho em que cuidado prático e escuta de Jesus não sejam inimigos."
+    },
+    {
+      "id": "08-como-escolher-a-boa-parte-hoje",
+      "source_section": "08",
+      "title": "Como escolher a boa parte hoje",
+      "function": "Propor caminhos concretos para escolher a boa parte hoje.",
+      "text": "Escolher a boa parte hoje talvez não comece com uma mudança enorme.\n\nPode começar com dez minutos de silêncio antes de responder todo mundo. Pode começar com uma leitura pequena da Bíblia sem transformar aquilo em cobrança. Pode começar com uma oração honesta: Senhor, eu estou ansiosa e afadigada com muitas coisas.\n\nPode começar com pedir ajuda sem esperar explodir. Pode começar com dizer não a uma tarefa que virou vaidade disfarçada de responsabilidade. Pode começar com aceitar que a casa não precisa virar vitrine para Deus ser recebido ali.\n\nTambém pode começar com parar de comparar a sua forma de servir com a forma de outra pessoa ouvir.\n\nMaria não precisa virar acusação contra Marta. Marta não precisa virar desprezo contra Maria.\n\nNa casa de Betânia, Jesus não está escolhendo uma irmã para amar e outra para rejeitar. Ele está revelando o que não pode ser perdido.\n\nSe o serviço te afasta da escuta, ele precisa ser recolocado no lugar.\n\nSe a escuta nunca vira amor concreto, ela também precisa ser examinada.\n\nO caminho de Jesus não é uma vida sem tarefas. É uma vida em que as tarefas não ocupam o trono."
+    },
+    {
+      "id": "09-fechamento-e-convite",
+      "source_section": "09",
+      "title": "Fechamento e convite",
+      "function": "Concluir, pedir inscrição, direcionar próximos vídeos e provocar comentário.",
+      "text": "Marta e Maria não são apenas duas mulheres em uma casa antiga. Elas revelam uma tensão que mora em muitas casas hoje.\n\nO desejo sincero de servir. O peso de carregar demais. A culpa de parar. A comparação com quem parece fazer menos. A pergunta silenciosa: Senhor, o Senhor não se importa?\n\nJesus se importa. E por isso ele chama Marta pelo nome.\n\nEle não despreza o serviço. Ele cura o lugar de onde o serviço está saindo. Ele não tira a dignidade de Marta. Ele mostra que a boa parte não pode ser arrancada pela pressa.\n\nTalvez hoje a pergunta não seja se você é Marta ou Maria. Talvez a pergunta seja: em qual área da minha vida muitas coisas estão tentando tomar o lugar da única coisa necessária?\n\nEste é o canal A Palavra Que Cuida. Se esta reflexão te ajudou, inscreva-se, curta e compartilhe com alguém que serve muito e talvez esteja precisando descansar aos pés de Jesus.\n\nQuando este vídeo terminar, escolha um dos vídeos sugeridos na tela para continuar. Se o seu coração está pesado de ansiedade, assista também ao vídeo sobre “Não andeis ansiosos”. Se você quer seguir pelos Evangelhos, veja o vídeo sobre a infância de Jesus.\n\nE me conta nos comentários: hoje você se identifica mais com Marta, com Maria, ou com essa tentativa difícil de servir sem perder a presença de Jesus?"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-011",
+  "status": "passed_audio_generated_pending_master_qa",
+  "checks": {
+    "blocks": 8,
+    "total_characters": 9503,
+    "break_tags_found": false,
+    "missing_direct_citations": [],
+    "specific_end_screen_cta_phrases": [],
+    "cta_is_generic": true,
+    "cta_contains_next_video_direction": true,
+    "cta_contains_comment_prompt": true
+  }
+}

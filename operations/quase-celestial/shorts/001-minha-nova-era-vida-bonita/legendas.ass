@@ -1,0 +1,30 @@
+[Script Info]
+Title: Quase Celestial — Short 001 — Uma vida bonita
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Legenda,Gadugi,52,&H00F8F5FF,&H00F8F5FF,&H001C0710,&H96000000,0,0,0,0,100,100,0,0,1,2.2,0.8,2,110,110,170,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.00,0:00:03.28,Legenda,,0,0,0,,Não há nada de errado\Nem querer uma vida bonita.
+Dialogue: 0,0:00:03.28,0:00:06.84,Legenda,,0,0,0,,Uma vida com detalhes que me façam\Nrespirar melhor.
+Dialogue: 0,0:00:06.88,0:00:08.88,Legenda,,0,0,0,,Um quarto que pareça meu.
+Dialogue: 0,0:00:08.88,0:00:11.44,Legenda,,0,0,0,,Roupas que me deixem presente.
+Dialogue: 0,0:00:11.44,0:00:17.12,Legenda,,0,0,0,,Amizades que não me façam ensaiar uma personalidade\Nantes de chegar.
+Dialogue: 0,0:00:17.12,0:00:21.00,Legenda,,0,0,0,,Dias em que meu tempo não pertença\Ninteiro ao medo.
+Dialogue: 0,0:00:21.00,0:00:25.72,Legenda,,0,0,0,,Eu posso desejar leveza\Nsem fugir das responsabilidades.
+Dialogue: 0,0:00:25.72,0:00:30.36,Legenda,,0,0,0,,Posso querer mais sem me tornar ingrata\Npelo que já existe.
+Dialogue: 0,0:00:30.36,0:00:33.96,Legenda,,0,0,0,,Posso ser ambiciosa e delicada\Nna mesma vida.
+Dialogue: 0,0:00:33.96,0:00:38.88,Legenda,,0,0,0,,Existe espaço para a minha disciplina\Ne para a minha imaginação.
+Dialogue: 0,0:00:38.88,0:00:43.84,Legenda,,0,0,0,,Para a rotina que me organiza e para as coisas\Nque me fazem sonhar.
+Dialogue: 0,0:00:43.84,0:00:50.04,Legenda,,0,0,0,,Minha vida não precisa escolher\Nentre ser real e ser bonita. Ela pode ser as duas coisas.
+Dialogue: 0,0:00:50.04,0:00:52.76,Legenda,,0,0,0,,Eu volto a prestar atenção\Nno que me acende.
+Dialogue: 0,0:00:52.76,0:00:55.08,Legenda,,0,0,0,,Na música que muda o meu humor.
+Dialogue: 0,0:00:55.08,0:00:57.92,Legenda,,0,0,0,,Na cor que me faz parar por um segundo.
+Dialogue: 0,0:00:57.92,0:01:00.76,Legenda,,0,0,0,,Nos lugares que devolvem imaginação.
+Dialogue: 0,0:01:00.76,0:01:06.56,Legenda,,0,0,0,,Nas pequenas coisas que lembram que eu ainda estou viva\Ndentro da minha própria história.

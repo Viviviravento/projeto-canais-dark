@@ -1,0 +1,37 @@
+{
+  "dispatch": "timer_youtube_long_2026-07-29_1700_brt",
+  "received_at": "2026-07-29T17:00:00-03:00",
+  "scheduled_content": {
+    "video_id": "video-005",
+    "title": "Genesis e a criacao: o comeco nao e caos",
+    "source": "operations/a-palavra-que-cuida/01_briefs/grade-editorial-2026-07-27-a-2026-08-15-v1.md"
+  },
+  "result": "published_public_after_credential_recovery",
+  "resolution": {
+    "youtube_video_id": "iNo6atIbKf4",
+    "url": "https://youtu.be/iNo6atIbKf4",
+    "published_at": "2026-07-29T17:13:38-03:00",
+    "record": "operations/a-palavra-que-cuida/08_publicacao/video-005-publicacao-execucao-2026-07-29.json"
+  },
+  "publication_state_verified": {
+    "local_manifest_status": "rendered_pending_human_master_review",
+    "youtube_video_id_registered": false,
+    "unlisted_upload_confirmed": false,
+    "public_visibility_confirmed": false
+  },
+  "gates": {
+    "master_exists": "pass",
+    "master_technical_identity": "pass_1920x1080_30fps_audio_present",
+    "human_master_review": "required_before_publication",
+    "copyright_check_youtube": "pending_after_unlisted_upload",
+    "pinned_comment_verified": "required_before_publication",
+    "end_screen_native_elements_verified": "required_before_publication"
+  },
+  "execution_attempt": {
+    "operation": "read-only authenticated channel state check via yutu",
+    "result": "blocked_before_api_request",
+    "error": "failed to parse client secret: illegal base64 data at input byte 6",
+    "consequence": "No upload, metadata write, scheduling, comment or visibility change was attempted."
+  },
+  "next_authorized_action": "Restore valid yutu OAuth credentials or provide an available Studio control surface, upload video-005 as unlisted, then complete human master review before any public visibility change."
+}

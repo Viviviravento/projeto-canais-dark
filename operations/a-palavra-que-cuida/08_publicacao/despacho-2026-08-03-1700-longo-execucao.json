@@ -1,0 +1,28 @@
+{
+  "dispatch": "timer_youtube_long_2026-08-03_1700_brt",
+  "received_at": "2026-08-03T17:00:00-03:00",
+  "checked_at": "2026-08-03T17:00:00-03:00",
+  "channel": "A Palavra Que Cuida",
+  "slot": "2026-08-03T17:00:00-03:00",
+  "scheduled_content": {
+    "video_id": "video-006",
+    "title": "Marta e Maria: quando servir vira ansiedade",
+    "master": "operations/a-palavra-que-cuida/07_exports/video-006/marta-e-maria-quando-servir-vira-ansiedade-v1.mp4"
+  },
+  "result": "blocked_before_publication",
+  "render_state": {
+    "master": "completed",
+    "completed_at": "2026-07-31T15:48:19-03:00"
+  },
+  "gates": {
+    "human_master_review": "pending",
+    "publication_manifest": "missing",
+    "youtube_studio_state": "not_verified_browser_unavailable"
+  },
+  "blockers": [
+    "Nenhuma autorizacao explicita de revisao humana do master do video-006 foi registrada.",
+    "O navegador do YouTube Studio ficou indisponivel durante a verificacao do estado real.",
+    "Sem revisao humana e sem verificacao do Studio, nao fazer upload, agendamento, mudanca de visibilidade ou comentario."
+  ],
+  "action_taken": "Nenhum upload ou publicacao foi tentado."
+}

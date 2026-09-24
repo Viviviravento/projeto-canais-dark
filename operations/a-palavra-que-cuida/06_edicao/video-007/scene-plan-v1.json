@@ -1,0 +1,194 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-007",
+  "timing_state": "derived_from_master_alignment_1.07x",
+  "master_duration_seconds": 671.340854,
+  "visual_policy": {
+    "maximum_static_seconds": 7,
+    "approved_image_pool_reused_within_episode": true,
+    "crochet_item_count": 1,
+    "avatar_only_while_speaking": true,
+    "scripture_display_must_match_spoken_quote": true,
+    "scripture_cards_only_during_direct_verse_reading": true,
+    "editorial_text_cards": false,
+    "end_screen_seconds": 15,
+    "end_screen_fixed_boxes": false,
+    "end_screen_native_youtube_recommendations": 2,
+    "end_screen_handle": "@apalavraquecuidabr"
+  },
+  "publication_cta_requirements": {
+    "audio_contains_comment_question": true,
+    "audio_contains_next_video_direction": true,
+    "must_add_two_native_youtube_video_elements": true,
+    "must_add_pinned_comment_question": true
+  },
+  "scenes": [
+    {
+      "id": "block-01-o-atalho-chega-em-dia-fraco",
+      "block_id": "01-o-atalho-chega-em-dia-fraco",
+      "start_seconds": 0.0,
+      "end_seconds": 106.898131,
+      "assets": [
+        "video-007/images/v01-pausa-na-cozinha-com-croche-v1.png",
+        "video-007/images/v03-pausa-diante-da-pressao-v1.png",
+        "video-007/images/v02-jesus-no-deserto-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-02-a-necessidade-nao-precisa-mandar-em-tudo",
+      "block_id": "02-a-necessidade-nao-precisa-mandar-em-tudo",
+      "start_seconds": 106.898131,
+      "end_seconds": 210.802,
+      "assets": [
+        "video-007/images/v03-pausa-diante-da-pressao-v1.png",
+        "video-007/images/v01-pausa-na-cozinha-com-croche-v1.png",
+        "video-007/images/v05-acolhimento-na-sala-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-03-quando-aparece-a-vontade-de-provar-alguma-coisa",
+      "block_id": "03-quando-aparece-a-vontade-de-provar-alguma-coisa",
+      "start_seconds": 210.802,
+      "end_seconds": 299.211,
+      "assets": [
+        "video-007/images/v03-pausa-diante-da-pressao-v1.png",
+        "video-007/images/v04-pausa-no-corredor-v1.png",
+        "video-007/images/v01-pausa-na-cozinha-com-croche-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-04-quando-o-controle-rapido-cobra-caro",
+      "block_id": "04-quando-o-controle-rapido-cobra-caro",
+      "start_seconds": 299.211,
+      "end_seconds": 386.709,
+      "assets": [
+        "video-007/images/v02-jesus-no-deserto-v1.png",
+        "video-007/images/v04-pausa-no-corredor-v1.png",
+        "video-007/images/v05-acolhimento-na-sala-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-05-jesus-nao-olha-para-a-fraqueza-com-desprezo",
+      "block_id": "05-jesus-nao-olha-para-a-fraqueza-com-desprezo",
+      "start_seconds": 386.709,
+      "end_seconds": 467.784,
+      "assets": [
+        "video-007/images/v05-acolhimento-na-sala-v1.png",
+        "video-007/images/v02-jesus-no-deserto-v1.png",
+        "video-007/images/v01-pausa-na-cozinha-com-croche-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-06-tres-perguntas-antes-de-escolher",
+      "block_id": "06-tres-perguntas-antes-de-escolher",
+      "start_seconds": 467.784,
+      "end_seconds": 556.193,
+      "assets": [
+        "video-007/images/v03-pausa-diante-da-pressao-v1.png",
+        "video-007/images/v04-pausa-no-corredor-v1.png",
+        "video-007/images/v05-acolhimento-na-sala-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-07-o-caminho-de-jesus-nao-e-pressa",
+      "block_id": "07-o-caminho-de-jesus-nao-e-pressa",
+      "start_seconds": 556.193,
+      "end_seconds": 608.622,
+      "assets": [
+        "video-007/images/v06-caminho-sem-pressa-v1.png",
+        "video-007/images/v05-acolhimento-na-sala-v1.png",
+        "video-007/images/v04-pausa-no-corredor-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    },
+    {
+      "id": "block-08-fechamento-e-convite",
+      "block_id": "08-fechamento-e-convite",
+      "start_seconds": 608.622,
+      "end_seconds": 671.340854,
+      "assets": [
+        "video-007/images/v06-caminho-sem-pressa-v1.png",
+        "video-007/images/v05-acolhimento-na-sala-v1.png",
+        "video-007/images/v01-pausa-na-cozinha-com-croche-v1.png"
+      ],
+      "maximum_static_seconds": 7,
+      "vertical_recomposition": "planned"
+    }
+  ],
+  "scripture_cards": [
+    {
+      "id": "scripture-acf-mateus-4-1",
+      "reference": "Mateus 4:1",
+      "text": "Então foi conduzido Jesus pelo Espírito ao deserto, para ser tentado pelo diabo.",
+      "source": "04_assets/video-007/scripture_cards/acf-mateus-4-1.png",
+      "block_id": "01-o-atalho-chega-em-dia-fraco",
+      "start_seconds": 81.932,
+      "end_seconds": 87.749,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-mateus-4-4",
+      "reference": "Mateus 4:4",
+      "text": "Ele, porém, respondendo, disse: Está escrito: Nem só de pão viverá o homem, mas de toda a palavra que sai da boca de Deus.",
+      "source": "04_assets/video-007/scripture_cards/acf-mateus-4-4.png",
+      "block_id": "02-a-necessidade-nao-precisa-mandar-em-tudo",
+      "start_seconds": 175.256,
+      "end_seconds": 183.719,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-mateus-4-7",
+      "reference": "Mateus 4:7",
+      "text": "Disse-lhe Jesus: Também está escrito: Não tentarás o Senhor teu Deus.",
+      "source": "04_assets/video-007/scripture_cards/acf-mateus-4-7.png",
+      "block_id": "03-quando-aparece-a-vontade-de-provar-alguma-coisa",
+      "start_seconds": 280.342,
+      "end_seconds": 284.823,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-mateus-4-10",
+      "reference": "Mateus 4:10",
+      "text": "Então disse-lhe Jesus: Vai-te, Satanás, porque está escrito: Ao Senhor teu Deus adorarás, e só a ele servirás.",
+      "source": "04_assets/video-007/scripture_cards/acf-mateus-4-10.png",
+      "block_id": "04-quando-o-controle-rapido-cobra-caro",
+      "start_seconds": 354.875,
+      "end_seconds": 363.294,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    },
+    {
+      "id": "scripture-acf-hebreus-4-15",
+      "reference": "Hebreus 4:15",
+      "text": "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém, um que, como nós, em tudo foi tentado, mas sem pecado.",
+      "source": "04_assets/video-007/scripture_cards/acf-hebreus-4-15.png",
+      "block_id": "05-jesus-nao-olha-para-a-fraqueza-com-desprezo",
+      "start_seconds": 411.904,
+      "end_seconds": 422.895,
+      "must_match_spoken_audio": true,
+      "complete_reference_required": true,
+      "trigger_policy": "show only while the verse text itself is being read"
+    }
+  ],
+  "asset_strategy": "Use the six approved video-007 images as the episode pool; only one contains the approved subtle crochet detail."
+}

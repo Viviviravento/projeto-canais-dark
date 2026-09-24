@@ -1,0 +1,834 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.02,
+      "text": "N\u00e3o fa\u00e7a do passado uma identidade, aprenda com ele, aceite ajuda e construa",
+      "words": [
+        {
+          "word": " N\u00e3o",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.189
+        },
+        {
+          "word": " fa\u00e7a",
+          "start": 0.36,
+          "end": 0.7,
+          "probability": 0.885
+        },
+        {
+          "word": " do",
+          "start": 0.7,
+          "end": 0.82,
+          "probability": 0.971
+        },
+        {
+          "word": " passado",
+          "start": 0.82,
+          "end": 1.2,
+          "probability": 0.994
+        },
+        {
+          "word": " uma",
+          "start": 1.2,
+          "end": 1.56,
+          "probability": 0.987
+        },
+        {
+          "word": " identidade,",
+          "start": 1.56,
+          "end": 2.36,
+          "probability": 0.955
+        },
+        {
+          "word": " aprenda",
+          "start": 2.78,
+          "end": 3.34,
+          "probability": 0.96
+        },
+        {
+          "word": " com",
+          "start": 3.34,
+          "end": 3.48,
+          "probability": 0.995
+        },
+        {
+          "word": " ele,",
+          "start": 3.48,
+          "end": 3.76,
+          "probability": 0.969
+        },
+        {
+          "word": " aceite",
+          "start": 4.16,
+          "end": 4.56,
+          "probability": 0.683
+        },
+        {
+          "word": " ajuda",
+          "start": 4.56,
+          "end": 4.92,
+          "probability": 0.905
+        },
+        {
+          "word": " e",
+          "start": 4.92,
+          "end": 5.44,
+          "probability": 0.971
+        },
+        {
+          "word": " construa",
+          "start": 5.44,
+          "end": 6.02,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.02,
+      "end": 8.28,
+      "text": "a federidade nas escolhas pequenas de hoje.",
+      "words": [
+        {
+          "word": " a",
+          "start": 6.02,
+          "end": 6.18,
+          "probability": 0.243
+        },
+        {
+          "word": " federidade",
+          "start": 6.18,
+          "end": 6.68,
+          "probability": 0.618
+        },
+        {
+          "word": " nas",
+          "start": 6.68,
+          "end": 6.86,
+          "probability": 0.953
+        },
+        {
+          "word": " escolhas",
+          "start": 6.86,
+          "end": 7.36,
+          "probability": 0.98
+        },
+        {
+          "word": " pequenas",
+          "start": 7.36,
+          "end": 7.86,
+          "probability": 0.996
+        },
+        {
+          "word": " de",
+          "start": 7.86,
+          "end": 8.04,
+          "probability": 0.996
+        },
+        {
+          "word": " hoje.",
+          "start": 8.04,
+          "end": 8.28,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 8.8,
+      "end": 14.14,
+      "text": "Recomentar tamb\u00e9m n\u00e3o obliga ningu\u00e9m a manter acesso \u00e0 pr\u00f3pria vida quando a rela\u00e7\u00e3o",
+      "words": [
+        {
+          "word": " Recomentar",
+          "start": 8.8,
+          "end": 9.32,
+          "probability": 0.499
+        },
+        {
+          "word": " tamb\u00e9m",
+          "start": 9.32,
+          "end": 9.82,
+          "probability": 0.99
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 9.82,
+          "end": 10.5,
+          "probability": 0.729
+        },
+        {
+          "word": " obliga",
+          "start": 10.5,
+          "end": 10.84,
+          "probability": 0.797
+        },
+        {
+          "word": " ningu\u00e9m",
+          "start": 10.84,
+          "end": 11.14,
+          "probability": 0.842
+        },
+        {
+          "word": " a",
+          "start": 11.14,
+          "end": 11.32,
+          "probability": 0.963
+        },
+        {
+          "word": " manter",
+          "start": 11.32,
+          "end": 11.68,
+          "probability": 0.997
+        },
+        {
+          "word": " acesso",
+          "start": 11.68,
+          "end": 12.1,
+          "probability": 0.887
+        },
+        {
+          "word": " \u00e0",
+          "start": 12.1,
+          "end": 12.38,
+          "probability": 0.829
+        },
+        {
+          "word": " pr\u00f3pria",
+          "start": 12.38,
+          "end": 12.66,
+          "probability": 0.982
+        },
+        {
+          "word": " vida",
+          "start": 12.66,
+          "end": 13.06,
+          "probability": 0.995
+        },
+        {
+          "word": " quando",
+          "start": 13.06,
+          "end": 13.6,
+          "probability": 0.965
+        },
+        {
+          "word": " a",
+          "start": 13.6,
+          "end": 13.74,
+          "probability": 0.996
+        },
+        {
+          "word": " rela\u00e7\u00e3o",
+          "start": 13.74,
+          "end": 14.14,
+          "probability": 0.971
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 14.14,
+      "end": 15.36,
+      "text": "se tornou insegura.",
+      "words": [
+        {
+          "word": " se",
+          "start": 14.14,
+          "end": 14.4,
+          "probability": 0.998
+        },
+        {
+          "word": " tornou",
+          "start": 14.4,
+          "end": 14.76,
+          "probability": 0.971
+        },
+        {
+          "word": " insegura.",
+          "start": 14.76,
+          "end": 15.36,
+          "probability": 0.949
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 16.04,
+      "end": 22.16,
+      "text": "Pedir perd\u00e3o n\u00e3o \u00e9 uma moeda para comprar reconcilia\u00e7\u00e3o, \u00e9 um passo de verdade.",
+      "words": [
+        {
+          "word": " Pedir",
+          "start": 16.04,
+          "end": 16.36,
+          "probability": 0.676
+        },
+        {
+          "word": " perd\u00e3o",
+          "start": 16.36,
+          "end": 16.8,
+          "probability": 0.971
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 16.8,
+          "end": 17.32,
+          "probability": 0.958
+        },
+        {
+          "word": " \u00e9",
+          "start": 17.32,
+          "end": 17.46,
+          "probability": 0.998
+        },
+        {
+          "word": " uma",
+          "start": 17.46,
+          "end": 17.58,
+          "probability": 0.998
+        },
+        {
+          "word": " moeda",
+          "start": 17.58,
+          "end": 18.0,
+          "probability": 0.968
+        },
+        {
+          "word": " para",
+          "start": 18.0,
+          "end": 18.46,
+          "probability": 0.936
+        },
+        {
+          "word": " comprar",
+          "start": 18.46,
+          "end": 18.92,
+          "probability": 0.986
+        },
+        {
+          "word": " reconcilia\u00e7\u00e3o,",
+          "start": 18.92,
+          "end": 20.28,
+          "probability": 0.811
+        },
+        {
+          "word": " \u00e9",
+          "start": 20.82,
+          "end": 21.04,
+          "probability": 0.989
+        },
+        {
+          "word": " um",
+          "start": 21.04,
+          "end": 21.16,
+          "probability": 0.988
+        },
+        {
+          "word": " passo",
+          "start": 21.16,
+          "end": 21.46,
+          "probability": 0.979
+        },
+        {
+          "word": " de",
+          "start": 21.46,
+          "end": 21.64,
+          "probability": 0.997
+        },
+        {
+          "word": " verdade.",
+          "start": 21.64,
+          "end": 22.16,
+          "probability": 0.99
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 22.68,
+      "end": 28.82,
+      "text": "As vezes a repara\u00e7\u00e3o acontece com proximidade, outras vezes acontece respeitando dist\u00e2ncia,",
+      "words": [
+        {
+          "word": " As",
+          "start": 22.68,
+          "end": 22.9,
+          "probability": 0.54
+        },
+        {
+          "word": " vezes",
+          "start": 22.9,
+          "end": 23.12,
+          "probability": 0.999
+        },
+        {
+          "word": " a",
+          "start": 23.12,
+          "end": 23.34,
+          "probability": 0.991
+        },
+        {
+          "word": " repara\u00e7\u00e3o",
+          "start": 23.34,
+          "end": 23.88,
+          "probability": 0.817
+        },
+        {
+          "word": " acontece",
+          "start": 23.88,
+          "end": 24.28,
+          "probability": 0.997
+        },
+        {
+          "word": " com",
+          "start": 24.28,
+          "end": 24.62,
+          "probability": 0.98
+        },
+        {
+          "word": " proximidade,",
+          "start": 24.62,
+          "end": 25.32,
+          "probability": 0.947
+        },
+        {
+          "word": " outras",
+          "start": 25.8,
+          "end": 26.04,
+          "probability": 0.964
+        },
+        {
+          "word": " vezes",
+          "start": 26.04,
+          "end": 26.46,
+          "probability": 0.997
+        },
+        {
+          "word": " acontece",
+          "start": 26.46,
+          "end": 27.02,
+          "probability": 0.882
+        },
+        {
+          "word": " respeitando",
+          "start": 27.02,
+          "end": 28.04,
+          "probability": 0.966
+        },
+        {
+          "word": " dist\u00e2ncia,",
+          "start": 28.04,
+          "end": 28.82,
+          "probability": 0.934
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 28.82,
+      "end": 30.0,
+      "text": "assumindo...",
+      "words": [
+        {
+          "word": " assumindo...",
+          "start": 28.82,
+          "end": 30.0,
+          "probability": 0.659
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " N\u00e3o",
+      "start": 0.0,
+      "end": 0.36,
+      "probability": 0.189
+    },
+    {
+      "word": " fa\u00e7a",
+      "start": 0.36,
+      "end": 0.7,
+      "probability": 0.885
+    },
+    {
+      "word": " do",
+      "start": 0.7,
+      "end": 0.82,
+      "probability": 0.971
+    },
+    {
+      "word": " passado",
+      "start": 0.82,
+      "end": 1.2,
+      "probability": 0.994
+    },
+    {
+      "word": " uma",
+      "start": 1.2,
+      "end": 1.56,
+      "probability": 0.987
+    },
+    {
+      "word": " identidade,",
+      "start": 1.56,
+      "end": 2.36,
+      "probability": 0.955
+    },
+    {
+      "word": " aprenda",
+      "start": 2.78,
+      "end": 3.34,
+      "probability": 0.96
+    },
+    {
+      "word": " com",
+      "start": 3.34,
+      "end": 3.48,
+      "probability": 0.995
+    },
+    {
+      "word": " ele,",
+      "start": 3.48,
+      "end": 3.76,
+      "probability": 0.969
+    },
+    {
+      "word": " aceite",
+      "start": 4.16,
+      "end": 4.56,
+      "probability": 0.683
+    },
+    {
+      "word": " ajuda",
+      "start": 4.56,
+      "end": 4.92,
+      "probability": 0.905
+    },
+    {
+      "word": " e",
+      "start": 4.92,
+      "end": 5.44,
+      "probability": 0.971
+    },
+    {
+      "word": " construa",
+      "start": 5.44,
+      "end": 6.02,
+      "probability": 0.91
+    },
+    {
+      "word": " a",
+      "start": 6.02,
+      "end": 6.18,
+      "probability": 0.243
+    },
+    {
+      "word": " federidade",
+      "start": 6.18,
+      "end": 6.68,
+      "probability": 0.618
+    },
+    {
+      "word": " nas",
+      "start": 6.68,
+      "end": 6.86,
+      "probability": 0.953
+    },
+    {
+      "word": " escolhas",
+      "start": 6.86,
+      "end": 7.36,
+      "probability": 0.98
+    },
+    {
+      "word": " pequenas",
+      "start": 7.36,
+      "end": 7.86,
+      "probability": 0.996
+    },
+    {
+      "word": " de",
+      "start": 7.86,
+      "end": 8.04,
+      "probability": 0.996
+    },
+    {
+      "word": " hoje.",
+      "start": 8.04,
+      "end": 8.28,
+      "probability": 1.0
+    },
+    {
+      "word": " Recomentar",
+      "start": 8.8,
+      "end": 9.32,
+      "probability": 0.499
+    },
+    {
+      "word": " tamb\u00e9m",
+      "start": 9.32,
+      "end": 9.82,
+      "probability": 0.99
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 9.82,
+      "end": 10.5,
+      "probability": 0.729
+    },
+    {
+      "word": " obliga",
+      "start": 10.5,
+      "end": 10.84,
+      "probability": 0.797
+    },
+    {
+      "word": " ningu\u00e9m",
+      "start": 10.84,
+      "end": 11.14,
+      "probability": 0.842
+    },
+    {
+      "word": " a",
+      "start": 11.14,
+      "end": 11.32,
+      "probability": 0.963
+    },
+    {
+      "word": " manter",
+      "start": 11.32,
+      "end": 11.68,
+      "probability": 0.997
+    },
+    {
+      "word": " acesso",
+      "start": 11.68,
+      "end": 12.1,
+      "probability": 0.887
+    },
+    {
+      "word": " \u00e0",
+      "start": 12.1,
+      "end": 12.38,
+      "probability": 0.829
+    },
+    {
+      "word": " pr\u00f3pria",
+      "start": 12.38,
+      "end": 12.66,
+      "probability": 0.982
+    },
+    {
+      "word": " vida",
+      "start": 12.66,
+      "end": 13.06,
+      "probability": 0.995
+    },
+    {
+      "word": " quando",
+      "start": 13.06,
+      "end": 13.6,
+      "probability": 0.965
+    },
+    {
+      "word": " a",
+      "start": 13.6,
+      "end": 13.74,
+      "probability": 0.996
+    },
+    {
+      "word": " rela\u00e7\u00e3o",
+      "start": 13.74,
+      "end": 14.14,
+      "probability": 0.971
+    },
+    {
+      "word": " se",
+      "start": 14.14,
+      "end": 14.4,
+      "probability": 0.998
+    },
+    {
+      "word": " tornou",
+      "start": 14.4,
+      "end": 14.76,
+      "probability": 0.971
+    },
+    {
+      "word": " insegura.",
+      "start": 14.76,
+      "end": 15.36,
+      "probability": 0.949
+    },
+    {
+      "word": " Pedir",
+      "start": 16.04,
+      "end": 16.36,
+      "probability": 0.676
+    },
+    {
+      "word": " perd\u00e3o",
+      "start": 16.36,
+      "end": 16.8,
+      "probability": 0.971
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 16.8,
+      "end": 17.32,
+      "probability": 0.958
+    },
+    {
+      "word": " \u00e9",
+      "start": 17.32,
+      "end": 17.46,
+      "probability": 0.998
+    },
+    {
+      "word": " uma",
+      "start": 17.46,
+      "end": 17.58,
+      "probability": 0.998
+    },
+    {
+      "word": " moeda",
+      "start": 17.58,
+      "end": 18.0,
+      "probability": 0.968
+    },
+    {
+      "word": " para",
+      "start": 18.0,
+      "end": 18.46,
+      "probability": 0.936
+    },
+    {
+      "word": " comprar",
+      "start": 18.46,
+      "end": 18.92,
+      "probability": 0.986
+    },
+    {
+      "word": " reconcilia\u00e7\u00e3o,",
+      "start": 18.92,
+      "end": 20.28,
+      "probability": 0.811
+    },
+    {
+      "word": " \u00e9",
+      "start": 20.82,
+      "end": 21.04,
+      "probability": 0.989
+    },
+    {
+      "word": " um",
+      "start": 21.04,
+      "end": 21.16,
+      "probability": 0.988
+    },
+    {
+      "word": " passo",
+      "start": 21.16,
+      "end": 21.46,
+      "probability": 0.979
+    },
+    {
+      "word": " de",
+      "start": 21.46,
+      "end": 21.64,
+      "probability": 0.997
+    },
+    {
+      "word": " verdade.",
+      "start": 21.64,
+      "end": 22.16,
+      "probability": 0.99
+    },
+    {
+      "word": " As",
+      "start": 22.68,
+      "end": 22.9,
+      "probability": 0.54
+    },
+    {
+      "word": " vezes",
+      "start": 22.9,
+      "end": 23.12,
+      "probability": 0.999
+    },
+    {
+      "word": " a",
+      "start": 23.12,
+      "end": 23.34,
+      "probability": 0.991
+    },
+    {
+      "word": " repara\u00e7\u00e3o",
+      "start": 23.34,
+      "end": 23.88,
+      "probability": 0.817
+    },
+    {
+      "word": " acontece",
+      "start": 23.88,
+      "end": 24.28,
+      "probability": 0.997
+    },
+    {
+      "word": " com",
+      "start": 24.28,
+      "end": 24.62,
+      "probability": 0.98
+    },
+    {
+      "word": " proximidade,",
+      "start": 24.62,
+      "end": 25.32,
+      "probability": 0.947
+    },
+    {
+      "word": " outras",
+      "start": 25.8,
+      "end": 26.04,
+      "probability": 0.964
+    },
+    {
+      "word": " vezes",
+      "start": 26.04,
+      "end": 26.46,
+      "probability": 0.997
+    },
+    {
+      "word": " acontece",
+      "start": 26.46,
+      "end": 27.02,
+      "probability": 0.882
+    },
+    {
+      "word": " respeitando",
+      "start": 27.02,
+      "end": 28.04,
+      "probability": 0.966
+    },
+    {
+      "word": " dist\u00e2ncia,",
+      "start": 28.04,
+      "end": 28.82,
+      "probability": 0.934
+    },
+    {
+      "word": " assumindo...",
+      "start": 28.82,
+      "end": 30.0,
+      "probability": 0.659
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 30.037,
+  "model_size": "base",
+  "device": "cpu"
+}

@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Caption,Arial,54,&H00FFFFFF,&H0000D7FF,&HDD000000,&H99000000,-1,0,0,0,100,100,0,0,3,2.5,1,2,85,85,215,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.08,0:00:02.73,Caption,,0,0,0,,A história poderia terminar na festa.
+Dialogue: 0,0:00:03.30,0:00:07.67,Caption,,0,0,0,,Seria uma conclusão bonita, rápida e fácil de compartilhar.
+Dialogue: 0,0:00:07.84,0:00:09.17,Caption,,0,0,0,,Mas Jesus continua.
+Dialogue: 0,0:00:09.87,0:00:11.89,Caption,,0,0,0,,O filho mais velho estava no campo.
+Dialogue: 0,0:00:11.93,0:00:15.21,Caption,,0,0,0,,Quando se aproxima, ouve música e dança.
+Dialogue: 0,0:00:15.68,0:00:18.60,Caption,,0,0,0,,Ele pergunta o que está acontecendo e descobre que
+Dialogue: 0,0:00:18.52,0:00:19.60,Caption,,0,0,0,,o irmão voltou.
+Dialogue: 0,0:00:20.37,0:00:22.89,Caption,,0,0,0,,A reação dele não é apenas inveja.
+Dialogue: 0,0:00:23.80,0:00:25.58,Caption,,0,0,0,,Existe uma ferida ali.
+Dialogue: 0,0:00:26.02,0:00:28.28,Caption,,0,0,0,,Ele olha para os anos de trabalho,
+Dialogue: 0,0:00:28.73,0:00:31.00,Caption,,0,0,0,,para a obediência silenciosa,
+Dialogue: 0,0:00:31.63,0:00:34.25,Caption,,0,0,0,,para as coisas que talvez tenha feito sem receber
+Dialogue: 0,0:00:34.22,0:00:35.12,Caption,,0,0,0,,reconhecimento.
+Dialogue: 0,0:00:35.65,0:00:38.18,Caption,,0,0,0,,E, de repente, parece que a festa foi preparada
+Dialogue: 0,0:00:38.12,0:00:40.08,Caption,,0,0,0,,para quem desperdiçou tudo.
+Dialogue: 0,0:00:40.61,0:00:41.69,Caption,,0,0,0,,Se você ficou,
+Dialogue: 0,0:00:42.33,0:00:44.74,Caption,,0,0,0,,talvez conheça esse sentimento.
+Dialogue: 0,0:00:44.94,0:00:47.62,Caption,,0,0,0,,Você não saiu. Você segurou as pontas.
+Dialogue: 0,0:00:47.98,0:00:50.53,Caption,,0,0,0,,Você tentou não piorar a situação.
+Dialogue: 0,0:00:50.77,0:00:53.72,Caption,,0,0,0,,E quando a pessoa retorna, todos querem celebrar,
+Dialogue: 0,0:00:53.87,0:00:57.39,Caption,,0,0,0,,mas quase ninguém pergunta o que a sua permanência
+Dialogue: 0,0:00:57.52,0:01:00.95,Caption,,0,0,0,,custou. O pai não manda o filho mais velho
+Dialogue: 0,0:01:01.08,0:01:03.77,Caption,,0,0,0,,calar a boca. Ele sai para falar com ele.
+Dialogue: 0,0:01:04.24,0:01:07.56,Caption,,0,0,0,,A casa não é restaurada obrigando um filho a
+Dialogue: 0,0:01:07.54,0:01:10.01,Caption,,0,0,0,,sorrir enquanto o outro é acolhido.
+Dialogue: 0,0:01:10.33,0:01:13.59,Caption,,0,0,0,,O cuidado precisa alcançar os dois lados.

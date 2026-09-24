@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-007",
+  "status": "passed_pending_paid_audio_approval",
+  "checks": {
+    "blocks": 8,
+    "total_characters": 8989,
+    "estimated_postprocess_duration_seconds": 689.2,
+    "allowed_postprocess_duration_seconds": [
+      600,
+      780
+    ],
+    "break_tags_found": false,
+    "missing_direct_citations": [],
+    "cta_contains_next_video_direction": true,
+    "cta_contains_comment_prompt": true
+  },
+  "known_risk": "A estimativa parte do ritmo real do vídeo 006; a duração final será conferida pelo WAV e pela linha do tempo antes da edição."
+}

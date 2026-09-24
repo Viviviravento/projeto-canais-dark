@@ -1,0 +1,94 @@
+{
+  "version": "video-004-performance-v1",
+  "source_script": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\02_roteiros\\video-004-roteiro-v1.md",
+  "performance_contract": {
+    "relationship": "Falar com uma pessoa, com proximidade e respeito, sem locução publicitária.",
+    "authority": "Autoridade pelo cuidado com o texto bíblico, sem tom professoral, especulativo ou superior.",
+    "interpretation": "Distinguir fato narrado, silêncio do Evangelho, contexto familiar, identidade de Jesus, aplicação e conclusão.",
+    "intensity": "Sereno, atento e reverente, sem melodrama religioso, tom de trailer ou curiosidade sensacionalista.",
+    "scripture": "Anunciar livro, capítulo e versículo; concluir a referência; ler o texto completo com reverência; somente então explicar.",
+    "pause_policy": "Sem break tags e sem pontuação artificial. Usar ideias completas, conectores, parágrafos semânticos e contexto anterior e posterior entre blocos.",
+    "cta": "Concluir a mensagem antes do convite; manter calor humano e abrir espaço para dois vídeos recomendados."
+  },
+  "api": {
+    "provider": "ElevenLabs",
+    "voice_name": "Bruno Cardoso",
+    "voice_id": "iF2QszmZhlyFLleUoFxy",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 271828,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    }
+  },
+  "blocks": [
+    {
+      "id": "01-a-pergunta-que-existe-entre-duas-cenas",
+      "source_section": "01",
+      "title": "A pergunta que existe entre duas cenas",
+      "function": "Abrir a curiosidade sobre a infância de Jesus e afirmar o compromisso com o que o Evangelho registra.",
+      "text": "Todos nós conhecemos Belém, a manjedoura, os pastores e os anjos. Também conhecemos o Jesus adulto que ensina, cura, chama discípulos, enfrenta a cruz e vence a morte.\n\nMas, entre essas duas imagens, existe uma pergunta simples e poderosa: como foi a infância de Jesus?\n\nEssa pergunta chama a imaginação. Queremos saber como eram a casa, as conversas e os dias comuns. A Bíblia, porém, entrega algumas cenas importantes e guarda silêncio sobre muitos dias.\n\nEsse silêncio não é um defeito que precisamos consertar com invenções. Ele nos ensina a olhar com atenção para o que foi registrado. Hoje, vamos caminhar por uma dessas cenas, em Lucas, capítulo dois. E vamos perceber que o pouco que o Evangelho conta não é pouco em significado."
+    },
+    {
+      "id": "02-o-que-o-evangelho-mostra",
+      "source_section": "02",
+      "title": "O que o Evangelho mostra — e o que ele não mostra",
+      "function": "Distinguir o relato de Lucas e Mateus de imaginações posteriores e apresentar Lucas 2:40.",
+      "text": "Antes de entrar na história, precisamos separar duas coisas. Uma é o que Lucas escreveu. Outra é o que nós imaginamos a partir daí.\n\nLucas relata o nascimento, a apresentação no templo e uma viagem a Jerusalém quando Jesus tinha doze anos. Mateus também registra acontecimentos da primeira infância, como a visita dos magos, a fuga para o Egito e o retorno da família. Mas os Evangelhos não fazem um diário desses anos.\n\nIsso não quer dizer que aqueles anos foram vazios, mas que o texto não os narra em detalhe. A fé não precisa transformar uma suposição bonita em certeza.\n\nLucas resume os primeiros anos com uma frase curta. Lucas, capítulo dois, versículo quarenta, diz:\n\n“E o menino crescia, e era fortalecido em espírito, e cheio de sabedoria; e a graça de Deus estava sobre ele.”\n\nEssa frase não nos oferece uma biografia completa. Mas nos dá uma direção. Jesus não aparece como uma figura distante da vida humana comum. O texto fala de crescimento, fortalecimento e sabedoria. Antes do sermão no monte, antes das multidões, antes dos milagres públicos, há uma criança que cresce."
+    },
+    {
+      "id": "03-uma-familia-que-volta-todos-os-anos",
+      "source_section": "03",
+      "title": "Uma família que volta todos os anos",
+      "function": "Mostrar a prática familiar de fé e conduzir à viagem dos doze anos.",
+      "text": "Em seguida, Lucas nos coloca dentro da rotina daquela família. Ele não começa com um grande milagre. Começa com uma viagem repetida.\n\nLucas, capítulo dois, versículo quarenta e um, diz:\n\n“Ora, todos os anos iam seus pais a Jerusalém à festa da páscoa;”\n\nTodos os anos. Essa expressão parece simples, mas ela nos permite enxergar fidelidade feita de repetição. José e Maria não aparecem apenas em momentos extraordinários. Eles caminham, participam da festa, inserem Jesus na vida do seu povo e retornam ano após ano.\n\nÉ fácil imaginar fé apenas nos momentos marcantes. Mas a vida com Deus também é construída em retornos: voltar à oração, à comunidade e à Palavra. Uma criança aprende isso pelo exemplo, não apenas por uma frase especial.\n\nLucas não romantiza essa família. Logo veremos preocupação, procura e uma conversa difícil de compreender. Ainda assim, mostra uma casa movida por uma prática de fé.\n\nQuando Jesus já tinha doze anos, eles fizeram essa viagem novamente. E foi ali que a narrativa abriu uma janela que não encontramos em nenhum outro lugar dos Evangelhos: Jesus menino, no meio do templo."
+    },
+    {
+      "id": "04-o-menino-no-templo",
+      "source_section": "04",
+      "title": "O menino no templo",
+      "function": "Narrar a busca e interpretar Jesus ouvindo e perguntando no templo.",
+      "text": "Depois da festa, José e Maria iniciaram o retorno. Jesus ficou em Jerusalém. Eles pensaram que ele estivesse com o grupo de viajantes. Procuraram entre parentes e conhecidos. Só quando não o encontraram, voltaram à cidade.\n\nLucas não trata a cena de forma fria. Há caminho percorrido, busca e a aflição muito humana de pais que não encontram o filho. Depois de três dias, eles o veem no templo.\n\nLucas, capítulo dois, versículo quarenta e seis, diz:\n\n“E aconteceu que, passados três dias, o acharam no templo, assentado no meio dos doutores, ouvindo-os, e interrogando-os.”\n\nObserve as palavras: ouvindo-os e interrogando-os. Jesus não está retratado como alguém que apenas entra para fazer um discurso. Ele escuta e pergunta. Todos se admiram da sua inteligência e das suas respostas, como Lucas conta no versículo seguinte. Mas a cena preserva uma característica bonita: sabedoria não é barulho. Há uma disposição de ouvir antes de responder.\n\nSomos pressionados a opinar depressa, como se uma frase bastasse para entender a história inteira. A cena do templo aponta para outra maturidade: perguntar não é ausência de fé, e ouvir com atenção não é fraqueza. A sabedoria de Jesus aparece em diálogo com as Escrituras e com quem estudava a Lei.\n\nO Evangelho deixa claro que havia algo singular naquela cena. Mas não nos autoriza a trocar o texto por fantasia: Lucas mostra Jesus menino ouvindo, perguntando e respondendo."
+    },
+    {
+      "id": "05-uma-resposta-que-abre-o-centro",
+      "source_section": "05",
+      "title": "Uma resposta que abre o centro da história",
+      "function": "Ler Lucas 2:49 e explicar a identidade e a missão de Jesus sem opor missão e família.",
+      "text": "Quando Maria o encontra, ela fala como uma mãe aflita falaria. Pergunta por que ele fez aquilo e diz que ela e José o procuravam ansiosos. A resposta de Jesus é curta, mas carrega uma profundidade que eles ainda não compreendiam.\n\nLucas, capítulo dois, versículo quarenta e nove, diz:\n\n“E ele lhes disse: Por que é que me procuráveis? Não sabeis que me convém tratar dos negócios de meu Pai?”\n\nNão é uma frase de desprezo por Maria e José. O texto diz que eles não compreenderam plenamente o que ele falava. A resposta anuncia uma prioridade que se tornará mais clara ao longo do Evangelho: Jesus sabe que sua vida está ligada de modo único à vontade do Pai.\n\nJesus pertence àquela família, cresce naquela casa e viaja com aqueles pais. Ao mesmo tempo, sua missão não cabe apenas nas expectativas de uma família. A identidade dele é maior do que a cena revela de uma vez só.\n\nJosé e Maria ouviram palavras verdadeiras antes de compreendê-las por inteiro. Nem toda palavra importante se resolve no mesmo dia em que é ouvida."
+    },
+    {
+      "id": "06-o-versiculo-que-impede-dois-erros",
+      "source_section": "06",
+      "title": "O versículo que impede dois erros",
+      "function": "Ler Lucas 2:51 e manter juntas a missão única de Jesus e sua submissão concreta em Nazaré.",
+      "text": "Depois dessa resposta, Lucas acrescenta um detalhe decisivo. Lucas, capítulo dois, versículo cinquenta e um, diz:\n\n“E desceu com eles, e foi para Nazaré, e era-lhes sujeito. E sua mãe guardava no seu coração todas estas coisas.”\n\nJesus fala dos negócios de seu Pai e, logo depois, volta com José e Maria para Nazaré. Ele não usa sua identidade como desculpa para desprezar a família. O texto mantém as duas verdades diante de nós: há uma missão divina única e há uma vida concreta de obediência dentro de uma casa.\n\nIsso impede dois erros: reduzir Jesus a um menino de talento precoce ou imaginar que sua missão o afastava da vida humana real. Lucas apresenta uma identidade que começa a se manifestar e uma submissão vivida no cotidiano.\n\nMaria guarda aquelas coisas no coração. Há momentos em que a fé precisa guardar uma pergunta sem forçar uma resposta."
+    },
+    {
+      "id": "07-crescer-tambem-e-parte-da-historia",
+      "source_section": "07",
+      "title": "Crescer também é uma parte da história",
+      "function": "Ler Lucas 2:52 e aplicar o valor do amadurecimento sem igualar a audiência a Jesus.",
+      "text": "O relato termina quase como começou, mas agora a frase se amplia. Lucas, capítulo dois, versículo cinquenta e dois, diz:\n\n“E crescia Jesus em sabedoria, e em estatura, e em graça para com Deus e os homens.”\n\nSabedoria. Estatura. Graça para com Deus e os homens. Lucas não descreve uma infância feita apenas de fenômenos. Ele registra crescimento. Há uma dimensão espiritual, uma dimensão humana e uma dimensão relacional.\n\nEssa história fala com quem vive dias comuns. A maior parte da vida acontece enquanto aprendemos a ouvir, assumimos responsabilidades, respeitamos pessoas, amadurecemos e voltamos para casa.\n\nNão estamos dizendo que a nossa história se iguala à de Jesus. Não se iguala. Mas o texto nos lembra que Deus não despreza processos. Crescer não é uma pausa antes da vida começar. Crescer é parte da obra que Deus faz em nós.\n\nÉ possível desejar uma fé mais profunda e negligenciar o básico: a forma como falamos em casa, a disposição de aprender e a coragem de pedir perdão. Lucas termina a cena não com uma multidão aplaudindo, mas com crescimento. Não despreze o que parece pequeno."
+    },
+    {
+      "id": "08-o-silencio-dos-anos",
+      "source_section": "08",
+      "title": "O silêncio dos anos e a clareza do que foi revelado",
+      "function": "Respeitar o que o Evangelho não narra e resumir o que a infância revelada afirma.",
+      "text": "Depois de Lucas 2, o Evangelho não nos acompanha ano após ano até Jesus iniciar seu ministério público. Existe silêncio, e podemos respeitá-lo sem perder a beleza da história.\n\nNão precisamos criar episódios para cada espaço vazio nem escolher relatos posteriores apenas porque parecem completar a narrativa. O que a Bíblia nos deu revela uma infância real, uma família que caminha, uma sabedoria que cresce e uma identidade que começa a se mostrar.\n\nTalvez essa seja uma lição importante para a nossa própria leitura da fé. Nem tudo o que não sabemos precisa virar medo. Nem tudo o que desejamos saber precisa ser inventado. Há perguntas legítimas, e há mistérios que nos chamam a humildade.\n\nJesus não entrou na história humana como uma ideia distante. Ele nasceu, cresceu, foi levado ao templo e viveu em família. Para Lucas, esses anos não são um intervalo sem importância: a graça de Deus já estava sobre ele."
+    },
+    {
+      "id": "09-fechamento-e-convite",
+      "source_section": "09",
+      "title": "Fechamento e convite",
+      "function": "Concluir a tese, identificar o canal, oferecer dois próximos vídeos e provocar comentário editorial.",
+      "text": "A infância de Jesus não nos entrega todos os detalhes que a curiosidade gostaria de ter. Mas ela nos entrega algo melhor: uma história verdadeira o bastante para nos ensinar a respeitar a Escritura, a valorizar o crescimento e a reconhecer que Deus age também nos dias que parecem comuns.\n\nSe você vive uma fase em que tudo parece lento, talvez este capítulo lembre você de uma verdade simples: amadurecer também importa. Nem todo dia terá uma grande resposta. Mas um coração que aprende a ouvir, a crescer e a permanecer fiel está sendo formado.\n\nEste é o canal A Palavra que Cuida. Para continuar nessa caminhada, clique em um dos dois vídeos que estão aparecendo na tela. Inscreva-se, curta e compartilhe com alguém que gosta de conhecer mais profundamente os Evangelhos.\n\nE me conta nos comentários: qual parte da história de Jesus você gostaria de ver aqui no canal — a infância, as tentações, um milagre ou a história de algum personagem?"
+    }
+  ]
+}

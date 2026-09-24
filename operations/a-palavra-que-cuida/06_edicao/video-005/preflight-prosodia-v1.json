@@ -1,0 +1,23 @@
+{
+  "preflight_id": "video-005-prosodia-performance-v1",
+  "video_id": "video-005",
+  "input": "operations/a-palavra-que-cuida/02_roteiros/video-005-performance-v1.json",
+  "status": "passed_pending_paid_audio_approval",
+  "checks": {
+    "blocks": 9,
+    "narration_characters": 9718,
+    "estimated_final_duration_minutes": 12.08,
+    "estimated_credits": 4859,
+    "break_tags": 0,
+    "scripture_citations": 6,
+    "all_direct_citations_present_in_performance": true,
+    "audio_speed_plan": "postprocess 1.05x preserving pitch",
+    "known_risk": "Estimated duration is slightly above 12 minutes by video-004 calibration; acceptable if prosody remains clean, but first audio review should verify pacing."
+  },
+  "voice_gate": {
+    "required_before_full_audio": false,
+    "reason": "Video 004 established the current independent-request method with 1.05x postprocess; no new voice or model is being introduced.",
+    "human_review_required_after_audio": true
+  },
+  "next_step": "If the user approves the quoted credit budget, generate the full narration without automatic paid retry."
+}

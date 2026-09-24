@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0.0",
+  "execution_id": "v005-elevenlabs-v1-20ddeaf28444",
+  "quote_id": "v005-elevenlabs-v1-20260727",
+  "manifest_sha256": "20ddeaf2844424e3470cc35427cdae41131a38b0f3cea23c2cb855a35791b9a7",
+  "state": "reconciled_pending_master_qa",
+  "reserved_at": "2026-07-28T00:00:21.405967+00:00",
+  "approved_maximum_credits": 10000,
+  "request_stitching": false,
+  "automatic_retry": false,
+  "reconciled_at": "2026-07-28T00:02:53.553212+00:00",
+  "observed_subscription_credits": 5151,
+  "report": "operations/a-palavra-que-cuida/05_audio/video-005/v1/resultado-geracao.json"
+}

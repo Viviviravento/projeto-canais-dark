@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "executed_at": "2026-07-24",
+  "reason": "Remover midias reprovadas, testes encerrados, renders duplicados e caches sem apagar ativos reutilizaveis.",
+  "preservation_policy": {
+    "keep": [
+      "masters finais de publicacao",
+      "derivados verticais aprovados",
+      "audio canonico usado por cada master",
+      "legendas finais",
+      "imagens, avatares e fontes audiovisuais pagas reutilizaveis",
+      "roteiros, manifests, registros de custo e memoria de decisoes"
+    ],
+    "remove": [
+      "versoes de audio e video reprovadas",
+      "microtestes de voz e avatar encerrados",
+      "previews e arquivos temporarios de QA",
+      "renders duplicados que possuem export final preservado",
+      "caches locais reproduziveis"
+    ]
+  },
+  "canonical_outputs": {
+    "piloto_001_long": "operations/a-palavra-que-cuida/07_exports/piloto-001/piloto-001-master-1080p-v1.mp4",
+    "piloto_001_tiktok": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001-short-01-tiktok-v5-autocontido.mp4",
+    "piloto_001_youtube_short": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001-short-01-youtube-short-v3-autocontido.mp4",
+    "video_002_long": "operations/a-palavra-que-cuida/07_exports/video-002/nao-andeis-ansiosos-v2.mp4",
+    "video_003_long": "operations/a-palavra-que-cuida/07_exports/video-003/o-que-jo-ensina-quando-a-vida-parece-injusta-v3.mp4"
+  },
+  "canonical_audio": {
+    "piloto_001": "operations/a-palavra-que-cuida/05_audio/piloto-001/v1/piloto-001-narracao-v1-master.wav",
+    "video_002": "operations/a-palavra-que-cuida/05_audio/video-002/v2/video-002-narracao-v2-producao.wav",
+    "video_003": "operations/a-palavra-que-cuida/05_audio/video-003/v2-tempo-1.05x/video-003-narracao-v2-tempo-1.05x.wav"
+  },
+  "protected_areas": [
+    "operations/a-palavra-que-cuida/04_assets",
+    "tools/OpenMontage/projects/*/assets/image",
+    "tools/OpenMontage/projects/*/assets/video"
+  ],
+  "result": {
+    "deleted_files": 1209,
+    "freed_gb": 6.262,
+    "canonical_outputs_verified_with_ffprobe": true,
+    "canonical_audio_verified_with_ffprobe": true,
+    "moved_master_sha256_preserved": true
+  },
+  "notes": [
+    "O master publicado do piloto foi movido do diretorio de renders do OpenMontage para 07_exports.",
+    "Os documentos que registram por que versoes antigas foram rejeitadas permanecem no repositorio quando nao dependem do binario descartado.",
+    "Caches e renders intermediarios podem ser recriados localmente a partir dos projetos preservados."
+  ]
+}

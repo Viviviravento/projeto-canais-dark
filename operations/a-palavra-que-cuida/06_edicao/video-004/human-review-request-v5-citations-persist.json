@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-004",
+  "version_under_review": "v5-citations-persist",
+  "review_file": "07_exports/video-004/a-infancia-de-jesus-o-que-a-biblia-diz-v5-citations-persist.mp4",
+  "supersedes": [
+    "v1",
+    "v2",
+    "v3-refined-sync",
+    "v4-citations-only"
+  ],
+  "reviewer_checks": [
+    "Cada carta bíblica aparece somente na leitura direta do versículo correspondente.",
+    "A carta permanece visível até a última palavra da leitura, sem ser coberta por imagem de apoio.",
+    "Não há títulos, frases editoriais ou imagens de texto como B-roll.",
+    "As legendas normais acompanham a narração e não competem com as citações.",
+    "O áudio, as imagens e o encerramento estão adequados para publicação."
+  ],
+  "approval_instruction": "Responder APROVADO para liberar a etapa de publicação; pedidos de ajuste mantêm o vídeo sem publicação.",
+  "publication_status": "review_only_human_approval_required"
+}

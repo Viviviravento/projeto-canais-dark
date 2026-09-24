@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "source_video": "video-009",
+  "method": "Narracao canonica e imagens aprovadas; recomposicao vertical manual em cover, legendas sincronizadas e render local.",
+  "rendered_editorial_derivatives": [
+    {
+      "derivative_id": "video-009-curto-01",
+      "title": "Jesus começa a conversa antes do julgamento",
+      "hook": "Jesus não começou perguntando pelo passado dela. Pediu água.",
+      "source_windows": [
+        {
+          "start": 65.803,
+          "end": 138.167
+        }
+      ],
+      "spoken_duration_seconds": 72.364,
+      "total_duration_seconds": 75.364,
+      "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/video-009-short-01-shorts-e-tiktok-v1.mp4",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-009/shorts/props/video-009-curto-01-shorts-e-tiktok.json",
+      "qa": {
+        "dimensions": "1080x1920",
+        "video_codec": "h264",
+        "duration": 75.4
+      },
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "video-009-curto-02",
+      "title": "Verdade não é humilhação",
+      "hook": "Deus conhece a verdade da sua história e isso não precisa virar humilhação.",
+      "source_windows": [
+        {
+          "start": 223.785,
+          "end": 278.051
+        },
+        {
+          "start": 307.183,
+          "end": 318.925
+        }
+      ],
+      "spoken_duration_seconds": 66.188,
+      "total_duration_seconds": 69.188,
+      "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/video-009-short-02-shorts-e-tiktok-v1.mp4",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-009/shorts/props/video-009-curto-02-shorts-e-tiktok.json",
+      "qa": {
+        "dimensions": "1080x1920",
+        "video_codec": "h264",
+        "duration": 69.2
+      },
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    }
+  ],
+  "editorial_derivative_count": 2,
+  "physical_mp4_target_count": 2,
+  "paid_api_cost_usd": 0
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-006",
+  "status": "passed_pending_paid_audio_approval",
+  "checks": {
+    "blocks": 9,
+    "total_characters": 11018,
+    "spoken_characters": 10930,
+    "break_tags_found": false,
+    "missing_direct_citations": [],
+    "scripture_cards_policy": {
+      "complete_reference_required": true,
+      "show_only_during_direct_verse_reading": true,
+      "do_not_show_when_book_or_reference_is_only_mentioned": true,
+      "normal_captions_may_continue_outside_direct_quote": true
+    },
+    "cta_contains_next_video_direction": true,
+    "cta_contains_comment_prompt": true
+  },
+  "known_risk": "Ainda pode haver pausas naturais interpretadas como vírgula pela voz; roteiro usa frases mais curtas e sem break tags para reduzir o risco."
+}

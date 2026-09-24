@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "derivative_id": "piloto-001-short-05",
+  "source_video_id": "piloto-001",
+  "slot": {
+    "scheduled_at": "2026-08-01T17:00:00-03:00",
+    "executed_at": "2026-08-01T17:09:21-03:00",
+    "cadence": "ter\u00e7a, quinta e s\u00e1bado; 11h e 17h"
+  },
+  "youtube_shorts": {
+    "status": "not_published_in_this_slot",
+    "reason": "O pr\u00f3ximo item pendente do YouTube era o Short 04, que estava carregado como privado e foi recuperado como p\u00fablico neste slot."
+  },
+  "tiktok": {
+    "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001-short-05-tiktok-v2.mp4",
+    "sha256": "67dee79459d4d8d9ce67a4bdaf0fad5f76abadb8d19a7912e56600b59c694fba",
+    "title": "Pedir ajuda n\u00e3o diminui a sua f\u00e9",
+    "caption": "Pedir ajuda n\u00e3o diminui a sua f\u00e9. Deus tamb\u00e9m cuida de n\u00f3s por meio de pessoas, conversas sinceras e apoio concreto. \ud83d\ude4f #Cansa\u00e7oEmocional #F\u00e9Crist\u00e3 #Reflex\u00e3oB\u00edblica #DeusCuidaDeVoc\u00ea",
+    "cover": "primeiro frame corrigido: personagem inteira, texto leg\u00edvel e sem tela preta",
+    "location": null,
+    "publication": {
+      "status": "under_review",
+      "submitted_at": "2026-08-01T17:09:21-03:00",
+      "visibility_requested": "public",
+      "visibility_observed": "only_me_while_under_review",
+      "video_id": "7669157673694170386",
+      "url": "https://www.tiktok.com/@a.palavra.que.cuida/video/7669157673694170386",
+      "copyright_check": "pass",
+      "content_eligibility_check": "pass",
+      "blocker": "O TikTok marcou o conte\u00fado como sob an\u00e1lise e o exibiu temporariamente como Somente eu. N\u00e3o declarar publica\u00e7\u00e3o conclu\u00edda antes de a plataforma liberar a visibilidade."
+    }
+  },
+  "correction": {
+    "reason": "A vers\u00e3o v1 abria em tela preta no preview do TikTok, contrariando a regra de capa do canal.",
+    "change": "Os primeiros 0,5 segundo foram substitu\u00eddos por um frame n\u00e3o preto do pr\u00f3prio curto; \u00e1udio, dura\u00e7\u00e3o, propor\u00e7\u00e3o e restante da edi\u00e7\u00e3o foram preservados.",
+    "qa": {
+      "dimensions": "1080x1920",
+      "duration_seconds": 65.233333,
+      "first_frame": "pass_character_image_non_black"
+    }
+  }
+}

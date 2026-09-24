@@ -1,0 +1,918 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 1.28,
+      "text": "Jesus prepara a alimento.",
+      "words": [
+        {
+          "word": " Jesus",
+          "start": 0.0,
+          "end": 0.3,
+          "probability": 0.748
+        },
+        {
+          "word": " prepara",
+          "start": 0.3,
+          "end": 0.92,
+          "probability": 0.977
+        },
+        {
+          "word": " a",
+          "start": 0.92,
+          "end": 1.0,
+          "probability": 0.364
+        },
+        {
+          "word": " alimento.",
+          "start": 1.0,
+          "end": 1.28,
+          "probability": 0.871
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 2.2,
+      "end": 6.68,
+      "text": "Antes de fazer perguntas dif\u00edceis, ele acolhe aquela manh\u00e3 comum.",
+      "words": [
+        {
+          "word": " Antes",
+          "start": 2.2,
+          "end": 2.44,
+          "probability": 0.973
+        },
+        {
+          "word": " de",
+          "start": 2.44,
+          "end": 2.6,
+          "probability": 0.997
+        },
+        {
+          "word": " fazer",
+          "start": 2.6,
+          "end": 2.9,
+          "probability": 0.995
+        },
+        {
+          "word": " perguntas",
+          "start": 2.9,
+          "end": 3.54,
+          "probability": 0.997
+        },
+        {
+          "word": " dif\u00edceis,",
+          "start": 3.54,
+          "end": 4.32,
+          "probability": 0.987
+        },
+        {
+          "word": " ele",
+          "start": 4.72,
+          "end": 4.88,
+          "probability": 0.76
+        },
+        {
+          "word": " acolhe",
+          "start": 4.88,
+          "end": 5.4,
+          "probability": 0.802
+        },
+        {
+          "word": " aquela",
+          "start": 5.4,
+          "end": 6.04,
+          "probability": 0.895
+        },
+        {
+          "word": " manh\u00e3",
+          "start": 6.04,
+          "end": 6.36,
+          "probability": 0.979
+        },
+        {
+          "word": " comum.",
+          "start": 6.36,
+          "end": 6.68,
+          "probability": 0.947
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 7.26,
+      "end": 12.32,
+      "text": "Isso n\u00e3o apaga o que Pedro fez, mas mostra que a conversa de restora\u00e7\u00e3o n\u00e3o nasce",
+      "words": [
+        {
+          "word": " Isso",
+          "start": 7.26,
+          "end": 7.42,
+          "probability": 0.959
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 7.42,
+          "end": 7.56,
+          "probability": 0.998
+        },
+        {
+          "word": " apaga",
+          "start": 7.56,
+          "end": 8.06,
+          "probability": 0.953
+        },
+        {
+          "word": " o",
+          "start": 8.06,
+          "end": 8.36,
+          "probability": 0.996
+        },
+        {
+          "word": " que",
+          "start": 8.36,
+          "end": 8.5,
+          "probability": 0.985
+        },
+        {
+          "word": " Pedro",
+          "start": 8.5,
+          "end": 8.74,
+          "probability": 0.904
+        },
+        {
+          "word": " fez,",
+          "start": 8.74,
+          "end": 9.04,
+          "probability": 0.999
+        },
+        {
+          "word": " mas",
+          "start": 9.6,
+          "end": 9.84,
+          "probability": 0.992
+        },
+        {
+          "word": " mostra",
+          "start": 9.84,
+          "end": 10.24,
+          "probability": 0.993
+        },
+        {
+          "word": " que",
+          "start": 10.24,
+          "end": 10.4,
+          "probability": 0.993
+        },
+        {
+          "word": " a",
+          "start": 10.4,
+          "end": 10.46,
+          "probability": 0.99
+        },
+        {
+          "word": " conversa",
+          "start": 10.46,
+          "end": 10.92,
+          "probability": 0.951
+        },
+        {
+          "word": " de",
+          "start": 10.92,
+          "end": 11.04,
+          "probability": 0.995
+        },
+        {
+          "word": " restora\u00e7\u00e3o",
+          "start": 11.04,
+          "end": 11.74,
+          "probability": 0.693
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 11.74,
+          "end": 11.9,
+          "probability": 0.996
+        },
+        {
+          "word": " nasce",
+          "start": 11.9,
+          "end": 12.32,
+          "probability": 0.935
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 12.32,
+      "end": 13.5,
+      "text": "do desprezo.",
+      "words": [
+        {
+          "word": " do",
+          "start": 12.32,
+          "end": 12.88,
+          "probability": 0.941
+        },
+        {
+          "word": " desprezo.",
+          "start": 12.88,
+          "end": 13.5,
+          "probability": 0.633
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 14.32,
+      "end": 21.0,
+      "text": "Jo\u00e3o, cap\u00edtulo 21, vers\u00edculo 15 diz, e depois de terem jantado disse Jesus a sim\u00e3o Pedro.",
+      "words": [
+        {
+          "word": " Jo\u00e3o,",
+          "start": 14.32,
+          "end": 14.6,
+          "probability": 0.921
+        },
+        {
+          "word": " cap\u00edtulo",
+          "start": 15.1,
+          "end": 15.48,
+          "probability": 0.83
+        },
+        {
+          "word": " 21,",
+          "start": 15.48,
+          "end": 15.98,
+          "probability": 0.976
+        },
+        {
+          "word": " vers\u00edculo",
+          "start": 16.44,
+          "end": 16.68,
+          "probability": 0.922
+        },
+        {
+          "word": " 15",
+          "start": 16.68,
+          "end": 17.04,
+          "probability": 0.973
+        },
+        {
+          "word": " diz,",
+          "start": 17.04,
+          "end": 17.42,
+          "probability": 0.856
+        },
+        {
+          "word": " e",
+          "start": 18.12,
+          "end": 18.2,
+          "probability": 0.66
+        },
+        {
+          "word": " depois",
+          "start": 18.2,
+          "end": 18.5,
+          "probability": 0.956
+        },
+        {
+          "word": " de",
+          "start": 18.5,
+          "end": 18.68,
+          "probability": 0.984
+        },
+        {
+          "word": " terem",
+          "start": 18.68,
+          "end": 18.9,
+          "probability": 0.92
+        },
+        {
+          "word": " jantado",
+          "start": 18.9,
+          "end": 19.46,
+          "probability": 0.969
+        },
+        {
+          "word": " disse",
+          "start": 19.46,
+          "end": 19.72,
+          "probability": 0.482
+        },
+        {
+          "word": " Jesus",
+          "start": 19.72,
+          "end": 20.18,
+          "probability": 0.977
+        },
+        {
+          "word": " a",
+          "start": 20.18,
+          "end": 20.42,
+          "probability": 0.794
+        },
+        {
+          "word": " sim\u00e3o",
+          "start": 20.42,
+          "end": 20.66,
+          "probability": 0.518
+        },
+        {
+          "word": " Pedro.",
+          "start": 20.66,
+          "end": 21.0,
+          "probability": 0.955
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 21.68,
+      "end": 27.34,
+      "text": "Sim\u00e3o, filho de Jonas, amas-me mais do que estes, e ele respondeu, sim Senhor.",
+      "words": [
+        {
+          "word": " Sim\u00e3o,",
+          "start": 21.68,
+          "end": 22.12,
+          "probability": 0.903
+        },
+        {
+          "word": " filho",
+          "start": 22.8,
+          "end": 22.94,
+          "probability": 0.837
+        },
+        {
+          "word": " de",
+          "start": 22.94,
+          "end": 23.14,
+          "probability": 0.996
+        },
+        {
+          "word": " Jonas,",
+          "start": 23.14,
+          "end": 23.36,
+          "probability": 0.589
+        },
+        {
+          "word": " amas",
+          "start": 23.78,
+          "end": 24.04,
+          "probability": 0.465
+        },
+        {
+          "word": "-me",
+          "start": 24.04,
+          "end": 24.18,
+          "probability": 0.996
+        },
+        {
+          "word": " mais",
+          "start": 24.18,
+          "end": 24.62,
+          "probability": 0.748
+        },
+        {
+          "word": " do",
+          "start": 24.62,
+          "end": 24.78,
+          "probability": 0.977
+        },
+        {
+          "word": " que",
+          "start": 24.78,
+          "end": 24.94,
+          "probability": 0.991
+        },
+        {
+          "word": " estes,",
+          "start": 24.94,
+          "end": 25.3,
+          "probability": 0.819
+        },
+        {
+          "word": " e",
+          "start": 25.82,
+          "end": 25.9,
+          "probability": 0.976
+        },
+        {
+          "word": " ele",
+          "start": 25.9,
+          "end": 25.98,
+          "probability": 0.958
+        },
+        {
+          "word": " respondeu,",
+          "start": 25.98,
+          "end": 26.52,
+          "probability": 0.982
+        },
+        {
+          "word": " sim",
+          "start": 26.84,
+          "end": 27.06,
+          "probability": 0.497
+        },
+        {
+          "word": " Senhor.",
+          "start": 27.06,
+          "end": 27.34,
+          "probability": 0.334
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 27.34,
+      "end": 29.72,
+      "text": "Tu sabe o que te amo, disse-lhe.",
+      "words": [
+        {
+          "word": " Tu",
+          "start": 27.34,
+          "end": 27.78,
+          "probability": 0.095
+        },
+        {
+          "word": " sabe",
+          "start": 27.78,
+          "end": 28.12,
+          "probability": 0.749
+        },
+        {
+          "word": " o",
+          "start": 28.12,
+          "end": 28.22,
+          "probability": 0.3
+        },
+        {
+          "word": " que",
+          "start": 28.22,
+          "end": 28.32,
+          "probability": 0.849
+        },
+        {
+          "word": " te",
+          "start": 28.32,
+          "end": 28.46,
+          "probability": 0.792
+        },
+        {
+          "word": " amo,",
+          "start": 28.46,
+          "end": 28.68,
+          "probability": 0.801
+        },
+        {
+          "word": " disse",
+          "start": 29.18,
+          "end": 29.42,
+          "probability": 0.348
+        },
+        {
+          "word": "-lhe.",
+          "start": 29.42,
+          "end": 29.72,
+          "probability": 0.746
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " Jesus",
+      "start": 0.0,
+      "end": 0.3,
+      "probability": 0.748
+    },
+    {
+      "word": " prepara",
+      "start": 0.3,
+      "end": 0.92,
+      "probability": 0.977
+    },
+    {
+      "word": " a",
+      "start": 0.92,
+      "end": 1.0,
+      "probability": 0.364
+    },
+    {
+      "word": " alimento.",
+      "start": 1.0,
+      "end": 1.28,
+      "probability": 0.871
+    },
+    {
+      "word": " Antes",
+      "start": 2.2,
+      "end": 2.44,
+      "probability": 0.973
+    },
+    {
+      "word": " de",
+      "start": 2.44,
+      "end": 2.6,
+      "probability": 0.997
+    },
+    {
+      "word": " fazer",
+      "start": 2.6,
+      "end": 2.9,
+      "probability": 0.995
+    },
+    {
+      "word": " perguntas",
+      "start": 2.9,
+      "end": 3.54,
+      "probability": 0.997
+    },
+    {
+      "word": " dif\u00edceis,",
+      "start": 3.54,
+      "end": 4.32,
+      "probability": 0.987
+    },
+    {
+      "word": " ele",
+      "start": 4.72,
+      "end": 4.88,
+      "probability": 0.76
+    },
+    {
+      "word": " acolhe",
+      "start": 4.88,
+      "end": 5.4,
+      "probability": 0.802
+    },
+    {
+      "word": " aquela",
+      "start": 5.4,
+      "end": 6.04,
+      "probability": 0.895
+    },
+    {
+      "word": " manh\u00e3",
+      "start": 6.04,
+      "end": 6.36,
+      "probability": 0.979
+    },
+    {
+      "word": " comum.",
+      "start": 6.36,
+      "end": 6.68,
+      "probability": 0.947
+    },
+    {
+      "word": " Isso",
+      "start": 7.26,
+      "end": 7.42,
+      "probability": 0.959
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 7.42,
+      "end": 7.56,
+      "probability": 0.998
+    },
+    {
+      "word": " apaga",
+      "start": 7.56,
+      "end": 8.06,
+      "probability": 0.953
+    },
+    {
+      "word": " o",
+      "start": 8.06,
+      "end": 8.36,
+      "probability": 0.996
+    },
+    {
+      "word": " que",
+      "start": 8.36,
+      "end": 8.5,
+      "probability": 0.985
+    },
+    {
+      "word": " Pedro",
+      "start": 8.5,
+      "end": 8.74,
+      "probability": 0.904
+    },
+    {
+      "word": " fez,",
+      "start": 8.74,
+      "end": 9.04,
+      "probability": 0.999
+    },
+    {
+      "word": " mas",
+      "start": 9.6,
+      "end": 9.84,
+      "probability": 0.992
+    },
+    {
+      "word": " mostra",
+      "start": 9.84,
+      "end": 10.24,
+      "probability": 0.993
+    },
+    {
+      "word": " que",
+      "start": 10.24,
+      "end": 10.4,
+      "probability": 0.993
+    },
+    {
+      "word": " a",
+      "start": 10.4,
+      "end": 10.46,
+      "probability": 0.99
+    },
+    {
+      "word": " conversa",
+      "start": 10.46,
+      "end": 10.92,
+      "probability": 0.951
+    },
+    {
+      "word": " de",
+      "start": 10.92,
+      "end": 11.04,
+      "probability": 0.995
+    },
+    {
+      "word": " restora\u00e7\u00e3o",
+      "start": 11.04,
+      "end": 11.74,
+      "probability": 0.693
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 11.74,
+      "end": 11.9,
+      "probability": 0.996
+    },
+    {
+      "word": " nasce",
+      "start": 11.9,
+      "end": 12.32,
+      "probability": 0.935
+    },
+    {
+      "word": " do",
+      "start": 12.32,
+      "end": 12.88,
+      "probability": 0.941
+    },
+    {
+      "word": " desprezo.",
+      "start": 12.88,
+      "end": 13.5,
+      "probability": 0.633
+    },
+    {
+      "word": " Jo\u00e3o,",
+      "start": 14.32,
+      "end": 14.6,
+      "probability": 0.921
+    },
+    {
+      "word": " cap\u00edtulo",
+      "start": 15.1,
+      "end": 15.48,
+      "probability": 0.83
+    },
+    {
+      "word": " 21,",
+      "start": 15.48,
+      "end": 15.98,
+      "probability": 0.976
+    },
+    {
+      "word": " vers\u00edculo",
+      "start": 16.44,
+      "end": 16.68,
+      "probability": 0.922
+    },
+    {
+      "word": " 15",
+      "start": 16.68,
+      "end": 17.04,
+      "probability": 0.973
+    },
+    {
+      "word": " diz,",
+      "start": 17.04,
+      "end": 17.42,
+      "probability": 0.856
+    },
+    {
+      "word": " e",
+      "start": 18.12,
+      "end": 18.2,
+      "probability": 0.66
+    },
+    {
+      "word": " depois",
+      "start": 18.2,
+      "end": 18.5,
+      "probability": 0.956
+    },
+    {
+      "word": " de",
+      "start": 18.5,
+      "end": 18.68,
+      "probability": 0.984
+    },
+    {
+      "word": " terem",
+      "start": 18.68,
+      "end": 18.9,
+      "probability": 0.92
+    },
+    {
+      "word": " jantado",
+      "start": 18.9,
+      "end": 19.46,
+      "probability": 0.969
+    },
+    {
+      "word": " disse",
+      "start": 19.46,
+      "end": 19.72,
+      "probability": 0.482
+    },
+    {
+      "word": " Jesus",
+      "start": 19.72,
+      "end": 20.18,
+      "probability": 0.977
+    },
+    {
+      "word": " a",
+      "start": 20.18,
+      "end": 20.42,
+      "probability": 0.794
+    },
+    {
+      "word": " sim\u00e3o",
+      "start": 20.42,
+      "end": 20.66,
+      "probability": 0.518
+    },
+    {
+      "word": " Pedro.",
+      "start": 20.66,
+      "end": 21.0,
+      "probability": 0.955
+    },
+    {
+      "word": " Sim\u00e3o,",
+      "start": 21.68,
+      "end": 22.12,
+      "probability": 0.903
+    },
+    {
+      "word": " filho",
+      "start": 22.8,
+      "end": 22.94,
+      "probability": 0.837
+    },
+    {
+      "word": " de",
+      "start": 22.94,
+      "end": 23.14,
+      "probability": 0.996
+    },
+    {
+      "word": " Jonas,",
+      "start": 23.14,
+      "end": 23.36,
+      "probability": 0.589
+    },
+    {
+      "word": " amas",
+      "start": 23.78,
+      "end": 24.04,
+      "probability": 0.465
+    },
+    {
+      "word": "-me",
+      "start": 24.04,
+      "end": 24.18,
+      "probability": 0.996
+    },
+    {
+      "word": " mais",
+      "start": 24.18,
+      "end": 24.62,
+      "probability": 0.748
+    },
+    {
+      "word": " do",
+      "start": 24.62,
+      "end": 24.78,
+      "probability": 0.977
+    },
+    {
+      "word": " que",
+      "start": 24.78,
+      "end": 24.94,
+      "probability": 0.991
+    },
+    {
+      "word": " estes,",
+      "start": 24.94,
+      "end": 25.3,
+      "probability": 0.819
+    },
+    {
+      "word": " e",
+      "start": 25.82,
+      "end": 25.9,
+      "probability": 0.976
+    },
+    {
+      "word": " ele",
+      "start": 25.9,
+      "end": 25.98,
+      "probability": 0.958
+    },
+    {
+      "word": " respondeu,",
+      "start": 25.98,
+      "end": 26.52,
+      "probability": 0.982
+    },
+    {
+      "word": " sim",
+      "start": 26.84,
+      "end": 27.06,
+      "probability": 0.497
+    },
+    {
+      "word": " Senhor.",
+      "start": 27.06,
+      "end": 27.34,
+      "probability": 0.334
+    },
+    {
+      "word": " Tu",
+      "start": 27.34,
+      "end": 27.78,
+      "probability": 0.095
+    },
+    {
+      "word": " sabe",
+      "start": 27.78,
+      "end": 28.12,
+      "probability": 0.749
+    },
+    {
+      "word": " o",
+      "start": 28.12,
+      "end": 28.22,
+      "probability": 0.3
+    },
+    {
+      "word": " que",
+      "start": 28.22,
+      "end": 28.32,
+      "probability": 0.849
+    },
+    {
+      "word": " te",
+      "start": 28.32,
+      "end": 28.46,
+      "probability": 0.792
+    },
+    {
+      "word": " amo,",
+      "start": 28.46,
+      "end": 28.68,
+      "probability": 0.801
+    },
+    {
+      "word": " disse",
+      "start": 29.18,
+      "end": 29.42,
+      "probability": 0.348
+    },
+    {
+      "word": "-lhe.",
+      "start": 29.42,
+      "end": 29.72,
+      "probability": 0.746
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 29.952,
+  "model_size": "base",
+  "device": "cpu"
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-007",
+  "version": "video-007-citacoes-acf-v1",
+  "bible_version": {
+    "name": "Almeida Corrigida Fiel",
+    "abbreviation": "ACF",
+    "copyright_notice": "A Bíblia Sagrada - Almeida Corrigida Fiel (ACF), © 1994, 1995, 2007, 2011 Sociedade Bíblica Trinitariana do Brasil, Trinitarian Bible Society.",
+    "source_locators": [
+      "https://www.biblias.com.br/acfonline",
+      "https://www.bibliaonline.com.br/acf/mt/4",
+      "https://www.bibliaonline.com.br/acf/hb/4"
+    ]
+  },
+  "direct_acf_citations": [
+    {
+      "reference": "Mateus 4:1",
+      "spoken_lead_in": "Mateus, capítulo quatro, versículo um, diz:",
+      "text": "Então foi conduzido Jesus pelo Espírito ao deserto, para ser tentado pelo diabo."
+    },
+    {
+      "reference": "Mateus 4:4",
+      "spoken_lead_in": "Mateus, capítulo quatro, versículo quatro, diz:",
+      "text": "Ele, porém, respondendo, disse: Está escrito: Nem só de pão viverá o homem, mas de toda a palavra que sai da boca de Deus."
+    },
+    {
+      "reference": "Mateus 4:7",
+      "spoken_lead_in": "Mateus, capítulo quatro, versículo sete, diz:",
+      "text": "Disse-lhe Jesus: Também está escrito: Não tentarás o Senhor teu Deus."
+    },
+    {
+      "reference": "Mateus 4:10",
+      "spoken_lead_in": "Mateus, capítulo quatro, versículo dez, diz:",
+      "text": "Então disse-lhe Jesus: Vai-te, Satanás, porque está escrito: Ao Senhor teu Deus adorarás, e só a ele servirás."
+    },
+    {
+      "reference": "Hebreus 4:15",
+      "spoken_lead_in": "Hebreus, capítulo quatro, versículo quinze, diz:",
+      "text": "Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém, um que, como nós, em tudo foi tentado, mas sem pecado."
+    }
+  ],
+  "display_policy": {
+    "complete_reference_required": true,
+    "show_only_during_direct_verse_reading": true,
+    "do_not_show_when_book_or_reference_is_only_mentioned": true,
+    "normal_captions_may_continue_outside_direct_quote": true
+  }
+}

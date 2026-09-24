@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "video_id": "video-003",
+  "channel": "A Palavra que Cuida",
+  "status": "published_public_comment_blocked_by_account_age_verification",
+  "published_video": {
+    "youtube_video_id": "59G32W6bYx0",
+    "url": "https://youtu.be/59G32W6bYx0",
+    "published_at": "2026-07-31T12:40:14.0259444-03:00",
+    "visibility": "public",
+    "publication_authorization": "User instructed Codex to publish any pending item."
+  },
+  "quality_gate": {
+    "human_semantic_review": "accepted_with_known_debt",
+    "review_record": "operations/a-palavra-que-cuida/06_edicao/video-003/human-review-v3-authorization.json",
+    "technical_qa": "passed_v3",
+    "upload_allowed": true
+  },
+  "title": "O que Jó ensina quando a vida parece injusta",
+  "thumbnail_phrase": "NEM TODA DOR É CASTIGO",
+  "description_draft": "O que Jó ensina quando a vida parece injusta? Nesta reflexão bíblica sobre sofrimento, fé e injustiça, vamos entender por que nem toda dor é castigo e por que explicações religiosas apressadas podem aumentar o peso de quem já sofre.\n\nO livro de Jó não oferece uma fórmula simples para decifrar toda tragédia. Ele apresenta um homem íntegro antes da calamidade, preserva seu lamento, mostra o acerto e o erro de seus amigos e limita a nossa pretensão de conhecer todos os motivos de Deus.\n\nEsta mensagem também propõe três cuidados para a vida real: não transformar dor em prova de culpa, não apressar a lição e oferecer presença e ajuda concreta. Apoio médico, psicológico, jurídico, pastoral ou comunitário não compete com a fé.\n\nCAPÍTULOS\n{{CHAPTERS_AFTER_APPROVED_AUDIO}}\n\nTEXTOS BÍBLICOS LIDOS\n- Jó 1:1\n- Jó 2:13\n- Jó 3:1\n- Jó 16:2\n- Jó 38:2\n- Jó 38:4\n- Jó 42:7\n\nEste é o canal A Palavra que Cuida. Inscreva-se para acompanhar reflexões bíblicas aplicadas à vida cotidiana. Curta e compartilhe esta mensagem com alguém que também precise ouvi-la.\n\nComente: em um momento difícil, o que mais cuidou de você — uma explicação ou a presença de alguém?\n\nCitações bíblicas extraídas de A Bíblia Sagrada - Almeida Corrigida Fiel (ACF), © 1994, 1995, 2007, 2011 Sociedade Bíblica Trinitariana do Brasil, Trinitarian Bible Society.\n\nImagens narrativas criadas para este projeto com inteligência artificial. Vídeos adicionais via Pexels, sob a Pexels License:\nhttps://www.pexels.com/video/the-rock-formation-in-the-desert-is-very-tall-16582633/\nhttps://www.pexels.com/video/a-person-is-walking-on-a-rocky-mountain-17368008/\nhttps://www.pexels.com/video/aerial-view-of-rocky-coastline-with-crashing-waves-35212139/\nhttps://www.pexels.com/video/dramatic-ocean-waves-crashing-on-rocky-shoreline-36466439/\nhttps://www.pexels.com/video/dramatic-storm-clouds-over-mountain-landscape-29839774/\nhttps://www.pexels.com/video/ibex-fighting-italian-alps-26612570/\n\n{{MUSIC_ATTRIBUTION_IF_REQUIRED}}\n\n#Jó #Sofrimento #Fé",
+  "hashtags": ["#Jó", "#Sofrimento", "#Fé"],
+  "tags": [
+    "o que Jó ensina",
+    "quando a vida parece injusta",
+    "história de Jó",
+    "sofrimento na Bíblia",
+    "nem toda dor é castigo",
+    "por que Deus permite o sofrimento",
+    "fé em momentos difíceis",
+    "como ajudar quem sofre",
+    "A Palavra que Cuida"
+  ],
+  "chapter_labels_pending_timing": [
+    "Quando fazer tudo certo não impede a dor",
+    "O dado que não podemos apagar",
+    "Sete dias de presença",
+    "Quando o consolo vira acusação",
+    "Deus responde sem entregar uma fórmula",
+    "O veredito sobre os amigos",
+    "Três cuidados para a vida real",
+    "Conclusão e próximos vídeos"
+  ],
+  "chapters": [
+    {"time": "00:00", "start_seconds": 0, "label": "Quando fazer tudo certo não impede a dor"},
+    {"time": "00:58", "start_seconds": 58, "label": "O dado que não podemos apagar"},
+    {"time": "02:15", "start_seconds": 135, "label": "Sete dias de presença"},
+    {"time": "03:46", "start_seconds": 226, "label": "Quando o consolo vira acusação"},
+    {"time": "05:31", "start_seconds": 331, "label": "Deus responde sem entregar uma fórmula"},
+    {"time": "06:57", "start_seconds": 417, "label": "O veredito sobre os amigos"},
+    {"time": "08:15", "start_seconds": 495, "label": "Três cuidados para a vida real"},
+    {"time": "10:15", "start_seconds": 615, "label": "Conclusão e próximos vídeos"}
+  ],
+  "description_chapters_block": "00:00 Quando fazer tudo certo não impede a dor\n00:58 O dado que não podemos apagar\n02:15 Sete dias de presença\n03:46 Quando o consolo vira acusação\n05:31 Deus responde sem entregar uma fórmula\n06:57 O veredito sobre os amigos\n08:15 Três cuidados para a vida real\n10:15 Conclusão e próximos vídeos",
+  "pinned_comment": "Em um momento difícil, o que mais cuidou de você: uma explicação ou a presença de alguém? Você não precisa contar detalhes que não queira; pode compartilhar apenas o gesto que fez diferença.",
+  "youtube_settings": {
+    "visibility_for_first_upload": "unlisted",
+    "made_for_kids": false,
+    "video_language": "pt-BR",
+    "caption_language": "pt-BR",
+    "altered_or_synthetic_content": true,
+    "allow_comments": true,
+    "show_like_count": true,
+    "category_id": "27",
+    "category_label": "Education"
+  },
+  "files": {
+    "publication_master": "operations/a-palavra-que-cuida/07_exports/video-003/o-que-jo-ensina-quando-a-vida-parece-injusta-v3.mp4",
+    "rejected_candidate_master": "operations/a-palavra-que-cuida/07_exports/video-003/o-que-jo-ensina-quando-a-vida-parece-injusta-v2.mp4",
+    "captions": "operations/a-palavra-que-cuida/07_exports/video-003/o-que-jo-ensina-legendas-v2.srt",
+    "thumbnail": "operations/a-palavra-que-cuida/08_publicacao/video-003-thumbnail-v1.png",
+    "description": "operations/a-palavra-que-cuida/08_publicacao/video-003-descricao-v1.txt"
+  },
+  "end_screen": {
+    "duration_seconds": 19,
+    "recommendation_slots": 2,
+    "targets": ["piloto-001", "video-002"],
+    "subscribe_element": true
+  },
+  "acf": {
+    "manifest": "operations/a-palavra-que-cuida/02_roteiros/video-003-citacoes-acf-v1.json",
+    "direct_units_master": 7,
+    "direct_units_vertical_01": 1,
+    "direct_units_vertical_02": 1,
+    "record_as_published_only_after_public_visibility": true
+  },
+  "music": {
+    "track": "Classical 6",
+    "creator": "Jonny S",
+    "source": "Mixkit",
+    "license": "Mixkit Stock Music Free License",
+    "attribution_required": false,
+    "optional_credit_in_description": true,
+    "provenance": "operations/a-palavra-que-cuida/06_edicao/video-003/music-provenance-v1.json"
+  },
+  "pending_before_upload": [],
+  "post_publication_followups": [
+    "O comentário original do canal não foi aceito pela página pública enquanto a conta exibia exigência de confirmação de idade. Não completar a verificação de idade automaticamente; publicar e fixar o comentário após a usuária resolver esse gate da conta.",
+    "A faixa manual Português (Brasil) aparece como Publicada no YouTube Studio; o player público ainda podia levar alguns minutos para disponibilizá-la."
+  ]
+}

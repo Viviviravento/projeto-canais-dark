@@ -1,0 +1,38 @@
+{
+    "schema_version":  "1.0.0",
+    "quote_id":  "v009-elevenlabs-v1-20260729",
+    "provider":  "ElevenLabs",
+    "model":  "eleven_multilingual_v2",
+    "operation":  "full eight-block narration for video-009 using one controlled sequential execution and 1.07x local postprocess",
+    "unit":  "provider credit",
+    "quantity":  7851,
+    "expected_subscription_credits":  7851,
+    "maximum_subscription_credits":  8000,
+    "currency":  "USD",
+    "expected_incremental_cash_charge":  0.0,
+    "maximum_incremental_cash_charge":  0.0,
+    "price_checked_at":  "2026-07-29T22:01:38.625757+00:00",
+    "price_source":  "Authenticated ElevenLabs subscription API read-only check in this Codex session; no paid generation started.",
+    "subscription_snapshot":  {
+                                  "tier":  "creator",
+                                  "character_count":  43565,
+                                  "character_limit":  231154,
+                                  "credits_remaining_observed":  187589,
+                                  "checked_at":  "2026-07-29T22:01:38.625757+00:00"
+                              },
+    "status":  "reconciled",
+    "approval":  {
+                     "approved_at":  "2026-07-29T22:02:09.571632+00:00",
+                     "user_statement":  "pode ir pra proxima parte desse video",
+                     "scope":  "Generate only video-009 narration up to 8000 subscription credits, with no automatic retry and no incremental cash charge."
+                 },
+    "metadata":  {
+                     "manifest":  "operations/a-palavra-que-cuida/02_roteiros/video-009-performance-v1.json",
+                     "citation_manifest":  "operations/a-palavra-que-cuida/02_roteiros/video-009-citacoes-acf-v1.json",
+                     "request_stitching":  false,
+                     "context_mode":  "independent_blocks",
+                     "automatic_retry":  false,
+                     "postprocess_after_generation":  "1.07x preserving pitch before master alignment"
+                 },
+    "observed_subscription_credits":  4319
+}

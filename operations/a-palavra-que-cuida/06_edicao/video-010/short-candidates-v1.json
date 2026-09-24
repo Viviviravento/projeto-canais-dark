@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-010",
+  "status": "planned_from_long_script_before_audio",
+  "target_platforms": ["YouTube Shorts", "TikTok"],
+  "target_duration_seconds": {"min": 65, "max": 80},
+  "candidates": [
+    {"id": "medo-nao-e-falta-de-fe", "source_sections": ["01", "05"], "working_hook": "Sentir medo não prova que você perdeu a fé.", "editorial_promise": "Distinguir o medo real da interpretação que transforma medo em culpa.", "autonomous_arc": "crise -> pergunta de Jesus -> próximo passo sem fingimento", "estimated_duration_seconds": 74, "ending_or_bridge": "O medo pode estar no barco sem ser o capitão.", "context_risk": "Não reduzir a pergunta de Jesus a uma acusação contra pessoas ansiosas."},
+    {"id": "jesus-dorme-no-barco", "source_sections": ["03", "04"], "working_hook": "Quando parece que Deus está dormindo enquanto o seu barco enche.", "editorial_promise": "Ler o grito dos discípulos sem chamar oração desesperada de falta de respeito.", "autonomous_arc": "silêncio percebido como abandono -> clamor -> presença e cuidado concreto", "estimated_duration_seconds": 76, "ending_or_bridge": "Uma oração desesperada ainda é uma oração.", "context_risk": "Não prometer que toda crise será removida imediatamente."},
+    {"id": "confiar-nao-e-controlar", "source_sections": ["06", "07"], "working_hook": "Confiar em Deus não é controlar o resultado.", "editorial_promise": "Mostrar como fé e prudência podem coexistir em uma travessia difícil.", "autonomous_arc": "limite do controle -> decisões seguras -> fé pequena que continua chamando", "estimated_duration_seconds": 72, "ending_or_bridge": "Você pode fazer hoje o que a sua força permite.", "context_risk": "Preservar orientação para buscar ajuda em emergências e situações de risco."}
+  ]
+}

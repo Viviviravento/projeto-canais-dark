@@ -1,0 +1,32 @@
+{
+  "video_id": "video-011",
+  "translation": "Almeida Corrigida Fiel",
+  "source_url": "https://www.bibliaonline.com.br/acf/lc/15",
+  "display_policy": {
+    "show_only_during_direct_verse_reading": true,
+    "do_not_show_when_book_or_reference_is_only_mentioned": true,
+    "full_text_must_remain_visible_while_read": true
+  },
+  "direct_acf_citations": [
+    {
+      "reference": "Lucas 15:17-20",
+      "spoken_lead_in": "Lucas, capítulo quinze, versículos dezessete a vinte",
+      "text": "E, tornando em si, disse: Quantos empregados de meu pai têm abundância de pão, e eu aqui pereço de fome! Levantar-me-ei, e irei ter com meu pai, e dir-lhe-ei: Pai, pequei contra o céu e perante ti; Já não sou digno de ser chamado teu filho; faze-me como um dos teus empregados. E, levantando-se, foi para seu pai; e, quando ainda estava longe, viu-o seu pai, e se moveu de íntima compaixão e, correndo, lançou-se-lhe ao pescoço e o beijou."
+    },
+    {
+      "reference": "Lucas 15:22-24",
+      "spoken_lead_in": "Lucas, capítulo quinze, versículos vinte e dois a vinte e quatro",
+      "text": "Mas o pai disse aos seus servos: Trazei depressa a melhor roupa; e vesti-lho, e ponde-lhe um anel na mão, e sandálias nos pés; E trazei o bezerro cevado, e matai-o; e comamos, e alegremo-nos; Porque este meu filho estava morto, e reviveu, tinha-se perdido, e foi achado. E começaram a alegrar-se."
+    },
+    {
+      "reference": "Lucas 15:31-32",
+      "spoken_lead_in": "Lucas, capítulo quinze, versículos trinta e um e trinta e dois",
+      "text": "E ele lhe disse: Filho, tu sempre estás comigo, e todas as minhas coisas são tuas; Mas era justo alegrarmo-nos e folgarmos, porque este teu irmão estava morto, e reviveu; e tinha-se perdido, e achou-se."
+    }
+  ],
+  "validation": {
+    "source_checked": true,
+    "citation_count": 3,
+    "direct_reading_only": true
+  }
+}

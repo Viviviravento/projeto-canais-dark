@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "dispatch": {
+    "scheduled_at": "2026-08-04T11:00:00-03:00",
+    "executed_at": "2026-08-04T13:32:06-03:00",
+    "channel": "A Palavra Que Cuida"
+  },
+  "youtube_shorts": {
+    "derivative_id": "piloto-001-short-05",
+    "title": "Pedir ajuda não diminui a sua fé",
+    "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/piloto-001-short-05-youtube-short-v1.mp4",
+    "sha256": "917f69bfa7745af4586ab8b3cd47d0749df914c397b5e4d22a5be55a95833401",
+    "status": "published",
+    "video_id": "vKQUDtGTsZo",
+    "url": "https://youtube.com/shorts/vKQUDtGTsZo",
+    "settings": {
+      "visibility": "public",
+      "made_for_kids": false,
+      "altered_or_synthetic_content": true,
+      "video_language": "pt-BR",
+      "category": "Educação",
+      "copyright_check": "pass",
+      "long_video_url_in_description": "https://youtu.be/ZkmCkF6XR_g",
+      "native_related_video": "blocked_pending_one_time_advanced_features_verification"
+    }
+  },
+  "tiktok": {
+    "derivative_id": "piloto-001-short-06",
+    "status": "under_review",
+    "video_id": "7670214724327361810",
+    "url": "https://www.tiktok.com/@a.palavra.que.cuida/video/7670214724327361810",
+    "checks": {
+      "music_copyright": "pass",
+      "content_eligibility": "pass"
+    },
+    "follow_up": "Verificar a liberação da análise antes do próximo slot; não reenviar enquanto este ID existir."
+  },
+  "recovery": {
+    "youtube_short_04": {
+      "video_id": "I2iXGna0Rvk",
+      "result": "public_direct_url_verified",
+      "studio_list_discrepancy": "A lista do Studio permanece com rótulo Privado, mas a página pública carregou normalmente."
+    }
+  }
+}

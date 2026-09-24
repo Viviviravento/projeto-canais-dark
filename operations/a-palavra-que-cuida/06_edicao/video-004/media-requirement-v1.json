@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0.0",
+  "requirement_id": "v004-visual-system",
+  "communicative_function": "Tornar visível o que Lucas narra sobre a infância de Jesus e tornar explícito, por composição editorial, o limite do que os Evangelhos não narram.",
+  "minimum_fidelity": "specific",
+  "authenticity": {
+    "constraints": [
+      "Toda reconstrução é ilustração histórica, nunca registro fotográfico de Jesus, Maria ou José.",
+      "Mostrar somente ações sustentadas pelo texto: crescimento resumido, viagem anual, procura em Jerusalém, Jesus ouvindo e perguntando no templo, retorno a Nazaré.",
+      "Não inventar milagres infantis, falas extras, brincadeiras específicas, rotinas domésticas detalhadas ou psicologia não narrada.",
+      "Judeia do primeiro século sem halos, cruzes, vestes medievais, arquitetura europeia ou iconografia cristã anacrônica.",
+      "Toda citação ACF é composta localmente; texto bíblico nunca é delegado à imagem gerada.",
+      "Os momentos brasileiros mostram aprendizado, escuta, família e crescimento sem equiparar a audiência a Jesus.",
+      "Nenhum ativo é usado apenas porque é barato; cada plano precisa responder à fala."
+    ]
+  },
+  "rights": {
+    "allowed_licenses": ["generated-for-project", "Pexels-License", "Pixabay-Content-License", "CC0", "public-domain", "original-owned"],
+    "attribution_required": true
+  },
+  "target_formats": ["16:9", "9:16-safe-recomposition"],
+  "acceptance_criteria": [
+    "Mínimo de 34 ativos visuais distintos no master, incluindo cartas bíblicas e grafismos editoriais.",
+    "Nenhuma imagem estática permanece sem mudança visual por mais de 7 segundos.",
+    "Nenhum ativo-base retorna mais de duas vezes fora de continuidade intencional.",
+    "As seis citações lidas aparecem integralmente, com referência completa e texto idêntico ao áudio.",
+    "O avatar aparece somente enquanto fala e não excede 32 segundos no total.",
+    "A tela final preserva dois espaços de recomendação e inscrição.",
+    "O master usa a narração em 1.05x, com alinhamento derivado depois do pós-processamento."
+  ]
+}

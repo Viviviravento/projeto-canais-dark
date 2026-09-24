@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v011-elevenlabs-v1-20260729",
+  "provider": "ElevenLabs",
+  "model": "eleven_multilingual_v2",
+  "operation": "full eight-block narration for video-011 using one controlled sequential execution and 1.07x local postprocess",
+  "unit": "provider credit",
+  "quantity": 9503,
+  "expected_subscription_credits": 9503,
+  "maximum_subscription_credits": 10000,
+  "currency": "USD",
+  "expected_incremental_cash_charge": 0.0,
+  "maximum_incremental_cash_charge": 0.0,
+  "price_checked_at": "2026-07-29T23:08:53.227488+00:00",
+  "price_source": "Authenticated ElevenLabs subscription API read-only check in this Codex session; no paid generation started.",
+  "subscription_snapshot": {
+    "tier": "creator",
+    "character_count": 52805,
+    "character_limit": 231154,
+    "credits_remaining_observed": 178349,
+    "checked_at": "2026-07-29T23:08:53.227488+00:00"
+  },
+  "status": "reconciled",
+  "approval": {
+    "approved_at": "2026-07-31T20:58:16.945824+00:00",
+    "user_statement": "áudio aprovado",
+    "scope": "Generate only video-011 narration up to 10000 subscription credits, with no automatic retry and no incremental cash charge."
+  },
+  "metadata": {
+    "manifest": "operations/a-palavra-que-cuida/02_roteiros/video-011-generation-manifest-v1.json",
+    "citation_manifest": "operations/a-palavra-que-cuida/02_roteiros/video-011-citacoes-acf-v1.json",
+    "request_stitching": false,
+    "context_mode": "independent_blocks",
+    "automatic_retry": false,
+    "postprocess_after_generation": "1.07x preserving pitch before master alignment"
+  },
+  "observed_subscription_credits": 5219
+}

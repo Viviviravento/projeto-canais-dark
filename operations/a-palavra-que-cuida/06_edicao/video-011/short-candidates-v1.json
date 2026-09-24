@@ -1,0 +1,35 @@
+{
+  "video_id": "video-011",
+  "source_script": "operations/a-palavra-que-cuida/02_roteiros/video-011-roteiro-v1.md",
+  "minimum_duration_seconds": 65,
+  "candidates": [
+    {
+      "id": "quem-ficou-tambem-tem-uma-dor",
+      "approximate_duration_seconds": 78,
+      "source_block": "05-e-quem-ficou-do-lado-de-fora",
+      "hook": "E se você não foi quem foi embora?",
+      "arc": "Reconhecer a dor de quem sustentou a casa e viu a pessoa que voltou receber a festa.",
+      "ending": "A pergunta não é quem merece mais amor, mas como a casa pode conversar sem apagar ninguém.",
+      "context_risk": "Não apresentar o irmão mais velho como invejoso ou vilão."
+    },
+    {
+      "id": "voltar-nao-e-fingir-que-nada-aconteceu",
+      "approximate_duration_seconds": 76,
+      "source_block": "04-o-abraco-nao-apaga-o-caminho-percorrido",
+      "hook": "Perdão não é devolver todas as chaves no mesmo dia.",
+      "arc": "Distinguir abraço, responsabilidade, confiança, limites e segurança.",
+      "ending": "Voltar pode ser verdadeiro sem ser apressado.",
+      "context_risk": "Não usar a parábola para pressionar alguém a retornar a um ambiente abusivo."
+    },
+    {
+      "id": "tornar-em-si-sem-se-destruir",
+      "approximate_duration_seconds": 75,
+      "source_block": "03-o-momento-em-que-a-pessoa-volta-a-si",
+      "hook": "A culpa diz que você é o erro. A responsabilidade diz que você pode encarar o que fez.",
+      "arc": "Ler o retorno do filho como verdade e movimento, não como autopunição.",
+      "ending": "O próximo passo pode começar quando a pessoa para de fugir da verdade.",
+      "context_risk": "Não prometer reconciliação imediata nem reduzir sofrimento a falta de fé."
+    }
+  ],
+  "editing_rule": "Cortes verticais autônomos, com legendas sincronizadas e sem depender de uma tela final específica; manter duração acima de um minuto quando destinados ao TikTok."
+}

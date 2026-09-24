@@ -1,0 +1,30 @@
+{
+  "schema": "NarrationVisualScript.v1",
+  "operation_id": "brasil-registrado-concept-preview",
+  "artifact": "CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V4.mp4",
+  "principle": "Cada bloco narrativo recebe evidência visual correspondente; o vídeo não usa um asset como fundo genérico.",
+  "sources": {
+    "doorbell": "../sources/raw/btM4jzYzOjE.mp4",
+    "bodycam": "../sources/raw/-iJ3Pq4TW0E.mp4",
+    "neighbor": "../sources/raw/u11A4FQlDMo.mp4",
+    "interview": "../sources/raw/denver7-raw-interview-2018-08-14.mp4"
+  },
+  "blocks": [
+    {"id":"CW-OPENING-001","narrative_focus":"última chegada conhecida","visual_reason":"a própria câmera de campainha registra a chegada","units":[["doorbell",0,13]]},
+    {"id":"CW-BRIDGE-001","narrative_focus":"a amiga percebe a ausência e a situação vira verificação de bem-estar","visual_reason":"bodycam mostra o exterior da residência e a presença policial no local","units":[["bodycam",88,12],["bodycam",108,12],["bodycam",135,12],["bodycam",160,12]]},
+    {"id":"CW-BRIDGE-002","narrative_focus":"entrevista pública e versão inicial de Chris","visual_reason":"a entrevista gravada no próprio dia mostra o homem que está dando essa versão diante da residência","units":[["interview",5,12],["interview",31,12],["interview",47,12],["interview",64,12]]},
+    {"id":"CW-BRIDGE-003","narrative_focus":"os agentes vão ao vizinho para verificar o alcance da câmera","visual_reason":"o registro doméstico mostra os agentes e o vizinho diante da televisão que exibe a própria câmera","units":[["neighbor",180,12],["neighbor",192,12],["neighbor",204,12],["neighbor",216,12]]},
+    {"id":"CW-DIALOGUE-NEIGHBOR-001","narrative_focus":"o vizinho explica o campo que a câmera cobre","visual_reason":"áudio original, tela e gestos da conversa são a própria evidência","units":[["neighbor",180,40.25]],"source_dialogue":true},
+    {"id":"CW-BRIDGE-004","narrative_focus":"o limite da câmera e a necessidade de comparar evidências","visual_reason":"a tela da câmera e o ponto indicado pelos homens mostram justamente o alcance que está sendo explicado","units":[["neighbor",220,12],["neighbor",234,12],["neighbor",250,12],["neighbor",266,12]]},
+    {"id":"CW-BRIDGE-005","narrative_focus":"os apelos públicos de Chris e o valor documental da entrevista","visual_reason":"o arquivo da entrevista corresponde diretamente à fala pública que está sendo contextualizada","units":[["interview",124,12],["interview",145,12],["interview",170,12],["interview",202,12]]},
+    {"id":"CW-BRIDGE-006","narrative_focus":"a busca policial ganha escala e a residência passa a ser examinada","visual_reason":"bodycam mostra entrada, cômodos e a busca real na casa","units":[["bodycam",180,12],["bodycam",218,12],["bodycam",236,12],["bodycam",264,12]]},
+    {"id":"CW-BRIDGE-007","narrative_focus":"cronologia, lacunas e comparação de registros","visual_reason":"a busca percorre objetos e espaços; cada plano reforça a preservação do cenário e dos detalhes","units":[["bodycam",280,12],["bodycam",306,12],["bodycam",338,12],["bodycam",370,12]]},
+    {"id":"CW-BRIDGE-008","narrative_focus":"entrevistas e registros passam a ser confrontados ao longo dos dias","visual_reason":"a entrevista preservada oferece o registro público que depois pode ser comparado à cronologia","units":[["interview",250,12],["interview",274,12],["interview",300,12],["interview",325,12]]},
+    {"id":"CW-BRIDGE-009","narrative_focus":"desfecho judicial e diferença entre o que se sabia no primeiro dia e depois","visual_reason":"exterior e interior da residência retomam o cenário factual sem atribuir ao rosto uma prova que a imagem não contém","units":[["bodycam",108,12],["bodycam",150,12],["bodycam",218,12],["bodycam",390,12]]},
+    {"id":"CW-BRIDGE-010","narrative_focus":"como registros distintos se tornam uma reconstrução","visual_reason":"montagem de casa, entrevista e câmera do vizinho conecta os três tipos de registro citados","units":[["bodycam",218,12],["interview",354,12],["neighbor",290,12],["bodycam",410,12]]},
+    {"id":"CW-EPILOGUE-001","narrative_focus":"chegada, alerta, câmera e método de comparação","visual_reason":"cada ideia recebe sua fonte: casa/bodycam, entrevista, câmera do vizinho e busca","units":[["bodycam",122,12],["interview",90,12],["neighbor",310,12],["bodycam",350,12]]},
+    {"id":"CW-EPILOGUE-002","narrative_focus":"registro situado no tempo e confrontado com fatos","visual_reason":"os planos percorrem o local e os registros efetivamente comparados na investigação","units":[["bodycam",130,12],["bodycam",248,12],["interview",370,12],["neighbor",330,12]]},
+    {"id":"CW-EPILOGUE-003","narrative_focus":"detalhes comuns que se tornam decisivos","visual_reason":"a câmera do vizinho representa o detalhe cotidiano que passa a ser evidência","units":[["neighbor",345,12],["neighbor",360,12]]},
+    {"id":"CW-OUTRO-001","narrative_focus":"fechamento e convite ao próximo episódio","visual_reason":"a câmera de campainha retorna apenas como moldura final do episódio","units":[["doorbell",0,18]]}
+  ]
+}

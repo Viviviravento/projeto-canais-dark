@@ -1,0 +1,90 @@
+{
+  "version": "video-007-performance-v1",
+  "source_script": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\02_roteiros\\video-007-roteiro-v1.md",
+  "performance_contract": {
+    "relationship": "Falar com quem está vulnerável a escolher um alívio que pode cobrar caro depois.",
+    "authority": "Jesus no deserto como luz para a vida cotidiana, sem moralismo ou simplificação da dor.",
+    "intensity": "Íntimo, claro e sereno. Começar pela experiência humana e usar a Bíblia para dar direção.",
+    "scripture": "Anunciar referência e mostrar carta ACF somente enquanto a citação direta estiver sendo lida.",
+    "pause_policy": "Sem break tags e sem pontuação artificial. Frases naturais e curtas quando a ideia pedir pausa.",
+    "cta": "Pedir inscrição, curta e compartilhamento; apontar para Marta e Maria e Não andeis ansiosos; concluir com pergunta de comentário."
+  },
+  "api": {
+    "provider": "ElevenLabs",
+    "voice_name": "Bruno Cardoso",
+    "voice_id": "iF2QszmZhlyFLleUoFxy",
+    "model_id": "eleven_multilingual_v2",
+    "language_code": "pt",
+    "output_format": "mp3_44100_128",
+    "seed": 314159,
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0.0,
+      "speed": 1.0,
+      "use_speaker_boost": true
+    },
+    "postprocess": {
+      "speed_factor": 1.07,
+      "preserve_pitch": true
+    }
+  },
+  "blocks": [
+    {
+      "id": "01-o-atalho-chega-em-dia-fraco",
+      "source_section": "01",
+      "title": "O atalho chega em dia fraco",
+      "function": "Abrir pela vida cotidiana e redefinir tentação como atalho que parece alívio.",
+      "text": "Nem toda tentação chega com cara de destruição.\n\nÀs vezes ela chega quando a pessoa está cansada. Quando foi ignorada. Quando está com medo de perder alguma coisa. Quando não aguenta mais esperar uma resposta. Quando quer parar de sentir uma dor que já dura tempo demais.\n\nE então aparece uma ideia que parece simples: resolve isso logo. Responda de qualquer jeito. Compre para se sentir melhor. Minta só desta vez. Aceite uma relação que machuca porque a solidão está pesada. Faça o que todo mundo faz. Prove que você consegue. Não espere mais.\n\nO atalho quase nunca se apresenta dizendo: eu vou ferir você.\n\nEle se apresenta dizendo: eu vou aliviar você.\n\nPor isso, falar sobre tentação não é apontar o dedo para quem erra. É aprender a reconhecer os momentos em que uma necessidade verdadeira começa a ser usada para empurrar a vida para um lugar que não combina com aquilo que Deus está formando em nós.\n\nJesus conhece esse terreno. E a história do deserto não começa com um Jesus distante de toda fraqueza. Ela começa depois de quarenta dias de jejum.\n\nMateus, capítulo quatro, versículo um, diz:\n\n“Então foi conduzido Jesus pelo Espírito ao deserto, para ser tentado pelo diabo.”\n\nO deserto não é uma cena bonita. Jesus está sozinho, cansado e com fome. O texto não romantiza a fragilidade.\n\nIsso importa porque os atalhos costumam ser mais sedutores justamente quando a alma está sem força para pensar com calma."
+    },
+    {
+      "id": "02-a-necessidade-nao-precisa-mandar-em-tudo",
+      "source_section": "02",
+      "title": "A necessidade não precisa mandar em tudo",
+      "function": "Mostrar a fome real de Jesus e separar necessidade de submissão ao impulso.",
+      "text": "Depois do jejum, o tentador se aproxima com uma proposta ligada à fome.\n\nEle diz a Jesus: se tu és o Filho de Deus, manda que estas pedras se tornem em pães.\n\nA fome era real. O desejo de comer não era pecado. A questão não era precisar de pão. A questão era deixar aquela necessidade decidir a identidade, o tempo e o caminho de Jesus.\n\nHá necessidades que são verdadeiras e mesmo assim não podem governar tudo.\n\nA necessidade de ser aceita é verdadeira. A necessidade de descansar é verdadeira. A necessidade de dinheiro, cuidado, afeto e segurança pode ser muito real. Deus não pede que você finja que não sente falta de nada.\n\nMas quando a falta vira chefe do coração, qualquer proposta que ofereça alívio imediato pode começar a parecer inevitável.\n\nJesus responde com uma frase que não despreza o pão. Ela apenas coloca o pão no lugar certo.\n\nMateus, capítulo quatro, versículo quatro, diz:\n\n“Ele, porém, respondendo, disse: Está escrito: Nem só de pão viverá o homem, mas de toda a palavra que sai da boca de Deus.”\n\nNem só de pão.\n\nIsso não significa viver sem alimento, trabalho ou provisão. Significa que a pessoa não pode entregar sua consciência para qualquer coisa só porque está com fome de alguma coisa.\n\nAntes de aceitar um alívio rápido, talvez valha perguntar: isso realmente cuida da minha necessidade ou apenas usa a minha necessidade contra mim?"
+    },
+    {
+      "id": "03-quando-aparece-a-vontade-de-provar-alguma-coisa",
+      "source_section": "03",
+      "title": "Quando aparece a vontade de provar alguma coisa",
+      "function": "Aplicar a pressão de provar valor sem transformar coragem em espetáculo.",
+      "text": "Depois disso, a tentação muda de forma. Agora não é sobre fome. É sobre prova.\n\nO tentador leva Jesus ao pináculo do templo e sugere que ele se jogue, como se Deus tivesse obrigação de protegê-lo diante de todos.\n\nÉ uma proposta parecida com muitas pressões que aparecem na vida: prove que você é forte. Prove que Deus está com você. Prove que você não precisa de ninguém. Prove que consegue suportar mais um pouco. Prove que vale alguma coisa.\n\nSó que uma vida construída para provar valor nunca descansa.\n\nMuita escolha ruim nasce dessa necessidade de ser vista, admirada ou finalmente reconhecida. A pessoa se endivida para parecer bem. Aceita humilhação para não ser deixada. Esconde sofrimento para continuar parecendo forte. Entra numa disputa que nem queria porque sente que não pode recuar.\n\nJesus não faz da proteção de Deus um espetáculo. Ele não transforma confiança em teste.\n\nMateus, capítulo quatro, versículo sete, diz:\n\n“Disse-lhe Jesus: Também está escrito: Não tentarás o Senhor teu Deus.”\n\nHá uma diferença entre confiar em Deus e exigir que Deus confirme toda decisão impulsiva que tomamos.\n\nNem tudo o que parece coragem é fé. Às vezes é só desespero usando uma roupa bonita."
+    },
+    {
+      "id": "04-quando-o-controle-rapido-cobra-caro",
+      "source_section": "04",
+      "title": "Quando o controle rápido cobra caro",
+      "function": "Expor o custo escondido de trocar convicção por controle rápido.",
+      "text": "Na última proposta, o tentador mostra a Jesus os reinos do mundo e oferece poder em troca de adoração.\n\nÉ uma imagem forte, mas a lógica continua muito próxima da vida real: entregue o que é mais profundo em você e eu devolvo controle agora.\n\nÀs vezes esse acordo aparece como uma pequena desonestidade. Às vezes como uma vingança que parece justa. Às vezes como uma escolha que promete tirar você da ansiedade hoje, mas deixa culpa, dependência ou destruição para amanhã.\n\nO atalho sempre tenta encurtar a história. Ele diz que não existe outro jeito. Diz que fidelidade é lenta demais. Diz que convicção custa muito. Diz que ninguém vai perceber.\n\nJesus responde sem negociar o centro.\n\nMateus, capítulo quatro, versículo dez, diz:\n\n“Então disse-lhe Jesus: Vai-te, Satanás, porque está escrito: Ao Senhor teu Deus adorarás, e só a ele servirás.”\n\nAdorar a Deus não é uma frase distante da rotina. É lembrar quem tem a última palavra sobre aquilo que eu aceito, o que eu vendo, o que eu escondo e o que eu faço para não sofrer.\n\nNem toda oportunidade merece ser aceita. Nem todo alívio é liberdade. Nem todo caminho rápido leva para casa."
+    },
+    {
+      "id": "05-jesus-nao-olha-para-a-fraqueza-com-desprezo",
+      "source_section": "05",
+      "title": "Jesus não olha para a fraqueza com desprezo",
+      "function": "Acolher a fraqueza com Hebreus 4 sem normalizar uma escolha destrutiva.",
+      "text": "Talvez a parte mais acolhedora dessa história seja esta: Jesus não conhece a tentação apenas de longe.\n\nEle passou pelo deserto. Ele sentiu fome. Ele recebeu pressão. Ele foi chamado a provar quem era e a tomar atalhos.\n\nPor isso, a Bíblia não apresenta Jesus como alguém impaciente com quem está fraco.\n\nHebreus, capítulo quatro, versículo quinze, diz:\n\n“Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém, um que, como nós, em tudo foi tentado, mas sem pecado.”\n\nIsso não transforma toda escolha em algo sem importância. Mas muda o lugar de onde a gente enfrenta a luta.\n\nVocê não precisa esconder de Deus a vontade de desistir, de voltar para uma relação que fazia mal, de responder com raiva, de se anestesiar ou de conseguir qualquer coisa a qualquer preço.\n\nEle já conhece a fraqueza humana. A oração honesta não assusta Jesus.\n\nÀs vezes o primeiro passo não é prometer que nunca mais vai sentir vontade. É dizer a verdade: Senhor, eu estou vulnerável. Esta proposta parece alívio para mim. Mostra o que eu não estou conseguindo enxergar."
+    },
+    {
+      "id": "06-tres-perguntas-antes-de-escolher",
+      "source_section": "06",
+      "title": "Três perguntas antes de escolher",
+      "function": "Oferecer perguntas práticas para discernir antes de decidir.",
+      "text": "Quando você perceber que uma escolha está parecendo urgente demais, tente não decidir apenas no impulso. Não para se tornar lenta em tudo. Mas para não entregar o volante da vida ao momento mais fraco do dia.\n\nPrimeira pergunta: que necessidade verdadeira está gritando em mim agora?\n\nTalvez seja descanso. Talvez seja proteção. Talvez seja carinho. Talvez seja reconhecimento. Dar nome à necessidade não é fraqueza. É parar de deixar que ela trabalhe escondida.\n\nSegunda pergunta: este caminho cuida de mim ou só silencia a dor por alguns minutos?\n\nExistem alívios que parecem descanso, mas roubam paz depois. Existem escolhas que parecem liberdade, mas aumentam a prisão. Existem promessas que parecem afeto, mas deixam a pessoa menor.\n\nTerceira pergunta: eu conseguiria colocar essa decisão diante de Deus sem esconder uma parte dela?\n\nNão é uma pergunta para fabricar culpa. É uma pergunta para recuperar direção.\n\nTalvez a resposta seja pedir tempo. Talvez seja procurar uma conversa confiável. Talvez seja dormir antes de responder. Talvez seja sair de uma situação perigosa. Talvez seja pedir ajuda profissional. Talvez seja simplesmente não chamar de destino aquilo que está tentando comprar sua paz."
+    },
+    {
+      "id": "07-o-caminho-de-jesus-nao-e-pressa",
+      "source_section": "07",
+      "title": "O caminho de Jesus não é pressa",
+      "function": "Reafirmar que Jesus não pede pressa nem passividade diante da dor.",
+      "text": "Jesus não venceu o deserto porque não sentiu nada. Ele venceu sem deixar que fome, pressão ou oferta de poder definissem quem ele era.\n\nEssa é uma mensagem muito necessária para dias em que tudo parece urgente.\n\nVocê não precisa provar seu valor em uma escolha desesperada. Não precisa transformar sofrimento em espetáculo para merecer cuidado. Não precisa vender sua consciência para ter uma saída rápida.\n\nPode haver um caminho mais lento. Pode haver uma conversa que ainda precisa acontecer. Pode haver uma porta que precisa permanecer fechada. Pode haver uma ajuda que você ainda não pediu.\n\nDeus não é um convite para passividade. Ele é presença para que você não precise decidir sozinha no pior momento da sua dor."
+    },
+    {
+      "id": "08-fechamento-e-convite",
+      "source_section": "08",
+      "title": "Fechamento e convite",
+      "function": "Concluir com CTA, continuidade e uma pergunta concreta para comentários.",
+      "text": "Talvez hoje o atalho que mais chama você não pareça errado à primeira vista. Talvez ele apenas pareça necessário.\n\nMas Jesus no deserto nos lembra: uma necessidade real não precisa nos entregar a qualquer caminho. A presença de Deus não humilha quem está fraco. Ela devolve clareza, verdade e coragem para escolher de outro modo.\n\nEste é o canal A Palavra Que Cuida. Se esta mensagem encontrou você em um dia de pressão, inscreva-se, curta e compartilhe com alguém que esteja tentando decidir com o coração cansado.\n\nQuando este vídeo terminar, escolha um dos vídeos sugeridos na tela. Se você está carregando mais do que consegue, assista ao vídeo sobre Marta e Maria. Se a ansiedade tem tomado seus pensamentos, continue no vídeo sobre “Não andeis ansiosos”.\n\nE me conta nos comentários: que tipo de atalho costuma parecer alívio quando você está cansada?"
+    }
+  ]
+}

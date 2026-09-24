@@ -1,0 +1,914 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 7.18,
+      "text": "aperta o peito. Talvez seja uma escolha recente, talvez seja algo de anos atr\u00e1s, talvez",
+      "words": [
+        {
+          "word": " aperta",
+          "start": 0.0,
+          "end": 0.48,
+          "probability": 0.596
+        },
+        {
+          "word": " o",
+          "start": 0.48,
+          "end": 0.6,
+          "probability": 0.993
+        },
+        {
+          "word": " peito.",
+          "start": 0.6,
+          "end": 0.92,
+          "probability": 0.976
+        },
+        {
+          "word": " Talvez",
+          "start": 1.96,
+          "end": 2.2,
+          "probability": 0.986
+        },
+        {
+          "word": " seja",
+          "start": 2.2,
+          "end": 2.5,
+          "probability": 0.838
+        },
+        {
+          "word": " uma",
+          "start": 2.5,
+          "end": 2.72,
+          "probability": 0.979
+        },
+        {
+          "word": " escolha",
+          "start": 2.72,
+          "end": 3.08,
+          "probability": 0.997
+        },
+        {
+          "word": " recente,",
+          "start": 3.08,
+          "end": 3.64,
+          "probability": 0.95
+        },
+        {
+          "word": " talvez",
+          "start": 4.38,
+          "end": 4.6,
+          "probability": 0.982
+        },
+        {
+          "word": " seja",
+          "start": 4.6,
+          "end": 4.94,
+          "probability": 1.0
+        },
+        {
+          "word": " algo",
+          "start": 4.94,
+          "end": 5.26,
+          "probability": 0.978
+        },
+        {
+          "word": " de",
+          "start": 5.26,
+          "end": 5.48,
+          "probability": 0.991
+        },
+        {
+          "word": " anos",
+          "start": 5.48,
+          "end": 5.7,
+          "probability": 0.972
+        },
+        {
+          "word": " atr\u00e1s,",
+          "start": 5.7,
+          "end": 6.08,
+          "probability": 0.995
+        },
+        {
+          "word": " talvez",
+          "start": 6.98,
+          "end": 7.18,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 7.18,
+      "end": 13.7,
+      "text": "voc\u00ea j\u00e1 tenha pedido perd\u00e3o, mas ainda n\u00e3o consegue acreditar que pode construir uma",
+      "words": [
+        {
+          "word": " voc\u00ea",
+          "start": 7.18,
+          "end": 7.44,
+          "probability": 0.947
+        },
+        {
+          "word": " j\u00e1",
+          "start": 7.44,
+          "end": 7.62,
+          "probability": 0.994
+        },
+        {
+          "word": " tenha",
+          "start": 7.62,
+          "end": 7.84,
+          "probability": 0.973
+        },
+        {
+          "word": " pedido",
+          "start": 7.84,
+          "end": 8.24,
+          "probability": 0.977
+        },
+        {
+          "word": " perd\u00e3o,",
+          "start": 8.24,
+          "end": 8.78,
+          "probability": 0.955
+        },
+        {
+          "word": " mas",
+          "start": 9.54,
+          "end": 9.72,
+          "probability": 0.991
+        },
+        {
+          "word": " ainda",
+          "start": 9.72,
+          "end": 10.02,
+          "probability": 0.996
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 10.02,
+          "end": 10.22,
+          "probability": 0.998
+        },
+        {
+          "word": " consegue",
+          "start": 10.22,
+          "end": 10.82,
+          "probability": 0.966
+        },
+        {
+          "word": " acreditar",
+          "start": 10.82,
+          "end": 11.58,
+          "probability": 0.988
+        },
+        {
+          "word": " que",
+          "start": 11.58,
+          "end": 12.2,
+          "probability": 0.977
+        },
+        {
+          "word": " pode",
+          "start": 12.2,
+          "end": 12.5,
+          "probability": 0.992
+        },
+        {
+          "word": " construir",
+          "start": 12.5,
+          "end": 13.06,
+          "probability": 0.988
+        },
+        {
+          "word": " uma",
+          "start": 13.06,
+          "end": 13.7,
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 13.7,
+      "end": 19.8,
+      "text": "vida diferente. A hist\u00f3ria de Pedro n\u00e3o permite que a gente trate o erro como se n\u00e3o",
+      "words": [
+        {
+          "word": " vida",
+          "start": 13.7,
+          "end": 14.08,
+          "probability": 0.996
+        },
+        {
+          "word": " diferente.",
+          "start": 14.08,
+          "end": 14.98,
+          "probability": 0.995
+        },
+        {
+          "word": " A",
+          "start": 16.0,
+          "end": 16.38,
+          "probability": 0.955
+        },
+        {
+          "word": " hist\u00f3ria",
+          "start": 16.38,
+          "end": 16.6,
+          "probability": 0.979
+        },
+        {
+          "word": " de",
+          "start": 16.6,
+          "end": 16.82,
+          "probability": 0.997
+        },
+        {
+          "word": " Pedro",
+          "start": 16.82,
+          "end": 17.12,
+          "probability": 0.714
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 17.12,
+          "end": 17.28,
+          "probability": 0.998
+        },
+        {
+          "word": " permite",
+          "start": 17.28,
+          "end": 17.64,
+          "probability": 0.995
+        },
+        {
+          "word": " que",
+          "start": 17.64,
+          "end": 17.94,
+          "probability": 0.992
+        },
+        {
+          "word": " a",
+          "start": 17.94,
+          "end": 18.0,
+          "probability": 0.985
+        },
+        {
+          "word": " gente",
+          "start": 18.0,
+          "end": 18.14,
+          "probability": 1.0
+        },
+        {
+          "word": " trate",
+          "start": 18.14,
+          "end": 18.48,
+          "probability": 0.772
+        },
+        {
+          "word": " o",
+          "start": 18.48,
+          "end": 18.62,
+          "probability": 0.986
+        },
+        {
+          "word": " erro",
+          "start": 18.62,
+          "end": 18.8,
+          "probability": 0.939
+        },
+        {
+          "word": " como",
+          "start": 18.8,
+          "end": 19.56,
+          "probability": 0.788
+        },
+        {
+          "word": " se",
+          "start": 19.56,
+          "end": 19.7,
+          "probability": 0.989
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 19.7,
+          "end": 19.8,
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 19.8,
+      "end": 25.78,
+      "text": "tivesse peso, mas ela tamb\u00e9m n\u00e3o permite que a gente trate a vergonha, como se fosse dona",
+      "words": [
+        {
+          "word": " tivesse",
+          "start": 19.8,
+          "end": 20.06,
+          "probability": 0.942
+        },
+        {
+          "word": " peso,",
+          "start": 20.06,
+          "end": 20.56,
+          "probability": 0.996
+        },
+        {
+          "word": " mas",
+          "start": 21.3,
+          "end": 21.54,
+          "probability": 0.997
+        },
+        {
+          "word": " ela",
+          "start": 21.54,
+          "end": 21.66,
+          "probability": 0.978
+        },
+        {
+          "word": " tamb\u00e9m",
+          "start": 21.66,
+          "end": 22.0,
+          "probability": 0.993
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 22.0,
+          "end": 22.14,
+          "probability": 0.998
+        },
+        {
+          "word": " permite",
+          "start": 22.14,
+          "end": 22.48,
+          "probability": 0.996
+        },
+        {
+          "word": " que",
+          "start": 22.48,
+          "end": 22.76,
+          "probability": 0.995
+        },
+        {
+          "word": " a",
+          "start": 22.76,
+          "end": 22.82,
+          "probability": 0.996
+        },
+        {
+          "word": " gente",
+          "start": 22.82,
+          "end": 22.98,
+          "probability": 1.0
+        },
+        {
+          "word": " trate",
+          "start": 22.98,
+          "end": 23.38,
+          "probability": 0.946
+        },
+        {
+          "word": " a",
+          "start": 23.38,
+          "end": 23.78,
+          "probability": 0.904
+        },
+        {
+          "word": " vergonha,",
+          "start": 23.78,
+          "end": 24.32,
+          "probability": 0.958
+        },
+        {
+          "word": " como",
+          "start": 24.72,
+          "end": 25.02,
+          "probability": 0.997
+        },
+        {
+          "word": " se",
+          "start": 25.02,
+          "end": 25.14,
+          "probability": 0.998
+        },
+        {
+          "word": " fosse",
+          "start": 25.14,
+          "end": 25.36,
+          "probability": 0.998
+        },
+        {
+          "word": " dona",
+          "start": 25.36,
+          "end": 25.78,
+          "probability": 0.798
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 25.78,
+      "end": 29.92,
+      "text": "do futuro. H\u00e1 tr\u00eas movimentos simples que podem agir...",
+      "words": [
+        {
+          "word": " do",
+          "start": 25.78,
+          "end": 26.5,
+          "probability": 0.174
+        },
+        {
+          "word": " futuro.",
+          "start": 26.5,
+          "end": 26.9,
+          "probability": 0.984
+        },
+        {
+          "word": " H\u00e1",
+          "start": 27.66,
+          "end": 27.9,
+          "probability": 0.741
+        },
+        {
+          "word": " tr\u00eas",
+          "start": 27.9,
+          "end": 28.08,
+          "probability": 0.923
+        },
+        {
+          "word": " movimentos",
+          "start": 28.08,
+          "end": 28.5,
+          "probability": 0.987
+        },
+        {
+          "word": " simples",
+          "start": 28.5,
+          "end": 28.96,
+          "probability": 0.994
+        },
+        {
+          "word": " que",
+          "start": 28.96,
+          "end": 29.48,
+          "probability": 0.955
+        },
+        {
+          "word": " podem",
+          "start": 29.48,
+          "end": 29.8,
+          "probability": 0.973
+        },
+        {
+          "word": " agir...",
+          "start": 29.8,
+          "end": 29.92,
+          "probability": 0.312
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " aperta",
+      "start": 0.0,
+      "end": 0.48,
+      "probability": 0.596
+    },
+    {
+      "word": " o",
+      "start": 0.48,
+      "end": 0.6,
+      "probability": 0.993
+    },
+    {
+      "word": " peito.",
+      "start": 0.6,
+      "end": 0.92,
+      "probability": 0.976
+    },
+    {
+      "word": " Talvez",
+      "start": 1.96,
+      "end": 2.2,
+      "probability": 0.986
+    },
+    {
+      "word": " seja",
+      "start": 2.2,
+      "end": 2.5,
+      "probability": 0.838
+    },
+    {
+      "word": " uma",
+      "start": 2.5,
+      "end": 2.72,
+      "probability": 0.979
+    },
+    {
+      "word": " escolha",
+      "start": 2.72,
+      "end": 3.08,
+      "probability": 0.997
+    },
+    {
+      "word": " recente,",
+      "start": 3.08,
+      "end": 3.64,
+      "probability": 0.95
+    },
+    {
+      "word": " talvez",
+      "start": 4.38,
+      "end": 4.6,
+      "probability": 0.982
+    },
+    {
+      "word": " seja",
+      "start": 4.6,
+      "end": 4.94,
+      "probability": 1.0
+    },
+    {
+      "word": " algo",
+      "start": 4.94,
+      "end": 5.26,
+      "probability": 0.978
+    },
+    {
+      "word": " de",
+      "start": 5.26,
+      "end": 5.48,
+      "probability": 0.991
+    },
+    {
+      "word": " anos",
+      "start": 5.48,
+      "end": 5.7,
+      "probability": 0.972
+    },
+    {
+      "word": " atr\u00e1s,",
+      "start": 5.7,
+      "end": 6.08,
+      "probability": 0.995
+    },
+    {
+      "word": " talvez",
+      "start": 6.98,
+      "end": 7.18,
+      "probability": 0.996
+    },
+    {
+      "word": " voc\u00ea",
+      "start": 7.18,
+      "end": 7.44,
+      "probability": 0.947
+    },
+    {
+      "word": " j\u00e1",
+      "start": 7.44,
+      "end": 7.62,
+      "probability": 0.994
+    },
+    {
+      "word": " tenha",
+      "start": 7.62,
+      "end": 7.84,
+      "probability": 0.973
+    },
+    {
+      "word": " pedido",
+      "start": 7.84,
+      "end": 8.24,
+      "probability": 0.977
+    },
+    {
+      "word": " perd\u00e3o,",
+      "start": 8.24,
+      "end": 8.78,
+      "probability": 0.955
+    },
+    {
+      "word": " mas",
+      "start": 9.54,
+      "end": 9.72,
+      "probability": 0.991
+    },
+    {
+      "word": " ainda",
+      "start": 9.72,
+      "end": 10.02,
+      "probability": 0.996
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 10.02,
+      "end": 10.22,
+      "probability": 0.998
+    },
+    {
+      "word": " consegue",
+      "start": 10.22,
+      "end": 10.82,
+      "probability": 0.966
+    },
+    {
+      "word": " acreditar",
+      "start": 10.82,
+      "end": 11.58,
+      "probability": 0.988
+    },
+    {
+      "word": " que",
+      "start": 11.58,
+      "end": 12.2,
+      "probability": 0.977
+    },
+    {
+      "word": " pode",
+      "start": 12.2,
+      "end": 12.5,
+      "probability": 0.992
+    },
+    {
+      "word": " construir",
+      "start": 12.5,
+      "end": 13.06,
+      "probability": 0.988
+    },
+    {
+      "word": " uma",
+      "start": 13.06,
+      "end": 13.7,
+      "probability": 0.994
+    },
+    {
+      "word": " vida",
+      "start": 13.7,
+      "end": 14.08,
+      "probability": 0.996
+    },
+    {
+      "word": " diferente.",
+      "start": 14.08,
+      "end": 14.98,
+      "probability": 0.995
+    },
+    {
+      "word": " A",
+      "start": 16.0,
+      "end": 16.38,
+      "probability": 0.955
+    },
+    {
+      "word": " hist\u00f3ria",
+      "start": 16.38,
+      "end": 16.6,
+      "probability": 0.979
+    },
+    {
+      "word": " de",
+      "start": 16.6,
+      "end": 16.82,
+      "probability": 0.997
+    },
+    {
+      "word": " Pedro",
+      "start": 16.82,
+      "end": 17.12,
+      "probability": 0.714
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 17.12,
+      "end": 17.28,
+      "probability": 0.998
+    },
+    {
+      "word": " permite",
+      "start": 17.28,
+      "end": 17.64,
+      "probability": 0.995
+    },
+    {
+      "word": " que",
+      "start": 17.64,
+      "end": 17.94,
+      "probability": 0.992
+    },
+    {
+      "word": " a",
+      "start": 17.94,
+      "end": 18.0,
+      "probability": 0.985
+    },
+    {
+      "word": " gente",
+      "start": 18.0,
+      "end": 18.14,
+      "probability": 1.0
+    },
+    {
+      "word": " trate",
+      "start": 18.14,
+      "end": 18.48,
+      "probability": 0.772
+    },
+    {
+      "word": " o",
+      "start": 18.48,
+      "end": 18.62,
+      "probability": 0.986
+    },
+    {
+      "word": " erro",
+      "start": 18.62,
+      "end": 18.8,
+      "probability": 0.939
+    },
+    {
+      "word": " como",
+      "start": 18.8,
+      "end": 19.56,
+      "probability": 0.788
+    },
+    {
+      "word": " se",
+      "start": 19.56,
+      "end": 19.7,
+      "probability": 0.989
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 19.7,
+      "end": 19.8,
+      "probability": 0.994
+    },
+    {
+      "word": " tivesse",
+      "start": 19.8,
+      "end": 20.06,
+      "probability": 0.942
+    },
+    {
+      "word": " peso,",
+      "start": 20.06,
+      "end": 20.56,
+      "probability": 0.996
+    },
+    {
+      "word": " mas",
+      "start": 21.3,
+      "end": 21.54,
+      "probability": 0.997
+    },
+    {
+      "word": " ela",
+      "start": 21.54,
+      "end": 21.66,
+      "probability": 0.978
+    },
+    {
+      "word": " tamb\u00e9m",
+      "start": 21.66,
+      "end": 22.0,
+      "probability": 0.993
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 22.0,
+      "end": 22.14,
+      "probability": 0.998
+    },
+    {
+      "word": " permite",
+      "start": 22.14,
+      "end": 22.48,
+      "probability": 0.996
+    },
+    {
+      "word": " que",
+      "start": 22.48,
+      "end": 22.76,
+      "probability": 0.995
+    },
+    {
+      "word": " a",
+      "start": 22.76,
+      "end": 22.82,
+      "probability": 0.996
+    },
+    {
+      "word": " gente",
+      "start": 22.82,
+      "end": 22.98,
+      "probability": 1.0
+    },
+    {
+      "word": " trate",
+      "start": 22.98,
+      "end": 23.38,
+      "probability": 0.946
+    },
+    {
+      "word": " a",
+      "start": 23.38,
+      "end": 23.78,
+      "probability": 0.904
+    },
+    {
+      "word": " vergonha,",
+      "start": 23.78,
+      "end": 24.32,
+      "probability": 0.958
+    },
+    {
+      "word": " como",
+      "start": 24.72,
+      "end": 25.02,
+      "probability": 0.997
+    },
+    {
+      "word": " se",
+      "start": 25.02,
+      "end": 25.14,
+      "probability": 0.998
+    },
+    {
+      "word": " fosse",
+      "start": 25.14,
+      "end": 25.36,
+      "probability": 0.998
+    },
+    {
+      "word": " dona",
+      "start": 25.36,
+      "end": 25.78,
+      "probability": 0.798
+    },
+    {
+      "word": " do",
+      "start": 25.78,
+      "end": 26.5,
+      "probability": 0.174
+    },
+    {
+      "word": " futuro.",
+      "start": 26.5,
+      "end": 26.9,
+      "probability": 0.984
+    },
+    {
+      "word": " H\u00e1",
+      "start": 27.66,
+      "end": 27.9,
+      "probability": 0.741
+    },
+    {
+      "word": " tr\u00eas",
+      "start": 27.9,
+      "end": 28.08,
+      "probability": 0.923
+    },
+    {
+      "word": " movimentos",
+      "start": 28.08,
+      "end": 28.5,
+      "probability": 0.987
+    },
+    {
+      "word": " simples",
+      "start": 28.5,
+      "end": 28.96,
+      "probability": 0.994
+    },
+    {
+      "word": " que",
+      "start": 28.96,
+      "end": 29.48,
+      "probability": 0.955
+    },
+    {
+      "word": " podem",
+      "start": 29.48,
+      "end": 29.8,
+      "probability": 0.973
+    },
+    {
+      "word": " agir...",
+      "start": 29.8,
+      "end": 29.92,
+      "probability": 0.312
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 29.952,
+  "model_size": "base",
+  "device": "cpu"
+}

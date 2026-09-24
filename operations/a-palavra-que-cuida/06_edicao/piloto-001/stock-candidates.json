@@ -1,0 +1,2304 @@
+[
+  {
+    "slot": "open01",
+    "query": "middle aged woman organizing table home",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 7525275,
+        "duration_seconds": 14,
+        "width": 1920,
+        "height": 1080,
+        "author": "SHVETS production",
+        "pexels_url": "https://www.pexels.com/video/woman-putting-egg-on-a-mixture-7525275/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open01-0.jpg",
+        "files": [
+          {
+            "id": 10459670,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7525275/7525275-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 10459817,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7525275/7525275-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 7260651,
+        "duration_seconds": 15,
+        "width": 1920,
+        "height": 1080,
+        "author": "Los Muertos Crew",
+        "pexels_url": "https://www.pexels.com/video/a-woman-working-on-her-journal-7260651/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open01-1.jpg",
+        "files": [
+          {
+            "id": 10370012,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/7260651/7260651-hd_1920_1080_24fps.mp4"
+          },
+          {
+            "id": 10369904,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/7260651/7260651-hd_1280_720_24fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 6473121,
+        "duration_seconds": 29,
+        "width": 4096,
+        "height": 2160,
+        "author": "cottonbro studio",
+        "pexels_url": "https://www.pexels.com/video/mother-finding-condom-in-daughter-s-room-6473121/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open01-2.jpg",
+        "files": [
+          {
+            "id": 10047616,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6473121/6473121-hd_1366_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 8308207,
+        "duration_seconds": 17,
+        "width": 1920,
+        "height": 1080,
+        "author": "Mikhail Nilov",
+        "pexels_url": "https://www.pexels.com/video/a-cheerful-elderly-woman-posing-for-the-camera-8308207/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open01-3.jpg",
+        "files": [
+          {
+            "id": 10772068,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/8308207/8308207-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 10772028,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/8308207/8308207-hd_1280_720_25fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "open02",
+    "query": "woman writing planner home close up",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 5364909,
+        "duration_seconds": 8,
+        "width": 4096,
+        "height": 2160,
+        "author": "Monstera Production",
+        "pexels_url": "https://www.pexels.com/video/person-writing-on-a-planner-5364909/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open02-0.jpg",
+        "files": [
+          {
+            "id": 9679476,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 30.0,
+            "link": "https://videos.pexels.com/video-files/5364909/5364909-hd_1366_720_30fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 8086203,
+        "duration_seconds": 27,
+        "width": 4096,
+        "height": 2160,
+        "author": "Ron Lach",
+        "pexels_url": "https://www.pexels.com/video/a-person-writing-using-a-ballpen-8086203/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open02-1.jpg",
+        "files": [
+          {
+            "id": 10688062,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/8086203/8086203-hd_1366_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 8136035,
+        "duration_seconds": 13,
+        "width": 1920,
+        "height": 1080,
+        "author": "AI25.Studio  AI GENERATIVE",
+        "pexels_url": "https://www.pexels.com/video/a-woman-writing-on-a-notebook-8136035/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open02-2.jpg",
+        "files": [
+          {
+            "id": 10715762,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/8136035/8136035-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 10715533,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 50.0,
+            "link": "https://videos.pexels.com/video-files/8136035/8136035-hd_1280_720_50fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 7681168,
+        "duration_seconds": 15,
+        "width": 1920,
+        "height": 1080,
+        "author": "Mikhail Nilov",
+        "pexels_url": "https://www.pexels.com/video/a-woman-holding-a-pen-7681168/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open02-3.jpg",
+        "files": [
+          {
+            "id": 10538501,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7681168/7681168-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 10538950,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7681168/7681168-hd_1280_720_25fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "open03",
+    "query": "smartphone notifications table close up",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 34786856,
+        "duration_seconds": 6,
+        "width": 3840,
+        "height": 2160,
+        "author": "Sambhaji Gaikwad",
+        "pexels_url": "https://www.pexels.com/video/close-up-of-mobile-device-with-text-notification-34786856/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open03-0.jpg",
+        "files": [
+          {
+            "id": 14748770,
+            "quality": null,
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 50.0,
+            "link": "https://videos.pexels.com/video-files/34786856/14748770_1920_1080_50fps.mp4"
+          },
+          {
+            "id": 14748769,
+            "quality": null,
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 50.0,
+            "link": "https://videos.pexels.com/video-files/34786856/14748769_1280_720_50fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 7592157,
+        "duration_seconds": 15,
+        "width": 4481,
+        "height": 2160,
+        "author": "ROMAN ODINTSOV",
+        "pexels_url": "https://www.pexels.com/video/alarm-on-a-smartphone-7592157/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open03-1.jpg",
+        "files": []
+      },
+      {
+        "index": 2,
+        "video_id": 853794,
+        "duration_seconds": 14,
+        "width": 1920,
+        "height": 1080,
+        "author": "Coverr",
+        "pexels_url": "https://www.pexels.com/video/scrolling-through-inbox-853794/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open03-2.jpg",
+        "files": [
+          {
+            "id": 9210955,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/853794/853794-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9210813,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 50.0,
+            "link": "https://videos.pexels.com/video-files/853794/853794-hd_1280_720_50fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 6963830,
+        "duration_seconds": 17,
+        "width": 4096,
+        "height": 2160,
+        "author": "cottonbro studio",
+        "pexels_url": "https://www.pexels.com/video/a-person-pressing-snooze-on-the-phone-alarm-clock-6963830/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open03-3.jpg",
+        "files": [
+          {
+            "id": 10256043,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6963830/6963830-hd_1366_720_25fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "open04",
+    "query": "quiet living room window sunset",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 8090500,
+        "duration_seconds": 20,
+        "width": 4096,
+        "height": 2160,
+        "author": "Yaroslav Shuraev",
+        "pexels_url": "https://www.pexels.com/video/female-model-standing-on-the-couch-8090500/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open04-0.jpg",
+        "files": [
+          {
+            "id": 10692781,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 24.0,
+            "link": "https://videos.pexels.com/video-files/8090500/8090500-hd_1366_720_24fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 8089929,
+        "duration_seconds": 13,
+        "width": 4096,
+        "height": 2160,
+        "author": "Yaroslav Shuraev",
+        "pexels_url": "https://www.pexels.com/video/back-view-of-a-woman-wearing-a-dress-8089929/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open04-1.jpg",
+        "files": [
+          {
+            "id": 10692469,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 24.0,
+            "link": "https://videos.pexels.com/video-files/8089929/8089929-hd_1366_720_24fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 5824194,
+        "duration_seconds": 10,
+        "width": 3840,
+        "height": 2160,
+        "author": "Charlotte May",
+        "pexels_url": "https://www.pexels.com/video/video-of-a-living-room-5824194/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open04-2.jpg",
+        "files": [
+          {
+            "id": 9813020,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/5824194/5824194-hd_1920_1080_24fps.mp4"
+          },
+          {
+            "id": 9813313,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/5824194/5824194-hd_1280_720_24fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 4625481,
+        "duration_seconds": 25,
+        "width": 1920,
+        "height": 1080,
+        "author": "Honye Sanges",
+        "pexels_url": "https://www.pexels.com/video/video-of-woman-leaning-on-window-4625481/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\open04-3.jpg",
+        "files": [
+          {
+            "id": 9387037,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/4625481/4625481-hd_1920_1080_24fps.mp4"
+          },
+          {
+            "id": 9386993,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/4625481/4625481-hd_1280_720_24fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "bible01",
+    "query": "open bible wooden table",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 13011708,
+        "duration_seconds": 62,
+        "width": 1920,
+        "height": 1080,
+        "author": "LEONARDO DOURADO",
+        "pexels_url": "https://www.pexels.com/video/rosary-on-bible-13011708/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\bible01-0.jpg",
+        "files": [
+          {
+            "id": 11296397,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/13011708/13011708-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 11296327,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/13011708/13011708-hd_1280_720_30fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 13011709,
+        "duration_seconds": 60,
+        "width": 1920,
+        "height": 1080,
+        "author": "LEONARDO DOURADO",
+        "pexels_url": "https://www.pexels.com/video/bible-on-bench-13011709/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\bible01-1.jpg",
+        "files": [
+          {
+            "id": 5706351,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/13011709/13011709-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 5706352,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/13011709/13011709-hd_1280_720_30fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 5199853,
+        "duration_seconds": 21,
+        "width": 3840,
+        "height": 2160,
+        "author": "Tima Miroshnichenko",
+        "pexels_url": "https://www.pexels.com/video/person-flipping-the-page-of-a-bible-5199853/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\bible01-2.jpg",
+        "files": [
+          {
+            "id": 9455644,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5199853/5199853-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9455090,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5199853/5199853-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 5199852,
+        "duration_seconds": 10,
+        "width": 3840,
+        "height": 2160,
+        "author": "Tima Miroshnichenko",
+        "pexels_url": "https://www.pexels.com/video/close-up-view-of-a-person-holding-a-silver-cross-pendant-and-bible-5199852/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\bible01-3.jpg",
+        "files": [
+          {
+            "id": 9454072,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5199852/5199852-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9454174,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5199852/5199852-hd_1280_720_25fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "control01",
+    "query": "woman closing notebook by window",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 9034456,
+        "duration_seconds": 7,
+        "width": 3840,
+        "height": 2160,
+        "author": "RDNE Stock project",
+        "pexels_url": "https://www.pexels.com/video/woman-writing-on-a-paper-9034456/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\control01-0.jpg",
+        "files": [
+          {
+            "id": 11047080,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 24.0,
+            "link": "https://videos.pexels.com/video-files/9034456/9034456-hd_1920_1080_24fps.mp4"
+          },
+          {
+            "id": 11047514,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 24.0,
+            "link": "https://videos.pexels.com/video-files/9034456/9034456-hd_1280_720_24fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 7583757,
+        "duration_seconds": 25,
+        "width": 1920,
+        "height": 1080,
+        "author": "Mikhail Nilov",
+        "pexels_url": "https://www.pexels.com/video/female-wearing-a-hijab-reading-book-in-a-coffee-shop-7583757/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\control01-1.jpg",
+        "files": [
+          {
+            "id": 10488781,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7583757/7583757-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 10488845,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7583757/7583757-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 9198723,
+        "duration_seconds": 41,
+        "width": 1920,
+        "height": 1080,
+        "author": "Mikhail Nilov",
+        "pexels_url": "https://www.pexels.com/video/woman-writing-on-a-notebook-9198723/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\control01-2.jpg",
+        "files": [
+          {
+            "id": 11072255,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/9198723/9198723-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 11072222,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/9198723/9198723-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 7583762,
+        "duration_seconds": 37,
+        "width": 1920,
+        "height": 1080,
+        "author": "Mikhail Nilov",
+        "pexels_url": "https://www.pexels.com/video/female-wearing-a-hijab-working-in-a-coffee-shop-7583762/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\control01-3.jpg",
+        "files": [
+          {
+            "id": 10489130,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7583762/7583762-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 10489140,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7583762/7583762-hd_1280_720_25fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "burden01",
+    "query": "bills table calculator close up",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 6266262,
+        "duration_seconds": 11,
+        "width": 3840,
+        "height": 2160,
+        "author": "Tima Miroshnichenko",
+        "pexels_url": "https://www.pexels.com/video/person-using-calculator-while-counting-money-6266262/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\burden01-0.jpg",
+        "files": [
+          {
+            "id": 9983670,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6266262/6266262-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9983781,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6266262/6266262-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 6964247,
+        "duration_seconds": 15,
+        "width": 1920,
+        "height": 1080,
+        "author": "Mikhail Nilov",
+        "pexels_url": "https://www.pexels.com/video/man-using-calculator-6964247/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\burden01-1.jpg",
+        "files": [
+          {
+            "id": 10253688,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6964247/6964247-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 10253671,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6964247/6964247-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 5981296,
+        "duration_seconds": 16,
+        "width": 4096,
+        "height": 2160,
+        "author": "www.kaboompics.com",
+        "pexels_url": "https://www.pexels.com/video/a-woman-worrisome-look-for-over-spending-5981296/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\burden01-2.jpg",
+        "files": [
+          {
+            "id": 9880654,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5981296/5981296-hd_1366_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 5981351,
+        "duration_seconds": 25,
+        "width": 4096,
+        "height": 2160,
+        "author": "www.kaboompics.com",
+        "pexels_url": "https://www.pexels.com/video/a-person-counting-and-computing-money-while-writing-on-a-notepad-5981351/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\burden01-3.jpg",
+        "files": [
+          {
+            "id": 9879792,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5981351/5981351-hd_1366_720_25fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "burden02",
+    "query": "empty hospital corridor",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 3192916,
+        "duration_seconds": 21,
+        "width": 1920,
+        "height": 1080,
+        "author": "Luis Quintero",
+        "pexels_url": "https://www.pexels.com/video/two-doors-in-a-hospital-isle-are-wide-open-3192916/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\burden02-0.jpg",
+        "files": [
+          {
+            "id": 9305563,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/3192916/3192916-hd_1920_1080_24fps.mp4"
+          },
+          {
+            "id": 9305614,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/3192916/3192916-hd_1280_720_24fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 5203510,
+        "duration_seconds": 4,
+        "width": 1920,
+        "height": 1080,
+        "author": "Enrique Silva",
+        "pexels_url": "https://www.pexels.com/video/an-empty-hospital-hallway-5203510/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\burden02-1.jpg",
+        "files": [
+          {
+            "id": 9637793,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/5203510/5203510-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 9637864,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 59.94,
+            "link": "https://videos.pexels.com/video-files/5203510/5203510-hd_1280_720_60fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 5203511,
+        "duration_seconds": 5,
+        "width": 1920,
+        "height": 1080,
+        "author": "Enrique Silva",
+        "pexels_url": "https://www.pexels.com/video/an-empty-hospital-hallway-5203511/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\burden02-2.jpg",
+        "files": [
+          {
+            "id": 9637598,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/5203511/5203511-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 9637474,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 59.94,
+            "link": "https://videos.pexels.com/video-files/5203511/5203511-hd_1280_720_60fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 10577776,
+        "duration_seconds": 44,
+        "width": 2720,
+        "height": 1530,
+        "author": "Vincuk Konan",
+        "pexels_url": "https://www.pexels.com/video/narrow-corridor-under-lights-10577776/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\burden02-3.jpg",
+        "files": [
+          {
+            "id": 4683854,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/10577776/10577776-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 4683852,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/10577776/10577776-hd_1280_720_30fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "burden03",
+    "query": "middle aged woman sitting alone living room daylight",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 8860996,
+        "duration_seconds": 42,
+        "width": 4096,
+        "height": 2160,
+        "author": "cottonbro studio",
+        "pexels_url": "https://www.pexels.com/video/an-elderly-woman-sitting-on-an-armchair-8860996/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\burden03-0.jpg",
+        "files": [
+          {
+            "id": 10977188,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/8860996/8860996-hd_1366_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 36469981,
+        "duration_seconds": 80,
+        "width": 1920,
+        "height": 1080,
+        "author": "dp singh Bhullar",
+        "pexels_url": "https://www.pexels.com/video/indoor-scene-of-a-woman-watching-tv-36469981/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\burden03-1.jpg",
+        "files": [
+          {
+            "id": 15464640,
+            "quality": null,
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 59.94,
+            "link": "https://videos.pexels.com/video-files/36469981/15464640_1920_1080_60fps.mp4"
+          },
+          {
+            "id": 15464639,
+            "quality": null,
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 59.94,
+            "link": "https://videos.pexels.com/video-files/36469981/15464639_1280_720_60fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 6638391,
+        "duration_seconds": 22,
+        "width": 4096,
+        "height": 2160,
+        "author": "www.kaboompics.com",
+        "pexels_url": "https://www.pexels.com/video/a-woman-eating-a-chocolate-muffin-6638391/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\burden03-2.jpg",
+        "files": [
+          {
+            "id": 10118122,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6638391/6638391-hd_1366_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 8865384,
+        "duration_seconds": 8,
+        "width": 1920,
+        "height": 1080,
+        "author": "RDNE Stock project",
+        "pexels_url": "https://www.pexels.com/video/a-woman-drinking-water-with-sadness-on-face-8865384/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\burden03-3.jpg",
+        "files": [
+          {
+            "id": 10978565,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/8865384/8865384-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 10978541,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/8865384/8865384-hd_1280_720_30fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "support01",
+    "query": "two mature women talking at home",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 8086622,
+        "duration_seconds": 23,
+        "width": 4096,
+        "height": 2160,
+        "author": "Yaroslav Shuraev",
+        "pexels_url": "https://www.pexels.com/video/elderly-women-laughing-while-having-conversation-8086622/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\support01-0.jpg",
+        "files": [
+          {
+            "id": 10687450,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 24.0,
+            "link": "https://videos.pexels.com/video-files/8086622/8086622-hd_1366_720_24fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 5516401,
+        "duration_seconds": 9,
+        "width": 3840,
+        "height": 2160,
+        "author": "Anna Shvets",
+        "pexels_url": "https://www.pexels.com/video/senior-women-talking-to-each-other-5516401/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\support01-1.jpg",
+        "files": [
+          {
+            "id": 9718652,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/5516401/5516401-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 9718447,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 59.94,
+            "link": "https://videos.pexels.com/video-files/5516401/5516401-hd_1280_720_60fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 6715969,
+        "duration_seconds": 8,
+        "width": 2688,
+        "height": 1512,
+        "author": "Kampus Production",
+        "pexels_url": "https://www.pexels.com/video/two-women-making-a-list-while-sitting-on-a-sofa-6715969/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\support01-2.jpg",
+        "files": [
+          {
+            "id": 10154599,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6715969/6715969-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 10154570,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6715969/6715969-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 5709680,
+        "duration_seconds": 13,
+        "width": 1920,
+        "height": 1080,
+        "author": "olia danilevich",
+        "pexels_url": "https://www.pexels.com/video/women-talking-while-holding-cups-of-coffee-5709680/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\support01-3.jpg",
+        "files": [
+          {
+            "id": 9777606,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5709680/5709680-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9777705,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5709680/5709680-hd_1280_720_25fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "support02",
+    "query": "woman serving coffee to friend",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 4919457,
+        "duration_seconds": 8,
+        "width": 1920,
+        "height": 1080,
+        "author": "RDNE Stock project",
+        "pexels_url": "https://www.pexels.com/video/a-waiter-serving-a-cup-of-coffee-4919457/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\support02-0.jpg",
+        "files": [
+          {
+            "id": 9577345,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/4919457/4919457-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 9577359,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 59.94,
+            "link": "https://videos.pexels.com/video-files/4919457/4919457-hd_1280_720_60fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 6263298,
+        "duration_seconds": 10,
+        "width": 1920,
+        "height": 1080,
+        "author": "Uriel Mont",
+        "pexels_url": "https://www.pexels.com/video/couple-talking-together-6263298/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\support02-1.jpg",
+        "files": [
+          {
+            "id": 9981431,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6263298/6263298-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9981391,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6263298/6263298-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 4374488,
+        "duration_seconds": 9,
+        "width": 3840,
+        "height": 2160,
+        "author": "Ketut Subiyanto",
+        "pexels_url": "https://www.pexels.com/video/women-talking-to-each-other-4374488/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\support02-2.jpg",
+        "files": [
+          {
+            "id": 9515714,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/4374488/4374488-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9515623,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/4374488/4374488-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 6900577,
+        "duration_seconds": 9,
+        "width": 3840,
+        "height": 2160,
+        "author": "ArtHouse Studio",
+        "pexels_url": "https://www.pexels.com/video/a-couple-having-coffee-at-the-kitchen-6900577/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\support02-3.jpg",
+        "files": [
+          {
+            "id": 10219882,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 24.0,
+            "link": "https://videos.pexels.com/video-files/6900577/6900577-hd_1920_1080_24fps.mp4"
+          },
+          {
+            "id": 10219832,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 24.0,
+            "link": "https://videos.pexels.com/video-files/6900577/6900577-hd_1280_720_24fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "support03",
+    "query": "woman sending message smartphone close up",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 34786856,
+        "duration_seconds": 6,
+        "width": 3840,
+        "height": 2160,
+        "author": "Sambhaji Gaikwad",
+        "pexels_url": "https://www.pexels.com/video/close-up-of-mobile-device-with-text-notification-34786856/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\support03-0.jpg",
+        "files": [
+          {
+            "id": 14748770,
+            "quality": null,
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 50.0,
+            "link": "https://videos.pexels.com/video-files/34786856/14748770_1920_1080_50fps.mp4"
+          },
+          {
+            "id": 14748769,
+            "quality": null,
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 50.0,
+            "link": "https://videos.pexels.com/video-files/34786856/14748769_1280_720_50fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 34786893,
+        "duration_seconds": 7,
+        "width": 3840,
+        "height": 2160,
+        "author": "Sambhaji Gaikwad",
+        "pexels_url": "https://www.pexels.com/video/closeup-of-mobile-with-green-text-bubble-34786893/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\support03-1.jpg",
+        "files": [
+          {
+            "id": 14748788,
+            "quality": null,
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 50.0,
+            "link": "https://videos.pexels.com/video-files/34786893/14748788_1920_1080_50fps.mp4"
+          },
+          {
+            "id": 14748787,
+            "quality": null,
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 50.0,
+            "link": "https://videos.pexels.com/video-files/34786893/14748787_1280_720_50fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 7120149,
+        "duration_seconds": 16,
+        "width": 4096,
+        "height": 2160,
+        "author": "cottonbro studio",
+        "pexels_url": "https://www.pexels.com/video/a-woman-listening-to-a-voice-message-7120149/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\support03-2.jpg",
+        "files": [
+          {
+            "id": 10314163,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7120149/7120149-hd_1366_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 6963836,
+        "duration_seconds": 22,
+        "width": 4096,
+        "height": 2160,
+        "author": "cottonbro studio",
+        "pexels_url": "https://www.pexels.com/video/female-typing-on-her-smartphone-6963836/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\support03-3.jpg",
+        "files": [
+          {
+            "id": 10255210,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6963836/6963836-hd_1366_720_25fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "release01",
+    "query": "middle aged woman walking quiet street",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 7816450,
+        "duration_seconds": 20,
+        "width": 1920,
+        "height": 1080,
+        "author": "Pavel Danilyuk",
+        "pexels_url": "https://www.pexels.com/video/a-woman-walking-on-a-sidewalk-7816450/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\release01-0.jpg",
+        "files": [
+          {
+            "id": 10588348,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7816450/7816450-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 10588331,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7816450/7816450-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 6871944,
+        "duration_seconds": 10,
+        "width": 3840,
+        "height": 2160,
+        "author": "Teona Swift",
+        "pexels_url": "https://www.pexels.com/video/woman-crossing-the-street-6871944/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\release01-1.jpg",
+        "files": [
+          {
+            "id": 10211737,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/6871944/6871944-hd_1920_1080_24fps.mp4"
+          },
+          {
+            "id": 10211677,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/6871944/6871944-hd_1280_720_24fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 7224870,
+        "duration_seconds": 17,
+        "width": 3840,
+        "height": 2160,
+        "author": "MART  PRODUCTION",
+        "pexels_url": "https://www.pexels.com/video/a-woman-drinking-coffee-while-walking-in-the-street-7224870/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\release01-2.jpg",
+        "files": [
+          {
+            "id": 10352756,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7224870/7224870-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 10352796,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7224870/7224870-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 8970842,
+        "duration_seconds": 16,
+        "width": 3840,
+        "height": 2160,
+        "author": "SHVETS production",
+        "pexels_url": "https://www.pexels.com/video/elderly-couple-walking-on-street-8970842/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\release01-3.jpg",
+        "files": [
+          {
+            "id": 11027751,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/8970842/8970842-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 11027619,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/8970842/8970842-hd_1280_720_25fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "release02",
+    "query": "opening door sunlight home",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 9218143,
+        "duration_seconds": 15,
+        "width": 1920,
+        "height": 1080,
+        "author": "PNW Production",
+        "pexels_url": "https://www.pexels.com/video/a-female-person-picking-up-paper-bags-on-a-floor-9218143/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\release02-0.jpg",
+        "files": [
+          {
+            "id": 11077614,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/9218143/9218143-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 11077684,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 59.94,
+            "link": "https://videos.pexels.com/video-files/9218143/9218143-hd_1280_720_60fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 37310319,
+        "duration_seconds": 14,
+        "width": 2286,
+        "height": 1286,
+        "author": "David Grünwald",
+        "pexels_url": "https://www.pexels.com/video/man-enjoying-scenic-view-from-balcony-37310319/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\release02-1.jpg",
+        "files": [
+          {
+            "id": 15804047,
+            "quality": null,
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30.0,
+            "link": "https://videos.pexels.com/video-files/37310319/15804047_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 15804046,
+            "quality": null,
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 30.0,
+            "link": "https://videos.pexels.com/video-files/37310319/15804046_1280_720_30fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 4729838,
+        "duration_seconds": 19,
+        "width": 2560,
+        "height": 1440,
+        "author": "Martina Tomšič",
+        "pexels_url": "https://www.pexels.com/video/woman-walking-while-holding-a-guitar-4729838/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\release02-2.jpg",
+        "files": [
+          {
+            "id": 9556660,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30.0,
+            "link": "https://videos.pexels.com/video-files/4729838/4729838-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 9556291,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 60.0,
+            "link": "https://videos.pexels.com/video-files/4729838/4729838-hd_1280_720_60fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 7593532,
+        "duration_seconds": 16,
+        "width": 4481,
+        "height": 2160,
+        "author": "ROMAN ODINTSOV",
+        "pexels_url": "https://www.pexels.com/video/a-world-map-on-the-wall-inside-the-house-7593532/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\release02-3.jpg",
+        "files": []
+      }
+    ]
+  },
+  {
+    "slot": "release03",
+    "query": "woman praying quietly at home",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 6194389,
+        "duration_seconds": 17,
+        "width": 3840,
+        "height": 2160,
+        "author": "Askar Abayev",
+        "pexels_url": "https://www.pexels.com/video/video-of-woman-praying-6194389/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\release03-0.jpg",
+        "files": [
+          {
+            "id": 9955564,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6194389/6194389-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9955629,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6194389/6194389-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 6207534,
+        "duration_seconds": 12,
+        "width": 1920,
+        "height": 1080,
+        "author": "Ivan S",
+        "pexels_url": "https://www.pexels.com/video/a-woman-in-a-headwrap-praying-on-the-side-of-a-bed-6207534/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\release03-1.jpg",
+        "files": [
+          {
+            "id": 9960081,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6207534/6207534-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9960016,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6207534/6207534-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 5199721,
+        "duration_seconds": 7,
+        "width": 3840,
+        "height": 2160,
+        "author": "Tima Miroshnichenko",
+        "pexels_url": "https://www.pexels.com/video/woman-sitting-on-her-bed-while-praying-5199721/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\release03-2.jpg",
+        "files": [
+          {
+            "id": 9454277,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5199721/5199721-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9454031,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5199721/5199721-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 5199723,
+        "duration_seconds": 16,
+        "width": 3840,
+        "height": 2160,
+        "author": "Tima Miroshnichenko",
+        "pexels_url": "https://www.pexels.com/video/close-up-view-of-woman-in-white-knitted-sweater-praying-5199723/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\release03-3.jpg",
+        "files": [
+          {
+            "id": 9454601,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5199723/5199723-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9454499,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5199723/5199723-hd_1280_720_25fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "steps01",
+    "query": "woman writing journal checklist close up",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 5717426,
+        "duration_seconds": 29,
+        "width": 1920,
+        "height": 1080,
+        "author": "Polina ⠀",
+        "pexels_url": "https://www.pexels.com/video/close-up-view-of-a-person-writing-her-new-year-s-resolution-5717426/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\steps01-0.jpg",
+        "files": [
+          {
+            "id": 9780004,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5717426/5717426-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9779869,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5717426/5717426-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 6878213,
+        "duration_seconds": 21,
+        "width": 4096,
+        "height": 2160,
+        "author": "cottonbro studio",
+        "pexels_url": "https://www.pexels.com/video/man-making-his-schedule-6878213/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\steps01-1.jpg",
+        "files": [
+          {
+            "id": 10216011,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6878213/6878213-hd_1366_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 5900627,
+        "duration_seconds": 24,
+        "width": 4096,
+        "height": 2160,
+        "author": "ROMAN ODINTSOV",
+        "pexels_url": "https://www.pexels.com/video/hand-writing-a-list-5900627/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\steps01-2.jpg",
+        "files": [
+          {
+            "id": 9846161,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/5900627/5900627-hd_1366_720_30fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 7260650,
+        "duration_seconds": 27,
+        "width": 1920,
+        "height": 1080,
+        "author": "Los Muertos Crew",
+        "pexels_url": "https://www.pexels.com/video/a-woman-writing-on-her-journal-7260650/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\steps01-3.jpg",
+        "files": [
+          {
+            "id": 10369759,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/7260650/7260650-hd_1920_1080_24fps.mp4"
+          },
+          {
+            "id": 10369795,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/7260650/7260650-hd_1280_720_24fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "steps02",
+    "query": "hands closing bible on table",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 5199852,
+        "duration_seconds": 10,
+        "width": 3840,
+        "height": 2160,
+        "author": "Tima Miroshnichenko",
+        "pexels_url": "https://www.pexels.com/video/close-up-view-of-a-person-holding-a-silver-cross-pendant-and-bible-5199852/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\steps02-0.jpg",
+        "files": [
+          {
+            "id": 9454072,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5199852/5199852-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 9454174,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/5199852/5199852-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 13011708,
+        "duration_seconds": 62,
+        "width": 1920,
+        "height": 1080,
+        "author": "LEONARDO DOURADO",
+        "pexels_url": "https://www.pexels.com/video/rosary-on-bible-13011708/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\steps02-1.jpg",
+        "files": [
+          {
+            "id": 11296397,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/13011708/13011708-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 11296327,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/13011708/13011708-hd_1280_720_30fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 6861297,
+        "duration_seconds": 14,
+        "width": 3840,
+        "height": 2160,
+        "author": "Tima Miroshnichenko",
+        "pexels_url": "https://www.pexels.com/video/a-person-picking-up-a-bible-and-a-pencil-6861297/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\steps02-2.jpg",
+        "files": [
+          {
+            "id": 10208980,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6861297/6861297-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 10208759,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6861297/6861297-hd_1280_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 7451826,
+        "duration_seconds": 10,
+        "width": 1920,
+        "height": 1080,
+        "author": "Danik Prihodko",
+        "pexels_url": "https://www.pexels.com/video/people-having-a-bible-study-7451826/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\steps02-3.jpg",
+        "files": [
+          {
+            "id": 10461293,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/7451826/7451826-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 10461249,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 59.94,
+            "link": "https://videos.pexels.com/video-files/7451826/7451826-hd_1280_720_60fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "steps03",
+    "query": "middle aged woman looking out window calm",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 7260692,
+        "duration_seconds": 11,
+        "width": 1920,
+        "height": 1080,
+        "author": "Los Muertos Crew",
+        "pexels_url": "https://www.pexels.com/video/a-woman-relaxing-in-a-hammock-chair-7260692/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\steps03-0.jpg",
+        "files": [
+          {
+            "id": 10370091,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/7260692/7260692-hd_1920_1080_24fps.mp4"
+          },
+          {
+            "id": 10370399,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 23.98,
+            "link": "https://videos.pexels.com/video-files/7260692/7260692-hd_1280_720_24fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 7225160,
+        "duration_seconds": 18,
+        "width": 4096,
+        "height": 2160,
+        "author": "cottonbro studio",
+        "pexels_url": "https://www.pexels.com/video/elderly-woman-looking-out-the-window-7225160/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\steps03-1.jpg",
+        "files": [
+          {
+            "id": 10352735,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/7225160/7225160-hd_1366_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 6262598,
+        "duration_seconds": 52,
+        "width": 4096,
+        "height": 2160,
+        "author": "cottonbro studio",
+        "pexels_url": "https://www.pexels.com/video/a-woman-looking-out-the-window-6262598/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\steps03-2.jpg",
+        "files": [
+          {
+            "id": 9981753,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6262598/6262598-hd_1366_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 4973665,
+        "duration_seconds": 8,
+        "width": 1920,
+        "height": 1080,
+        "author": "www.kaboompics.com",
+        "pexels_url": "https://www.pexels.com/video/an-excited-woman-waving-her-hand-4973665/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\steps03-3.jpg",
+        "files": [
+          {
+            "id": 9588493,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 30.0,
+            "link": "https://videos.pexels.com/video-files/4973665/4973665-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 9588298,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 30.0,
+            "link": "https://videos.pexels.com/video-files/4973665/4973665-hd_1280_720_30fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "close01",
+    "query": "bible on table sunset light",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 13011709,
+        "duration_seconds": 60,
+        "width": 1920,
+        "height": 1080,
+        "author": "LEONARDO DOURADO",
+        "pexels_url": "https://www.pexels.com/video/bible-on-bench-13011709/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\close01-0.jpg",
+        "files": [
+          {
+            "id": 5706351,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/13011709/13011709-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 5706352,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/13011709/13011709-hd_1280_720_30fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 13011708,
+        "duration_seconds": 62,
+        "width": 1920,
+        "height": 1080,
+        "author": "LEONARDO DOURADO",
+        "pexels_url": "https://www.pexels.com/video/rosary-on-bible-13011708/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\close01-1.jpg",
+        "files": [
+          {
+            "id": 11296397,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/13011708/13011708-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 11296327,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/13011708/13011708-hd_1280_720_30fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 4407802,
+        "duration_seconds": 6,
+        "width": 1920,
+        "height": 1080,
+        "author": "Zachary Will",
+        "pexels_url": "https://www.pexels.com/video/a-close-up-shot-of-a-bible-4407802/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\close01-2.jpg",
+        "files": [
+          {
+            "id": 9518767,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/4407802/4407802-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 9519570,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/4407802/4407802-hd_1280_720_30fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 4407800,
+        "duration_seconds": 7,
+        "width": 1920,
+        "height": 1080,
+        "author": "Zachary Will",
+        "pexels_url": "https://www.pexels.com/video/a-close-up-shot-of-a-bible-4407800/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\close01-3.jpg",
+        "files": [
+          {
+            "id": 9518985,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/4407800/4407800-hd_1920_1080_30fps.mp4"
+          },
+          {
+            "id": 9518897,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 29.97,
+            "link": "https://videos.pexels.com/video-files/4407800/4407800-hd_1280_720_30fps.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slot": "close02",
+    "query": "sunrise through window home",
+    "candidates": [
+      {
+        "index": 0,
+        "video_id": 6262591,
+        "duration_seconds": 29,
+        "width": 4096,
+        "height": 2160,
+        "author": "cottonbro studio",
+        "pexels_url": "https://www.pexels.com/video/couple-drinking-together-6262591/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\close02-0.jpg",
+        "files": [
+          {
+            "id": 9981446,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/6262591/6262591-hd_1366_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "video_id": 9902178,
+        "duration_seconds": 34,
+        "width": 4096,
+        "height": 2160,
+        "author": "Ron Lach",
+        "pexels_url": "https://www.pexels.com/video/tv-and-man-looking-through-window-9902178/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\close02-1.jpg",
+        "files": [
+          {
+            "id": 11189198,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/9902178/9902178-hd_1366_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "video_id": 10397845,
+        "duration_seconds": 52,
+        "width": 4096,
+        "height": 2160,
+        "author": "Ron Lach",
+        "pexels_url": "https://www.pexels.com/video/a-man-chatting-with-his-grandson-through-an-open-window-10397845/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\close02-2.jpg",
+        "files": [
+          {
+            "id": 11238781,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1366,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/10397845/10397845-hd_1366_720_25fps.mp4"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "video_id": 15671645,
+        "duration_seconds": 27,
+        "width": 1920,
+        "height": 1080,
+        "author": "Ammad Rasool",
+        "pexels_url": "https://www.pexels.com/video/a-woman-opening-the-curtains-and-looking-out-the-window-15671645/",
+        "thumbnail": "C:\\Users\\Vivia\\OneDrive\\Desktop\\Projeto Canais Dark\\operations\\a-palavra-que-cuida\\06_edicao\\piloto-001\\stock-previews\\close02-3.jpg",
+        "files": [
+          {
+            "id": 6468703,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1920,
+            "height": 1080,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/15671645/15671645-hd_1920_1080_25fps.mp4"
+          },
+          {
+            "id": 6468700,
+            "quality": "hd",
+            "file_type": "video/mp4",
+            "width": 1280,
+            "height": 720,
+            "fps": 25.0,
+            "link": "https://videos.pexels.com/video-files/15671645/15671645-hd_1280_720_25fps.mp4"
+          }
+        ]
+      }
+    ]
+  }
+]

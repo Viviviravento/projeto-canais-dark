@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "source_video": "video-003",
+  "rendered_editorial_derivatives": [
+    {
+      "derivative_id": "video-003-curto-01",
+      "title": "Presença antes da explicação",
+      "source_windows": [
+        {
+          "start": 542.449,
+          "end": 560.017
+        },
+        {
+          "start": 135.525,
+          "end": 180.658
+        },
+        {
+          "start": 216.85,
+          "end": 225.993
+        }
+      ],
+      "spoken_duration_seconds": 72.204,
+      "total_duration_seconds": 76.204,
+      "audio": "tools/OpenMontage/projects/a-palavra-que-cuida-video-003/public/audio/video-003-curto-01-narracao.wav",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-003/shorts/props/video-003-curto-01-shorts-e-tiktok.json",
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "video-003-curto-02",
+      "title": "Nem toda dor é castigo",
+      "source_windows": [
+        {
+          "start": 121.128,
+          "end": 134.836
+        },
+        {
+          "start": 58.655,
+          "end": 87.081
+        },
+        {
+          "start": 423.441,
+          "end": 460.966
+        }
+      ],
+      "spoken_duration_seconds": 80.019,
+      "total_duration_seconds": 84.019,
+      "audio": "tools/OpenMontage/projects/a-palavra-que-cuida-video-003/public/audio/video-003-curto-02-narracao.wav",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-003/shorts/props/video-003-curto-02-shorts-e-tiktok.json",
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    }
+  ],
+  "editorial_derivative_count": 2,
+  "physical_mp4_target_count": 2,
+  "paid_api_cost_usd": 0,
+  "method": "Narração e imagens aprovadas, alinhamento canônico, recomposição vertical manual e render local."
+}

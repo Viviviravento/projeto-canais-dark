@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-004",
+  "render": {
+    "file": "07_exports/video-004/a-infancia-de-jesus-o-que-a-biblia-diz-v1-review.mp4",
+    "sha256": "e8eee0f0cb193ce91c1363e92ff01d34724d6688a4044f2eee3e5eb8b713a14e",
+    "size_bytes": 604838149,
+    "duration_seconds": 707.456,
+    "video": {"codec": "h264", "width": 1920, "height": 1080, "fps": 30},
+    "audio": {"codec": "aac", "sample_rate_hz": 48000, "channels": 2}
+  },
+  "timing": {
+    "approved_master_audio_seconds": 707.38625,
+    "render_delta_seconds": 0.06975,
+    "result": "pass_frame_rounding_delta_only"
+  },
+  "audio_loudness": {
+    "integrated_lufs": -13.1,
+    "loudness_range_lu": 3.3,
+    "true_peak_dbfs": -1.4,
+    "result": "pass"
+  },
+  "visual_sampling": {
+    "result": "pass",
+    "frames": [
+      "06_edicao/video-004/qa-frames-v1/01-abertura.png",
+      "06_edicao/video-004/qa-frames-v1/02-citacao.png",
+      "06_edicao/video-004/qa-frames-v1/03-aplicacao.png",
+      "06_edicao/video-004/qa-frames-v1/04-tela-final.png"
+    ],
+    "checks": ["abertura legivel", "carta ACF completa", "aplicacao brasileira coerente", "duas areas de recomendacao na tela final"]
+  },
+  "human_sync_review": {
+    "result": "fail",
+    "reason": "A revisao humana identificou legendas progressivamente desalinhadas do audio. Ver incidente caption-timing-double-offset-v1.json."
+  },
+  "publication_status": "rejected_sync_defect_do_not_publish"
+}

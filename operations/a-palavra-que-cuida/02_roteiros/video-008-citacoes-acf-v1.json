@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-008",
+  "version": "video-008-citacoes-acf-v1",
+  "bible_version": {
+    "name": "Almeida Corrigida Fiel",
+    "abbreviation": "ACF",
+    "copyright_notice": "A Bíblia Sagrada - Almeida Corrigida Fiel (ACF), © 1994, 1995, 2007, 2011 Sociedade Bíblica Trinitariana do Brasil, Trinitarian Bible Society.",
+    "source_locators": [
+      "https://www.bibliaonline.com.br/acf/lc/22",
+      "https://www.bibliaonline.com.br/acf/jo/21"
+    ]
+  },
+  "direct_acf_citations": [
+    {
+      "reference": "Lucas 22:32",
+      "spoken_lead_in": "Lucas, capítulo vinte e dois, versículo trinta e dois, diz:",
+      "text": "Mas eu roguei por ti, para que a tua fé não desfaleça; e tu, quando te converteres, confirma teus irmãos."
+    },
+    {
+      "reference": "Lucas 22:61-62",
+      "spoken_lead_in": "Lucas, capítulo vinte e dois, versículos sessenta e um e sessenta e dois, diz:",
+      "text": "E, virando-se o Senhor, olhou para Pedro, e Pedro lembrou-se da palavra do Senhor, como lhe havia dito: Antes que o galo cante hoje, me negarás três vezes. E, saindo Pedro para fora, chorou amargamente."
+    },
+    {
+      "reference": "João 21:15",
+      "spoken_lead_in": "João, capítulo vinte e um, versículo quinze, diz:",
+      "text": "E, depois de terem jantado, disse Jesus a Simão Pedro: Simão, filho de Jonas, amas-me mais do que estes? E ele respondeu: Sim, Senhor, tu sabes que te amo. Disse-lhe: Apascenta os meus cordeiros."
+    },
+    {
+      "reference": "João 21:17",
+      "spoken_lead_in": "João, capítulo vinte e um, versículo dezessete, diz:",
+      "text": "Disse-lhe terceira vez: Simão, filho de Jonas, amas-me? Simão entristeceu-se por lhe ter dito terceira vez: Amas-me? E disse-lhe: Senhor, tu sabes tudo; tu sabes que eu te amo. Jesus disse-lhe: Apascenta as minhas ovelhas."
+    }
+  ],
+  "display_policy": {
+    "complete_reference_required": true,
+    "show_only_during_direct_verse_reading": true,
+    "do_not_show_when_book_or_reference_is_only_mentioned": true,
+    "normal_captions_may_continue_outside_direct_quote": true
+  }
+}

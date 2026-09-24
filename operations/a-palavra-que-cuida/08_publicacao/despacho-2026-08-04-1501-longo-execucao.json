@@ -1,0 +1,26 @@
+{
+  "dispatch": "manual_user_override_video_006_2026-08-04",
+  "received_at": "2026-08-04T15:00:00-03:00",
+  "completed_at": "2026-08-04T15:02:39-03:00",
+  "channel": "A Palavra Que Cuida",
+  "scheduled_content": {
+    "video_id": "video-006",
+    "title": "Marta e Maria: quando servir vira ansiedade",
+    "master": "operations/a-palavra-que-cuida/07_exports/video-006/marta-e-maria-quando-servir-vira-ansiedade-v1.mp4"
+  },
+  "result": "published_public",
+  "youtube_video_id": "YOvPj1Dy2sU",
+  "url": "https://youtu.be/YOvPj1Dy2sU",
+  "gates": {
+    "render_complete": "pass",
+    "user_publication_authorization": "pass",
+    "language_pt_br": "pass",
+    "made_for_kids_false": "pass",
+    "synthetic_media_disclosure": "pass",
+    "channel_comment": "pass"
+  },
+  "post_publication_followups": [
+    "Configurar elementos nativos da tela final no Studio.",
+    "Substituir a miniatura automática por miniatura personalizada quando o arquivo aprovado estiver disponível."
+  ]
+}

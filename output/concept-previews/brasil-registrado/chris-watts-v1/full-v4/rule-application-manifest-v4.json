@@ -1,0 +1,188 @@
+{
+  "schema": "RuleApplicationManifest.v1",
+  "operation_id": "brasil-registrado-concept-preview",
+  "ledger_version": 32,
+  "stage": "master_render",
+  "format": "video_16_9",
+  "artifact": "CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V4.mp4",
+  "baseline_comparison": {
+    "approved_reference": "recovery-v1/CHRIS-WATTS-RECUPERACAO-AMOSTRA-V9.mp4",
+    "versions_compared": [
+      "production/build_preview.py",
+      "full-v2/build_full_episode_v2.py",
+      "full-v3/CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V3.mp4"
+    ],
+    "frozen_outside_scope": [
+      "whitelist de narração",
+      "moldura de porta",
+      "legenda por turno",
+      "voz Antonio a 1,11x"
+    ]
+  },
+  "applied_rules": [
+    {
+      "rule_id": "UNIVERSAL-AUDIO-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-GROWTH-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-SOURCE-SUFFICIENCY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-VISUAL-001",
+      "rule_version": 2,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-PILOT-BASELINE-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-NARRATIVE-IMMERSION-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-DOORBELL-FRAMING-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-DIALOGUE-PRIORITY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-FOREIGN-DIALOGUE-CAPTIONS-001",
+      "rule_version": 2,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-CONTENT-META-ISOLATION-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-CARD-DURATION-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-TRANSLATION-IDENTITY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-NAME-001",
+      "rule_version": 3,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-AUDIO-SPEED-001",
+      "rule_version": 2,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-NARRATION-MIX-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-WATTS-FULL-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-WATTS-RECOVERY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-ORIGINAL-AUDIO-INTELLIGIBILITY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-NARRATION-CADENCE-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-WATTS-FULL-RECOVERY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-DEAD-AIR-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-NARRATION-PROSODY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-NARRATIVE-CONTINUITY-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-VISUAL-SEMANTIC-SYNC-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    },
+    {
+      "rule_id": "BRG-WATTS-CLEAN-BODYCAM-001",
+      "rule_version": 1,
+      "status": "applied",
+      "evidence": "visual-script-v4.json; visual-timeline-v4.json; qa-full-v4.json; qa-visual-audit-v4.json"
+    }
+  ],
+  "applications": {
+    "semantic_sync": "Cada bloco possui foco, razão e unidades visuais declaradas; o validador falha sem a correspondência.",
+    "source_recovery": "Bodycam limpa e entrevista foram recuperadas de fontes já existentes; a sala do vizinho é limitada à evidência da própria câmera.",
+    "audio_language": "Somente o diálogo do vizinho mantém áudio estrangeiro, com 15 painéis PT-BR por turno.",
+    "narration_firewall": "A narração vem exclusivamente de whitelist por ID.",
+    "growth": "Abertura confirma o registro real; progressão vai da ausência à checagem, evidência, busca e desfecho; encerramento reforça a identidade e a ponte."
+  },
+  "evidence_to_produce": [
+    "visual-timeline-v4.json",
+    "qa-full-v4.json",
+    "qa-visual-audit-v4.json",
+    "qa-visual-contact-sheet-v4.jpg"
+  ],
+  "publication_clearance": "blocked_pending_human_review_and_rights_clearance"
+}

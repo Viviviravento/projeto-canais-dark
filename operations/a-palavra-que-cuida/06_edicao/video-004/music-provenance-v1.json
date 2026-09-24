@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "video_id": "video-004",
+  "asset": "tools/OpenMontage/remotion-composer/public/video-004/music/classical-6-jonny-s-mixkit.mp3",
+  "source_asset": "tools/OpenMontage/projects/a-palavra-que-cuida-video-003/public/music/classical-6-jonny-s-mixkit.mp3",
+  "track_name_from_local_asset": "Classical 6",
+  "creator_from_local_asset": "Jonny S",
+  "source": "Mixkit",
+  "source_page": "https://mixkit.co/free-stock-music/",
+  "license_page": "https://mixkit.co/license/",
+  "license_class": "Mixkit Stock Music Free License",
+  "youtube_use_allowed": true,
+  "commercial_use_allowed": true,
+  "attribution_required": false,
+  "optional_credit_used": true,
+  "verified_at": "2026-07-23",
+  "reuse_decision_at": "2026-07-26",
+  "evidence_note": "Reuso local da mesma faixa cuja licença oficial já foi verificada no vídeo 003; nenhuma nova chamada, licença ou custo foi criado."
+}

@@ -1,0 +1,186 @@
+{
+  "derivativeId": "video-004-curto-01",
+  "title": "A Bíblia não conta tudo sobre a infância de Jesus",
+  "platform": "universal",
+  "audioFile": "video-004-curtos/audio/video-004-curto-01-narracao.wav",
+  "spokenDurationSeconds": 65.158,
+  "endCardSeconds": 4.0,
+  "hook": "A Bíblia não conta tudo sobre a infância de Jesus",
+  "hookEndSeconds": 4.2,
+  "visuals": [
+    {
+      "start": 0.0,
+      "end": 7.0,
+      "asset": "video-004-curtos/images/historical/h01-jesus-no-templo-v1.png",
+      "focus": "67% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 7.0,
+      "end": 14.0,
+      "asset": "video-004-curtos/images/historical/h09-escuta-e-perguntas-v1.png",
+      "focus": "28% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 14.0,
+      "end": 21.0,
+      "asset": "video-004-curtos/images/historical/h05-casa-de-nazare-v1.png",
+      "focus": "28% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 21.0,
+      "end": 29.0,
+      "asset": "video-004-curtos/images/historical/h02-caminho-a-jerusalem-v1.png",
+      "focus": "47% 52%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 29.0,
+      "end": 41.0,
+      "asset": "video-004-curtos/images/historical/h04-retorno-a-nazare-v1.png",
+      "focus": "45% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 41.0,
+      "end": 49.0,
+      "asset": "video-004-curtos/images/brazil/b02-aprender-com-constancia-v1.png",
+      "focus": "73% 49%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 49.0,
+      "end": 57.0,
+      "asset": "video-004-curtos/images/brazil/b04-crescimento-em-dias-comuns-v1.png",
+      "focus": "75% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    },
+    {
+      "start": 57.0,
+      "end": 65.158,
+      "asset": "video-004-curtos/images/historical/h01-jesus-no-templo-v1.png",
+      "focus": "67% 50%",
+      "scale": 1.0,
+      "fit": "cover"
+    }
+  ],
+  "cues": [
+    {
+      "start": 0.08,
+      "end": 3.817,
+      "text": "Antes de entrar na história, precisamos separar duas coisas."
+    },
+    {
+      "start": 4.149,
+      "end": 6.128,
+      "text": "Uma é o que Lucas escreveu."
+    },
+    {
+      "start": 6.825,
+      "end": 10.351,
+      "text": "Outra é o que nós imaginamos a partir daí."
+    },
+    {
+      "start": 10.761,
+      "end": 14.111,
+      "text": "Mas os Evangelhos não fazem um diário desses anos."
+    },
+    {
+      "start": 14.532,
+      "end": 17.396,
+      "text": "Isso não quer dizer que aqueles anos foram vazios,"
+    },
+    {
+      "start": 17.76,
+      "end": 20.757,
+      "text": "mas que o texto não os narra em detalhe."
+    },
+    {
+      "start": 21.265,
+      "end": 24.549,
+      "text": "A fé não precisa transformar uma suposição bonita em"
+    },
+    {
+      "start": 24.582,
+      "end": 25.235,
+      "text": "certeza."
+    },
+    {
+      "start": 25.645,
+      "end": 28.387,
+      "text": "Lucas resume os primeiros anos com uma frase curta."
+    },
+    {
+      "start": 28.708,
+      "end": 32.268,
+      "text": "Lucas, capítulo dois, versículo quarenta, diz:"
+    },
+    {
+      "start": 32.776,
+      "end": 35.971,
+      "text": "\"E o menino crescia, e era fortalecido em espírito,"
+    },
+    {
+      "start": 36.204,
+      "end": 38.879,
+      "text": "e cheio de sabedoria; e a graça de Deus"
+    },
+    {
+      "start": 38.99,
+      "end": 40.096,
+      "text": "estava sobre ele.\""
+    },
+    {
+      "start": 40.759,
+      "end": 43.91,
+      "text": "Essa frase não nos oferece uma biografia completa."
+    },
+    {
+      "start": 44.486,
+      "end": 45.868,
+      "text": "Mas nos dá uma direção."
+    },
+    {
+      "start": 46.443,
+      "end": 50.49,
+      "text": "Jesus não aparece como uma figura distante da vida"
+    },
+    {
+      "start": 50.511,
+      "end": 53.487,
+      "text": "humana comum. O texto fala de crescimento,"
+    },
+    {
+      "start": 54.15,
+      "end": 58.75,
+      "text": "fortalecimento e sabedoria. Antes do sermão no monte,"
+    },
+    {
+      "start": 58.949,
+      "end": 62.674,
+      "text": "antes das multidões, antes dos milagres públicos,"
+    },
+    {
+      "start": 62.841,
+      "end": 65.008,
+      "text": "há uma criança que cresce."
+    }
+  ],
+  "scriptures": [
+    {
+      "start": 32.776,
+      "end": 40.096,
+      "text": "E o menino crescia, e era fortalecido em espírito, e cheio de sabedoria; e a graça de Deus estava sobre ele.",
+      "reference": "Lucas 2:40 — ACF"
+    }
+  ]
+}

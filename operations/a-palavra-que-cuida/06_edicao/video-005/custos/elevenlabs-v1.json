@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0.0",
+  "quote_id": "v005-elevenlabs-v1-20260727",
+  "provider": "ElevenLabs",
+  "model": "eleven_multilingual_v2",
+  "operation": "full nine-block narration for video-005 using independent requests and 1.05x local postprocess",
+  "unit": "provider credit",
+  "quantity": 9364,
+  "expected_subscription_credits": 9364,
+  "maximum_subscription_credits": 10000,
+  "currency": "USD",
+  "expected_incremental_cash_charge": 0.0,
+  "maximum_incremental_cash_charge": 0.0,
+  "price_checked_at": "2026-07-27T00:00:00-03:00",
+  "price_source": "Authenticated ElevenLabs Creator subscription dashboard checked in this Codex session; included credits available before generation.",
+  "subscription_snapshot": {
+    "tier": "Creator",
+    "credits_remaining_last_observed": 121154,
+    "monthly_usage_limit_configured_by_user": 20,
+    "sufficient_for_full_narration": true
+  },
+  "status": "reconciled",
+  "approval": {
+    "approved_at": "2026-07-28T00:00:21.405967+00:00",
+    "user_statement": "tranquilo pode continuar",
+    "scope": "Generate only the full narration for video-005 up to 10,000 subscription credits. No automatic retry and no incremental cash charge."
+  },
+  "metadata": {
+    "manifest": "operations/a-palavra-que-cuida/02_roteiros/video-005-performance-v1.json",
+    "citation_manifest": "operations/a-palavra-que-cuida/02_roteiros/video-005-citacoes-acf-v1.json",
+    "request_stitching": false,
+    "context_mode": "independent_blocks",
+    "dry_run_characters_sent": 9364,
+    "previous_estimate_rejected": "The prior 5,000-credit cap was too low for the actual ElevenLabs character count reported by the generation builder dry-run.",
+    "automatic_retry": false,
+    "postprocess_after_generation": "1.05x preserving pitch before master alignment"
+  },
+  "observed_subscription_credits": 5151
+}

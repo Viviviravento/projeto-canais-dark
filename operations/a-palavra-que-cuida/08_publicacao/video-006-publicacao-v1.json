@@ -1,0 +1,85 @@
+{
+  "schema_version": 2,
+  "video_id": "video-006",
+  "channel": "A Palavra Que Cuida",
+  "status": "published_public",
+  "published_video": {
+    "youtube_video_id": "YOvPj1Dy2sU",
+    "url": "https://youtu.be/YOvPj1Dy2sU",
+    "published_at": "2026-08-04T15:01:33-03:00",
+    "visibility": "public",
+    "publication_authorization": "User instruction to publish immediately on 2026-08-04."
+  },
+  "title": "Marta e Maria: quando servir vira ansiedade",
+  "description": "Marta e Maria não são uma guerra entre fazer e ouvir. Nesta reflexão sobre Lucas 10:38-42, vemos o que acontece quando o cuidado vira ansiedade, a responsabilidade vira ressentimento e a pessoa que serve perde a capacidade de estar presente para Jesus.\n\nO texto não transforma Marta em vilã nem Maria em desculpa para negligenciar responsabilidades. Ele nos convida a olhar para a sobrecarga com honestidade: algumas tarefas precisam ser divididas, alguns limites precisam ser estabelecidos e o coração também precisa reencontrar a presença de Cristo.\n\nSe você se sente cansada, ansiosa ou responsável por tudo, esta palavra é para você. Que a boa parte não seja perdida no meio de muitas coisas.\n\n📖 Textos bíblicos: Lucas 10:38-42; João 11:5 (ACF)\n\nEste é o canal A Palavra Que Cuida: reflexões bíblicas para dias reais, com clareza, consolo e responsabilidade.\n\n#MartaEMaria #Ansiedade #ReflexaoBiblica #Jesus #Biblia",
+  "hashtags": [
+    "#MartaEMaria",
+    "#Ansiedade",
+    "#ReflexaoBiblica",
+    "#Jesus",
+    "#Biblia"
+  ],
+  "tags": [
+    "Marta e Maria",
+    "Lucas 10",
+    "ansiedade na Bíblia",
+    "reflexão bíblica",
+    "Jesus",
+    "evangelho",
+    "vida cristã",
+    "sobrecarga",
+    "descanso",
+    "ACF"
+  ],
+  "youtube_settings": {
+    "visibility": "public",
+    "made_for_kids": false,
+    "video_language": "pt-BR",
+    "title_and_description_language": "pt-BR",
+    "altered_or_synthetic_content": true,
+    "allow_comments": true,
+    "public_stats_viewable": true,
+    "license": "youtube",
+    "category_id": "27",
+    "category_label": "Education",
+    "notify_subscribers": true
+  },
+  "files": {
+    "master": "operations/a-palavra-que-cuida/07_exports/video-006/marta-e-maria-quando-servir-vira-ansiedade-v1.mp4",
+    "script": "operations/a-palavra-que-cuida/02_roteiros/video-006-roteiro-v1.md",
+    "brief": "operations/a-palavra-que-cuida/01_briefs/video-006-marta-e-maria-v1.md",
+    "acf_manifest": "operations/a-palavra-que-cuida/02_roteiros/video-006-citacoes-acf-v1.json"
+  },
+  "technical_identity": {
+    "duration_seconds": 844.821333,
+    "resolution": "1920x1080",
+    "frame_rate": 30,
+    "master_sha256": "3F9DFEC801313C0CD3744E892AF6E0FD53AFA385C679E2858EE9A806A934EC8D"
+  },
+  "channel_comment": {
+    "status": "posted",
+    "comment_id": "UgxlD4jyUMK4b1xRkDZ4AaABAg",
+    "text": "Marta e Maria não nos colocam diante de uma escolha simples entre servir e parar. O que tem pesado mais para você: a responsabilidade de cuidar de tudo ou a culpa de descansar? Responda apenas se se sentir confortável."
+  },
+  "end_screen": {
+    "status": "pending_studio_configuration",
+    "target_video_ids": [
+      "iNo6atIbKf4",
+      "59G32W6bYx0"
+    ],
+    "note": "A API de upload confirmou a publicação, mas não configura elementos nativos da tela final."
+  },
+  "thumbnail": {
+    "status": "platform_auto_generated",
+    "custom_thumbnail": false
+  },
+  "pre_publication_checks": {
+    "render_complete": "pass",
+    "master_1080p": "pass",
+    "public_visibility_verified": "pass_yutu_video_list",
+    "language_metadata_pt_br": "pass",
+    "synthetic_content_disclosure": "pass",
+    "channel_comment": "pass_posted_and_public",
+    "human_master_review": "user_authorized_publication_2026-08-04"
+  }
+}

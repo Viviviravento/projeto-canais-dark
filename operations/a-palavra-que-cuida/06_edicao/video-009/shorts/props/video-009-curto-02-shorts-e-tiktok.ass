@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Caption,Arial,54,&H00FFFFFF,&H0000D7FF,&HDD000000,&H99000000,-1,0,0,0,100,100,0,0,3,2.5,1,2,85,85,215,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.08,0:00:03.03,Caption,,0,0,0,,Em certo momento, Jesus pede que a mulher chame
+Dialogue: 0,0:00:02.97,0:00:04.96,Caption,,0,0,0,,o marido. Ela responde:
+Dialogue: 0,0:00:05.46,0:00:08.76,Caption,,0,0,0,,não tenho marido. Jesus confirma que ela disse a
+Dialogue: 0,0:00:08.71,0:00:12.17,Caption,,0,0,0,,verdade e fala de sua história de relacionamentos.
+Dialogue: 0,0:00:12.66,0:00:17.27,Caption,,0,0,0,,João, capítulo quatro, versículos dezessete e dezoito,
+Dialogue: 0,0:00:17.20,0:00:19.81,Caption,,0,0,0,,diz: "A mulher respondeu, e disse:
+Dialogue: 0,0:00:19.99,0:00:22.22,Caption,,0,0,0,,Não tenho marido. Disse-lhe Jesus:
+Dialogue: 0,0:00:22.65,0:00:27.43,Caption,,0,0,0,,Disseste bem: Não tenho marido; Porque tiveste cinco maridos,
+Dialogue: 0,0:00:27.61,0:00:30.07,Caption,,0,0,0,,e o que agora tens não é teu marido;
+Dialogue: 0,0:00:30.42,0:00:32.06,Caption,,0,0,0,,isto disseste com verdade."
+Dialogue: 0,0:00:33.10,0:00:35.99,Caption,,0,0,0,,É importante não colocar no texto o que ele
+Dialogue: 0,0:00:35.93,0:00:36.73,Caption,,0,0,0,,não explica.
+Dialogue: 0,0:00:37.85,0:00:41.12,Caption,,0,0,0,,João não diz por que esses relacionamentos terminaram.
+Dialogue: 0,0:00:41.43,0:00:43.62,Caption,,0,0,0,,Não diz o que a cidade pensava dela.
+Dialogue: 0,0:00:44.42,0:00:46.59,Caption,,0,0,0,,Não diz que ela foi ao poço para fugir
+Dialogue: 0,0:00:46.52,0:00:47.20,Caption,,0,0,0,,de alguém.
+Dialogue: 0,0:00:47.75,0:00:50.21,Caption,,0,0,0,,O que ele mostra é que Jesus conhece uma
+Dialogue: 0,0:00:50.20,0:00:52.96,Caption,,0,0,0,,parte da sua história e que ela não precisa
+Dialogue: 0,0:00:52.90,0:00:54.22,Caption,,0,0,0,,mentir diante dele.
+Dialogue: 0,0:00:54.53,0:00:57.23,Caption,,0,0,0,,Isso não autoriza ninguém a invadir sua vida.
+Dialogue: 0,0:00:57.81,0:01:00.35,Caption,,0,0,0,,Há verdades que precisam ser ditas a Deus,
+Dialogue: 0,0:01:00.56,0:01:03.48,Caption,,0,0,0,,a pessoas seguras, a quem foi ferido e,
+Dialogue: 0,0:01:03.42,0:01:06.14,Caption,,0,0,0,,quando necessário, a um profissional.

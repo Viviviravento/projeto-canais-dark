@@ -1,0 +1,14 @@
+{
+  "video_id": "video-004",
+  "detected_at": "2026-07-26",
+  "severity": "release_blocking",
+  "symptom": "Legendas progressivamente atrasadas em relacao ao audio no master de revisao v1.",
+  "root_cause": "O gerador somou block.start_seconds a character_start_times_seconds e character_end_times_seconds, embora o master-alignment ja forneca tempos absolutos para todos os blocos.",
+  "correction": "Gerar as legendas diretamente pelos tempos absolutos do master-alignment, em grupos curtos delimitados por pausa natural ou no maximo quatro palavras, e re-renderizar o master.",
+  "prevention": [
+    "Inspecionar o primeiro e o ultimo timestamp de cada bloco antes de transformar alinhamento em legenda.",
+    "Comparar pelo menos uma legenda do inicio, meio e fim contra a fala audivel antes de liberar revisao humana.",
+    "Nunca reutilizar uma funcao de alinhamento sem declarar se os tempos sao relativos ou absolutos."
+  ],
+  "publication_status": "v1_rejected_for_sync; do_not_publish"
+}

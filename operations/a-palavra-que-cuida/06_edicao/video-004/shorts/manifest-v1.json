@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source_video": "video-004",
+  "rendered_editorial_derivatives": [
+    {
+      "derivative_id": "video-004-curto-01",
+      "title": "A Bíblia não conta tudo sobre a infância de Jesus",
+      "source_windows": [
+        {
+          "start": 57.362,
+          "end": 67.863
+        },
+        {
+          "start": 85.304,
+          "end": 100.007
+        },
+        {
+          "start": 100.585,
+          "end": 140.178
+        }
+      ],
+      "spoken_duration_seconds": 65.158,
+      "total_duration_seconds": 69.158,
+      "audio": "tools/OpenMontage/projects/a-palavra-que-cuida-video-004/public/video-004-curtos/audio/video-004-curto-01-narracao.wav",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-004/shorts/props/video-004-curto-01-shorts-e-tiktok.json",
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "video-004-curto-02",
+      "title": "O detalhe que impede dois erros",
+      "source_windows": [
+        {
+          "start": 412.407,
+          "end": 475.972
+        }
+      ],
+      "spoken_duration_seconds": 63.565,
+      "total_duration_seconds": 67.565,
+      "audio": "tools/OpenMontage/projects/a-palavra-que-cuida-video-004/public/video-004-curtos/audio/video-004-curto-02-narracao.wav",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-004/shorts/props/video-004-curto-02-shorts-e-tiktok.json",
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    }
+  ],
+  "editorial_derivative_count": 2,
+  "physical_mp4_target_count": 2,
+  "paid_api_cost_usd": 0,
+  "method": "Narração e imagens aprovadas, alinhamento canônico, recomposição vertical manual em cover e render local."
+}

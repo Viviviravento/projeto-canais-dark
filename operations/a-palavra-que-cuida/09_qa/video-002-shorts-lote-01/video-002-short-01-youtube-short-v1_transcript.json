@@ -1,0 +1,1798 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 6.18,
+      "text": "Aqui precisamos fazer uma distin\u00e7\u00e3o importante, hoje a palavra ansiedade tamb\u00e9m descreve",
+      "words": [
+        {
+          "word": " Aqui",
+          "start": 0.0,
+          "end": 0.34,
+          "probability": 0.727
+        },
+        {
+          "word": " precisamos",
+          "start": 0.34,
+          "end": 0.78,
+          "probability": 0.974
+        },
+        {
+          "word": " fazer",
+          "start": 0.78,
+          "end": 1.06,
+          "probability": 0.995
+        },
+        {
+          "word": " uma",
+          "start": 1.06,
+          "end": 1.26,
+          "probability": 0.995
+        },
+        {
+          "word": " distin\u00e7\u00e3o",
+          "start": 1.26,
+          "end": 1.78,
+          "probability": 0.994
+        },
+        {
+          "word": " importante,",
+          "start": 1.78,
+          "end": 2.46,
+          "probability": 0.99
+        },
+        {
+          "word": " hoje",
+          "start": 3.08,
+          "end": 3.46,
+          "probability": 0.968
+        },
+        {
+          "word": " a",
+          "start": 3.46,
+          "end": 3.98,
+          "probability": 0.89
+        },
+        {
+          "word": " palavra",
+          "start": 3.98,
+          "end": 4.34,
+          "probability": 0.987
+        },
+        {
+          "word": " ansiedade",
+          "start": 4.34,
+          "end": 5.1,
+          "probability": 0.916
+        },
+        {
+          "word": " tamb\u00e9m",
+          "start": 5.1,
+          "end": 5.74,
+          "probability": 0.904
+        },
+        {
+          "word": " descreve",
+          "start": 5.74,
+          "end": 6.18,
+          "probability": 0.975
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 6.18,
+      "end": 12.78,
+      "text": "condi\u00e7\u00f5es de sa\u00fade que podem envolver medo intenso, sintomas f\u00edsicos, sofrimento prolongado",
+      "words": [
+        {
+          "word": " condi\u00e7\u00f5es",
+          "start": 6.18,
+          "end": 6.66,
+          "probability": 0.991
+        },
+        {
+          "word": " de",
+          "start": 6.66,
+          "end": 6.86,
+          "probability": 0.991
+        },
+        {
+          "word": " sa\u00fade",
+          "start": 6.86,
+          "end": 7.14,
+          "probability": 0.997
+        },
+        {
+          "word": " que",
+          "start": 7.14,
+          "end": 7.3,
+          "probability": 0.975
+        },
+        {
+          "word": " podem",
+          "start": 7.3,
+          "end": 7.56,
+          "probability": 0.996
+        },
+        {
+          "word": " envolver",
+          "start": 7.56,
+          "end": 8.28,
+          "probability": 0.995
+        },
+        {
+          "word": " medo",
+          "start": 8.28,
+          "end": 9.12,
+          "probability": 0.558
+        },
+        {
+          "word": " intenso,",
+          "start": 9.12,
+          "end": 9.72,
+          "probability": 0.967
+        },
+        {
+          "word": " sintomas",
+          "start": 10.28,
+          "end": 10.64,
+          "probability": 0.995
+        },
+        {
+          "word": " f\u00edsicos,",
+          "start": 10.64,
+          "end": 11.16,
+          "probability": 0.993
+        },
+        {
+          "word": " sofrimento",
+          "start": 11.78,
+          "end": 12.14,
+          "probability": 0.987
+        },
+        {
+          "word": " prolongado",
+          "start": 12.14,
+          "end": 12.78,
+          "probability": 0.989
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "start": 12.78,
+      "end": 16.8,
+      "text": "e preju\u00edzo na vida familiar, social ou profissional.",
+      "words": [
+        {
+          "word": " e",
+          "start": 12.78,
+          "end": 13.28,
+          "probability": 0.949
+        },
+        {
+          "word": " preju\u00edzo",
+          "start": 13.28,
+          "end": 13.74,
+          "probability": 0.976
+        },
+        {
+          "word": " na",
+          "start": 13.74,
+          "end": 13.88,
+          "probability": 0.982
+        },
+        {
+          "word": " vida",
+          "start": 13.88,
+          "end": 14.04,
+          "probability": 0.999
+        },
+        {
+          "word": " familiar,",
+          "start": 14.04,
+          "end": 14.56,
+          "probability": 0.992
+        },
+        {
+          "word": " social",
+          "start": 14.8,
+          "end": 15.5,
+          "probability": 0.997
+        },
+        {
+          "word": " ou",
+          "start": 15.5,
+          "end": 16.22,
+          "probability": 0.978
+        },
+        {
+          "word": " profissional.",
+          "start": 16.22,
+          "end": 16.8,
+          "probability": 0.995
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "start": 17.46,
+      "end": 23.96,
+      "text": "N\u00e3o \u00e9 honesto pegar uma palavra de um texto antigo, ignorar todo o contexto e concluir",
+      "words": [
+        {
+          "word": " N\u00e3o",
+          "start": 17.46,
+          "end": 17.72,
+          "probability": 0.983
+        },
+        {
+          "word": " \u00e9",
+          "start": 17.72,
+          "end": 17.84,
+          "probability": 0.997
+        },
+        {
+          "word": " honesto",
+          "start": 17.84,
+          "end": 18.24,
+          "probability": 0.984
+        },
+        {
+          "word": " pegar",
+          "start": 18.24,
+          "end": 18.44,
+          "probability": 0.991
+        },
+        {
+          "word": " uma",
+          "start": 18.44,
+          "end": 18.68,
+          "probability": 0.991
+        },
+        {
+          "word": " palavra",
+          "start": 18.68,
+          "end": 19.16,
+          "probability": 0.997
+        },
+        {
+          "word": " de",
+          "start": 19.16,
+          "end": 19.42,
+          "probability": 0.996
+        },
+        {
+          "word": " um",
+          "start": 19.42,
+          "end": 19.52,
+          "probability": 0.99
+        },
+        {
+          "word": " texto",
+          "start": 19.52,
+          "end": 19.84,
+          "probability": 0.994
+        },
+        {
+          "word": " antigo,",
+          "start": 19.84,
+          "end": 20.46,
+          "probability": 0.993
+        },
+        {
+          "word": " ignorar",
+          "start": 21.12,
+          "end": 21.94,
+          "probability": 0.995
+        },
+        {
+          "word": " todo",
+          "start": 21.94,
+          "end": 22.2,
+          "probability": 0.993
+        },
+        {
+          "word": " o",
+          "start": 22.2,
+          "end": 22.42,
+          "probability": 0.995
+        },
+        {
+          "word": " contexto",
+          "start": 22.42,
+          "end": 22.78,
+          "probability": 0.994
+        },
+        {
+          "word": " e",
+          "start": 22.78,
+          "end": 23.36,
+          "probability": 0.974
+        },
+        {
+          "word": " concluir",
+          "start": 23.36,
+          "end": 23.96,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "start": 23.96,
+      "end": 29.4,
+      "text": "a gente que quem enfrenta um transtorno de ansiedade est\u00e1 simplesmente desobedecendo",
+      "words": [
+        {
+          "word": " a",
+          "start": 23.96,
+          "end": 23.96,
+          "probability": 0.007
+        },
+        {
+          "word": " gente",
+          "start": 23.96,
+          "end": 23.96,
+          "probability": 0.305
+        },
+        {
+          "word": " que",
+          "start": 23.96,
+          "end": 24.5,
+          "probability": 0.624
+        },
+        {
+          "word": " quem",
+          "start": 24.5,
+          "end": 24.74,
+          "probability": 0.671
+        },
+        {
+          "word": " enfrenta",
+          "start": 24.74,
+          "end": 25.26,
+          "probability": 0.993
+        },
+        {
+          "word": " um",
+          "start": 25.26,
+          "end": 25.38,
+          "probability": 0.981
+        },
+        {
+          "word": " transtorno",
+          "start": 25.38,
+          "end": 26.04,
+          "probability": 0.993
+        },
+        {
+          "word": " de",
+          "start": 26.04,
+          "end": 26.3,
+          "probability": 0.998
+        },
+        {
+          "word": " ansiedade",
+          "start": 26.3,
+          "end": 26.96,
+          "probability": 0.999
+        },
+        {
+          "word": " est\u00e1",
+          "start": 26.96,
+          "end": 27.9,
+          "probability": 0.851
+        },
+        {
+          "word": " simplesmente",
+          "start": 27.9,
+          "end": 28.44,
+          "probability": 0.985
+        },
+        {
+          "word": " desobedecendo",
+          "start": 28.44,
+          "end": 29.4,
+          "probability": 0.935
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 29.4,
+      "end": 29.8,
+      "text": "a Jesus.",
+      "words": [
+        {
+          "word": " a",
+          "start": 29.4,
+          "end": 29.56,
+          "probability": 0.902
+        },
+        {
+          "word": " Jesus.",
+          "start": 29.56,
+          "end": 29.8,
+          "probability": 0.964
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "start": 30.52,
+      "end": 36.92,
+      "text": "Feia e tratamento n\u00e3o s\u00e3o rivais, procurar ajuda profissional, fazer psicoterapia ou",
+      "words": [
+        {
+          "word": " Feia",
+          "start": 30.52,
+          "end": 31.06,
+          "probability": 0.699
+        },
+        {
+          "word": " e",
+          "start": 31.06,
+          "end": 31.12,
+          "probability": 0.975
+        },
+        {
+          "word": " tratamento",
+          "start": 31.12,
+          "end": 31.5,
+          "probability": 0.994
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 31.5,
+          "end": 31.68,
+          "probability": 0.997
+        },
+        {
+          "word": " s\u00e3o",
+          "start": 31.68,
+          "end": 31.9,
+          "probability": 0.998
+        },
+        {
+          "word": " rivais,",
+          "start": 31.9,
+          "end": 32.34,
+          "probability": 0.991
+        },
+        {
+          "word": " procurar",
+          "start": 32.8,
+          "end": 33.32,
+          "probability": 0.988
+        },
+        {
+          "word": " ajuda",
+          "start": 33.32,
+          "end": 33.7,
+          "probability": 0.952
+        },
+        {
+          "word": " profissional,",
+          "start": 33.7,
+          "end": 34.44,
+          "probability": 0.998
+        },
+        {
+          "word": " fazer",
+          "start": 35.1,
+          "end": 35.42,
+          "probability": 0.999
+        },
+        {
+          "word": " psicoterapia",
+          "start": 35.42,
+          "end": 36.34,
+          "probability": 0.991
+        },
+        {
+          "word": " ou",
+          "start": 36.34,
+          "end": 36.92,
+          "probability": 0.91
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 36.92,
+      "end": 42.94,
+      "text": "seguir uma orienta\u00e7\u00e3o m\u00e9dica n\u00e3o significa que a pessoa deixou de confiar em Deus, pode",
+      "words": [
+        {
+          "word": " seguir",
+          "start": 36.92,
+          "end": 37.24,
+          "probability": 0.997
+        },
+        {
+          "word": " uma",
+          "start": 37.24,
+          "end": 37.46,
+          "probability": 0.997
+        },
+        {
+          "word": " orienta\u00e7\u00e3o",
+          "start": 37.46,
+          "end": 38.18,
+          "probability": 0.994
+        },
+        {
+          "word": " m\u00e9dica",
+          "start": 38.18,
+          "end": 38.66,
+          "probability": 0.985
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 38.66,
+          "end": 39.26,
+          "probability": 0.753
+        },
+        {
+          "word": " significa",
+          "start": 39.26,
+          "end": 39.7,
+          "probability": 0.999
+        },
+        {
+          "word": " que",
+          "start": 39.7,
+          "end": 40.12,
+          "probability": 0.998
+        },
+        {
+          "word": " a",
+          "start": 40.12,
+          "end": 40.2,
+          "probability": 0.997
+        },
+        {
+          "word": " pessoa",
+          "start": 40.2,
+          "end": 40.58,
+          "probability": 0.999
+        },
+        {
+          "word": " deixou",
+          "start": 40.58,
+          "end": 41.08,
+          "probability": 0.997
+        },
+        {
+          "word": " de",
+          "start": 41.08,
+          "end": 41.22,
+          "probability": 0.99
+        },
+        {
+          "word": " confiar",
+          "start": 41.22,
+          "end": 41.6,
+          "probability": 0.997
+        },
+        {
+          "word": " em",
+          "start": 41.6,
+          "end": 41.76,
+          "probability": 0.998
+        },
+        {
+          "word": " Deus,",
+          "start": 41.76,
+          "end": 41.96,
+          "probability": 0.998
+        },
+        {
+          "word": " pode",
+          "start": 42.46,
+          "end": 42.94,
+          "probability": 0.992
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 42.94,
+      "end": 47.2,
+      "text": "ser justamente uma forma respons\u00e1vel de cuidar da vida.",
+      "words": [
+        {
+          "word": " ser",
+          "start": 42.94,
+          "end": 43.22,
+          "probability": 0.995
+        },
+        {
+          "word": " justamente",
+          "start": 43.22,
+          "end": 43.72,
+          "probability": 0.984
+        },
+        {
+          "word": " uma",
+          "start": 43.72,
+          "end": 44.3,
+          "probability": 0.991
+        },
+        {
+          "word": " forma",
+          "start": 44.3,
+          "end": 44.72,
+          "probability": 0.998
+        },
+        {
+          "word": " respons\u00e1vel",
+          "start": 44.72,
+          "end": 45.6,
+          "probability": 0.994
+        },
+        {
+          "word": " de",
+          "start": 45.6,
+          "end": 46.44,
+          "probability": 0.996
+        },
+        {
+          "word": " cuidar",
+          "start": 46.44,
+          "end": 46.76,
+          "probability": 0.998
+        },
+        {
+          "word": " da",
+          "start": 46.76,
+          "end": 46.88,
+          "probability": 0.995
+        },
+        {
+          "word": " vida.",
+          "start": 46.88,
+          "end": 47.2,
+          "probability": 0.998
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 47.84,
+      "end": 55.48,
+      "text": "As palavras de Jesus n\u00e3o precisam ser usadas para envergonhar quem sofre, elas podem ser recebidas",
+      "words": [
+        {
+          "word": " As",
+          "start": 47.84,
+          "end": 48.3,
+          "probability": 0.794
+        },
+        {
+          "word": " palavras",
+          "start": 48.3,
+          "end": 48.62,
+          "probability": 0.995
+        },
+        {
+          "word": " de",
+          "start": 48.62,
+          "end": 48.84,
+          "probability": 0.99
+        },
+        {
+          "word": " Jesus",
+          "start": 48.84,
+          "end": 49.14,
+          "probability": 0.992
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 49.14,
+          "end": 49.86,
+          "probability": 0.984
+        },
+        {
+          "word": " precisam",
+          "start": 49.86,
+          "end": 50.46,
+          "probability": 0.996
+        },
+        {
+          "word": " ser",
+          "start": 50.46,
+          "end": 50.66,
+          "probability": 0.995
+        },
+        {
+          "word": " usadas",
+          "start": 50.66,
+          "end": 51.14,
+          "probability": 0.998
+        },
+        {
+          "word": " para",
+          "start": 51.14,
+          "end": 51.94,
+          "probability": 0.984
+        },
+        {
+          "word": " envergonhar",
+          "start": 51.94,
+          "end": 52.78,
+          "probability": 0.995
+        },
+        {
+          "word": " quem",
+          "start": 52.78,
+          "end": 53.08,
+          "probability": 0.993
+        },
+        {
+          "word": " sofre,",
+          "start": 53.08,
+          "end": 53.6,
+          "probability": 0.984
+        },
+        {
+          "word": " elas",
+          "start": 54.18,
+          "end": 54.32,
+          "probability": 0.951
+        },
+        {
+          "word": " podem",
+          "start": 54.32,
+          "end": 54.64,
+          "probability": 0.998
+        },
+        {
+          "word": " ser",
+          "start": 54.64,
+          "end": 54.9,
+          "probability": 0.987
+        },
+        {
+          "word": " recebidas",
+          "start": 54.9,
+          "end": 55.48,
+          "probability": 0.996
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 55.72,
+      "end": 63.44,
+      "text": "como um convite para que a preocupa\u00e7\u00e3o n\u00e3o tenha a palavra final sobre quem somos, sobre",
+      "words": [
+        {
+          "word": " como",
+          "start": 55.72,
+          "end": 56.18,
+          "probability": 0.994
+        },
+        {
+          "word": " um",
+          "start": 56.18,
+          "end": 56.32,
+          "probability": 0.962
+        },
+        {
+          "word": " convite",
+          "start": 56.32,
+          "end": 57.08,
+          "probability": 0.99
+        },
+        {
+          "word": " para",
+          "start": 57.08,
+          "end": 57.8,
+          "probability": 0.961
+        },
+        {
+          "word": " que",
+          "start": 57.8,
+          "end": 57.98,
+          "probability": 0.991
+        },
+        {
+          "word": " a",
+          "start": 57.98,
+          "end": 58.06,
+          "probability": 0.995
+        },
+        {
+          "word": " preocupa\u00e7\u00e3o",
+          "start": 58.06,
+          "end": 58.72,
+          "probability": 0.998
+        },
+        {
+          "word": " n\u00e3o",
+          "start": 58.72,
+          "end": 58.92,
+          "probability": 0.996
+        },
+        {
+          "word": " tenha",
+          "start": 58.92,
+          "end": 59.3,
+          "probability": 0.998
+        },
+        {
+          "word": " a",
+          "start": 59.3,
+          "end": 59.84,
+          "probability": 0.993
+        },
+        {
+          "word": " palavra",
+          "start": 59.84,
+          "end": 60.18,
+          "probability": 0.995
+        },
+        {
+          "word": " final",
+          "start": 60.18,
+          "end": 60.62,
+          "probability": 0.993
+        },
+        {
+          "word": " sobre",
+          "start": 60.62,
+          "end": 61.56,
+          "probability": 0.993
+        },
+        {
+          "word": " quem",
+          "start": 61.56,
+          "end": 61.84,
+          "probability": 0.99
+        },
+        {
+          "word": " somos,",
+          "start": 61.84,
+          "end": 62.32,
+          "probability": 0.996
+        },
+        {
+          "word": " sobre",
+          "start": 62.84,
+          "end": 63.44,
+          "probability": 0.994
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "start": 63.44,
+      "end": 68.94,
+      "text": "o valor da nossa vida e sobre onde colocamos nossa esperan\u00e7a.",
+      "words": [
+        {
+          "word": " o",
+          "start": 63.44,
+          "end": 63.54,
+          "probability": 0.998
+        },
+        {
+          "word": " valor",
+          "start": 63.54,
+          "end": 63.92,
+          "probability": 0.999
+        },
+        {
+          "word": " da",
+          "start": 63.92,
+          "end": 64.84,
+          "probability": 0.982
+        },
+        {
+          "word": " nossa",
+          "start": 64.84,
+          "end": 65.04,
+          "probability": 0.997
+        },
+        {
+          "word": " vida",
+          "start": 65.04,
+          "end": 65.44,
+          "probability": 0.999
+        },
+        {
+          "word": " e",
+          "start": 65.44,
+          "end": 66.24,
+          "probability": 0.761
+        },
+        {
+          "word": " sobre",
+          "start": 66.24,
+          "end": 66.46,
+          "probability": 0.995
+        },
+        {
+          "word": " onde",
+          "start": 66.46,
+          "end": 66.86,
+          "probability": 0.984
+        },
+        {
+          "word": " colocamos",
+          "start": 66.86,
+          "end": 67.6,
+          "probability": 0.991
+        },
+        {
+          "word": " nossa",
+          "start": 67.6,
+          "end": 68.22,
+          "probability": 0.972
+        },
+        {
+          "word": " esperan\u00e7a.",
+          "start": 68.22,
+          "end": 68.94,
+          "probability": 0.996
+        }
+      ]
+    }
+  ],
+  "word_timestamps": [
+    {
+      "word": " Aqui",
+      "start": 0.0,
+      "end": 0.34,
+      "probability": 0.727
+    },
+    {
+      "word": " precisamos",
+      "start": 0.34,
+      "end": 0.78,
+      "probability": 0.974
+    },
+    {
+      "word": " fazer",
+      "start": 0.78,
+      "end": 1.06,
+      "probability": 0.995
+    },
+    {
+      "word": " uma",
+      "start": 1.06,
+      "end": 1.26,
+      "probability": 0.995
+    },
+    {
+      "word": " distin\u00e7\u00e3o",
+      "start": 1.26,
+      "end": 1.78,
+      "probability": 0.994
+    },
+    {
+      "word": " importante,",
+      "start": 1.78,
+      "end": 2.46,
+      "probability": 0.99
+    },
+    {
+      "word": " hoje",
+      "start": 3.08,
+      "end": 3.46,
+      "probability": 0.968
+    },
+    {
+      "word": " a",
+      "start": 3.46,
+      "end": 3.98,
+      "probability": 0.89
+    },
+    {
+      "word": " palavra",
+      "start": 3.98,
+      "end": 4.34,
+      "probability": 0.987
+    },
+    {
+      "word": " ansiedade",
+      "start": 4.34,
+      "end": 5.1,
+      "probability": 0.916
+    },
+    {
+      "word": " tamb\u00e9m",
+      "start": 5.1,
+      "end": 5.74,
+      "probability": 0.904
+    },
+    {
+      "word": " descreve",
+      "start": 5.74,
+      "end": 6.18,
+      "probability": 0.975
+    },
+    {
+      "word": " condi\u00e7\u00f5es",
+      "start": 6.18,
+      "end": 6.66,
+      "probability": 0.991
+    },
+    {
+      "word": " de",
+      "start": 6.66,
+      "end": 6.86,
+      "probability": 0.991
+    },
+    {
+      "word": " sa\u00fade",
+      "start": 6.86,
+      "end": 7.14,
+      "probability": 0.997
+    },
+    {
+      "word": " que",
+      "start": 7.14,
+      "end": 7.3,
+      "probability": 0.975
+    },
+    {
+      "word": " podem",
+      "start": 7.3,
+      "end": 7.56,
+      "probability": 0.996
+    },
+    {
+      "word": " envolver",
+      "start": 7.56,
+      "end": 8.28,
+      "probability": 0.995
+    },
+    {
+      "word": " medo",
+      "start": 8.28,
+      "end": 9.12,
+      "probability": 0.558
+    },
+    {
+      "word": " intenso,",
+      "start": 9.12,
+      "end": 9.72,
+      "probability": 0.967
+    },
+    {
+      "word": " sintomas",
+      "start": 10.28,
+      "end": 10.64,
+      "probability": 0.995
+    },
+    {
+      "word": " f\u00edsicos,",
+      "start": 10.64,
+      "end": 11.16,
+      "probability": 0.993
+    },
+    {
+      "word": " sofrimento",
+      "start": 11.78,
+      "end": 12.14,
+      "probability": 0.987
+    },
+    {
+      "word": " prolongado",
+      "start": 12.14,
+      "end": 12.78,
+      "probability": 0.989
+    },
+    {
+      "word": " e",
+      "start": 12.78,
+      "end": 13.28,
+      "probability": 0.949
+    },
+    {
+      "word": " preju\u00edzo",
+      "start": 13.28,
+      "end": 13.74,
+      "probability": 0.976
+    },
+    {
+      "word": " na",
+      "start": 13.74,
+      "end": 13.88,
+      "probability": 0.982
+    },
+    {
+      "word": " vida",
+      "start": 13.88,
+      "end": 14.04,
+      "probability": 0.999
+    },
+    {
+      "word": " familiar,",
+      "start": 14.04,
+      "end": 14.56,
+      "probability": 0.992
+    },
+    {
+      "word": " social",
+      "start": 14.8,
+      "end": 15.5,
+      "probability": 0.997
+    },
+    {
+      "word": " ou",
+      "start": 15.5,
+      "end": 16.22,
+      "probability": 0.978
+    },
+    {
+      "word": " profissional.",
+      "start": 16.22,
+      "end": 16.8,
+      "probability": 0.995
+    },
+    {
+      "word": " N\u00e3o",
+      "start": 17.46,
+      "end": 17.72,
+      "probability": 0.983
+    },
+    {
+      "word": " \u00e9",
+      "start": 17.72,
+      "end": 17.84,
+      "probability": 0.997
+    },
+    {
+      "word": " honesto",
+      "start": 17.84,
+      "end": 18.24,
+      "probability": 0.984
+    },
+    {
+      "word": " pegar",
+      "start": 18.24,
+      "end": 18.44,
+      "probability": 0.991
+    },
+    {
+      "word": " uma",
+      "start": 18.44,
+      "end": 18.68,
+      "probability": 0.991
+    },
+    {
+      "word": " palavra",
+      "start": 18.68,
+      "end": 19.16,
+      "probability": 0.997
+    },
+    {
+      "word": " de",
+      "start": 19.16,
+      "end": 19.42,
+      "probability": 0.996
+    },
+    {
+      "word": " um",
+      "start": 19.42,
+      "end": 19.52,
+      "probability": 0.99
+    },
+    {
+      "word": " texto",
+      "start": 19.52,
+      "end": 19.84,
+      "probability": 0.994
+    },
+    {
+      "word": " antigo,",
+      "start": 19.84,
+      "end": 20.46,
+      "probability": 0.993
+    },
+    {
+      "word": " ignorar",
+      "start": 21.12,
+      "end": 21.94,
+      "probability": 0.995
+    },
+    {
+      "word": " todo",
+      "start": 21.94,
+      "end": 22.2,
+      "probability": 0.993
+    },
+    {
+      "word": " o",
+      "start": 22.2,
+      "end": 22.42,
+      "probability": 0.995
+    },
+    {
+      "word": " contexto",
+      "start": 22.42,
+      "end": 22.78,
+      "probability": 0.994
+    },
+    {
+      "word": " e",
+      "start": 22.78,
+      "end": 23.36,
+      "probability": 0.974
+    },
+    {
+      "word": " concluir",
+      "start": 23.36,
+      "end": 23.96,
+      "probability": 0.998
+    },
+    {
+      "word": " a",
+      "start": 23.96,
+      "end": 23.96,
+      "probability": 0.007
+    },
+    {
+      "word": " gente",
+      "start": 23.96,
+      "end": 23.96,
+      "probability": 0.305
+    },
+    {
+      "word": " que",
+      "start": 23.96,
+      "end": 24.5,
+      "probability": 0.624
+    },
+    {
+      "word": " quem",
+      "start": 24.5,
+      "end": 24.74,
+      "probability": 0.671
+    },
+    {
+      "word": " enfrenta",
+      "start": 24.74,
+      "end": 25.26,
+      "probability": 0.993
+    },
+    {
+      "word": " um",
+      "start": 25.26,
+      "end": 25.38,
+      "probability": 0.981
+    },
+    {
+      "word": " transtorno",
+      "start": 25.38,
+      "end": 26.04,
+      "probability": 0.993
+    },
+    {
+      "word": " de",
+      "start": 26.04,
+      "end": 26.3,
+      "probability": 0.998
+    },
+    {
+      "word": " ansiedade",
+      "start": 26.3,
+      "end": 26.96,
+      "probability": 0.999
+    },
+    {
+      "word": " est\u00e1",
+      "start": 26.96,
+      "end": 27.9,
+      "probability": 0.851
+    },
+    {
+      "word": " simplesmente",
+      "start": 27.9,
+      "end": 28.44,
+      "probability": 0.985
+    },
+    {
+      "word": " desobedecendo",
+      "start": 28.44,
+      "end": 29.4,
+      "probability": 0.935
+    },
+    {
+      "word": " a",
+      "start": 29.4,
+      "end": 29.56,
+      "probability": 0.902
+    },
+    {
+      "word": " Jesus.",
+      "start": 29.56,
+      "end": 29.8,
+      "probability": 0.964
+    },
+    {
+      "word": " Feia",
+      "start": 30.52,
+      "end": 31.06,
+      "probability": 0.699
+    },
+    {
+      "word": " e",
+      "start": 31.06,
+      "end": 31.12,
+      "probability": 0.975
+    },
+    {
+      "word": " tratamento",
+      "start": 31.12,
+      "end": 31.5,
+      "probability": 0.994
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 31.5,
+      "end": 31.68,
+      "probability": 0.997
+    },
+    {
+      "word": " s\u00e3o",
+      "start": 31.68,
+      "end": 31.9,
+      "probability": 0.998
+    },
+    {
+      "word": " rivais,",
+      "start": 31.9,
+      "end": 32.34,
+      "probability": 0.991
+    },
+    {
+      "word": " procurar",
+      "start": 32.8,
+      "end": 33.32,
+      "probability": 0.988
+    },
+    {
+      "word": " ajuda",
+      "start": 33.32,
+      "end": 33.7,
+      "probability": 0.952
+    },
+    {
+      "word": " profissional,",
+      "start": 33.7,
+      "end": 34.44,
+      "probability": 0.998
+    },
+    {
+      "word": " fazer",
+      "start": 35.1,
+      "end": 35.42,
+      "probability": 0.999
+    },
+    {
+      "word": " psicoterapia",
+      "start": 35.42,
+      "end": 36.34,
+      "probability": 0.991
+    },
+    {
+      "word": " ou",
+      "start": 36.34,
+      "end": 36.92,
+      "probability": 0.91
+    },
+    {
+      "word": " seguir",
+      "start": 36.92,
+      "end": 37.24,
+      "probability": 0.997
+    },
+    {
+      "word": " uma",
+      "start": 37.24,
+      "end": 37.46,
+      "probability": 0.997
+    },
+    {
+      "word": " orienta\u00e7\u00e3o",
+      "start": 37.46,
+      "end": 38.18,
+      "probability": 0.994
+    },
+    {
+      "word": " m\u00e9dica",
+      "start": 38.18,
+      "end": 38.66,
+      "probability": 0.985
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 38.66,
+      "end": 39.26,
+      "probability": 0.753
+    },
+    {
+      "word": " significa",
+      "start": 39.26,
+      "end": 39.7,
+      "probability": 0.999
+    },
+    {
+      "word": " que",
+      "start": 39.7,
+      "end": 40.12,
+      "probability": 0.998
+    },
+    {
+      "word": " a",
+      "start": 40.12,
+      "end": 40.2,
+      "probability": 0.997
+    },
+    {
+      "word": " pessoa",
+      "start": 40.2,
+      "end": 40.58,
+      "probability": 0.999
+    },
+    {
+      "word": " deixou",
+      "start": 40.58,
+      "end": 41.08,
+      "probability": 0.997
+    },
+    {
+      "word": " de",
+      "start": 41.08,
+      "end": 41.22,
+      "probability": 0.99
+    },
+    {
+      "word": " confiar",
+      "start": 41.22,
+      "end": 41.6,
+      "probability": 0.997
+    },
+    {
+      "word": " em",
+      "start": 41.6,
+      "end": 41.76,
+      "probability": 0.998
+    },
+    {
+      "word": " Deus,",
+      "start": 41.76,
+      "end": 41.96,
+      "probability": 0.998
+    },
+    {
+      "word": " pode",
+      "start": 42.46,
+      "end": 42.94,
+      "probability": 0.992
+    },
+    {
+      "word": " ser",
+      "start": 42.94,
+      "end": 43.22,
+      "probability": 0.995
+    },
+    {
+      "word": " justamente",
+      "start": 43.22,
+      "end": 43.72,
+      "probability": 0.984
+    },
+    {
+      "word": " uma",
+      "start": 43.72,
+      "end": 44.3,
+      "probability": 0.991
+    },
+    {
+      "word": " forma",
+      "start": 44.3,
+      "end": 44.72,
+      "probability": 0.998
+    },
+    {
+      "word": " respons\u00e1vel",
+      "start": 44.72,
+      "end": 45.6,
+      "probability": 0.994
+    },
+    {
+      "word": " de",
+      "start": 45.6,
+      "end": 46.44,
+      "probability": 0.996
+    },
+    {
+      "word": " cuidar",
+      "start": 46.44,
+      "end": 46.76,
+      "probability": 0.998
+    },
+    {
+      "word": " da",
+      "start": 46.76,
+      "end": 46.88,
+      "probability": 0.995
+    },
+    {
+      "word": " vida.",
+      "start": 46.88,
+      "end": 47.2,
+      "probability": 0.998
+    },
+    {
+      "word": " As",
+      "start": 47.84,
+      "end": 48.3,
+      "probability": 0.794
+    },
+    {
+      "word": " palavras",
+      "start": 48.3,
+      "end": 48.62,
+      "probability": 0.995
+    },
+    {
+      "word": " de",
+      "start": 48.62,
+      "end": 48.84,
+      "probability": 0.99
+    },
+    {
+      "word": " Jesus",
+      "start": 48.84,
+      "end": 49.14,
+      "probability": 0.992
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 49.14,
+      "end": 49.86,
+      "probability": 0.984
+    },
+    {
+      "word": " precisam",
+      "start": 49.86,
+      "end": 50.46,
+      "probability": 0.996
+    },
+    {
+      "word": " ser",
+      "start": 50.46,
+      "end": 50.66,
+      "probability": 0.995
+    },
+    {
+      "word": " usadas",
+      "start": 50.66,
+      "end": 51.14,
+      "probability": 0.998
+    },
+    {
+      "word": " para",
+      "start": 51.14,
+      "end": 51.94,
+      "probability": 0.984
+    },
+    {
+      "word": " envergonhar",
+      "start": 51.94,
+      "end": 52.78,
+      "probability": 0.995
+    },
+    {
+      "word": " quem",
+      "start": 52.78,
+      "end": 53.08,
+      "probability": 0.993
+    },
+    {
+      "word": " sofre,",
+      "start": 53.08,
+      "end": 53.6,
+      "probability": 0.984
+    },
+    {
+      "word": " elas",
+      "start": 54.18,
+      "end": 54.32,
+      "probability": 0.951
+    },
+    {
+      "word": " podem",
+      "start": 54.32,
+      "end": 54.64,
+      "probability": 0.998
+    },
+    {
+      "word": " ser",
+      "start": 54.64,
+      "end": 54.9,
+      "probability": 0.987
+    },
+    {
+      "word": " recebidas",
+      "start": 54.9,
+      "end": 55.48,
+      "probability": 0.996
+    },
+    {
+      "word": " como",
+      "start": 55.72,
+      "end": 56.18,
+      "probability": 0.994
+    },
+    {
+      "word": " um",
+      "start": 56.18,
+      "end": 56.32,
+      "probability": 0.962
+    },
+    {
+      "word": " convite",
+      "start": 56.32,
+      "end": 57.08,
+      "probability": 0.99
+    },
+    {
+      "word": " para",
+      "start": 57.08,
+      "end": 57.8,
+      "probability": 0.961
+    },
+    {
+      "word": " que",
+      "start": 57.8,
+      "end": 57.98,
+      "probability": 0.991
+    },
+    {
+      "word": " a",
+      "start": 57.98,
+      "end": 58.06,
+      "probability": 0.995
+    },
+    {
+      "word": " preocupa\u00e7\u00e3o",
+      "start": 58.06,
+      "end": 58.72,
+      "probability": 0.998
+    },
+    {
+      "word": " n\u00e3o",
+      "start": 58.72,
+      "end": 58.92,
+      "probability": 0.996
+    },
+    {
+      "word": " tenha",
+      "start": 58.92,
+      "end": 59.3,
+      "probability": 0.998
+    },
+    {
+      "word": " a",
+      "start": 59.3,
+      "end": 59.84,
+      "probability": 0.993
+    },
+    {
+      "word": " palavra",
+      "start": 59.84,
+      "end": 60.18,
+      "probability": 0.995
+    },
+    {
+      "word": " final",
+      "start": 60.18,
+      "end": 60.62,
+      "probability": 0.993
+    },
+    {
+      "word": " sobre",
+      "start": 60.62,
+      "end": 61.56,
+      "probability": 0.993
+    },
+    {
+      "word": " quem",
+      "start": 61.56,
+      "end": 61.84,
+      "probability": 0.99
+    },
+    {
+      "word": " somos,",
+      "start": 61.84,
+      "end": 62.32,
+      "probability": 0.996
+    },
+    {
+      "word": " sobre",
+      "start": 62.84,
+      "end": 63.44,
+      "probability": 0.994
+    },
+    {
+      "word": " o",
+      "start": 63.44,
+      "end": 63.54,
+      "probability": 0.998
+    },
+    {
+      "word": " valor",
+      "start": 63.54,
+      "end": 63.92,
+      "probability": 0.999
+    },
+    {
+      "word": " da",
+      "start": 63.92,
+      "end": 64.84,
+      "probability": 0.982
+    },
+    {
+      "word": " nossa",
+      "start": 64.84,
+      "end": 65.04,
+      "probability": 0.997
+    },
+    {
+      "word": " vida",
+      "start": 65.04,
+      "end": 65.44,
+      "probability": 0.999
+    },
+    {
+      "word": " e",
+      "start": 65.44,
+      "end": 66.24,
+      "probability": 0.761
+    },
+    {
+      "word": " sobre",
+      "start": 66.24,
+      "end": 66.46,
+      "probability": 0.995
+    },
+    {
+      "word": " onde",
+      "start": 66.46,
+      "end": 66.86,
+      "probability": 0.984
+    },
+    {
+      "word": " colocamos",
+      "start": 66.86,
+      "end": 67.6,
+      "probability": 0.991
+    },
+    {
+      "word": " nossa",
+      "start": 67.6,
+      "end": 68.22,
+      "probability": 0.972
+    },
+    {
+      "word": " esperan\u00e7a.",
+      "start": 68.22,
+      "end": 68.94,
+      "probability": 0.996
+    }
+  ],
+  "language": "pt",
+  "duration_seconds": 69.355,
+  "model_size": "small",
+  "device": "cpu"
+}

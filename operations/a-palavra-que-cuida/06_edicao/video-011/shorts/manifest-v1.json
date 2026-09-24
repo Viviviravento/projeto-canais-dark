@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "source_video": "video-011",
+  "method": "Narracao canonica e imagens aprovadas; recomposicao vertical manual em cover, legendas sincronizadas e render local.",
+  "rendered_editorial_derivatives": [
+    {
+      "derivative_id": "video-011-curto-01",
+      "title": "Voltar não é fingir que nada aconteceu",
+      "hook": "Perdão não é devolver todas as chaves no mesmo dia.",
+      "source_windows": [
+        {
+          "start": 280.285,
+          "end": 349.665
+        }
+      ],
+      "spoken_duration_seconds": 69.38,
+      "total_duration_seconds": 72.38,
+      "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/video-011-short-01-shorts-e-tiktok-v1.mp4",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-011/shorts/props/video-011-curto-01-shorts-e-tiktok.json",
+      "qa": {
+        "dimensions": "1080x1920",
+        "video_codec": "h264",
+        "duration": 72.4
+      },
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    },
+    {
+      "derivative_id": "video-011-curto-02",
+      "title": "Quem ficou também tem uma dor",
+      "hook": "E se você não foi quem foi embora?",
+      "source_windows": [
+        {
+          "start": 391.655,
+          "end": 465.298
+        }
+      ],
+      "spoken_duration_seconds": 73.643,
+      "total_duration_seconds": 76.643,
+      "file": "operations/a-palavra-que-cuida/07_exports/shorts-aprovados/video-011-short-02-shorts-e-tiktok-v1.mp4",
+      "props": "operations/a-palavra-que-cuida/06_edicao/video-011/shorts/props/video-011-curto-02-shorts-e-tiktok.json",
+      "qa": {
+        "dimensions": "1080x1920",
+        "video_codec": "h264",
+        "duration": 76.6
+      },
+      "platforms": [
+        "youtube_shorts",
+        "tiktok"
+      ],
+      "paid_api_cost_usd": 0
+    }
+  ],
+  "editorial_derivative_count": 2,
+  "physical_mp4_target_count": 2,
+  "paid_api_cost_usd": 0
+}
