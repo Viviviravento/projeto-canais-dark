@@ -1,0 +1,285 @@
+{
+  "schema": "VisualSemanticAudit.v1",
+  "artifact": "CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V4.mp4",
+  "result": "pass_pending_human_visual_review",
+  "checks": [
+    {
+      "block_id": "CW-OPENING-001",
+      "episode_interval_seconds": [
+        0.0,
+        13.033
+      ],
+      "what_is_said": "última chegada conhecida",
+      "what_is_shown": [
+        "doorbell",
+        "doorbell"
+      ],
+      "why_it_matches": "a própria câmera de campainha registra a chegada",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-BRIDGE-001",
+      "episode_interval_seconds": [
+        13.033,
+        62.149
+      ],
+      "what_is_said": "a amiga percebe a ausência e a situação vira verificação de bem-estar",
+      "what_is_shown": [
+        "bodycam",
+        "bodycam",
+        "bodycam",
+        "bodycam",
+        "bodycam"
+      ],
+      "why_it_matches": "bodycam mostra o exterior da residência e a presença policial no local",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-BRIDGE-002",
+      "episode_interval_seconds": [
+        62.149,
+        106.985
+      ],
+      "what_is_said": "entrevista pública e versão inicial de Chris",
+      "what_is_shown": [
+        "interview",
+        "interview",
+        "interview",
+        "interview"
+      ],
+      "why_it_matches": "a entrevista gravada no próprio dia mostra o homem que está dando essa versão diante da residência",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-BRIDGE-003",
+      "episode_interval_seconds": [
+        106.985,
+        150.372
+      ],
+      "what_is_said": "os agentes vão ao vizinho para verificar o alcance da câmera",
+      "what_is_shown": [
+        "neighbor",
+        "neighbor",
+        "neighbor",
+        "neighbor"
+      ],
+      "why_it_matches": "o registro doméstico mostra os agentes e o vizinho diante da televisão que exibe a própria câmera",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-DIALOGUE-NEIGHBOR-001",
+      "episode_interval_seconds": [
+        150.372,
+        190.672
+      ],
+      "what_is_said": "o vizinho explica o campo que a câmera cobre",
+      "what_is_shown": [
+        "neighbor"
+      ],
+      "why_it_matches": "áudio original, tela e gestos da conversa são a própria evidência",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-BRIDGE-004",
+      "episode_interval_seconds": [
+        190.672,
+        235.551
+      ],
+      "what_is_said": "o limite da câmera e a necessidade de comparar evidências",
+      "what_is_shown": [
+        "neighbor",
+        "neighbor",
+        "neighbor",
+        "neighbor"
+      ],
+      "why_it_matches": "a tela da câmera e o ponto indicado pelos homens mostram justamente o alcance que está sendo explicado",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-BRIDGE-005",
+      "episode_interval_seconds": [
+        235.551,
+        284.732
+      ],
+      "what_is_said": "os apelos públicos de Chris e o valor documental da entrevista",
+      "what_is_shown": [
+        "interview",
+        "interview",
+        "interview",
+        "interview",
+        "interview"
+      ],
+      "why_it_matches": "o arquivo da entrevista corresponde diretamente à fala pública que está sendo contextualizada",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-BRIDGE-006",
+      "episode_interval_seconds": [
+        284.732,
+        332.854
+      ],
+      "what_is_said": "a busca policial ganha escala e a residência passa a ser examinada",
+      "what_is_shown": [
+        "bodycam",
+        "bodycam",
+        "bodycam",
+        "bodycam",
+        "bodycam"
+      ],
+      "why_it_matches": "bodycam mostra entrada, cômodos e a busca real na casa",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-BRIDGE-007",
+      "episode_interval_seconds": [
+        332.854,
+        378.101
+      ],
+      "what_is_said": "cronologia, lacunas e comparação de registros",
+      "what_is_shown": [
+        "bodycam",
+        "bodycam",
+        "bodycam",
+        "bodycam"
+      ],
+      "why_it_matches": "a busca percorre objetos e espaços; cada plano reforça a preservação do cenário e dos detalhes",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-BRIDGE-008",
+      "episode_interval_seconds": [
+        378.101,
+        426.418
+      ],
+      "what_is_said": "entrevistas e registros passam a ser confrontados ao longo dos dias",
+      "what_is_shown": [
+        "interview",
+        "interview",
+        "interview",
+        "interview",
+        "interview"
+      ],
+      "why_it_matches": "a entrevista preservada oferece o registro público que depois pode ser comparado à cronologia",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-BRIDGE-009",
+      "episode_interval_seconds": [
+        426.418,
+        474.302
+      ],
+      "what_is_said": "desfecho judicial e diferença entre o que se sabia no primeiro dia e depois",
+      "what_is_shown": [
+        "bodycam",
+        "bodycam",
+        "bodycam",
+        "bodycam"
+      ],
+      "why_it_matches": "exterior e interior da residência retomam o cenário factual sem atribuir ao rosto uma prova que a imagem não contém",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-BRIDGE-010",
+      "episode_interval_seconds": [
+        474.302,
+        520.196
+      ],
+      "what_is_said": "como registros distintos se tornam uma reconstrução",
+      "what_is_shown": [
+        "bodycam",
+        "interview",
+        "neighbor",
+        "bodycam"
+      ],
+      "why_it_matches": "montagem de casa, entrevista e câmera do vizinho conecta os três tipos de registro citados",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-EPILOGUE-001",
+      "episode_interval_seconds": [
+        520.196,
+        550.523
+      ],
+      "what_is_said": "chegada, alerta, câmera e método de comparação",
+      "what_is_shown": [
+        "bodycam",
+        "interview",
+        "neighbor"
+      ],
+      "why_it_matches": "cada ideia recebe sua fonte: casa/bodycam, entrevista, câmera do vizinho e busca",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-EPILOGUE-002",
+      "episode_interval_seconds": [
+        550.523,
+        577.542
+      ],
+      "what_is_said": "registro situado no tempo e confrontado com fatos",
+      "what_is_shown": [
+        "bodycam",
+        "bodycam",
+        "interview"
+      ],
+      "why_it_matches": "os planos percorrem o local e os registros efetivamente comparados na investigação",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-EPILOGUE-003",
+      "episode_interval_seconds": [
+        577.542,
+        588.583
+      ],
+      "what_is_said": "detalhes comuns que se tornam decisivos",
+      "what_is_shown": [
+        "neighbor"
+      ],
+      "why_it_matches": "a câmera do vizinho representa o detalhe cotidiano que passa a ser evidência",
+      "result": "pass"
+    },
+    {
+      "block_id": "CW-OUTRO-001",
+      "episode_interval_seconds": [
+        588.583,
+        605.461
+      ],
+      "what_is_said": "fechamento e convite ao próximo episódio",
+      "what_is_shown": [
+        "doorbell"
+      ],
+      "why_it_matches": "a câmera de campainha retorna apenas como moldura final do episódio",
+      "result": "pass"
+    }
+  ],
+  "errors": [],
+  "comparison": {
+    "recovered_from_previous_versions": [
+      "abertura e encerramento pela câmera da porta do preview/V9",
+      "bodycam limpa da chegada e da busca, já identificada no preview inicial",
+      "entrevista Denver7 para a versão pública, prevista no V1/V2",
+      "diálogo do vizinho com legenda por turno do V9"
+    ],
+    "removed_v3_regression": "a sala do vizinho deixa de sustentar blocos sobre a amiga, entrevista pública, busca e desfecho judicial"
+  },
+  "manual_inspection": {
+    "contact_sheet": "qa-visual-contact-sheet-v4.jpg",
+    "sampled_episode_seconds": [
+      20,
+      60,
+      85,
+      125,
+      170,
+      210,
+      250,
+      300,
+      345,
+      400,
+      450,
+      500,
+      540,
+      580,
+      600
+    ],
+    "status": "reviewed_by_editor_before_handoff"
+  }
+}

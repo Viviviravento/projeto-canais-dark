@@ -1,0 +1,494 @@
+{
+  "schema": "NarrationVisualTimeline.v1",
+  "artifact": "CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V4.mp4",
+  "blocks": [
+    {
+      "block_id": "CW-OPENING-001",
+      "narrative_focus": "última chegada conhecida",
+      "visual_reason": "a própria câmera de campainha registra a chegada",
+      "narration_seconds": 11.831,
+      "segment_seconds": 13.031,
+      "units": [
+        {
+          "source": "doorbell",
+          "source_start_seconds": 0,
+          "duration_seconds": 13.0
+        },
+        {
+          "source": "doorbell",
+          "source_start_seconds": 13.0,
+          "duration_seconds": 0.031,
+          "purpose": "respiro máximo de 1,25s após a fala"
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 0.0,
+      "episode_end_seconds": 13.033
+    },
+    {
+      "block_id": "CW-BRIDGE-001",
+      "narrative_focus": "a amiga percebe a ausência e a situação vira verificação de bem-estar",
+      "visual_reason": "bodycam mostra o exterior da residência e a presença policial no local",
+      "narration_seconds": 47.916,
+      "segment_seconds": 49.116,
+      "units": [
+        {
+          "source": "bodycam",
+          "source_start_seconds": 88,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 108,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 135,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 160,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 172.0,
+          "duration_seconds": 1.116,
+          "purpose": "respiro máximo de 1,25s após a fala"
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 13.033,
+      "episode_end_seconds": 62.149
+    },
+    {
+      "block_id": "CW-BRIDGE-002",
+      "narrative_focus": "entrevista pública e versão inicial de Chris",
+      "visual_reason": "a entrevista gravada no próprio dia mostra o homem que está dando essa versão diante da residência",
+      "narration_seconds": 43.636,
+      "segment_seconds": 44.836,
+      "units": [
+        {
+          "source": "interview",
+          "source_start_seconds": 5,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 31,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 47,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 64,
+          "duration_seconds": 8.836
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 62.149,
+      "episode_end_seconds": 106.985
+    },
+    {
+      "block_id": "CW-BRIDGE-003",
+      "narrative_focus": "os agentes vão ao vizinho para verificar o alcance da câmera",
+      "visual_reason": "o registro doméstico mostra os agentes e o vizinho diante da televisão que exibe a própria câmera",
+      "narration_seconds": 42.187,
+      "segment_seconds": 43.387,
+      "units": [
+        {
+          "source": "neighbor",
+          "source_start_seconds": 180,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "neighbor",
+          "source_start_seconds": 192,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "neighbor",
+          "source_start_seconds": 204,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "neighbor",
+          "source_start_seconds": 216,
+          "duration_seconds": 7.387
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 106.985,
+      "episode_end_seconds": 150.372
+    },
+    {
+      "block_id": "CW-DIALOGUE-NEIGHBOR-001",
+      "narrative_focus": "o vizinho explica o campo que a câmera cobre",
+      "visual_reason": "áudio original, tela e gestos da conversa são a própria evidência",
+      "segment_seconds": 40.25,
+      "units": [
+        {
+          "source": "neighbor",
+          "source_start_seconds": 180,
+          "duration_seconds": 40.25
+        }
+      ],
+      "narration_source": "none; original dialogue has priority",
+      "source_audio": "audible_with_ptbr_turn_captions",
+      "captioned_turns": 15,
+      "episode_start_seconds": 150.372,
+      "episode_end_seconds": 190.672
+    },
+    {
+      "block_id": "CW-BRIDGE-004",
+      "narrative_focus": "o limite da câmera e a necessidade de comparar evidências",
+      "visual_reason": "a tela da câmera e o ponto indicado pelos homens mostram justamente o alcance que está sendo explicado",
+      "narration_seconds": 43.679,
+      "segment_seconds": 44.879,
+      "units": [
+        {
+          "source": "neighbor",
+          "source_start_seconds": 220,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "neighbor",
+          "source_start_seconds": 234,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "neighbor",
+          "source_start_seconds": 250,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "neighbor",
+          "source_start_seconds": 266,
+          "duration_seconds": 8.879
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 190.672,
+      "episode_end_seconds": 235.551
+    },
+    {
+      "block_id": "CW-BRIDGE-005",
+      "narrative_focus": "os apelos públicos de Chris e o valor documental da entrevista",
+      "visual_reason": "o arquivo da entrevista corresponde diretamente à fala pública que está sendo contextualizada",
+      "narration_seconds": 47.981,
+      "segment_seconds": 49.181,
+      "units": [
+        {
+          "source": "interview",
+          "source_start_seconds": 124,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 145,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 170,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 202,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 214.0,
+          "duration_seconds": 1.181,
+          "purpose": "respiro máximo de 1,25s após a fala"
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 235.551,
+      "episode_end_seconds": 284.732
+    },
+    {
+      "block_id": "CW-BRIDGE-006",
+      "narrative_focus": "a busca policial ganha escala e a residência passa a ser examinada",
+      "visual_reason": "bodycam mostra entrada, cômodos e a busca real na casa",
+      "narration_seconds": 46.922,
+      "segment_seconds": 48.122,
+      "units": [
+        {
+          "source": "bodycam",
+          "source_start_seconds": 180,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 218,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 236,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 264,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 276.0,
+          "duration_seconds": 0.122,
+          "purpose": "respiro máximo de 1,25s após a fala"
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 284.732,
+      "episode_end_seconds": 332.854
+    },
+    {
+      "block_id": "CW-BRIDGE-007",
+      "narrative_focus": "cronologia, lacunas e comparação de registros",
+      "visual_reason": "a busca percorre objetos e espaços; cada plano reforça a preservação do cenário e dos detalhes",
+      "narration_seconds": 44.047,
+      "segment_seconds": 45.247,
+      "units": [
+        {
+          "source": "bodycam",
+          "source_start_seconds": 280,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 306,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 338,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 370,
+          "duration_seconds": 9.247
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 332.854,
+      "episode_end_seconds": 378.101
+    },
+    {
+      "block_id": "CW-BRIDGE-008",
+      "narrative_focus": "entrevistas e registros passam a ser confrontados ao longo dos dias",
+      "visual_reason": "a entrevista preservada oferece o registro público que depois pode ser comparado à cronologia",
+      "narration_seconds": 47.117,
+      "segment_seconds": 48.317,
+      "units": [
+        {
+          "source": "interview",
+          "source_start_seconds": 250,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 274,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 300,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 325,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 337.0,
+          "duration_seconds": 0.317,
+          "purpose": "respiro máximo de 1,25s após a fala"
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 378.101,
+      "episode_end_seconds": 426.418
+    },
+    {
+      "block_id": "CW-BRIDGE-009",
+      "narrative_focus": "desfecho judicial e diferença entre o que se sabia no primeiro dia e depois",
+      "visual_reason": "exterior e interior da residência retomam o cenário factual sem atribuir ao rosto uma prova que a imagem não contém",
+      "narration_seconds": 46.684,
+      "segment_seconds": 47.884,
+      "units": [
+        {
+          "source": "bodycam",
+          "source_start_seconds": 108,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 150,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 218,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 390,
+          "duration_seconds": 11.884
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 426.418,
+      "episode_end_seconds": 474.302
+    },
+    {
+      "block_id": "CW-BRIDGE-010",
+      "narrative_focus": "como registros distintos se tornam uma reconstrução",
+      "visual_reason": "montagem de casa, entrevista e câmera do vizinho conecta os três tipos de registro citados",
+      "narration_seconds": 44.694,
+      "segment_seconds": 45.894,
+      "units": [
+        {
+          "source": "bodycam",
+          "source_start_seconds": 218,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 354,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "neighbor",
+          "source_start_seconds": 290,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 410,
+          "duration_seconds": 9.894
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 474.302,
+      "episode_end_seconds": 520.196
+    },
+    {
+      "block_id": "CW-EPILOGUE-001",
+      "narrative_focus": "chegada, alerta, câmera e método de comparação",
+      "visual_reason": "cada ideia recebe sua fonte: casa/bodycam, entrevista, câmera do vizinho e busca",
+      "narration_seconds": 29.127,
+      "segment_seconds": 30.327,
+      "units": [
+        {
+          "source": "bodycam",
+          "source_start_seconds": 122,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 90,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "neighbor",
+          "source_start_seconds": 310,
+          "duration_seconds": 6.327
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 520.196,
+      "episode_end_seconds": 550.523
+    },
+    {
+      "block_id": "CW-EPILOGUE-002",
+      "narrative_focus": "registro situado no tempo e confrontado com fatos",
+      "visual_reason": "os planos percorrem o local e os registros efetivamente comparados na investigação",
+      "narration_seconds": 25.819,
+      "segment_seconds": 27.019,
+      "units": [
+        {
+          "source": "bodycam",
+          "source_start_seconds": 130,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 248,
+          "duration_seconds": 12.0
+        },
+        {
+          "source": "interview",
+          "source_start_seconds": 370,
+          "duration_seconds": 3.019
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 550.523,
+      "episode_end_seconds": 577.542
+    },
+    {
+      "block_id": "CW-EPILOGUE-003",
+      "narrative_focus": "detalhes comuns que se tornam decisivos",
+      "visual_reason": "a câmera do vizinho representa o detalhe cotidiano que passa a ser evidência",
+      "narration_seconds": 9.841,
+      "segment_seconds": 11.041,
+      "units": [
+        {
+          "source": "neighbor",
+          "source_start_seconds": 345,
+          "duration_seconds": 11.041
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 577.542,
+      "episode_end_seconds": 588.583
+    },
+    {
+      "block_id": "CW-OUTRO-001",
+      "narrative_focus": "fechamento e convite ao próximo episódio",
+      "visual_reason": "a câmera de campainha retorna apenas como moldura final do episódio",
+      "narration_seconds": 15.678,
+      "segment_seconds": 16.878,
+      "units": [
+        {
+          "source": "doorbell",
+          "source_start_seconds": 0,
+          "duration_seconds": 16.878
+        }
+      ],
+      "narration_source": "firewall_whitelist_only",
+      "source_audio": "muted_under_narration",
+      "episode_start_seconds": 588.583,
+      "episode_end_seconds": 605.461
+    }
+  ]
+}
