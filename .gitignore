@@ -54,3 +54,7 @@ __pycache__/
 *.swp
 Thumbs.db
 Desktop.ini
+
+# Ephemeral assembly directories for the internal Chris Watts V5 render.
+/output/concept-previews/brasil-registrado/chris-watts-v1/full-v5/work-v5-render/
+/output/concept-previews/brasil-registrado/chris-watts-v1/full-v5/duration-extension-work/

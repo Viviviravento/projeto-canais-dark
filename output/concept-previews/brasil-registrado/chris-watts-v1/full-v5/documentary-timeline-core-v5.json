@@ -1,0 +1,611 @@
+{
+  "schema": "DocumentaryTimeline.v1",
+  "artifact": "CHRIS-WATTS-EPISODIO-COMPLETO-INTERNO-V5-BASE-8M39.mp4",
+  "blocks": [
+    {
+      "id": "CW5-OPEN",
+      "role": "narration",
+      "narrative_focus": "última chegada",
+      "why_it_matters": "A campainha registra o último marco visual conhecido.",
+      "visual_reason": "registro de campainha",
+      "source_audio": "muted_broll",
+      "narration_seconds": 11.831,
+      "segment_seconds": 12.581,
+      "units": [
+        {
+          "source": "doorbell",
+          "source_start_seconds": 0,
+          "duration_seconds": 12.581
+        }
+      ],
+      "whitelist_text_ids": [
+        "CW-OPENING-001"
+      ],
+      "episode_start_seconds": 0,
+      "episode_end_seconds": 12.581
+    },
+    {
+      "id": "CW5-BODYCAM-CONSENT",
+      "role": "documentary_dialogue",
+      "source": "bodycam",
+      "narrative_focus": "a primeira busca",
+      "why_it_matters": "A bodycam registra o pedido de consentimento, não uma reconstituição.",
+      "visual_reason": "A bodycam registra o pedido de consentimento, não uma reconstituição.",
+      "source_audio": "audible",
+      "narration_over_dialogue": false,
+      "captions": [
+        {
+          "start": 0.0,
+          "end": 6.25,
+          "pt_br": "Policial: Certo. Se estiver de acordo, vamos pedir que você assine um termo autorizando a busca na casa."
+        },
+        {
+          "start": 6.260000000000005,
+          "end": 10.130000000000003,
+          "pt_br": "Policial: Vamos aguardar nosso sargento chegar."
+        },
+        {
+          "start": 10.14,
+          "end": 14.170000000000002,
+          "pt_br": "Chris Watts: Eu ia apenas caminhar pelo bairro para espairecer."
+        }
+      ],
+      "source_start_seconds": 30.83,
+      "segment_seconds": 14.17,
+      "episode_start_seconds": 12.581,
+      "episode_end_seconds": 26.767
+    },
+    {
+      "id": "CW5-ALERT",
+      "role": "narration",
+      "narrative_focus": "a amiga percebe a ausência",
+      "why_it_matters": "A bodycam mostra a residência e o início da verificação.",
+      "visual_reason": "exterior da casa e policiais",
+      "source_audio": "muted_broll",
+      "narration_seconds": 21.171,
+      "segment_seconds": 21.921,
+      "units": [
+        {
+          "source": "bodycam",
+          "source_start_seconds": 88,
+          "duration_seconds": 10
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 108,
+          "duration_seconds": 10
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 135,
+          "duration_seconds": 1.921
+        }
+      ],
+      "whitelist_text_ids": [
+        "CW-BRIDGE-001"
+      ],
+      "episode_start_seconds": 26.767,
+      "episode_end_seconds": 48.688
+    },
+    {
+      "id": "CW5-INTERVIEW-TIMELINE",
+      "role": "documentary_dialogue",
+      "source": "interview",
+      "narrative_focus": "versão inicial e Nicole",
+      "why_it_matters": "A entrevista fixa a linha do tempo pública que seria comparada a outros registros.",
+      "visual_reason": "A entrevista fixa a linha do tempo pública que seria comparada a outros registros.",
+      "source_audio": "audible",
+      "narration_over_dialogue": false,
+      "captions": [
+        {
+          "start": 0.0,
+          "end": 3.900000000000002,
+          "pt_br": "Repórter: O que aconteceu? Conte o que aconteceu."
+        },
+        {
+          "start": 4.279999999999998,
+          "end": 10.540000000000003,
+          "pt_br": "Chris Watts: Ela voltou do aeroporto às duas da manhã. Eu saí por volta de 5h15; ela ainda estava aqui."
+        },
+        {
+          "start": 12.3,
+          "end": 16.540000000000003,
+          "pt_br": "Chris Watts: Por volta de 12h10, a amiga Nicole chegou à porta."
+        },
+        {
+          "start": 17.06,
+          "end": 24.179999999999996,
+          "pt_br": "Chris Watts: Mandei mensagens e liguei algumas vezes. Ela não respondeu; também não respondia às outras pessoas."
+        },
+        {
+          "start": 24.84,
+          "end": 33.25999999999999,
+          "pt_br": "Chris Watts: Foi isso que preocupou muita gente. Se ela não responde a mim, pode estar ocupada; mas não responder a ninguém era preocupante."
+        },
+        {
+          "start": 33.66,
+          "end": 46.44,
+          "pt_br": "Chris Watts: Nicole ligou quando estava na porta. Voltei para casa. Ela não estava aqui. As crianças também não. Não havia ninguém."
+        }
+      ],
+      "source_start_seconds": 30.98,
+      "segment_seconds": 46.44,
+      "episode_start_seconds": 48.688,
+      "episode_end_seconds": 95.13
+    },
+    {
+      "id": "CW5-COMPARE",
+      "role": "narration",
+      "narrative_focus": "horários passam a ser comparáveis",
+      "why_it_matters": "A busca real ancora o contexto após a entrevista.",
+      "visual_reason": "bodycam na residência",
+      "source_audio": "muted_broll",
+      "narration_seconds": 18.339,
+      "segment_seconds": 19.089,
+      "units": [
+        {
+          "source": "bodycam",
+          "source_start_seconds": 135,
+          "duration_seconds": 12
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 160,
+          "duration_seconds": 7.089
+        }
+      ],
+      "whitelist_text_ids": [
+        "CW-BRIDGE-002"
+      ],
+      "episode_start_seconds": 95.13,
+      "episode_end_seconds": 114.219
+    },
+    {
+      "id": "CW5-NEIGHBOR-CONTEXT",
+      "role": "narration",
+      "narrative_focus": "agentes vão ao vizinho",
+      "why_it_matters": "A entrada na sala prepara o registro que será ouvido.",
+      "visual_reason": "agentes diante da TV",
+      "source_audio": "muted_broll",
+      "narration_seconds": 18.079,
+      "segment_seconds": 18.829,
+      "units": [
+        {
+          "source": "neighbor_tv",
+          "source_start_seconds": 170,
+          "duration_seconds": 14
+        },
+        {
+          "source": "neighbor_tv",
+          "source_start_seconds": 176,
+          "duration_seconds": 4.829
+        }
+      ],
+      "whitelist_text_ids": [
+        "CW-BRIDGE-003"
+      ],
+      "episode_start_seconds": 114.219,
+      "episode_end_seconds": 133.052
+    },
+    {
+      "id": "CW5-NEIGHBOR-TV",
+      "role": "documentary_dialogue",
+      "source": "neighbor_tv",
+      "narrative_focus": "alcance da câmera do vizinho",
+      "why_it_matters": "A televisão é a evidência que todos observam; V5 não aplica blur nem delogo.",
+      "visual_reason": "A televisão é a evidência que todos observam; V5 não aplica blur nem delogo.",
+      "source_audio": "audible",
+      "narration_over_dialogue": false,
+      "captions": [
+        {
+          "start": 1.9399999999999977,
+          "end": 4.659999999999997,
+          "pt_br": "A câmera mostra este carro começando a descer a rua."
+        },
+        {
+          "start": 4.6200000000000045,
+          "end": 5.180000000000007,
+          "pt_br": "Aquele ali."
+        },
+        {
+          "start": 7.099999999999994,
+          "end": 7.9199999999999875,
+          "pt_br": "Entende o que eu quero dizer?"
+        },
+        {
+          "start": 7.9199999999999875,
+          "end": 9.439999999999998,
+          "pt_br": "Ela alcança até lá embaixo."
+        },
+        {
+          "start": 9.580000000000013,
+          "end": 10.120000000000005,
+          "pt_br": "Legal."
+        },
+        {
+          "start": 10.360000000000014,
+          "end": 11.460000000000008,
+          "pt_br": "Ele mora ali ao lado."
+        },
+        {
+          "start": 12.52000000000001,
+          "end": 13.080000000000013,
+          "pt_br": "Podemos ir?"
+        },
+        {
+          "start": 14.560000000000002,
+          "end": 15.900000000000006,
+          "pt_br": "Eu estava falando dessa pressão."
+        },
+        {
+          "start": 17.439999999999998,
+          "end": 18.560000000000002,
+          "pt_br": "Vai ficar perto de quatro."
+        },
+        {
+          "start": 18.659999999999997,
+          "end": 20.819999999999993,
+          "pt_br": "Sim, ela pega carros vindo por aqui."
+        },
+        {
+          "start": 20.74000000000001,
+          "end": 23.120000000000005,
+          "pt_br": "Eu registro o que vem por aqui quando faz a curva."
+        },
+        {
+          "start": 24.19999999999999,
+          "end": 27.539999999999992,
+          "pt_br": "À noite, geralmente eu percebo o carro fazendo a curva."
+        },
+        {
+          "start": 28.180000000000007,
+          "end": 29.97999999999999,
+          "pt_br": "Então, a menos que ela pare bem aqui,"
+        },
+        {
+          "start": 29.97999999999999,
+          "end": 33.19999999999999,
+          "pt_br": "eu teria visto se ela tivesse saído a pé."
+        },
+        {
+          "start": 39.31999999999999,
+          "end": 40.19999999999999,
+          "pt_br": "Diesel."
+        }
+      ],
+      "source_start_seconds": 180.0,
+      "segment_seconds": 40.25,
+      "episode_start_seconds": 133.052,
+      "episode_end_seconds": 173.319
+    },
+    {
+      "id": "CW5-EVIDENCE",
+      "role": "narration",
+      "narrative_focus": "limites e valor da câmera",
+      "why_it_matters": "A própria TV continua a evidência enquanto o narrador interpreta.",
+      "visual_reason": "registro da TV sem blur",
+      "source_audio": "muted_broll",
+      "narration_seconds": 19.701,
+      "segment_seconds": 20.451,
+      "units": [
+        {
+          "source": "neighbor_tv",
+          "source_start_seconds": 220.5,
+          "duration_seconds": 12
+        },
+        {
+          "source": "neighbor_tv",
+          "source_start_seconds": 238,
+          "duration_seconds": 8.451
+        }
+      ],
+      "whitelist_text_ids": [
+        "CW-BRIDGE-004"
+      ],
+      "episode_start_seconds": 173.319,
+      "episode_end_seconds": 193.77
+    },
+    {
+      "id": "CW5-INTERVIEW-APPEAL",
+      "role": "documentary_dialogue",
+      "source": "interview",
+      "narrative_focus": "apelo público",
+      "why_it_matters": "A fala pública deve ser ouvida, não narrada por cima.",
+      "visual_reason": "A fala pública deve ser ouvida, não narrada por cima.",
+      "source_audio": "audible",
+      "narration_over_dialogue": false,
+      "captions": [
+        {
+          "start": 0.0,
+          "end": 1.539999999999992,
+          "pt_br": "Repórter: Você acha que ela simplesmente foi embora?"
+        },
+        {
+          "start": 2.4200000000000017,
+          "end": 10.420000000000002,
+          "pt_br": "Chris Watts: Neste momento, eu não quero especular. Espero que ela esteja em algum lugar seguro com as crianças."
+        },
+        {
+          "start": 15.079999999999998,
+          "end": 21.159999999999982,
+          "pt_br": "Chris Watts: Mas, se alguém está com elas e elas não estão seguras, eu quero que voltem agora. É isso que passa pela minha cabeça."
+        },
+        {
+          "start": 25.260000000000005,
+          "end": 39.27999999999999,
+          "pt_br": "Chris Watts: Se elas estiverem seguras, vão voltar. Se não estiverem, é essa falta de saber que pesa. Deixei todas as luzes acesas, esperando que as crianças entrassem pela porta. Isso não aconteceu."
+        }
+      ],
+      "source_start_seconds": 124.73,
+      "segment_seconds": 39.28,
+      "episode_start_seconds": 193.77,
+      "episode_end_seconds": 233.066
+    },
+    {
+      "id": "CW5-SEARCH",
+      "role": "narration",
+      "narrative_focus": "busca e confronto de versões",
+      "why_it_matters": "Entrada e cômodos pertencem à busca descrita.",
+      "visual_reason": "bodycam limpa da busca",
+      "source_audio": "muted_broll",
+      "narration_seconds": 40.739,
+      "segment_seconds": 41.489,
+      "units": [
+        {
+          "source": "bodycam",
+          "source_start_seconds": 218,
+          "duration_seconds": 12
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 236,
+          "duration_seconds": 12
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 248,
+          "duration_seconds": 12
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 264,
+          "duration_seconds": 5.489
+        }
+      ],
+      "whitelist_text_ids": [
+        "CW-BRIDGE-005",
+        "CW-BRIDGE-006"
+      ],
+      "episode_start_seconds": 233.066,
+      "episode_end_seconds": 274.555
+    },
+    {
+      "id": "CW5-INTERVIEW-ARGUMENT",
+      "role": "documentary_dialogue",
+      "source": "interview",
+      "narrative_focus": "conversa emocional",
+      "why_it_matters": "A pergunta registra o que ele disse antes do desfecho judicial.",
+      "visual_reason": "A pergunta registra o que ele disse antes do desfecho judicial.",
+      "source_audio": "audible",
+      "narration_over_dialogue": false,
+      "captions": [
+        {
+          "start": 0.0,
+          "end": 4.819999999999993,
+          "pt_br": "Repórter: Esta pode ser uma pergunta difícil: vocês discutiram antes?"
+        },
+        {
+          "start": 5.480000000000018,
+          "end": 11.639999999999986,
+          "pt_br": "Chris Watts: Não foi exatamente uma discussão. Tivemos uma conversa emocional, mas vou deixar por isso mesmo."
+        },
+        {
+          "start": 11.639999999999986,
+          "end": 27.900000000000034,
+          "pt_br": "Chris Watts: Eu só quero que elas voltem. Se não estiverem seguras, isso está me destruindo. Alguém precisa aparecer e falar."
+        },
+        {
+          "start": 28.560000000000002,
+          "end": 29.5,
+          "pt_br": "Repórter: A família está em contato com você?"
+        }
+      ],
+      "source_start_seconds": 286.01,
+      "segment_seconds": 29.5,
+      "episode_start_seconds": 274.555,
+      "episode_end_seconds": 304.059
+    },
+    {
+      "id": "CW5-CHRONOLOGY",
+      "role": "narration",
+      "narrative_focus": "cronologia e ampliação",
+      "why_it_matters": "A busca preserva os espaços enquanto a narração conecta cronologia e evidência.",
+      "visual_reason": "bodycam da investigação",
+      "source_audio": "muted_broll",
+      "narration_seconds": 39.7,
+      "segment_seconds": 40.45,
+      "units": [
+        {
+          "source": "bodycam",
+          "source_start_seconds": 280,
+          "duration_seconds": 12
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 306,
+          "duration_seconds": 12
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 338,
+          "duration_seconds": 12
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 370,
+          "duration_seconds": 4.45
+        }
+      ],
+      "whitelist_text_ids": [
+        "CW-BRIDGE-007",
+        "CW-BRIDGE-008"
+      ],
+      "episode_start_seconds": 304.059,
+      "episode_end_seconds": 344.526
+    },
+    {
+      "id": "CW5-INTERVIEW-CAMERAS",
+      "role": "documentary_dialogue",
+      "source": "interview",
+      "narrative_focus": "polícia, vizinhos e câmeras",
+      "why_it_matters": "A entrevista faz a ponte direta entre porta a porta e as câmeras que vimos.",
+      "visual_reason": "A entrevista faz a ponte direta entre porta a porta e as câmeras que vimos.",
+      "source_audio": "audible",
+      "narration_over_dialogue": false,
+      "captions": [
+        {
+          "start": 0.0,
+          "end": 8.879999999999995,
+          "pt_br": "Repórter: O que a polícia, o xerife ou os vizinhos estão dizendo?"
+        },
+        {
+          "start": 9.479999999999961,
+          "end": 38.77999999999997,
+          "pt_br": "Chris Watts: Eles trabalham com cães farejadores. Ontem, a polícia fez buscas na casa e reuniu informações. Há muita atividade ao redor, e espero que isso leve a algo positivo."
+        },
+        {
+          "start": 39.41999999999996,
+          "end": 43.539999999999964,
+          "pt_br": "Repórter: Os vizinhos viram alguma coisa?"
+        },
+        {
+          "start": 43.839999999999975,
+          "end": 51.02999999999997,
+          "pt_br": "Chris Watts: A polícia foi de porta em porta perguntando sobre câmeras e tudo mais. Até agora, nada."
+        }
+      ],
+      "source_start_seconds": 353.97,
+      "segment_seconds": 51.03,
+      "episode_start_seconds": 344.526,
+      "episode_end_seconds": 395.576
+    },
+    {
+      "id": "CW5-OUTCOME",
+      "role": "narration",
+      "narrative_focus": "desfecho e método",
+      "why_it_matters": "A casa e a rua retomam locais ligados aos registros comparados.",
+      "visual_reason": "bodycam do cenário",
+      "source_audio": "muted_broll",
+      "narration_seconds": 41.02,
+      "segment_seconds": 41.77,
+      "units": [
+        {
+          "source": "bodycam",
+          "source_start_seconds": 390,
+          "duration_seconds": 12
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 410,
+          "duration_seconds": 12
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 150,
+          "duration_seconds": 12
+        },
+        {
+          "source": "bodycam",
+          "source_start_seconds": 122,
+          "duration_seconds": 5.77
+        }
+      ],
+      "whitelist_text_ids": [
+        "CW-BRIDGE-009",
+        "CW-BRIDGE-010"
+      ],
+      "episode_start_seconds": 395.576,
+      "episode_end_seconds": 437.346
+    },
+    {
+      "id": "CW5-EPILOGUE",
+      "role": "narration",
+      "narrative_focus": "o que os registros preservaram",
+      "why_it_matters": "A sala do vizinho resume a transformação de um registro comum em evidência.",
+      "visual_reason": "TV e pessoas no local",
+      "source_audio": "muted_broll",
+      "narration_seconds": 64.631,
+      "segment_seconds": 65.381,
+      "units": [
+        {
+          "source": "neighbor_tv",
+          "source_start_seconds": 240,
+          "duration_seconds": 12
+        },
+        {
+          "source": "neighbor_tv",
+          "source_start_seconds": 260,
+          "duration_seconds": 12
+        },
+        {
+          "source": "neighbor_tv",
+          "source_start_seconds": 280,
+          "duration_seconds": 12
+        },
+        {
+          "source": "neighbor_tv",
+          "source_start_seconds": 300,
+          "duration_seconds": 12
+        },
+        {
+          "source": "neighbor_tv",
+          "source_start_seconds": 320,
+          "duration_seconds": 12
+        },
+        {
+          "source": "neighbor_tv",
+          "source_start_seconds": 340,
+          "duration_seconds": 5.381
+        }
+      ],
+      "whitelist_text_ids": [
+        "CW-EPILOGUE-001",
+        "CW-EPILOGUE-002",
+        "CW-EPILOGUE-003"
+      ],
+      "episode_start_seconds": 437.346,
+      "episode_end_seconds": 502.727
+    },
+    {
+      "id": "CW5-OUTRO",
+      "role": "narration",
+      "narrative_focus": "fechamento",
+      "why_it_matters": "A campainha é moldura, apenas primeira e última cena.",
+      "visual_reason": "registro de campainha",
+      "source_audio": "muted_broll",
+      "narration_seconds": 15.678,
+      "segment_seconds": 16.428,
+      "units": [
+        {
+          "source": "doorbell",
+          "source_start_seconds": 0,
+          "duration_seconds": 16.428
+        }
+      ],
+      "whitelist_text_ids": [
+        "CW-OUTRO-001"
+      ],
+      "episode_start_seconds": 502.727,
+      "episode_end_seconds": 519.16
+    }
+  ],
+  "summary": {
+    "documentary_dialogue_blocks": 6,
+    "pt_br_caption_turns": 36,
+    "doorbell_blocks": [
+      "CW5-OPEN",
+      "CW5-OUTRO"
+    ],
+    "tv_artificial_blur": "none"
+  }
+}
